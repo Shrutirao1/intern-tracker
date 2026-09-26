@@ -40,7 +40,7 @@ jobs:
           MAX_COMPANIES_PER_RUN: "3000"
           MAX_WORKERS: "48"
           WORKDAY_CONCURRENCY: "4"      # Workday refuses too many requests at once
-          WORKDAY_PER_RUN: "100"        # rotate: each Workday company checked every ~20 min
+          WORKDAY_PER_RUN: "200"        # rotate: each Workday company checked every ~20 min
           WORKDAY_RETRIES: "2"          # give up quickly if Workday refuses; retry next run
         run: python job_tracker.py
 
