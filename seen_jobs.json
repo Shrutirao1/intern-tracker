@@ -1699,6 +1699,7 @@
 "m13",
 "nVent",
 "skillz",
+"src:hackernews",
 "src:simplify",
 "src:vansh",
 "tastytrade",
@@ -19179,6 +19180,62 @@
 "title": "Engineering Lab Co-Op (Jan - August 2027)",
 "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Lab-Internship--June---August-2027-_R23537"
 },
+"src:hackernews:49523558": {
+"company": "Stpkr Technologies",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788277486.0,
+"title": "Stpkr Technologies | Noida, India (Delhi NCR) | ONSITE | Multiple roles",
+"url": "https://news.ycombinator.com/item?id=49523558"
+},
+"src:hackernews:49525497": {
+"company": "Inferra",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788285684.0,
+"title": "Inferra | Bare-Metal GPU Infra + Applied AI | San Francisco / REMOTE | Full-time / internship",
+"url": "https://news.ycombinator.com/item?id=49525497"
+},
+"src:hackernews:49526742": {
+"company": "Uncountable",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788290504.0,
+"title": "Uncountable | NY, SF, London & Toronto (In-Person) | Full-Stack Engineering https://www.uncountable.com/hiring/hn",
+"url": "https://news.ycombinator.com/item?id=49526742"
+},
+"src:hackernews:49527118": {
+"company": "Puma.tech",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788292104.0,
+"title": "Puma.tech | Remote-first with PST overlap | iOS/MacOS, Android, Ai/ML, Growth | https://puma.tech",
+"url": "https://news.ycombinator.com/item?id=49527118"
+},
+"src:hackernews:49528002": {
+"company": "ChainSecurity",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788295717.0,
+"title": "ChainSecurity | Blockchain Security Engineer | Full-time | INTERNS , HYBRID/REMOTE, Zurich, Switzerland | VISA possible (for an employment) | https://",
+"url": "https://news.ycombinator.com/item?id=49528002"
+},
+"src:hackernews:49530873": {
+"company": "Hiring for several roles at StudyTurtle, an edutainment bran",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788314546.0,
+"title": "Hiring for several roles at StudyTurtle, an edutainment brand building learning videos for Education. Our small, passionate team creates animated show",
+"url": "https://news.ycombinator.com/item?id=49530873"
+},
+"src:hackernews:49533419": {
+"company": "Robotics and AI Institute",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788337614.0,
+"title": "Robotics and AI Institute | Software Engineering Intern | ONSITE (Z\u00fcrich, Switzerland) | Internship | No visa sponsorship",
+"url": "https://news.ycombinator.com/item?id=49533419"
+},
+"src:hackernews:49559434": {
+"company": "SwingVision is the AI tennis, pickleball, and padel app that",
+"first_seen": "2026-09-26T09:04:21+00:00",
+"posted": 1788485503.0,
+"title": "SwingVision is the AI tennis, pickleball, and padel app that provides automated stats, highlights, and line calling using just your phone. Our mission",
+"url": "https://news.ycombinator.com/item?id=49559434"
+},
 "src:simplify:00026218-6b9b-420f-a490-b3b29742cf17": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Analyst Intern - Summer 2027",
@@ -33730,6 +33787,7 @@
 "swbc|softwareengineeringintern": 1790379919.414332,
 "swift|sitereliabilityengineeringsreintern": 1790379919.414332,
 "swift|softwaresystemsengineerintern": 1790379919.414332,
+"swingvisionisaitennispickleballandpadelappthat|swingvisionistheaitennispickleballandpadelappthatprovidesautomatedstatshighlightsandlinecallingusingjustyourphoneourmission": 1790413571.4463298,
 "symbotic|cooprobotperception": 1790379919.414332,
 "symbotic|coopsoftwareengineer": 1790379919.414332,
 "symbotic|interndataengineer": 1790379919.414332,
@@ -34256,6 +34314,13 @@
 "https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530": "USA IRV-1472 Alton/DBC6-7; USA - Utah \u2013 Salt Lake City",
 "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690": "US FL JAX 347; US GA ATL 201 STE 900; US WI MKE 4900",
 "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512": "US FL JAX 347; US GA ATL 201 STE 900; US WI MKE 4900",
+"https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Development---Data-Science-Internship_2134404": "200 Seaport Blvd, Boston MA; Jersey City, NJ",
+"https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109": "200 Seaport Blvd, Boston MA; Merrimack, NH",
+"https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-Op--Data-Analyst_2135233": "Boston, MA; Westlake, TX",
+"https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229": "Boston, MA; Durham, NC",
+"https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2135230": "Boston, MA; Merrimack, NH",
+"https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236": "Boston, MA; Merrimack, NH",
+"https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361": "Boston, MA; 200 Seaport Blvd, Boston MA",
 "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712": "Hermitage, PA; Pittsburgh, PA",
 "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713": "Hermitage, PA; Pittsburgh, PA",
 "https://fnbcorp.wd501.myworkdayjobs.com/en-US/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714": "Hermitage, PA; Pittsburgh, PA",
@@ -34333,6 +34398,15 @@
 "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626": "Northbrook, Illinois; University Recruiting",
 "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378": "Northbrook, Illinois; University Recruiting",
 "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623": "Northbrook, Illinois; University Recruiting",
+"https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623": "Fridley, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Mounds View, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America",
+"https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630": "Fridley, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Mounds View, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America",
+"https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847": "Minneapolis, Minnesota, United States of America; Tempe, Arizona, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Newton, Massachusetts, United States of America; Memphis, Tennessee, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Fort Worth, Texas, United States of America; Santa Clara, California, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America",
+"https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309-2": "Minneapolis, Minnesota, United States of America; Tempe, Arizona, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Newton, Massachusetts, United States of America; Memphis, Tennessee, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Fort Worth, Texas, United States of America; Santa Clara, California, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America",
+"https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021": "Mounds View, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America",
+"https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686": "ATLANTA, GA, USA; Frisco, TX, USA",
+"https://nisource.wd1.myworkdayjobs.com/en-US/NiSource/job/Columbus-OH-Meter-Shop-Fisher/Intern-Design-Engineering_R00943321": "Columbus OH-Meter Shop Fisher; Middleburg Hgts OH-Office; Mansfield OH-Heartland Op Ctr; Toledo OH-Op Ctr Manhattan Blv; Cambridge OH-Mod Site",
+"https://nisource.wd1.myworkdayjobs.com/en-US/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449": "Merrillville IN-SLC; Columbus OH - Arena District",
+"https://nisource.wd1.myworkdayjobs.com/en-US/NiSource/job/Wheatfield-IN-RMSGS/Intern-Engineering-NIPSCO---Generation_R00943324": "Wheatfield IN-RMSGS; Michigan City IN-MCGS",
 "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Ohio---Westlake/ETS---Platform-Engineering-Intern_REQ52821": "USA - Ohio - Westlake; USA - Texas - Allen",
 "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469": "Boulder, CO; Remote Site",
 "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160": "Golden, CO; Remote",
