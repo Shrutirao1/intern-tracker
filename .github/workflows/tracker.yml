@@ -39,6 +39,7 @@ jobs:
           MAX_AGE_DAYS: "7"               # only alert for postings from the last 7 days
           MAX_COMPANIES_PER_RUN: "3000"
           MAX_WORKERS: "48"
+          WORKDAY_CONCURRENCY: "6"      # Workday refuses too many requests at once
         run: python job_tracker.py
 
       - name: Save seen jobs so we don't alert twice

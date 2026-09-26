@@ -53,8 +53,8 @@ KEYWORDS_FILE = BASE_DIR / "keywords.json"
 SEEN_FILE = BASE_DIR / "seen_jobs.json"
 SOURCES_FILE = BASE_DIR / "sources.json"
 
-NTFY_TOPIC = os.getenv("NTFY_TOPIC", "")
-NTFY_SERVER = os.getenv("NTFY_SERVER", "https://ntfy.sh")
+NTFY_TOPIC = os.getenv("NTFY_TOPIC", "").strip()   # .strip() removes stray spaces/Enter
+NTFY_SERVER = (os.getenv("NTFY_SERVER", "") or "https://ntfy.sh").strip().rstrip("/")
 CHECK_INTERVAL_MIN = int(os.getenv("CHECK_INTERVAL_MIN", "30"))
 STRICT_MODE = os.getenv("STRICT_MODE", "0") == "1"      # 1 = only postings that say 2027
 # LOCATION_FILTER: "hubs" = US tech hubs + US-remote (default), "any" = anywhere
@@ -270,16 +270,34 @@ def fetch_ashby(slug: str) -> list[dict]:
             for j in r.json().get("jobs", [])]
 
 
+WORKDAY_LIMIT = threading.Semaphore(int(os.getenv("WORKDAY_CONCURRENCY", "8")))
+
+
+def workday_post(url: str, body: dict) -> dict:
+    """POST to Workday, a few at a time, retrying if it sends back a non-data page."""
+    for attempt in range(4):
+        with WORKDAY_LIMIT:
+            r = http("POST", url, json=body)
+        if r is not None and r.status_code == 200:
+            try:
+                return r.json()
+            except ValueError:
+                pass                                     # got an HTML "slow down" page
+        elif r is not None and r.status_code in (400, 404, 410):
+            r.raise_for_status()                         # a real error: don't retry
+        time.sleep(3 * (attempt + 1))
+    raise RuntimeError("Workday kept refusing (rate-limited) - will retry next run")
+
+
 def fetch_workday(slug: str) -> list[dict]:
     """slug format: host|tenant|site  e.g. nvidia.wd5.myworkdayjobs.com|nvidia|NVIDIAExternalCareerSite"""
     host, tenant, site = slug.split("|")
     url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     jobs, offset = [], 0
     while offset < 200:
-        r = http("POST", url, json={"appliedFacets": {}, "limit": 20, "offset": offset,
-                                    "searchText": "intern"})
-        r.raise_for_status()
-        page = r.json().get("jobPostings", [])
+        data = workday_post(url, {"appliedFacets": {}, "limit": 20, "offset": offset,
+                                  "searchText": "intern"})
+        page = data.get("jobPostings", [])
         for j in page:
             path = j.get("externalPath", "")
             jobs.append({"id": path, "title": j.get("title", ""),
@@ -818,10 +836,11 @@ def _header_safe(s: str) -> str:
 
 
 def notify(title: str, message: str, url: str = "", priority: str = "default",
-           tags: str = "briefcase") -> None:
+           tags: str = "briefcase") -> bool:
+    """Send a push notification. Returns True if ntfy accepted it."""
     if not NTFY_TOPIC:
         log.warning("NTFY_TOPIC not set - would have sent: %s | %s", title, message)
-        return
+        return False
     headers = {"Title": _header_safe(title), "Priority": priority, "Tags": tags}
     if url:
         headers["Click"] = url
@@ -833,11 +852,12 @@ def notify(title: str, message: str, url: str = "", priority: str = "default",
                 time.sleep(6 * (attempt + 1))
                 continue
             r.raise_for_status()
-            return
+            return True
         except requests.RequestException as e:
             log.error("Notification failed: %s", e)
-            return
+            return False
     log.error("Notification gave up after retries: %s", title)
+    return False
 
 
 # ----------------------------------------------------------------------------
@@ -877,7 +897,8 @@ def workday_locations(slug: str, url: str) -> str:
     path = url.split(f"/{site}", 1)[-1]
     locs = ""
     try:
-        r = http("GET", f"https://{host}/wday/cxs/{tenant}/{site}{path}")
+        with WORKDAY_LIMIT:
+            r = http("GET", f"https://{host}/wday/cxs/{tenant}/{site}{path}")
         if r is not None and r.status_code == 200:
             info = r.json().get("jobPostingInfo") or {}
             parts = [info.get("location") or ""] + list(info.get("additionalLocations") or [])
@@ -986,14 +1007,19 @@ def run_once() -> None:
                              m["company"], m["title"])
                     continue                             # old posts don't block newer same-title ones
                 remember_title()
+                m["tk"] = tk
                 new.append(m)
             state["companies"].append(unit)
 
     for m in new:
         log.info("NEW [%s] %s - %s (%s, via %s, %s) %s", m["label"], m["company"], m["title"],
                  m["location"], m["source"], age_text(m.get("age_days")), m["url"])
-    for e in errors[:50]:
-        log.warning("Skipped %s", e)
+    if errors:
+        kinds = {}
+        for e in errors:
+            kinds.setdefault(e.split(": ", 1)[-1].split(":")[0][:60], []).append(e.split(": ")[0])
+        for kind, names in sorted(kinds.items(), key=lambda kv: -len(kv[1])):
+            log.warning("%d skipped (%s), e.g. %s", len(names), kind, ", ".join(names[:5]))
 
     if not known and baselined:
         notify("Intern tracker is live",
@@ -1002,12 +1028,20 @@ def run_once() -> None:
                f"You'll be alerted for anything new.", tags="rocket")
     if new:
         ordered = sorted(new, key=lambda m: (m["label"] != "confirmed", m["company"]))
+        failed = []
         for m in ordered[:MAX_INDIVIDUAL_ALERTS]:
             tag = "2027" if m["label"] == "confirmed" else "year not stated"
-            notify(f"{m['company']}: {m['title']}"[:180],
+            ok = notify(f"{m['company']}: {m['title']}"[:180],
                    f"{m['location'] or 'Location N/A'}  ({tag})\n"
                    f"{age_text(m.get('age_days')).capitalize()} - via {m['source']}. Tap to open.",
                    url=m["url"], priority="high" if m["label"] == "confirmed" else "default")
+            if not ok:
+                failed.append(m)
+        for m in failed:                                 # not delivered -> try again next run
+            state["jobs"].pop(m["key"], None)
+            title_times.pop(m.get("tk"), None)
+        if failed:
+            log.error("%d alert(s) could not be sent - they will be retried next run.", len(failed))
         if len(new) > MAX_INDIVIDUAL_ALERTS:
             rest = ordered[MAX_INDIVIDUAL_ALERTS:]
             notify(f"+{len(rest)} more new intern roles",
