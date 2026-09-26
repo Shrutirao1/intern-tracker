@@ -271,11 +271,13 @@ def fetch_ashby(slug: str) -> list[dict]:
 
 
 WORKDAY_LIMIT = threading.Semaphore(int(os.getenv("WORKDAY_CONCURRENCY", "8")))
+WORKDAY_PER_RUN = int(os.getenv("WORKDAY_PER_RUN", "0"))      # 0 = all (on your Mac)
+WORKDAY_RETRIES = int(os.getenv("WORKDAY_RETRIES", "4"))
 
 
 def workday_post(url: str, body: dict) -> dict:
     """POST to Workday, a few at a time, retrying if it sends back a non-data page."""
-    for attempt in range(4):
+    for attempt in range(WORKDAY_RETRIES):
         with WORKDAY_LIMIT:
             r = http("POST", url, json=body)
         if r is not None and r.status_code == 200:
@@ -285,7 +287,8 @@ def workday_post(url: str, body: dict) -> dict:
                 pass                                     # got an HTML "slow down" page
         elif r is not None and r.status_code in (400, 404, 410):
             r.raise_for_status()                         # a real error: don't retry
-        time.sleep(3 * (attempt + 1))
+        if attempt < WORKDAY_RETRIES - 1:
+            time.sleep(2 * (attempt + 1))
     raise RuntimeError("Workday kept refusing (rate-limited) - will retry next run")
 
 
@@ -872,9 +875,14 @@ def pick_batch(companies: list[dict]) -> tuple[list[dict], int]:
         shards = max(1, math.ceil(len(group) / max(1, cap)))
         return [c for c in group if crc(c) % shards == slot % shards], shards
 
-    priority = [c for c in companies if c["tier"] == "priority"]
-    hot = [c for c in companies if c["tier"] == "hot"]
-    rest = [c for c in companies if c["tier"] not in ("priority", "hot")]
+    # Workday limits how many requests it accepts from one server, so on GitHub we check
+    # WORKDAY_PER_RUN Workday companies per run and rotate through the rest.
+    workday = [c for c in companies if c["ats"] == "workday"] if WORKDAY_PER_RUN else []
+    wd_batch, wd_shards = rotate(workday, WORKDAY_PER_RUN) if workday else ([], 1)
+    others = [c for c in companies if not (WORKDAY_PER_RUN and c["ats"] == "workday")]
+    priority = [c for c in others if c["tier"] == "priority"]
+    hot = [c for c in others if c["tier"] == "hot"]
+    rest = [c for c in others if c["tier"] not in ("priority", "hot")]
     priority, p_shards = rotate(priority, int(MAX_COMPANIES_PER_RUN * 0.6))
     room = MAX_COMPANIES_PER_RUN - len(priority)
     hot, h_shards = rotate(hot, int(room * 0.7))
@@ -882,7 +890,10 @@ def pick_batch(companies: list[dict]) -> tuple[list[dict], int]:
     batch, shards = rotate(rest, room)
     log.info("Tiers: priority every ~%d min, hot every ~%d min, others every ~%d min.",
              p_shards * CHECK_INTERVAL_MIN, h_shards * CHECK_INTERVAL_MIN, shards * CHECK_INTERVAL_MIN)
-    return priority + hot + batch, shards
+    if workday:
+        log.info("Workday: %d of %d companies this run (each checked every ~%d min).",
+                 len(wd_batch), len(workday), wd_shards * CHECK_INTERVAL_MIN)
+    return priority + hot + batch + wd_batch, shards
 
 
 WD_LOC_CACHE: dict = {}                                  # Workday "2 Locations" -> real cities
