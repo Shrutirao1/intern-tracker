@@ -1,0 +1,60 @@
+{
+  "_help": "Extra job sources beyond company career sites. Set enabled to false to turn one off. every_n_runs: runs happen every 5 min: 1 = every 5 min, 12 = hourly, 24 = every 2 hours, 288 = once a day. API keys go in environment variables / GitHub secrets, never in this file.",
+  "simplify": {
+    "enabled": true,
+    "every_n_runs": 1,
+    "label": "Simplify 2027 list",
+    "urls": [
+      "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/main/.github/scripts/listings.json"
+    ]
+  },
+  "vansh": {
+    "enabled": true,
+    "every_n_runs": 1,
+    "label": "CSCareers 2027 list",
+    "urls": [
+      "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/main/.github/scripts/listings.json"
+    ]
+  },
+  "adzuna": {
+    "enabled": true,
+    "every_n_runs": 24,
+    "label": "Adzuna",
+    "country": "us",
+    "_note": "Free tier = 250 calls/day. 4 queries x 12 runs/day = 48/day.",
+    "queries": [
+      "software engineer intern",
+      "machine learning intern",
+      "data science intern",
+      "software developer intern 2027"
+    ]
+  },
+  "hackernews": {
+    "enabled": true,
+    "every_n_runs": 12,
+    "label": "Hacker News Who's Hiring"
+  },
+  "usajobs": {
+    "enabled": true,
+    "every_n_runs": 24,
+    "label": "USAJobs",
+    "queries": [
+      "computer science intern",
+      "information technology student trainee",
+      "data science intern"
+    ]
+  },
+  "serpapi": {
+    "enabled": true,
+    "every_n_runs": 288,
+    "label": "Google Jobs",
+    "_note": "Small free monthly allowance. 3 queries once a day = ~90/month.",
+    "queries": [
+      "software engineer intern summer 2027",
+      "machine learning intern 2027",
+      "data science intern 2027"
+    ]
+  }
+}

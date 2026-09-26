@@ -1,0 +1,4 @@
+.discover_progress.txt
+__pycache__/
+*.zip
+.venv/

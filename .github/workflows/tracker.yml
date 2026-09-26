@@ -1,0 +1,51 @@
+name: Internship Tracker
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"       # every 5 minutes (GitHub's fastest; may run a few minutes late)
+  workflow_dispatch:             # lets you click "Run workflow" manually
+
+permissions:
+  contents: write                # needed to commit seen_jobs.json
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Scan for new 2027 internships
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          # Optional extra sources - leave the secret unset to skip that source
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          STRICT_MODE: "0"
+          CHECK_INTERVAL_MIN: "5"
+          MAX_AGE_DAYS: "7"               # only alert for postings from the last 7 days
+          MAX_COMPANIES_PER_RUN: "3000"
+          MAX_WORKERS: "48"
+        run: python job_tracker.py
+
+      - name: Save seen jobs so we don't alert twice
+        run: |
+          git config user.name "intern-tracker-bot"
+          git config user.email "intern-tracker-bot@users.noreply.github.com"
+          git add seen_jobs.json
+          git diff --staged --quiet || git commit -m "Update seen jobs [skip ci]"
+          git pull --rebase
+          git push

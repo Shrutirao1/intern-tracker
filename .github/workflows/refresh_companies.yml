@@ -1,0 +1,50 @@
+name: Weekly Company Refresh
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"          # every Monday, 9:00 UTC (2am Pacific)
+  workflow_dispatch:             # lets you run it by hand from the Actions tab
+    inputs:
+      harvest:
+        description: "Also re-harvest job boards from Common Crawl (slow, do monthly)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tracker                 # never runs at the same time as the tracker
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Re-harvest job boards (only when requested)
+        if: ${{ github.event.inputs.harvest == 'true' }}
+        run: python scan_job_boards.py --harvest
+
+      - name: Scan boards and add newly hiring companies
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python scan_job_boards.py --scan --add
+
+      - name: Save the updated company list
+        run: |
+          git config user.name "intern-tracker-bot"
+          git config user.email "intern-tracker-bot@users.noreply.github.com"
+          git add companies.csv board_list.csv hiring_companies_90d.csv hiring_report.md
+          git diff --staged --quiet || git commit -m "Weekly company refresh [skip ci]"
+          git pull --rebase
+          git push
