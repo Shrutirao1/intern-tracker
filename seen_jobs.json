@@ -8868,6 +8868,13 @@
 "title": "Intern Engineer - Summer 2027",
 "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Rocky-Hill-CT-Hartford/Intern-Engineer---Summer-2027_R-31567"
 },
+"HNTB:/job/Salt-Lake-City-UT/Intern-Engineer--Summer-2027_R-31734": {
+"company": "HNTB",
+"first_seen": "2026-09-27T21:51:29+00:00",
+"posted": 1790545989.3335907,
+"title": "Intern Engineer- Summer 2027",
+"url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Salt-Lake-City-UT/Intern-Engineer--Summer-2027_R-31734"
+},
 "HNTB:/job/Scott-Depot-WV-Charleston/Intern-Engineer---Summer-2027_R-31579-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern Engineer - Summer 2027",
@@ -14328,6 +14335,27 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Internship - Research & Development",
 "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5227710008"
+},
+"QuEra Computing:5435899008": {
+"company": "QuEra Computing",
+"first_seen": "2026-09-27T21:51:29+00:00",
+"posted": 1790542791.0,
+"title": "Internship - Quantum Error Correction Research",
+"url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435899008"
+},
+"QuEra Computing:5435901008": {
+"company": "QuEra Computing",
+"first_seen": "2026-09-27T21:51:29+00:00",
+"posted": 1790543036.0,
+"title": "Internship - Quantum Applications Research",
+"url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435901008"
+},
+"QuEra Computing:5435902008": {
+"company": "QuEra Computing",
+"first_seen": "2026-09-27T21:51:29+00:00",
+"posted": 1790543388.0,
+"title": "Internship - Scientific Software and Compilation",
+"url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008"
 },
 "Quadrillion:579cef88-1dbf-45b5-a938-7ddc23505765": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -32531,6 +32559,7 @@
 "hmh|technicalservicesengineeringintern": 1790379919.414332,
 "hntb|coopengineerwinterspringsummer2027": 1790379919.414332,
 "hntb|designbuildinternengineersummer2027": 1790379919.414332,
+"hntb|internengineer": 1790545992.2719967,
 "hntb|internengineerrailoperationsmodelingandplanningsummer2027": 1790379919.414332,
 "hntb|internengineersummer2027": 1790379919.414332,
 "hntb|internengineersummer2027centraldivisionforcurrentformerhntbinternsonly": 1790379919.414332,
@@ -33497,7 +33526,10 @@
 "quantco|aiengineeringintern": 1790379919.414332,
 "quantco|datascienceintern": 1790379919.414332,
 "quantco|softwareengineeringintern": 1790379919.414332,
+"queracomputing|internquantumapplicationsresearch": 1790545891.2035801,
+"queracomputing|internquantumerrorcorrectionresearch": 1790545891.2036023,
 "queracomputing|internresearchdevelopment": 1790379919.414332,
+"queracomputing|internscientificsoftwareandcompilation": 1790545891.203619,
 "qumulo|softwaredevelopmentengineerseattleintern2027": 1790379919.414332,
 "rackner|computerscienceintern": 1790379919.414332,
 "radiancetechnologies|2027modelinganalyticssimulationsciencesmassengineerintern": 1790379919.414332,
