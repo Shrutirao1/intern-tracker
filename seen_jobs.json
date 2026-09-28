@@ -1818,6 +1818,13 @@
 "title": "Internship - R&D Associate Engineer",
 "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Vittuone-Milano-Italy/Internship---R-D-Associate-Engineer_JR00032907"
 },
+"ACLU Kentucky:8842752002": {
+"company": "ACLU Kentucky",
+"first_seen": "2026-09-28T18:36:54+00:00",
+"posted": 1790606502.0,
+"title": "Summer 2027 Undergraduate Intern, National Security Project",
+"url": "https://job-boards.greenhouse.io/acluinternships/jobs/8842752002"
+},
 "AES:/job/US-Dayton-OH/Co-Op---Substation-Engineer---Engineering-Services--Fall-2027-_R1064716": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Co-Op - Substation Engineer - Engineering Services (Fall 2027)",
@@ -3982,6 +3989,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Scientific Research Intern",
 "url": "https://jobs.lever.co/bioagilytix/20967ef9-3a9e-4a92-a6ac-7459df289c66"
+},
+"Biogen:/job/Cambridge-MA/Co-op--Biologic-Therapeutics-Discovery-and-Engineering_REQ24225": {
+"company": "Biogen",
+"first_seen": "2026-09-28T18:36:54+00:00",
+"posted": 1790620632.062141,
+"title": "Co-op, Biologic Therapeutics Discovery and Engineering",
+"url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Biologic-Therapeutics-Discovery-and-Engineering_REQ24225"
+},
+"Biogen:/job/Cambridge-MA/Co-op--Data-Visualization-and-Application-Development_REQ24227": {
+"company": "Biogen",
+"first_seen": "2026-09-28T18:36:54+00:00",
+"posted": 1790620633.2971034,
+"title": "Co-op, Data Visualization and Application Development",
+"url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Data-Visualization-and-Application-Development_REQ24227"
 },
 "Biogen:/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -12961,6 +12982,13 @@
 "posted": 1790078793.8316517,
 "title": "2027 Engineering Intern - Elkton MD or Palm Beach Gardens FL or Ronkonkoma NY",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2027-Engineering-Intern---Elkton-MD-or-Palm-Beach-Gardens-FL-or-Ronkonkoma-NY_R10252405"
+},
+"Northrop Grumman:/job/United-States-Nebraska-Bellevue/XMLNAME-2027-Engineering-Intern---Bellevue--NE-_R10252793": {
+"company": "Northrop Grumman",
+"first_seen": "2026-09-28T18:36:54+00:00",
+"posted": 1790620764.7247849,
+"title": "2027 Engineering Intern - Bellevue (NE)",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/XMLNAME-2027-Engineering-Intern---Bellevue--NE-_R10252793"
 },
 "Northrop Grumman:/job/United-States-Utah-Corinne/XMLNAME-2027-Quality-Engineering-Intern---Utah_R10252909": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -31264,6 +31292,7 @@
 "accessgroup|internprogramtechandnontech": 1790379919.414332,
 "achievers|softwareengineeringcoopwinter2027": 1790379919.414332,
 "acima|softwareengineerintern": 1790379919.414332,
+"aclukentucky|undergraduateinternnationalsecurityproject": 1790620616.5182452,
 "acronaviation|avionicscertificationengineeringinternphoenixsite": 1790379919.414332,
 "acronaviation|softwareengineerinternphoenixsite": 1790379919.414332,
 "acronaviation|softwareengineerinternstpetesite": 1790379919.414332,
@@ -31644,8 +31673,10 @@
 "bildai|aisweintern": 1790379919.414332,
 "billiontoone|researchassociateintern": 1790379919.414332,
 "bioagilytix|scientificresearchintern": 1790379919.414332,
+"biogen|coopbiologictherapeuticsdiscoveryandengineering": 1790620635.128569,
 "biogen|coopdatascience": 1790379919.414332,
 "biogen|coopdatascienceaiinnovation": 1790379919.414332,
+"biogen|coopdatavisualizationandapplicationdevelopment": 1790620635.1286163,
 "blackedgecapital|quantitativedeveloperintern": 1790379919.414332,
 "blackrock|2027quantitativemastersinternprogramtechnologyanalyticsmodelingnewyork": 1790379919.414332,
 "blackrock|2027quantitativemastersinternprogramtechnologyanalyticsmodelingsanfrancisco": 1790379919.414332,
@@ -33180,6 +33211,7 @@
 "northropgrumman|2027internsystemssecuritycybersecurityengineer": 1790379919.414332,
 "northropgrumman|2027qualityengineeringinternutah": 1790379919.414332,
 "northropgrumman|2027softwareengineerinternwoodlandhillsca": 1790379919.414332,
+"northropgrumman|engineeringinternbellevuene": 1790620768.2606487,
 "northropgrumman|engineeringinternelktonmdorpalmbeachgardensflorronkonkomany": 1790424394.0611234,
 "northwesternmutual|actuarialsystemsinternsummer2027": 1790379919.414332,
 "northwoodspace|embeddedsoftwareengineeringintern2027summerintern": 1790379919.414332,
