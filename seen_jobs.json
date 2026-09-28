@@ -7094,10 +7094,31 @@
 "title": "Spring 2027 FOX Sports Internship Program - Audience Research \u2013 New York, NY",
 "url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-Sports-Internship-Program---Audience-Research---New-York--NY_R50033944"
 },
+"FOX:/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981": {
+"company": "FOX",
+"first_seen": "2026-09-28T04:49:57+00:00",
+"posted": 1790571012.0629847,
+"title": "Summer 2027 FOX News Media Internship Program - Data Analytics - New York",
+"url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033981"
+},
+"FOX:/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---New-York_R50033946": {
+"company": "FOX",
+"first_seen": "2026-09-28T04:49:57+00:00",
+"posted": 1790571012.0628204,
+"title": "Summer 2027 FOX News Media Internship Program - Technical Operations - New York",
+"url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---New-York_R50033946"
+},
 "FOX:/job/Washington-District-of-Columbia-USA/Spring-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033920": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Spring 2027 FOX News Media Internship Program - Technical Operations - Washington DC",
 "url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Washington-District-of-Columbia-USA/Spring-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033920"
+},
+"FOX:/job/Washington-District-of-Columbia-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033947": {
+"company": "FOX",
+"first_seen": "2026-09-28T04:49:57+00:00",
+"posted": 1790571012.062854,
+"title": "Summer 2027 FOX News Media Internship Program - Technical Operations - Washington DC",
+"url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/Washington-District-of-Columbia-USA/Summer-2027-FOX-News-Media-Internship-Program---Technical-Operations---Washington-DC_R50033947"
 },
 "Fab2:0c4dc4f4-01c9-4138-a666-e7234cda7e95": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -32297,6 +32318,9 @@
 "flint|engineeringintern": 1790406425.3219082,
 "flowserve|engineeringcoop": 1790379919.414332,
 "forus|engineeringinternfall26springsummer27": 1790379919.414332,
+"fox|foxnewsmediainterndataanalyticsnewyork": 1790571017.05561,
+"fox|foxnewsmediainterntechnicaloperationsnewyork": 1790571017.0555658,
+"fox|foxnewsmediainterntechnicaloperationswashingtondc": 1790571017.0555916,
 "fox|spring2027foxnewsmediainternprogramdataanalyticsnewyork": 1790379919.414332,
 "fox|spring2027foxnewsmediainternprogramtechnicaloperationsnewyork": 1790379919.414332,
 "fox|spring2027foxnewsmediainternprogramtechnicaloperationswashingtondc": 1790379919.414332,
