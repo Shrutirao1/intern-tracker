@@ -17051,6 +17051,20 @@
 "title": "Internship Program (Tech and Non-Tech)",
 "url": "https://theaccessgroup.wd103.myworkdayjobs.com/en-US/Access_Group_External_Careers/job/Kuala-Lumpur---GOC/Interns--Tech-and-Non-Tech-_JR003673-1"
 },
+"The Aerospace Corporation:/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759": {
+"company": "The Aerospace Corporation",
+"first_seen": "2026-09-29T09:00:55+00:00",
+"posted": 1790586162.2285614,
+"title": "2027 Software Engineering Grad Intern",
+"url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+},
+"The Aerospace Corporation:/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758": {
+"company": "The Aerospace Corporation",
+"first_seen": "2026-09-29T09:00:55+00:00",
+"posted": 1790586162.2285028,
+"title": "2027 Software Engineering Undergrad Intern",
+"url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758"
+},
 "The Aerospace Corporation:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740": {
 "company": "The Aerospace Corporation",
 "first_seen": "2026-09-28T23:28:46+00:00",
@@ -17140,6 +17154,13 @@
 "posted": 1790379950.83313,
 "title": "2027 Software Systems Engineer and Acquisition Intern",
 "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
+},
+"The Aerospace Corporation:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753": {
+"company": "The Aerospace Corporation",
+"first_seen": "2026-09-29T09:00:55+00:00",
+"posted": 1790586162.228441,
+"title": "2027 Software Tools and Assurance Engineering Grad Intern",
+"url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
 },
 "The Aerospace Corporation:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -31505,6 +31526,7 @@
 "aerospace|cloudsolutionsengineersitereliabilitygradintern": 1790379955.456864,
 "aerospace|cloudsolutionsengineersitereliabilityundergradintern": 1790379955.456906,
 "aerospace|propulsionengineeringgraduateintern": 1790379955.456887,
+"aerospace|softwareengineeringgradintern": 1790672586.4974682,
 "aerospace|softwareengineeringintern": 1790649666.1661358,
 "aerospace|softwareengineeringinternsoftwaretoolsandassurance": 1790649666.1661813,
 "aerospace|softwareimplementationandintegrationundergradclearedintern": 1790638287.3172457,
@@ -34562,6 +34584,8 @@
 "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Puerto-Rico---Barceloneta/COOP-Engineering-Student_31158635": "Puerto Rico - Barceloneta; Puerto Rico - Arecibo; Puerto Rico - Caguas",
 "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": "San Jose; San Francisco; Austin; Seattle; Lehi; New York",
 "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666": "San Jose; Waltham; San Francisco; Austin; Seattle; Lehi; New York",
+"https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759": "Chantilly, VA; El Segundo, CA",
+"https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758": "Chantilly, VA; El Segundo, CA",
 "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO/XMLNAME-2027-Systems-of-Systems-Portfolio-Analysis-Undergraduate-Intern_R016462": "Colorado Springs, CO; El Segundo, CA; Chantilly, VA",
 "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Grad-Intern_R016715": "El Segundo, CA; Chantilly, VA; Colorado Springs, CO",
 "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714": "El Segundo, CA; Chantilly, VA; Colorado Springs, CO",
@@ -34803,7 +34827,11 @@
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1": "China, Shanghai; China, Beijing",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171": "China, Shanghai; China, Beijing",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": "China, Shanghai; China, Beijing; China, Shenzhen",
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517": "Poland, Warsaw; Switzerland, Zurich",
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569": "Poland, Warsaw; Switzerland, Zurich; Germany, Berlin",
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180": "Taiwan, Taipei; Taiwan, Hsinchu",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538": "Taiwan, Taipei; Taiwan, Hsinchu",
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181": "Taiwan, Taipei; Taiwan, Hsinchu",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783": "Taiwan, Taipei; Taiwan, Hsinchu",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395": "US, CA, Santa Clara; US, MA, Westford; US, WA, Seattle",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103": "US, CA, Santa Clara; US, Remote",
