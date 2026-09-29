@@ -9187,6 +9187,13 @@
 "title": "Structures Engineering Intern - Spring/Summer/Fall 2027",
 "url": "https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878"
 },
+"Hermeus:78008094-ca81-4a0c-9a18-93b30f932acd": {
+"company": "Hermeus",
+"first_seen": "2026-09-29T07:12:00+00:00",
+"posted": 1790650275.686,
+"title": "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
+"url": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd"
+},
 "Hermeus:9229aa88-f54d-4ecd-85ee-b31f53b4207d": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Mission Systems Engineering Intern - Spring/Summer 2027",
@@ -22419,6 +22426,13 @@
 "title": "Software Engineer Intern",
 "url": "https://careers.planview.com/jobs/5128?icims=1"
 },
+"src:simplify:3e456223-d5b0-4c98-9c23-c9658c558899": {
+"company": "Verizon Communications",
+"first_seen": "2026-09-29T07:12:00+00:00",
+"posted": 1790640000.0,
+"title": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387"
+},
 "src:simplify:3e500cc8-2138-4a5d-9b79-6e6400df7599": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Developer Intern/Co-op",
@@ -23032,6 +23046,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Analytics and AI Intern - FIS University Program",
 "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690"
+},
+"src:simplify:4d75efc0-61e0-48f4-955d-15ea4c188bae": {
+"company": "Verizon Communications",
+"first_seen": "2026-09-29T07:12:00+00:00",
+"posted": 1790640000.0,
+"title": "Data Science Intern - Network and Technology",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
 },
 "src:simplify:4d7f5496-acc2-4000-91f7-f4a4fbd5a5b8": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -25089,6 +25110,13 @@
 "title": "Software Engineer Intern - Distributed NoSQL Database Systems",
 "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail"
 },
+"src:simplify:7a4c54a2-858e-4678-90f3-93bba7644c52": {
+"company": "Thrivent",
+"first_seen": "2026-09-29T07:12:00+00:00",
+"posted": 1790640000.0,
+"title": "Application Engineer Intern - Investments",
+"url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
+},
 "src:simplify:7a58365b-0d72-4b0c-8094-fa29ec18b560": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Analytics Intern - Data Science - Applied Math",
@@ -25400,6 +25428,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Solution Engineer Intern",
 "url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false"
+},
+"src:simplify:810a66c8-0c3f-4ac3-bec1-fb4ae6080325": {
+"company": "Verizon Communications",
+"first_seen": "2026-09-29T07:12:00+00:00",
+"posted": 1790640000.0,
+"title": "Data Scientist Intern - Fiber Engineering & Operations",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"
 },
 "src:simplify:810e50c9-00ba-458d-bdb0-89ae72adc9f9": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -26867,6 +26902,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Quantitative Risk Management Intern",
 "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4863"
+},
+"src:simplify:9f98eff6-d8a9-41cc-9d73-e31bc31c2617": {
+"company": "Boston Scientific",
+"first_seen": "2026-09-29T07:12:00+00:00",
+"posted": 1790662561.0,
+"title": "Software Development Engineer Co-op",
+"url": "https://bostonscientific.eightfold.ai/careers/job/563602813674232"
 },
 "src:simplify:9fa2b794-7b44-4ff6-876c-7dc3d18b49b4": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -31898,6 +31940,7 @@
 "boozallen|universitysummer27enterprisecybersecuritydatalosspreventionintern": 1790379919.414332,
 "borgwarner|globalcostengineeringprofessionalinternmfd": 1790379919.414332,
 "borgwarner|qualityengineeringintern": 1790379919.414332,
+"bostonscientific|softwaredevelopmentengineercoop": 1790666001.1372526,
 "botauto|interndeeplearningengineer": 1790379919.414332,
 "bp|summerinterndigitalengineeringpune": 1790379919.414332,
 "bracketbot|roboticsengineeringintern": 1790379919.414332,
@@ -32729,6 +32772,7 @@
 "hendrickmotorsports|raceengineerintern": 1790379919.414332,
 "hermeus|buildreliabilityengineeringinternspringsummer2027": 1790379919.414332,
 "hermeus|flightoperationsairworthinessengineeringinternspringsummerfall2027": 1790379919.414332,
+"hermeus|flightsoftwareengineeringinternsimulationhardwareintheloop": 1790665921.828766,
 "hermeus|gncflightsoftwareinternspringsummer2027": 1790379919.414332,
 "hermeus|missionsystemsengineeringinternspringsummer2027": 1790379919.414332,
 "hermeus|propulsioncomponentengineeringinternspring2027": 1790379919.414332,
@@ -34136,6 +34180,7 @@
 "thales|softwareengineerinternmiddlewareibs": 1790379919.414332,
 "thermofisherscientific|validationengineeringcoop": 1790379919.414332,
 "thomsonreuters|softwareengineercoop": 1790379919.414332,
+"thrivent|applicationengineerinterninvestments": 1790666001.1372802,
 "thrivent|associatesoftwareengineerjuniorinternsummer2027": 1790379919.414332,
 "thrivent|associatesoftwareengineersophomoreinternsummer2027": 1790379919.414332,
 "thrivent|equityresearchanalystinternsummer2027": 1790379919.414332,
@@ -34266,6 +34311,9 @@
 "verdantas|dataanalyticsandgisintern": 1790379919.414332,
 "verdantas|geotechnicalengineerintern": 1790379919.414332,
 "verdantas|summer2027engineeringintern": 1790379919.414332,
+"verizoncommunications|businessintelligenceinternfiberengineeringoperationstransformationbusinessenablement": 1790666001.1373541,
+"verizoncommunications|datascienceinternnetworkandtechnology": 1790666001.1373284,
+"verizoncommunications|datascientistinternfiberengineeringoperations": 1790666001.1373053,
 "verkada|backendsoftwareengineeringintern2027": 1790379919.414332,
 "verkada|embeddedsoftwareengineeringintern2027": 1790379919.414332,
 "verkada|frontendsoftwareengineeringintern2027": 1790379919.414332,
