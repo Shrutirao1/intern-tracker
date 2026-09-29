@@ -2105,6 +2105,13 @@
 "title": "Angular Developer Internship Program (She/He/They)",
 "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473"
 },
+"Accenture:/job/Warsaw/Cloud-DevOps-Engineer-Intern_14778770-1": {
+"company": "Accenture",
+"first_seen": "2026-09-29T02:39:47+00:00",
+"posted": 1790649616.7049673,
+"title": "Cloud DevOps Engineer Intern",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Cloud-DevOps-Engineer-Intern_14778770-1"
+},
 "Accenture:/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "GenAI Engineering Internship Program (She/He/They)",
@@ -23513,6 +23520,13 @@
 "title": "Data Engineer Intern - IT",
 "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false"
 },
+"src:simplify:57bebd99-f029-4628-b0dc-3532c4f03181": {
+"company": "The Aerospace Corporation",
+"first_seen": "2026-09-29T02:39:47+00:00",
+"posted": 1790553600.0,
+"title": "Software Engineering Intern - Software Tools and Assurance",
+"url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+},
 "src:simplify:57ded721-ead9-440b-999c-b6f3861f72ed": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Artificial Intelligence Intern - AI",
@@ -27563,6 +27577,13 @@
 "title": "CIC Systems Engineer Co-op",
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1"
 },
+"src:simplify:adc756c8-eec3-41e4-b9a6-a13e34b5768f": {
+"company": "Cloudflare",
+"first_seen": "2026-09-29T02:39:47+00:00",
+"posted": 1790645643.0,
+"title": "Software Engineer Intern",
+"url": "https://boards.greenhouse.io/cloudflare/jobs/8199958"
+},
 "src:simplify:adf0a40d-85b8-4712-bc55-164c7686e667": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Geographic Information Systems Intern/Co-op",
@@ -29314,6 +29335,13 @@
 "title": "Product Data Science Intern",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
 },
+"src:simplify:d48c80c4-64ef-42c6-b309-34cb2efa3de1": {
+"company": "The Aerospace Corporation",
+"first_seen": "2026-09-29T02:39:47+00:00",
+"posted": 1790553600.0,
+"title": "Software Engineering Intern",
+"url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758"
+},
 "src:simplify:d4e10f5f-fe79-4c2f-bee7-b413db703e65": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Analyst Intern - LIVE",
@@ -29368,6 +29396,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Applied Research Science Intern",
 "url": "https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false"
+},
+"src:simplify:d67c968b-8ef6-4c00-a980-42d4de678d22": {
+"company": "Neighbor",
+"first_seen": "2026-09-29T02:39:47+00:00",
+"posted": 1790644260.0,
+"title": "Data Scientist Intern - Current PhD",
+"url": "https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply"
 },
 "src:simplify:d69cc4b1-6d03-4c5e-8430-4c567709546c": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -31379,6 +31414,7 @@
 "accenture|aimlopsinternprogramshehethey": 1790379919.414332,
 "accenture|angulardeveloperinternprogramshehethey": 1790379919.414332,
 "accenture|awsbackenddeveloperpythonnodejsinternprogramshehethey": 1790379919.414332,
+"accenture|clouddevopsengineerintern": 1790649630.7723532,
 "accenture|dataaiinternaccentureinternprogramathens": 1790379919.414332,
 "accenture|digitalengineeringintern": 1790379919.414332,
 "accenture|genaiengineeringinternprogramshehethey": 1790379919.414332,
@@ -31427,6 +31463,8 @@
 "aerospace|cloudsolutionsengineersitereliabilitygradintern": 1790379955.456864,
 "aerospace|cloudsolutionsengineersitereliabilityundergradintern": 1790379955.456906,
 "aerospace|propulsionengineeringgraduateintern": 1790379955.456887,
+"aerospace|softwareengineeringintern": 1790649666.1661358,
+"aerospace|softwareengineeringinternsoftwaretoolsandassurance": 1790649666.1661813,
 "aerospace|softwareimplementationandintegrationundergradclearedintern": 1790638287.3172457,
 "aerospace|softwaresystemsengineerandacquisitionintern": 1790379955.456822,
 "aerovironment|aeromechanicalengineeringintern": 1790379919.414332,
@@ -32024,6 +32062,7 @@
 "clevelandcliffs|springresearchcoop": 1790379919.414332,
 "clevelandcliffs|summerresearchcoop": 1790379919.414332,
 "clockworksystems|softwareengineerintern": 1790379919.414332,
+"cloudflare|softwareengineerintern": 1790649666.1661553,
 "cmegroup|softwareengineeringinternsummer2027": 1790379919.414332,
 "cnainsurance|technologyinternprogramaiengineering": 1790379919.414332,
 "cnainsurance|technologyinternprogramdataanalytics": 1790379919.414332,
