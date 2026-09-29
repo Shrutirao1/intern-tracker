@@ -41,6 +41,7 @@ from pathlib import Path
 import job_tracker as jt
 from build_company_list import board_from_url
 from recent_hiring_companies import HUBS, build_city_index, hubs_in, norm_company
+from hubs import us_ok
 
 BASE_DIR = Path(__file__).resolve().parent
 BOARD_FILE = BASE_DIR / "board_list.csv"
@@ -59,6 +60,7 @@ CC_PATTERNS = [                      # (label, url pattern)
 # polite concurrency per platform
 LIMITS = {"greenhouse": threading.Semaphore(20), "lever": threading.Semaphore(15),
           "ashby": threading.Semaphore(5), "workday": threading.Semaphore(15)}
+DEFAULT_LIMIT = threading.Semaphore(10)
 
 
 # ---------------------------------------------------------------------------
@@ -120,8 +122,9 @@ def harvest(crawls: int, max_pages: int | None):
         with open(path, newline="", encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 ats, slug = (r.get("ats") or "").strip().lower(), (r.get("slug") or "").strip()
-                if ats in ("greenhouse", "lever", "ashby", "workday") and slug:
-                    key = (ats, slug if ats == "workday" else slug.lower())
+                if ats in ("greenhouse", "lever", "ashby", "workday", "smartrecruiters",
+                           "workable", "oracle") and slug:
+                    key = (ats, slug if ats in ("workday", "oracle", "smartrecruiters") else slug.lower())
                     boards.setdefault(key, name)
     with open(BOARD_FILE, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
@@ -164,6 +167,11 @@ def workday_age_days(text: str):
 
 def read_board(ats: str, slug: str) -> tuple[str, list[dict]]:
     """Return (company_name, postings) - postings have title, location, date, url."""
+    if ats not in LIMITS:                                   # smartrecruiters, workable, oracle
+        with DEFAULT_LIMIT:
+            posts = jt.FETCHERS[ats](slug)
+        return "", [{"title": p["title"], "location": p["location"], "date": p.get("posted") or 0,
+                     "url": p["url"]} for p in posts]
     with LIMITS[ats]:
         if ats == "greenhouse":
             r = jt.http("GET", f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs")
@@ -249,7 +257,8 @@ def process_board(ats, slug, cutoff, city_index, include_undated):
     for p in posts:
         if not jt.role_matches(p["title"]):
             continue
-        found = hubs_in(p["location"], city_index, False)
+        found = hubs_in(p["location"], city_index, False) or \
+            ({"Other US"} if jt.LOCATION_FILTER == "us" and p["location"] and us_ok(p["location"], city_index) else set())
         if not found:
             continue
         date = p["date"]
@@ -348,7 +357,8 @@ def scan(days: int, hubs: dict, skip_workday: bool, include_undated: bool, extra
                         if not jt.role_matches(p["title"]):
                             continue
                         is_intern = bool(jt.INTERN_RE.search(jt.normalize(p["title"])))
-                    found = hubs_in(p["location"], city_index, False)
+                    found = hubs_in(p["location"], city_index, False) or \
+            ({"Other US"} if jt.LOCATION_FILTER == "us" and p["location"] and us_ok(p["location"], city_index) else set())
                     if not found:
                         continue
                     board = board_from_url(p["url"]) or ("", "")
@@ -393,6 +403,7 @@ def scan(days: int, hubs: dict, skip_workday: bool, include_undated: bool, extra
 
 
 def write_report(rows, hubs, days):
+    hubs = list(hubs) + ["Other US"]                      # jobs outside the 22 hubs but in the US
     lines = [f"# Companies hiring SWE / ML / AI / DS roles - last {days} days",
              "", f"Generated {datetime.now().strftime('%Y-%m-%d %H:%M')}. "
              "Each company appears once, in the window of its most recent matching post.", ""]
