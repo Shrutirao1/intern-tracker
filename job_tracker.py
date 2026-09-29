@@ -40,7 +40,7 @@ from pathlib import Path
 
 import requests
 
-from hubs import HUBS, build_city_index, location_ok
+from hubs import HUBS, build_city_index, location_ok, us_ok
 
 CITY_INDEX = build_city_index(HUBS)
 
@@ -58,7 +58,7 @@ NTFY_SERVER = (os.getenv("NTFY_SERVER", "") or "https://ntfy.sh").strip().rstrip
 CHECK_INTERVAL_MIN = int(os.getenv("CHECK_INTERVAL_MIN", "30"))
 STRICT_MODE = os.getenv("STRICT_MODE", "0") == "1"      # 1 = only postings that say 2027
 # LOCATION_FILTER: "hubs" = US tech hubs + US-remote (default), "any" = anywhere
-LOCATION_FILTER = os.getenv("LOCATION_FILTER", "hubs").lower()
+LOCATION_FILTER = os.getenv("LOCATION_FILTER", "us").lower()   # "us", "hubs" or "any"
 # Only alert for postings published within this many days (older ones are recorded silently).
 MAX_AGE_DAYS = float(os.getenv("MAX_AGE_DAYS", "7"))
 # The same company + title within this many days counts as the same job (e.g. found by two sources).
@@ -219,10 +219,13 @@ def age_text(days) -> str:
     if days is None:
         return "post date unknown"
     days += 0.01                                         # absorb sub-second timing drift
+    if days < 1 / 24:
+        return "posted less than an hour ago"
     if days < 1:
-        return "posted today"
+        hours = int(days * 24)
+        return f"posted {hours} hour{'s' if hours != 1 else ''} ago"
     if days < 2:
-        return "posted yesterday"
+        return "posted 1 day ago"
     return f"posted {int(days)} days ago"
 
 
@@ -273,6 +276,7 @@ def fetch_ashby(slug: str) -> list[dict]:
 WORKDAY_LIMIT = threading.Semaphore(int(os.getenv("WORKDAY_CONCURRENCY", "8")))
 WORKDAY_PER_RUN = int(os.getenv("WORKDAY_PER_RUN", "0"))      # 0 = all (on your Mac)
 WORKDAY_RETRIES = int(os.getenv("WORKDAY_RETRIES", "4"))
+WORKDAY_MAX_RESULTS = int(os.getenv("WORKDAY_MAX_RESULTS", "600"))   # per search (was 200)
 
 
 def workday_post(url: str, body: dict) -> dict:
@@ -296,20 +300,25 @@ def fetch_workday(slug: str) -> list[dict]:
     """slug format: host|tenant|site  e.g. nvidia.wd5.myworkdayjobs.com|nvidia|NVIDIAExternalCareerSite"""
     host, tenant, site = slug.split("|")
     url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
-    jobs, offset = [], 0
-    while offset < 200:
-        data = workday_post(url, {"appliedFacets": {}, "limit": 20, "offset": offset,
-                                  "searchText": "intern"})
-        page = data.get("jobPostings", [])
-        for j in page:
-            path = j.get("externalPath", "")
-            jobs.append({"id": path, "title": j.get("title", ""),
-                         "location": j.get("locationsText", ""),
-                         "url": f"https://{host}/en-US/{site}{path}", "text": "",
-                         "posted": to_epoch(j.get("postedOn"))})
-        if len(page) < 20:
-            break
-        offset += 20
+    jobs, seen = [], set()
+    for query in ("intern", "co-op"):                  # "co-op" catches titles without "intern"
+        offset = 0
+        while offset < WORKDAY_MAX_RESULTS:
+            data = workday_post(url, {"appliedFacets": {}, "limit": 20, "offset": offset,
+                                      "searchText": query})
+            page = data.get("jobPostings", [])
+            for j in page:
+                path = j.get("externalPath", "")
+                if path in seen:
+                    continue
+                seen.add(path)
+                jobs.append({"id": path, "title": j.get("title", ""),
+                             "location": j.get("locationsText", ""),
+                             "url": f"https://{host}/en-US/{site}{path}", "text": "",
+                             "posted": to_epoch(j.get("postedOn"))})
+            if len(page) < 20:
+                break
+            offset += 20
     return jobs
 
 
@@ -787,7 +796,11 @@ def canon_id(url: str) -> str:
     return ""
 
 def in_area(location: str) -> bool:
-    return LOCATION_FILTER == "any" or location_ok(location, CITY_INDEX)
+    if LOCATION_FILTER == "any":
+        return True
+    if LOCATION_FILTER == "us":
+        return us_ok(location, CITY_INDEX)                # anywhere in the United States
+    return location_ok(location, CITY_INDEX)              # only the tech-hub cities
 
 
 # ----------------------------------------------------------------------------
@@ -836,6 +849,16 @@ def save_state(state: dict) -> None:
 # ----------------------------------------------------------------------------
 def _header_safe(s: str) -> str:
     return s.encode("latin-1", "ignore").decode("latin-1")[:200]
+
+
+def alert_text(m: dict) -> tuple[str, str]:
+    """Notification = company + title, then location and when it was posted."""
+    title = f"{m['company']}: {m['title']}"[:180]
+    when = age_text(m.get("age_days")).replace("posted ", "")
+    loc = (m.get("location") or "Location not listed").strip()
+    if len(loc) > 80:
+        loc = loc[:77] + "..."
+    return title, f"📍 {loc} · 🕒 {when}"
 
 
 def notify(title: str, message: str, url: str = "", priority: str = "default",
@@ -1041,11 +1064,8 @@ def run_once() -> None:
         ordered = sorted(new, key=lambda m: (m["label"] != "confirmed", m["company"]))
         failed = []
         for m in ordered[:MAX_INDIVIDUAL_ALERTS]:
-            tag = "2027" if m["label"] == "confirmed" else "year not stated"
-            ok = notify(f"{m['company']}: {m['title']}"[:180],
-                   f"{m['location'] or 'Location N/A'}  ({tag})\n"
-                   f"{age_text(m.get('age_days')).capitalize()} - via {m['source']}. Tap to open.",
-                   url=m["url"], priority="high" if m["label"] == "confirmed" else "default")
+            ok = notify(*alert_text(m), url=m["url"],
+                        priority="high" if m["label"] == "confirmed" else "default")
             if not ok:
                 failed.append(m)
         for m in failed:                                 # not delivered -> try again next run
@@ -1146,9 +1166,11 @@ def recent(days: float, send: bool, skip: float = 0) -> None:
     with ThreadPoolExecutor(MAX_WORKERS) as pool:
         futs = [pool.submit(scan_company, c) for c in companies]
         futs += [pool.submit(scan_source, k, v) for k, v in sources.items()]
+        failed = 0
         for fut in as_completed(futs):
             _, matches, err = fut.result()
             if err:
+                failed += err != "skip"
                 continue
             for m in matches:
                 if not m.get("posted") or m["posted"] < cutoff or m["posted"] > newest:
@@ -1169,7 +1191,10 @@ def recent(days: float, send: bool, skip: float = 0) -> None:
         for m in found:
             w.writerow([age_text(m["age_days"]), m["company"], m["title"], m["location"],
                         m["label"], m["source"], m["url"]])
-    print(f"\n{len(found)} matching job(s) posted {window}:\n")
+    ok = len(companies) + len(sources) - failed
+    print(f"\nChecked {ok} of {len(companies) + len(sources)} successfully"
+          + (f" ({failed} couldn't be reached - try again later)" if failed else "") + ".")
+    print(f"{len(found)} matching job(s) posted {window}:\n")
     for m in found:
         print(f"  [{age_text(m['age_days'])}] {m['company']} - {m['title']} ({m['location'] or 'N/A'})")
         print(f"      {m['url']}")
@@ -1180,11 +1205,8 @@ def recent(days: float, send: bool, skip: float = 0) -> None:
                "Sending each one now - tap any notification to open that job.", tags="inbox_tray")
         print(f"Sending {len(found)} notifications (one per job, spaced out so none get dropped)...")
         for i, m in enumerate(found, 1):
-            tag = "2027" if m["label"] == "confirmed" else "year not stated"
-            notify(f"{m['company']}: {m['title']}"[:180],
-                   f"{m['location'] or 'Location N/A'}  ({tag})\n"
-                   f"{age_text(m['age_days']).capitalize()} - via {m['source']}. Tap to open.",
-                   url=m["url"], priority="high" if m["label"] == "confirmed" else "default")
+            notify(*alert_text(m), url=m["url"],
+                   priority="high" if m["label"] == "confirmed" else "default")
             time.sleep(1 if i < 50 else 5)                # ntfy allows short bursts, then ~1 per 5s
             if i % 10 == 0:
                 print(f"  {i}/{len(found)} sent")
