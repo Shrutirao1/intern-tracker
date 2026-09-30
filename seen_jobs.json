@@ -542,6 +542,7 @@
 "Element Fleet Management",
 "Elevance Health",
 "Elk Valley Resources",
+"Elkay",
 "Ellipsis Labs",
 "Eloquent AI",
 "Elsevier",
@@ -645,6 +646,7 @@
 "Flowserve",
 "Fluency",
 "Fluxergy",
+"Fmr",
 "Foresters Financial",
 "Formlabs",
 "Fortera",
@@ -841,6 +843,7 @@
 "Impiricus",
 "Incident IQ",
 "Inferact",
+"Infobip",
 "Ingram Micro",
 "Ingredion",
 "Inherent",
@@ -1283,6 +1286,7 @@
 "Psu",
 "Pure Storage",
 "Pylon",
+"Pzcussons",
 "Q2",
 "QTS",
 "QuEra Computing",
@@ -1408,6 +1412,7 @@
 "Schonfeld",
 "Schweitzer Engineering Laboratories",
 "Scopely",
+"Scottsmiraclegro",
 "Scout Motors",
 "SeatGeek",
 "Secureframe",
@@ -1658,6 +1663,7 @@
 "University of Virginia",
 "Unlikely AI",
 "Unwrap",
+"Uobgroup",
 "Upbound",
 "Upbound Group",
 "Upstart",
@@ -2499,10 +2505,38 @@
 "title": "2027 Summer Intern - Non Engineering",
 "url": "https://airliquidehr.wd3.myworkdayjobs.com/en-US/AirLiquideExternalCareer/job/Houston-TX-HO---NAM-Corporate/XMLNAME-2027Summer-Intern---Non-Engineering_R10099605"
 },
+"Airbus:/job/Getafe-Area/XMLNAME--Discover-II-2026-2027---AI-models-Internship_JR10410822": {
+"company": "Airbus",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790671785.538819,
+"title": "#Discover II 2026-2027 / AI models Internship",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/XMLNAME--Discover-II-2026-2027---AI-models-Internship_JR10410822"
+},
+"Airbus:/job/Hamburg-Area/Internship-within-Aerodynamic-Machine-Learning--d-f-m-_JR10441101": {
+"company": "Airbus",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585392.545752,
+"title": "Internship within Aerodynamic Machine Learning (d/f/m)",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Internship-within-Aerodynamic-Machine-Learning--d-f-m-_JR10441101"
+},
+"Airbus:/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492": {
+"company": "Airbus",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585387.7035377,
+"title": "Summer Internship 2027 - Data Analytics - Operational Excellence",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492"
+},
 "Airbus:/job/Toulouse-Area/JR10440295-Internship-2027--Data-Analyst-in-Supply-Chain--F-H-_JR10440295": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "JR10440295 Internship 2027_ Data Analyst in Supply Chain (F/H)",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/JR10440295-Internship-2027--Data-Analyst-in-Supply-Chain--F-H-_JR10440295"
+},
+"Airbus:/job/Toulouse-Area/STAGE-2027---Change-Management---AI-Innovation-Intern_JR10440133": {
+"company": "Airbus",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585394.5852084,
+"title": "STAGE 2027 - Change Management & AI Innovation Intern",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/STAGE-2027---Change-Management---AI-Innovation-Intern_JR10440133"
 },
 "Allegion:/job/Carmel-IN/Software-Engineering-Intern---DevOps_JR37379": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -6541,6 +6575,13 @@
 "title": "Technical Intern",
 "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/CHN---DALIAN/Technical-Intern_51589634"
 },
+"DXC Technology:/job/ESP---A---ALICANTE/Technical-Intern_51588664": {
+"company": "DXC Technology",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585248.8101904,
+"title": "Technical Intern",
+"url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/ESP---A---ALICANTE/Technical-Intern_51588664"
+},
 "DXC Technology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Cyber Security Intern",
@@ -7030,10 +7071,24 @@
 "title": "Production Facility Engineering Intern",
 "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5425078008"
 },
+"Ecolab:/job/CHL---Region-Metropolitana-de-Santiago---Santiago/Intern-Data-Science--Divisin-Institucional----Alumnos-as-en-ltimos-aos-de-carrera_R00302819": {
+"company": "Ecolab",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079748.7286851,
+"title": "Intern Data Science (Divisi\u00f3n Institucional) - Alumnos/as en \u00faltimos a\u00f1os de carrera",
+"url": "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/CHL---Region-Metropolitana-de-Santiago---Santiago/Intern-Data-Science--Divisin-Institucional----Alumnos-as-en-ltimos-aos-de-carrera_R00302819"
+},
 "Ecolab:/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research and Development Intern",
 "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540"
+},
+"Ecolab:/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249": {
+"company": "Ecolab",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079748.4558356,
+"title": "Digital & AI Technology Intern",
+"url": "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
 },
 "Edwards Lifesciences:/job/USA-IRV-1472-AltonDBC6-7/Engineering-Co-Op-Program--Spring-Summer-2027_Req-49531": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -7109,6 +7164,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "January 2027 Mining Engineering Co-op",
 "url": "https://jobs.lever.co/evr/f13f9aa0-b346-4399-bb6f-10378d6a5069"
+},
+"Elkay:/job/Erie-PA/Engineering-Intern---Summer-2027_REQ-020092": {
+"company": "Elkay",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790326022.630099,
+"title": "Engineering Intern - Summer 2027",
+"url": "https://elkay.wd1.myworkdayjobs.com/en-US/elkay_external/job/Erie-PA/Engineering-Intern---Summer-2027_REQ-020092"
 },
 "Ellipsis Labs:02136b22-35b1-4b3d-8bef-567c3380a849": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -8108,6 +8170,13 @@
 "title": "PhD Intern, Data Science (2027)",
 "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004"
 },
+"Finastra:/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079": {
+"company": "Finastra",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585324.2236345,
+"title": "AI Engineer Intern (Summer 2027)",
+"url": "https://finastra.wd3.myworkdayjobs.com/en-US/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079"
+},
 "Firetiger:7acf0768-f10d-4650-bcfc-12ed6e5d7cfc": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Product Engineer \u2014 Intern/Co-op",
@@ -8299,6 +8368,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Co-op",
 "url": "https://flowserve.wd1.myworkdayjobs.com/en-US/applied/job/Houston-Texas/Engineering-Co-op_R-21092"
+},
+"Fmr:/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524": {
+"company": "Fmr",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789980400.9608765,
+"title": "Summer 2027 Undergraduate Internship - Software",
+"url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
+},
+"Fmr:/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Systems_2134164": {
+"company": "Fmr",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789980400.9604692,
+"title": "Summer 2027 Undergraduate Internship - Systems",
+"url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Systems_2134164"
 },
 "Forus:82e10191-232e-4e8d-9c5e-cb82940cdfc7": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -9352,6 +9435,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Systems Engineering Intern",
 "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002"
+},
+"Graphcore:8857640002": {
+"company": "Graphcore",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790757804.0,
+"title": "Digital Twin Engineering Intern",
+"url": "https://job-boards.greenhouse.io/graphcore/jobs/8857640002"
 },
 "GrayMatter Robotics:aa7c2419-7bb9-4080-9403-937c4db01bb6": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -10523,6 +10613,27 @@
 "title": "Inference Engineering, Co-op",
 "url": "https://jobs.ashbyhq.com/inferact/2b6032f9-12a5-4083-b5e6-4bec5376cbaa"
 },
+"Infobip:/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104952": {
+"company": "Infobip",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789375627.6154103,
+"title": "Solution Engineering Intern",
+"url": "https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104952"
+},
+"Infobip:/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104953": {
+"company": "Infobip",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789634827.6155562,
+"title": "Solution Engineering Intern",
+"url": "https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104953"
+},
+"Infobip:/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104954": {
+"company": "Infobip",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789375627.6153061,
+"title": "Solution Engineering Intern",
+"url": "https://infobip.wd3.myworkdayjobs.com/en-US/InfobipCareers/job/Sarajevo-BiH/Solution-Engineering-Intern_JR104954"
+},
 "Ingredion:/job/Bedford-Park-IL/Process-Engineering-Co-Op_Req-40269-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Process Engineering Co-Op",
@@ -11381,6 +11492,13 @@
 "title": "Fire Sprinkler Systems Apprentice",
 "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Linthicum-Maryland-United-States-of-America/Fire-Sprinkler-Systems-Apprentice_WD30280682-1"
 },
+"Jones Lang LaSalle:/job/Opa-Locka-FL/Mechatronics-and-Robotics-Apprentice_REQ538541": {
+"company": "Jones Lang LaSalle",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790325970.388195,
+"title": "Mechatronics and Robotics Apprentice",
+"url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Opa-Locka-FL/Mechatronics-and-Robotics-Apprentice_REQ538541"
+},
 "Jones Lang LaSalle:/job/WINDSOR-CT/Mechatronics-and-Robotics-Apprentice_REQ538019": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Mechatronics and Robotics Apprentice",
@@ -11894,6 +12012,13 @@
 "title": "Software Engineer Intern - Hybrid ",
 "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c"
 },
+"Leidos:/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448": {
+"company": "Leidos",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790671471.7630186,
+"title": "Technical Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448"
+},
 "Leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Cybersecurity Engineer Co-op",
@@ -11933,6 +12058,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Naval Architecture Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/New-York-NY/Naval-Architecture-Intern_R-00192491"
+},
+"Leidos:/job/Orlando-FL/Power-Delivery-Engineering-Intern_R-00193096": {
+"company": "Leidos",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585071.7638078,
+"title": "Power Delivery Engineering Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/Power-Delivery-Engineering-Intern_R-00193096"
+},
+"Leidos:/job/Orlando-FL/Power-Delivery-Engineering-Intern_R-00193100": {
+"company": "Leidos",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585071.7637424,
+"title": "Power Delivery Engineering Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/Power-Delivery-Engineering-Intern_R-00193100"
 },
 "Leidos:/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -12224,6 +12363,20 @@
 "title": "Quality Engineering Co-op Student (Winter Term, 23 Month Contract)",
 "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Newmarket-Ontario-CA/Quality-Engineering-Co-op-Student--Winter-Term--23-Month-Contract-_R00258589"
 },
+"Magna International:/job/Northwood-Ohio-US/APQP-Engineering-Co-OP_R00261915": {
+"company": "Magna International",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789548459.5358267,
+"title": "APQP Engineering Co-OP",
+"url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Northwood-Ohio-US/APQP-Engineering-Co-OP_R00261915"
+},
+"Magna International:/job/Northwood-Ohio-US/Automation-Engineering-Co-Op_R00261906": {
+"company": "Magna International",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789548459.535757,
+"title": "Automation Engineering Co-Op",
+"url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Northwood-Ohio-US/Automation-Engineering-Co-Op_R00261906"
+},
 "Magna International:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern - Engineering Software",
@@ -12238,6 +12391,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern - Systems Engineering",
 "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235437"
+},
+"Magna International:/job/Southfield-Michigan-US/Student---Engineering-Co-op_R00261071": {
+"company": "Magna International",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789721259.5358949,
+"title": "Student - Engineering Co-op",
+"url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Southfield-Michigan-US/Student---Engineering-Co-op_R00261071"
 },
 "Man Group:4969142101": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -15482,15 +15642,78 @@
 "title": "Undergraduate Student Researcher \u2013 Fish Behavior",
 "url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-Altoona/Undergraduate-Student-Researcher---Fish-Behavior_REQ_0000082847-1"
 },
+"PennState University:/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079478.9576058,
+"title": "AI/ML Research Support Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1"
+},
+"PennState University:/job/Penn-State-University-Park/Cybersecurity-Assurance-Intern_REQ_0000081843-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079478.491398,
+"title": "Cyber Security Engineer Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Cybersecurity-Assurance-Intern_REQ_0000081843-1"
+},
+"PennState University:/job/Penn-State-University-Park/Engineering-Support-Specialist-Intern_REQ_0000081764-2": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079479.4165351,
+"title": "Engineering Support Specialist Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Engineering-Support-Specialist-Intern_REQ_0000081764-2"
+},
+"PennState University:/job/Penn-State-University-Park/Engineering-Support-Specialist-Intern_REQ_0000082932-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790585070.7784934,
+"title": "Engineering Support Specialist Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Engineering-Support-Specialist-Intern_REQ_0000082932-1"
+},
+"PennState University:/job/Penn-State-University-Park/Lab-Assistant_REQ_0000076665-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079480.79475,
+"title": "NCEMS Undergraduate Research Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Lab-Assistant_REQ_0000076665-1"
+},
 "PennState University:/job/Penn-State-University-Park/Part-Time-Research-Support-Museum-Intern_REQ_0000073007-2": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Part-Time Research Support Museum Intern",
 "url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support-Museum-Intern_REQ_0000073007-2"
 },
+"PennState University:/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079483.1679018,
+"title": "R&D Engineer Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1"
+},
+"PennState University:/job/Penn-State-University-Park/R-D-Engineering-Intern_REQ_0000082183-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788252277.5254734,
+"title": "R&D Engineering Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/R-D-Engineering-Intern_REQ_0000082183-1"
+},
+"PennState University:/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1788079484.7005863,
+"title": "Research Engineering Interns",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1"
+},
 "PennState University:/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000082128": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research and Development Engineer Intern",
 "url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000082128"
+},
+"PennState University:/job/Penn-State-University-Park/Systems-Engineer-Intern_REQ_0000082601-1": {
+"company": "PennState University",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790412270.7789617,
+"title": "Systems Engineer Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Systems-Engineer-Intern_REQ_0000082601-1"
 },
 "Perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f": {
 "company": "Perchwell",
@@ -16118,6 +16341,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer, Intern",
 "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d"
+},
+"Pzcussons:/job/Tangerang/Intern-Engineering_JR003050": {
+"company": "Pzcussons",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790671630.22033,
+"title": "Intern Engineering",
+"url": "https://pzcussons.wd3.myworkdayjobs.com/en-US/CareersPZCussons/job/Tangerang/Intern-Engineering_JR003050"
 },
 "Q2:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -17117,6 +17347,13 @@
 "title": "Professional Internship - Tech",
 "url": "https://richemont.wd3.myworkdayjobs.com/en-US/richemont/job/MOSCAVIDE/Professional-Internship---Tech_JR134086"
 },
+"Richemont:/job/PLAN-LES-OUATES/Data-and-AI-Intern_JR134288": {
+"company": "Richemont",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790671668.0071478,
+"title": "Data and AI Intern",
+"url": "https://richemont.wd3.myworkdayjobs.com/en-US/richemont/job/PLAN-LES-OUATES/Data-and-AI-Intern_JR134288"
+},
 "Richemont:/job/VILLARS-SUR-GLANE/Logistic-Digital---Data-Intern_JR132522": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Logistic Digital & Data Intern",
@@ -17978,6 +18215,13 @@
 "posted": 0,
 "title": "Engineering Intern",
 "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Engineering-Intern_2026-23283"
+},
+"Scottsmiraclegro:/job/Ft-Madison-IA/Engineering---Operations-Internship_R26508": {
+"company": "Scottsmiraclegro",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1789548485.0892289,
+"title": "Engineering & Operations Internship",
+"url": "https://scottsmiraclegro.wd5.myworkdayjobs.com/en-US/SMGExternal/job/Ft-Madison-IA/Engineering---Operations-Internship_R26508"
 },
 "Scout Motors:5249679007": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -20311,6 +20555,20 @@
 "title": "Video and Analytics Intern, Baseball",
 "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706"
 },
+"Uobgroup:/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR96223": {
+"company": "Uobgroup",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790066805.7832425,
+"title": "GenAI and Data Analytics Intern (Jan - Dec 2027)",
+"url": "https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/job/Central-Region-City-Area/GenAI-and-Data-Analytics-Intern--Jan---Dec-2027-_JR96223"
+},
+"Uobgroup:/job/Central-Region-City-Area/Sustainability-Reporting---Data-Analytics-Intern--Jan---Jun-2027-_JR96493": {
+"company": "Uobgroup",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790153205.7833095,
+"title": "Sustainability Reporting & Data Analytics Intern (Jan - Jun 2027)",
+"url": "https://uobgroup.wd3.myworkdayjobs.com/en-US/UOBExternal/job/Central-Region-City-Area/Sustainability-Reporting---Data-Analytics-Intern--Jan---Jun-2027-_JR96493"
+},
 "Upbound Group:/job/Draper-UT/Software-Engineer-Intern_R-100759": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern",
@@ -21019,6 +21277,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research & Development Engineering Intern, Summer 2027",
 "url": "https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Blauvelt-NY/Research---Development-Engineering-Intern--Summer-2027_10017515"
+},
+"Watts Water:/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357": {
+"company": "Watts Water",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790325926.6571822,
+"title": "Systems Engineer Intern Summer 2027",
+"url": "https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Blauvelt-NY/Systems-Engineer-Intern-Summer-2027_10017357"
+},
+"Watts Water:/job/Fort-Myers-FL/Research---Development-Intern--Summer-2027_10017501": {
+"company": "Watts Water",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790325926.6571133,
+"title": "Research & Development Intern, Summer 2027",
+"url": "https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Fort-Myers-FL/Research---Development-Intern--Summer-2027_10017501"
 },
 "Watts Water:/job/Fort-Worth-TX/Production-Engineer-Intern--Summer-2027_10017591": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -22834,6 +23106,13 @@
 "title": "Software Developer Co-op - Full Stack",
 "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007"
 },
+"src:simplify:0e88b223-3137-4971-96be-a636939bea84": {
+"company": "Northrop Grumman",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790726400.0,
+"title": "Embedded Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"
+},
 "src:simplify:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Systems Engineer Intern - University",
@@ -24466,6 +24745,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Cloud Developer Intern - Fcap",
 "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1"
+},
+"src:simplify:2c46894c-6746-42d1-9b54-2735a06d51f6": {
+"company": "Northrop Grumman",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790726400.0,
+"title": "Software Digital Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812"
 },
 "src:simplify:2c773875-aa62-411f-a839-511d6f823d7d": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -28040,6 +28326,13 @@
 "title": "Technology Intern",
 "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673"
 },
+"src:simplify:78c03ab4-f50a-445d-9802-fb785330b50f": {
+"company": "Mastercard",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1787529600.0,
+"title": "Software Engineer Intern",
+"url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
+},
 "src:simplify:78dea16e-7995-4a4e-89c9-002d993054b1": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Electrical Engineering Intern - Embedded",
@@ -29798,6 +30091,13 @@
 "title": "Test Engineering Intern",
 "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537"
 },
+"src:simplify:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e": {
+"company": "AMCA",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790748479.0,
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
+},
 "src:simplify:9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern",
@@ -30280,6 +30580,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Data Platforms",
 "url": "https://www.tesla.com/careers/search/job/283117"
+},
+"src:simplify:a6d20bfd-fd5e-467c-9b88-327066eed625": {
+"company": "RTX",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790640000.0,
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951"
 },
 "src:simplify:a6f02442-de0a-454f-a56f-8462c72d7c74": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -32744,6 +33051,13 @@
 "title": "Software Engineer Intern",
 "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
 },
+"src:simplify:d9192af9-44cc-4afc-bb53-481c9e5acabf": {
+"company": "RTX",
+"first_seen": "2026-09-30T08:44:22+00:00",
+"posted": 1790640000.0,
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411"
+},
 "src:simplify:d925ed37-e2f2-4278-bf34-2d4b8825a49c": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Photonic Integrated Circuits Test Co-op",
@@ -34804,7 +35118,11 @@
 "afterquery|aimlresearchintern": 1790379919.414332,
 "afterquery|softwareengineeringintern": 1790379919.414332,
 "ahead|msinfrastructureintern6months": 1790379919.414332,
+"airbus|discoveriiaimodelsintern": 1790758245.538034,
+"airbus|interndataanalyticsoperationalexcellence": 1790758245.53807,
+"airbus|internwithinaerodynamicmachinelearningdfm": 1790758245.5380983,
 "airbus|jr10440295intern2027dataanalystinsupplychainfh": 1790379919.414332,
+"airbus|stagechangemanagementaiinnovationintern": 1790758245.538127,
 "airliquide|2027summerinternengineering": 1790379919.414332,
 "airliquide|2027summerinternnonengineering": 1790379919.414332,
 "airliquide|alternancedataqualityapprenticefh": 1790379919.414332,
@@ -34864,6 +35182,7 @@
 "ambarella|verificationengineerintern": 1790379919.414332,
 "ambrook|softwareengineeringcoop": 1790379919.414332,
 "ambrook|softwareengineeringintern": 1790379919.414332,
+"amca|softwareengineerintern": 1790758032.4111717,
 "amcor|businessintelligenceintern": 1790379919.414332,
 "amcor|internaiinnovationengineer": 1790379919.414332,
 "amcor|mpiengineeringcoop": 1790379919.414332,
@@ -35612,6 +35931,7 @@
 "dvtrading|softwareengineerinternsummer2027dvcommodities": 1790379919.414332,
 "dxctechnology|cybersecurityintern": 1790379919.414332,
 "dxctechnology|technicalintern": 1790379919.414332,
+"dxc|technicalintern": 1790758084.321083,
 "dynamiccatholic|internfrontenduxintern": 1790379919.414332,
 "dynamiccatholic|internsoftwaredevelopercommercecloud": 1790379919.414332,
 "ecolab|researchanddevelopmentintern": 1790379919.414332,
@@ -35624,6 +35944,7 @@
 "elanco|rdlaboratoryinternrbitechnicaldevelopment": 1790379919.414332,
 "elekta|dataprocessingintern": 1790379919.414332,
 "elekta|softwaresupportintern": 1790379919.414332,
+"elkay|engineeringintern": 1790758029.329884,
 "elkvalleyresources|january2027coalandcokequalitycoopengineeringgeology": 1790379919.414332,
 "elkvalleyresources|january2027geotechnicalgeologicalengineeringcoop": 1790379919.414332,
 "elkvalleyresources|january2027miningengineeringcoop": 1790379919.414332,
@@ -35802,6 +36123,7 @@
 "figma|softwareengineerinternlondonunitedkingdomsummer2027": 1790379919.414332,
 "figma|softwareengineerinternsummer2027": 1790379919.414332,
 "figma|softwareengineerinternwinter2027": 1790379919.414332,
+"finastra|aiengineerintern": 1790758132.134504,
 "firetiger|productengineerinterncoop": 1790379919.414332,
 "firstnationalbank|summer2027aiandinnovationinternpittsburghpa": 1790379919.414332,
 "firstnationalbank|summer2027aimlmodelerintern": 1790379919.414332,
@@ -35839,6 +36161,7 @@
 "flextronicsinternational|softwarequalityengineerintern": 1790379919.414332,
 "flint|engineeringintern": 1790406425.3219082,
 "flowserve|engineeringcoop": 1790379919.414332,
+"fmr|undergraduateinternsystems": 1790758043.520796,
 "forus|engineeringinternfall26springsummer27": 1790379919.414332,
 "fox|foxnewsmediainterndataanalyticsnewyork": 1790571017.05561,
 "fox|foxnewsmediainterntechnicaloperationsnewyork": 1790571017.0555658,
@@ -36025,6 +36348,7 @@
 "graniteconstruction|engineerinternutah": 1790379919.414332,
 "graniteconstruction|plantengineerinternsummer2027": 1790379919.414332,
 "graniteconstruction|projectengineerinternsummer2027": 1790379919.414332,
+"graphcore|digitaltwinengineeringintern": 1790757864.5668113,
 "graphcore|firmwareengineeringintern": 1790379919.414332,
 "graphcore|systemsengineeringintern": 1790379919.414332,
 "graymatterrobotics|airesearchinternfoundationmodels": 1790379919.414332,
@@ -36215,6 +36539,7 @@
 "immuta|productresearchinternsummer2027": 1790379919.414332,
 "incidentio|productengineersummerintern": 1790379919.414332,
 "inferact|inferenceengineeringcoop": 1790379919.414332,
+"infobip|solutionengineeringintern": 1790758040.8991868,
 "ingredion|aidatascientistintern": 1790379919.414332,
 "ingredion|customerinnovationtechnicalserviceinterntexturehealthfulsolutions": 1790379919.414332,
 "ingredion|engineeringintern": 1790379919.414332,
@@ -36448,6 +36773,7 @@
 "leidos|softwaredevelopercoop": 1790379919.414332,
 "leidos|softwaredeveloperintern": 1790379919.414332,
 "leidos|softwaredevelopmentintern": 1790379919.414332,
+"leidos|technicalintern": 1790757933.9533038,
 "levistrauss|analyticsintern": 1790379919.414332,
 "levistrauss|mpimanalyticsintern": 1790379919.414332,
 "lexingtonmedical|qualitysystemsengineeringintern": 1790379919.414332,
@@ -36795,8 +37121,10 @@
 "northropgrumman|2027internsystemssecuritycybersecurityengineer": 1790379919.414332,
 "northropgrumman|2027qualityengineeringinternutah": 1790379919.414332,
 "northropgrumman|2027softwareengineerinternwoodlandhillsca": 1790379919.414332,
+"northropgrumman|embeddedsoftwareengineerintern": 1790758032.411073,
 "northropgrumman|engineeringinternbellevuene": 1790620768.2606487,
 "northropgrumman|engineeringinternelktonmdorpalmbeachgardensflorronkonkomany": 1790424394.0611234,
+"northropgrumman|softwaredigitalintern": 1790758032.4110277,
 "northropgrumman|testengineerintern": 1790725522.2818851,
 "northwesternmutual|actuarialsystemsinternsummer2027": 1790379919.414332,
 "northwoodspace|embeddedsoftwareengineeringintern2027summerintern": 1790379919.414332,
@@ -37036,8 +37364,10 @@
 "pdtpartners|summer2027softwareengineeringintern": 1790379919.414332,
 "pdtpartners|summer2027systemsengineeringintern": 1790379919.414332,
 "pearvc|airesearchinternoptexityusa": 1790725265.3943677,
+"pennstateuniversity|engineeringsupportspecialistintern": 1790757899.1885865,
 "pennstateuniversity|parttimeresearchsupportmuseumintern": 1790379919.414332,
 "pennstateuniversity|researchanddevelopmentengineerintern": 1790379919.414332,
+"pennstateuniversity|systemsengineerintern": 1790757899.18861,
 "pennstateuniversity|undergraduatestudentresearcherfishbehavior": 1790379919.414332,
 "perchwell|dataanalyticsengineeringintern": 1790696044.0790815,
 "perchwell|softwareengineeringintern": 1790696044.0790658,
@@ -37172,6 +37502,7 @@
 "protectivelife|2027businesssystemssummerinternprogram": 1790379919.414332,
 "prysmiancablessystems|engineeringcoop": 1790379919.414332,
 "pylon|softwareengineerintern": 1790379919.414332,
+"pzcussons|internengineering": 1790758031.5294387,
 "q2|2027summerinterndatascience": 1790379919.414332,
 "q2|2027summerinternmachinelearningengineer": 1790379919.414332,
 "q2|2027summerinternsoftwareengineer": 1790379919.414332,
@@ -37250,6 +37581,7 @@
 "rfsmart|productengineeringsoftwaredeveloperinternspringsummer2027": 1790379919.414332,
 "rfsmart|softwaresupportengineerinternnetsuitesummer2027": 1790379919.414332,
 "rhodaai|robotsoftwareengineerintern": 1790725265.1247563,
+"richemont|dataandaiintern": 1790758117.7687287,
 "richemont|dataprojectmanagementintern": 1790379919.414332,
 "richemont|datascientistintern": 1790379919.414332,
 "richemont|logisticdigitaldataintern": 1790379919.414332,
@@ -37414,6 +37746,7 @@
 "schweitzerengineeringlaboratories|rdengineeringintern": 1790379919.414332,
 "schweitzerengineeringlaboratories|softwareengineeringinternpowersystems": 1790379919.414332,
 "schweitzerengineeringlaboratories|softwareengineerintern": 1790379919.414332,
+"scottsmiraclegro|engineeringoperationsintern": 1790758092.5589468,
 "scoutmotors|internengineering": 1790379919.414332,
 "seatgeek|softwareengineerintern": 1790725265.1159549,
 "securianfinancialgroup|datascienceandadvancedanalyticsinternsummer2027": 1790379919.414332,
@@ -37739,6 +38072,8 @@
 "universityoftexasataustin|researchassistantlanguageanddevelopmentinternopentocurrentutstudentsonly": 1790379919.414332,
 "universityoftexasataustin|videoandanalyticsinternbaseball": 1790379919.414332,
 "universitysystemofnewhampshire|researchintern": 1790379919.414332,
+"uobgroup|genaianddataanalyticsinternjandec": 1790758046.6817381,
+"uobgroup|sustainabilityreportingdataanalyticsinternjanjun": 1790758046.681873,
 "upboundgroup|customerperformanceanalyticsintern": 1790379919.414332,
 "upboundgroup|softwareengineerintern": 1790379919.414332,
 "upstart|appliedscientistintern": 1790725265.0022845,
@@ -37893,7 +38228,9 @@
 "wattswater|productionengineerinternsummer2027": 1790379919.414332,
 "wattswater|researchandtechnologycoopjanjun2027": 1790379919.414332,
 "wattswater|researchdevelopmentengineeringinternsummer2027": 1790379919.414332,
+"wattswater|researchdevelopmentintern": 1790757928.246664,
 "wattswater|sustainingengineercoopjanjun2027": 1790379919.414332,
+"wattswater|systemsengineerintern": 1790757928.2467015,
 "waymo|2027summerinternbsmsembeddedsoftwareengineer": 1790379919.414332,
 "waymo|2027summerinternbsmspipelineandtesthealthengineer": 1790379919.414332,
 "waymo|2027summerinternbsmssoftwareengineer": 1790379919.414332,
@@ -38160,6 +38497,7 @@
 "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/Relay-Tech--Carolinas--Internship---Summer-2027_R41170": "Charlotte, NC; Aberdeen, NC; Sanford, NC; Wenwood/Greenville Ops (Greenville SC); Leland, NC; Asheville, NC; Fairfax Ops (Greensboro NC); Oxford, NC; Florence, SC; New Bern, NC; Raleigh, NC; Toddville Complex (Charlotte NC); Garner, NC; Goldsboro, NC",
 "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Plainfield-IN/Relay-Tech--Midwest--Internship---Summer-2027_R41185": "Plainfield, IN; Cincinnati, OH",
 "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540": "USA - Minnesota - Eagan; USA - Illinois - Naperville",
+"https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249": "USA - Minnesota - Saint Paul; USA - Minnesota - Eagan; USA - Illinois - Naperville",
 "https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Engineering-Co-Op-Program--Spring-Summer-2027_Req-49531": "USA IRV-1472 Alton/DBC6-7; USA - Utah \u2013 Salt Lake City",
 "https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530": "USA IRV-1472 Alton/DBC6-7; USA - Utah \u2013 Salt Lake City",
 "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Co-Op-Internship---2027_JR205939": "IN-INDIANAPOLIS, 220 VIRGINIA AVE; GA-ATLANTA, 740 W PEACHTREE ST NW",
@@ -38172,6 +38510,8 @@
 "https://ercot.wd1.myworkdayjobs.com/en-US/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478": "Taylor, TX; Austin, TX",
 "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690": "US FL JAX 347; US GA ATL 201 STE 900; US WI MKE 4900",
 "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512": "US FL JAX 347; US GA ATL 201 STE 900; US WI MKE 4900",
+"https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524": "One Destiny Way, Westlake TX; 100 New Millennium Way, Bldg 1, Durham NC; 245 Summer St, Boston MA",
+"https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Systems_2134164": "One Destiny Way, Westlake TX; 100 New Millennium Way, Bldg 1, Durham NC; 245 Summer St, Boston MA",
 "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Development---Data-Science-Internship_2134404": "200 Seaport Blvd, Boston MA; Jersey City, NJ",
 "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109": "200 Seaport Blvd, Boston MA; Merrimack, NH",
 "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-Op--Data-Analyst_2135233": "Boston, MA; Westlake, TX",
