@@ -65,7 +65,8 @@ MAX_AGE_DAYS = float(os.getenv("MAX_AGE_DAYS", "7"))
 TITLE_DEDUPE_DAYS = 14
 MAX_COMPANIES_PER_RUN = int(os.getenv("MAX_COMPANIES_PER_RUN", "4000"))
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "24"))
-MAX_INDIVIDUAL_ALERTS = 10
+MAX_INDIVIDUAL_ALERTS = int(os.getenv("MAX_INDIVIDUAL_ALERTS", "60"))   # send each job separately up to this many
+ALERT_SPACING_SEC = float(os.getenv("ALERT_SPACING_SEC", "1.1"))        # pause between alerts so ntfy doesn't drop them
 TIMEOUT = 25
 HEADERS = {"User-Agent": "Mozilla/5.0 (student internship tracker; educational project)",
            "Accept-Encoding": "gzip, deflate"}
@@ -149,9 +150,23 @@ TARGET_IN_TEXT_RE = re.compile(
 OTHER_SEASON_RE = re.compile(r"(summer|fall|spring|winter|autumn)\s*(of\s*)?(2025|2026)", re.I)
 
 
+# After normalize(), "Ph.D." -> "ph d" and "PhD/Master's" -> "phd master s".
+PHD_RE = re.compile(r"\b(ph\s*d|doctoral|doctorate)\b")
+# Keep the posting if it ALSO welcomes master's / grad / bachelor's students.
+NON_PHD_LEVEL_RE = re.compile(r"\b(master|masters|master s|ms|grad|graduate|bachelor|bachelors|bachelor s|bs|ba|undergrad|undergraduate)\b")
+
+
+def phd_only(title: str) -> bool:
+    """True if the title names PhD and no other degree level the user qualifies for."""
+    t = normalize(title)
+    return bool(PHD_RE.search(t)) and not NON_PHD_LEVEL_RE.search(t)
+
+
 def title_is_candidate(title: str) -> bool:
-    """Cheap title-only check: intern + tech role, not excluded, not an old year."""
+    """Cheap title-only check: intern + tech role, not excluded, not an old year, not PhD-only."""
     if not INTERN_RE.search(normalize(title)) or not role_matches(title):
+        return False
+    if phd_only(title):
         return False
     return not (OTHER_YEAR_RE.search(title) and TARGET_YEAR not in title)
 
@@ -721,7 +736,7 @@ def classify_post(p: dict) -> str | None:
     if mode == "ats":
         return classify(p["title"], p["text"])
     if mode == "list":                                   # already a curated internship list
-        if not role_matches(p["title"]):
+        if not role_matches(p["title"]) or phd_only(p["title"]):
             return None
         terms = " ".join(p.get("terms") or [])
         if terms and TARGET_YEAR not in terms and TARGET_YEAR not in p["title"]:
@@ -729,7 +744,7 @@ def classify_post(p: dict) -> str | None:
         return "confirmed"
     if mode == "readme":
         t = normalize(p["title"])
-        if not role_matches(p["title"]):
+        if not role_matches(p["title"]) or phd_only(p["title"]):
             return None
         if OTHER_YEAR_RE.search(p["title"]) and TARGET_YEAR not in p["title"]:
             return None
@@ -742,6 +757,8 @@ def classify_post(p: dict) -> str | None:
     if mode == "hn":
         t = normalize(p["text"])
         if not INTERN_RE.search(t) or not (CORE_RE.search(t) or GENERAL_RE.search(t)):
+            return None
+        if PHD_RE.search(t) and not NON_PHD_LEVEL_RE.search(t):
             return None
         if TARGET_YEAR in p["text"]:
             return "confirmed"
@@ -1063,11 +1080,14 @@ def run_once() -> None:
     if new:
         ordered = sorted(new, key=lambda m: (m["label"] != "confirmed", m["company"]))
         failed = []
-        for m in ordered[:MAX_INDIVIDUAL_ALERTS]:
+        batch = ordered[:MAX_INDIVIDUAL_ALERTS]
+        for i, m in enumerate(batch):
             ok = notify(*alert_text(m), url=m["url"],
                         priority="high" if m["label"] == "confirmed" else "default")
             if not ok:
                 failed.append(m)
+            if i < len(batch) - 1:
+                time.sleep(ALERT_SPACING_SEC)            # space out sends to avoid being throttled
         for m in failed:                                 # not delivered -> try again next run
             state["jobs"].pop(m["key"], None)
             title_times.pop(m.get("tk"), None)
@@ -1151,6 +1171,33 @@ def replay(n: int) -> None:
           f"{MAX_AGE_DAYS:g} days and is in your cities.")
 
 
+def _timing_report(timings: list, wall: float) -> None:
+    """Show what took the longest, so slow spots are easy to find."""
+    by_kind = {}
+    for secs, _, kind, err in timings:
+        k = by_kind.setdefault(kind, [0, 0.0, 0])
+        k[0] += 1
+        k[1] += secs
+        k[2] += bool(err and err != "skip")
+    print(f"\n--- Timing: {wall / 60:.1f} minutes total ---")
+    print("  Job system        companies   avg sec   share of time   failed")
+    busy = sum(v[1] for v in by_kind.values()) or 1
+    for kind, (n, secs, bad) in sorted(by_kind.items(), key=lambda kv: -kv[1][1]):
+        print(f"  {kind:<17} {n:>9}   {secs / n:>7.1f}   {100 * secs / busy:>12.0f}%   {bad:>6}")
+    print("  10 slowest:")
+    for secs, name, kind, err in sorted(timings, reverse=True)[:10]:
+        note = "  (failed)" if err and err != "skip" else ""
+        print(f"    {secs:>6.1f}s  {name} [{kind}]{note}")
+    try:
+        with open(BASE_DIR / "recent_timing.csv", "w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f)
+            w.writerow(["seconds", "company", "job_system", "error"])
+            for secs, name, kind, err in sorted(timings, reverse=True):
+                w.writerow([f"{secs:.1f}", name, kind, err or ""])
+    except OSError:
+        pass
+
+
 def recent(days: float, send: bool, skip: float = 0) -> None:
     """List (and optionally send) every matching job posted in the last `days` days."""
     companies = load_companies()
@@ -1163,12 +1210,26 @@ def recent(days: float, send: bool, skip: float = 0) -> None:
     found, seen_urls, seen_titles = [], set(), set()
     if SEEN_FILE.exists():
         WD_LOC_CACHE.update(load_state().get("wd_locations", {}))
+    def timed(kind, fn, arg, *more):
+        t0 = time.time()
+        result = fn(arg, *more)
+        return result, time.time() - t0, kind
+
+    total = len(companies) + len(sources)
+    start, timings, done = time.time(), [], 0
     with ThreadPoolExecutor(MAX_WORKERS) as pool:
-        futs = [pool.submit(scan_company, c) for c in companies]
-        futs += [pool.submit(scan_source, k, v) for k, v in sources.items()]
+        futs = [pool.submit(timed, c["ats"], scan_company, c) for c in companies]
+        futs += [pool.submit(timed, "list source", scan_source, k, v) for k, v in sources.items()]
         failed = 0
         for fut in as_completed(futs):
-            _, matches, err = fut.result()
+            (name, matches, err), secs, kind = fut.result()
+            done += 1
+            timings.append((secs, name, kind, err))
+            if done % 100 == 0 or done == total:
+                elapsed = time.time() - start
+                left = (total - done) * elapsed / done
+                print(f"  {done}/{total} checked, {len(found)} jobs so far "
+                      f"({elapsed / 60:.1f} min elapsed, ~{left / 60:.0f} min left)", flush=True)
             if err:
                 failed += err != "skip"
                 continue
@@ -1191,6 +1252,7 @@ def recent(days: float, send: bool, skip: float = 0) -> None:
         for m in found:
             w.writerow([age_text(m["age_days"]), m["company"], m["title"], m["location"],
                         m["label"], m["source"], m["url"]])
+    _timing_report(timings, time.time() - start)
     ok = len(companies) + len(sources) - failed
     print(f"\nChecked {ok} of {len(companies) + len(sources)} successfully"
           + (f" ({failed} couldn't be reached - try again later)" if failed else "") + ".")
