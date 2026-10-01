@@ -393,6 +393,7 @@
 "Clorox",
 "Cloudflare",
 "Cloudforce",
+"Cnx",
 "CoVar",
 "Cobalt",
 "Cogeco",
@@ -531,6 +532,7 @@
 "ETHGlobal",
 "EV Realty",
 "EarnIn",
+"Ebi",
 "Echodyne",
 "Ecolab",
 "Edwards Lifesciences",
@@ -1217,6 +1219,7 @@
 "PatientPoint",
 "Patreon",
 "Patterson Companies",
+"Paypal",
 "Pear Vc",
 "Pebl",
 "Pendar Technologies",
@@ -1671,6 +1674,7 @@
 "Upbound Group",
 "Upstart",
 "Upvest",
+"Usbank",
 "UserTesting",
 "VEGA Americas",
 "VF",
@@ -1752,6 +1756,7 @@
 "Workato",
 "Workshop",
 "Workstream",
+"Worldvision",
 "Wounded Warrior Project",
 "Woven",
 "Wurl",
@@ -4977,6 +4982,13 @@
 "title": "Cleared Software Engineer Intern - Summer 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999"
 },
+"CACI:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895": {
+"company": "CACI",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790816688.9904869,
+"title": "Software/Network Engineering Intern - Summer 2027",
+"url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
+},
 "CACI:/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern \u2013 Summer 2027",
@@ -4986,6 +4998,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Virginia Tech: Summer 2027 Intern Opportunities",
 "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Nationwide/Virginia-Tech--Summer-2027-Intern-Opportunities_332236"
+},
+"CACI:/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776": {
+"company": "CACI",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730289.6663473,
+"title": "Software Engineer Intern - Summer 2027",
+"url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
 },
 "CACI:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -8754,6 +8773,13 @@
 "title": "GE Vernova - Machine Learning Software Intern - Summer 2027",
 "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Machine-Learning-Software-Intern---Summer-2027_R5050656"
 },
+"GE Vernova:/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1": {
+"company": "GE Vernova",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1789780313.18895,
+"title": "Engineering Intern - Power Conversion & Storage AI Tool Developer  2027",
+"url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+},
 "GE Vernova:/job/Oakbrook-Terrace/GE-Vernova-GSI-Engineering-Intern---Summer-2027_R5052171-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "GE Vernova GSI Engineering Intern - Summer 2027",
@@ -9209,6 +9235,27 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern - Research - Inflammation",
 "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741"
+},
+"Gilead Sciences:/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055565": {
+"company": "Gilead Sciences",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730730.0574784,
+"title": "Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055565"
+},
+"Gilead Sciences:/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055566": {
+"company": "Gilead Sciences",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730730.0575418,
+"title": "Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055566"
+},
+"Gilead Sciences:/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055567": {
+"company": "Gilead Sciences",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730730.0576043,
+"title": "Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI",
+"url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055567"
 },
 "Gilead Sciences:/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -10553,6 +10600,13 @@
 "title": "Engineering Intern",
 "url": "https://idexcorp.wd5.myworkdayjobs.com/en-US/idex_careers/job/Linthicum-Maryland/Engineering-Intern_R-07922"
 },
+"IGS Energy:/job/Ohio-Remote/Software-Engineer-Intern_R6263": {
+"company": "IGS Energy",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730643.0665336,
+"title": "Software Engineer Intern",
+"url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263"
+},
 "IKO:/job/Ashcroft-BC/Engineering-Co-Op_REQ-13935-1": {
 "company": "IKO",
 "first_seen": "2026-09-29T20:04:03+00:00",
@@ -10934,6 +10988,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "IT Technical Advisor I \u2013 4-Month Internship/Co-op (Winter 2027)",
 "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/IT-Technical-Advisor-I---4-Month-Internship-Co-op--Winter-2027-_R155616"
+},
+"Intact:/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-months-internship--Co-op--Winter-2027-_R155972": {
+"company": "Intact",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790817157.4474344,
+"title": "Software Developer I - 4 months internship/ Co-op (Winter 2027)",
+"url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-months-internship--Co-op--Winter-2027-_R155972"
 },
 "Intact:/job/Toronto-Ontario-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155234": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -13145,6 +13206,13 @@
 "title": "Intern: Graduate( Non-Tech)",
 "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Trevoux-Rhne-Alpes-France/Stagiaire-en-Ergonomie-H-F_R65297-2"
 },
+"MegazoneCloud:1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f": {
+"company": "MegazoneCloud",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1789758244.378,
+"title": "Cloud Operations Co-op 2027",
+"url": "https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f"
+},
 "MegazoneCloud:e2889469-cf20-4227-bf24-2a6e885f8dca": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Co-op 2027",
@@ -13503,6 +13571,13 @@
 "title": "Applications Engineering Intern",
 "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/Tolochenaz---Switzerland/Internship-and-New-Graduate-Applications---Switzerland_R-1637"
 },
+"Moog:/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288": {
+"company": "Moog",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730367.3289132,
+"title": "Intern, Artificial Intelligence",
+"url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288"
+},
 "Moog:/job/Buffalo-NY/Intern--Engineering_R-26-19391": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern, Engineering",
@@ -13547,6 +13622,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern, Product Engineering",
 "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Intern--Product-Engineering_R-26-19984"
+},
+"Moog:/job/Torrance-CA/Intern--Software-Engineering_R-26-19948": {
+"company": "Moog",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730367.328979,
+"title": "Intern, Software Engineering",
+"url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948"
 },
 "Moog:/job/Torrance-CA/Intern--Systems-Engineering_R-26-19820-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -16105,6 +16187,13 @@
 "title": "Intern - AI Agent Development",
 "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Beijing/intern_581864"
 },
+"Philips:/job/Best/Internship---AI-Powered-Digital-Daily-Management-for-Quality-Operations_590652": {
+"company": "Philips",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790644178.2029216,
+"title": "Internship - AI-Powered Digital Daily Management for Quality Operations",
+"url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Best/Internship---AI-Powered-Digital-Daily-Management-for-Quality-Operations_590652"
+},
 "Philips:/job/Best/Internship--AI---Automation--non-thesis-_588475": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Internship: AI & Automation (non-thesis)",
@@ -18341,6 +18430,13 @@
 "title": "Software Engineering Intern (Edge) \u2013 Summer 2027",
 "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
 },
+"Salesforce:/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1": {
+"company": "Salesforce",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1788224699.900575,
+"title": "Summer 2027 Intern - Software Engineer",
+"url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
+},
 "Salesforce:/job/Georgia---Atlanta/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359807-2": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Finance Pathways Rotation Analyst (Early Career)",
@@ -20449,10 +20545,24 @@
 "title": "Spatial Data R&D Intern - The Toro Company",
 "url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187"
 },
+"The Toro Company:/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458": {
+"company": "The Toro Company",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730726.2976053,
+"title": "eCommerce Data Analytics Intern - The Toro Company",
+"url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458"
+},
 "The Toro Company:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Robotics System Test Intern - The Toro Company",
 "url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"
+},
+"The Toro Company:/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089": {
+"company": "The Toro Company",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1790730749.1691883,
+"title": "Electrical/software Co-Op - BOSS Snowplow",
+"url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
 },
 "The Toro Company:/job/Perry-OK/GIS-Solution-Engineering-Intern---Ditch-Witch_JR17179": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -21639,6 +21749,13 @@
 "title": "Transmission Engineering Internship Program",
 "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/Warsaw-166-Wiertnicza-TVN/Transmission-Enigeering-Internship-Program_R000106092"
 },
+"Wasabi Technologies:5418393008": {
+"company": "Wasabi Technologies",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1788898456.0,
+"title": "Cloud Tech Support Engineer - Co-op",
+"url": "https://job-boards.greenhouse.io/wasabi/jobs/5418393008"
+},
 "Washpost:/job/DC-Washington-TWP-Headquarters/Newsroom-Summer-Internship-Program-2027--Data-Journalist_JR-90275900": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Newsroom Summer Internship Program 2027: Data Journalist",
@@ -22013,6 +22130,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern (Summer 2027)",
 "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
+},
+"Worldvision:/job/Home-Working-United-States/Impact-Data-Analytics-Intern_JR52640": {
+"company": "Worldvision",
+"first_seen": "2026-10-01T01:04:38+00:00",
+"posted": 1789607333.4955306,
+"title": "Impact Data Analytics Intern",
+"url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Home-Working-United-States/Impact-Data-Analytics-Intern_JR52640"
 },
 "Wurl:4716249006": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -37014,6 +37138,7 @@
 "gileadsciences|internresearchinflammation": 1790379919.414332,
 "gileadsciences|internresearchinflammationbiologyai": 1790379968.2163498,
 "gileadsciences|internresearchinflammationimmunology": 1790379919.414332,
+"gileadsciences|internresearchmedicinalchemistrystructuralbiologychemistryai": 1790817163.9951503,
 "gileadsciences|internresearchoncologybiomarker": 1790379919.414332,
 "gileadsciences|internresearchoncologybiomarkerai": 1790379919.414332,
 "gileadsciences|internresearchpathobiologyai": 1790379919.414332,
@@ -37223,6 +37348,7 @@
 "idex|designengineeringcoopbiopharma": 1790379919.414332,
 "idex|engineeringintern": 1790379919.414332,
 "idme|summerintern2027softwaredevelopmentengineerintern": 1790379919.414332,
+"igsenergy|softwareengineerintern": 1790817067.4796646,
 "iheartmedia|researchintern": 1790379919.414332,
 "iko|corporatereliabilityengineeringcoop": 1790379919.414332,
 "iko|corporatereliabilityengineeringintern": 1790379919.414332,
@@ -37293,6 +37419,7 @@
 "intact|informationsystemsanalyst4monthinterncoopwinter2027": 1790379919.414332,
 "intact|ittechnicaladvisori4monthinterncoopwinter2027": 1790379919.414332,
 "intact|securityanalyst4monthinterncoopwinter2027": 1790379919.414332,
+"intact|softwaredeveloperi4monthsinterncoop": 1790817169.005712,
 "integrafec|springdataanalystintern": 1790379919.414332,
 "integrafec|springdatascientistinternphd": 1790379919.414332,
 "integrafec|springresearchanalystintern": 1790379919.414332,
@@ -37711,6 +37838,7 @@
 "monolithicpowersystems|technicalsolutionengineerintern": 1790379919.414332,
 "moog|engineeringinternprogram": 1790379919.414332,
 "moog|internactuationengineering": 1790379919.414332,
+"moog|internartificialintelligence": 1790816777.7471862,
 "moog|interndesignengineering": 1790379919.414332,
 "moog|internengineering": 1790379919.414332,
 "moog|internproductengineering": 1790379919.414332,
@@ -38128,6 +38256,7 @@
 "philips|internaiapplicationdeveloper": 1790379919.414332,
 "philips|internaiautomationnonthesis": 1790379919.414332,
 "philips|internaiengineerenterpriseaiworkflowautomationplymouthmnsummer2027": 1790379919.414332,
+"philips|internaipowereddigitaldailymanagementforqualityoperations": 1790817063.8357022,
 "philips|interndatascienceformultidimensionalmarketmodelling": 1790379919.414332,
 "philips|interndesignassuranceengineercoloradospringscosummer2027": 1790379919.414332,
 "philips|internembeddedsystemstestautomationengineerbothellwa": 1790638265.0959003,
@@ -38763,6 +38892,7 @@
 "toro|advancedqualityengineeringinternthetorocompany": 1790379919.414332,
 "toro|designengineeringinternexmark": 1790379919.414332,
 "toro|ecommercedataanalyticsintern": 1790725522.2818682,
+"toro|electricalsoftwarecoopbosssnowplow": 1790817156.4060252,
 "toro|embeddedsoftwareengineeringinternthetorocompany": 1790379919.414332,
 "toro|engineeringinternexmark": 1790379919.414332,
 "toro|enterpriseanalyticsinternthetorocompany": 1790379919.414332,
@@ -39038,6 +39168,7 @@
 "workato|internaiengineering": 1790379919.414332,
 "workato|interndataengineering": 1790379919.414332,
 "workshop|softwareengineerinternsummer2027": 1790379919.414332,
+"worldvision|impactdataanalyticsintern": 1790816971.579344,
 "wurl|datascienceintern": 1790379919.414332,
 "xairatherapeutics|aiscientistinterncomputationalproteindesign": 1790379919.414332,
 "xantium|quantitativedeveloperintern": 1790379919.414332,
@@ -39449,6 +39580,7 @@
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
 "https://ryan.wd1.myworkdayjobs.com/en-US/Students-Graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1": "London; Media City",
 "https://ryancompanies.wd5.myworkdayjobs.com/en-US/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961": "",
+"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1": "California - San Francisco; California - Palo Alto; New York - New York; Washington - Seattle; Massachusetts - Burlington; Washington - Bellevue; Georgia - Atlanta; Indiana - Indianapolis",
 "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1": "Santa Clara, California, United States; Austin, Texas, United States; Berkeley, California, United States; Boston, Massachusetts, United States",
 "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101292": "Santa Clara, California, United States; Austin, Texas, United States; Berkeley, California, United States; Boston, Massachusetts, United States",
 "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/CAONMississauga2251-Speakman-Drive/Student-Engineering-Co-op-Intern_R-165131-1": "CA.ON.Mississauga.2251 Speakman Drive; CA.ON.Pickering.1340 Pickering Parkway",
