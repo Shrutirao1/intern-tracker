@@ -1201,13 +1201,37 @@ def _timing_report(timings: list, wall: float) -> None:
         pass
 
 
-def recent(days: float, send: bool, skip: float = 0) -> None:
+SEASON_WORDS = {"spring", "summer", "fall", "autumn", "winter"}
+
+
+def season_match(m: dict, want: str) -> bool:
+    """True if a posting fits the requested season.
+
+    Keeps postings that name the wanted season (incl. combos like 'spring/summer')
+    AND postings that name no season at all (season often lives only in the body).
+    Drops postings that clearly name only other seasons.
+    """
+    if not want:
+        return True
+    want = want.lower()
+    text = f"{m.get('title','')} {m.get('text','')} {' '.join(m.get('terms',[]) or [])}".lower()
+    seasons_present = {w for w in SEASON_WORDS if re.search(rf"\b{w}\b", text)}
+    if want in seasons_present:
+        return True
+    if not seasons_present:
+        return True                                      # no season stated -> don't hide it
+    return False                                         # only other seasons named
+
+
+def recent(days: float, send: bool, skip: float = 0, season: str = "") -> None:
     """List (and optionally send) every matching job posted in the last `days` days."""
     companies = load_companies()
     sources = load_sources()
     cutoff = time.time() - days * 86400
     newest = time.time() - skip * 86400                  # --skip: leave out the most recent days
     window = f"between {skip:g} and {days:g} days ago" if skip else f"in the last {days:g} day(s)"
+    if season:
+        window += f", {season.capitalize()} 2027"
     print(f"Checking all {len(companies)} companies + {len(sources)} extra sources "
           f"for jobs posted {window}... (takes a few minutes)")
     found, seen_urls, seen_titles = [], set(), set()
@@ -1238,6 +1262,8 @@ def recent(days: float, send: bool, skip: float = 0) -> None:
                 continue
             for m in matches:
                 if not m.get("posted") or m["posted"] < cutoff or m["posted"] > newest:
+                    continue
+                if not season_match(m, season):
                     continue
                 u, cid, tk = norm_url(m["url"]), canon_id(m["url"]), title_key(m["company"], m["title"])
                 if (u and u in seen_urls) or (cid and cid in seen_urls) or tk in seen_titles:
@@ -1285,6 +1311,8 @@ def main() -> None:
     ap.add_argument("--recent", type=float, metavar="DAYS",
                     help="list every matching job posted in the last DAYS days (1 = today)")
     ap.add_argument("--send", action="store_true", help="with --recent: also send them to your phone")
+    ap.add_argument("--season", type=str, default="", metavar="SEASON",
+                    help="with --recent: keep only a season, e.g. spring / summer / fall / winter")
     ap.add_argument("--skip", type=float, default=0, metavar="DAYS",
                     help="with --recent: leave out jobs from the most recent DAYS days")
     ap.add_argument("--replay", type=int, metavar="N",
@@ -1293,7 +1321,7 @@ def main() -> None:
     args = ap.parse_args()
 
     if args.recent:
-        recent(args.recent, args.send, args.skip)
+        recent(args.recent, args.send, args.skip, args.season.strip().lower())
     elif args.replay:
         replay(args.replay)
     elif args.test_notify:
