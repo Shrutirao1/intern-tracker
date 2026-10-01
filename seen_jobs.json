@@ -41,6 +41,7 @@
 "Ad Council",
 "Ada",
 "Adaptive Security",
+"Adient",
 "Adobe",
 "Advance Auto Parts",
 "Advanced Space",
@@ -462,6 +463,7 @@
 "DRW",
 "DV Trading",
 "DXC Technology",
+"Daikinapplied",
 "Daimler Truck",
 "Dairyland Power Cooperative",
 "Dallas Fort Worth International Airport",
@@ -498,6 +500,7 @@
 "Dimensional Fund Advisors",
 "Direct Supply",
 "Discord",
+"Disney",
 "Ditto AI",
 "Divergent",
 "Diversified Automation",
@@ -692,6 +695,7 @@
 "Garda Capital Partners",
 "Garner Health",
 "Gartner",
+"Gdit",
 "Gecko Robotics",
 "Geico",
 "Geisinger",
@@ -709,6 +713,7 @@
 "General Matter",
 "General Motors",
 "Genesis Molecular AI",
+"Genesys",
 "Geneva Trading",
 "Genmab",
 "Genpact",
@@ -732,6 +737,7 @@
 "Globalization Partners",
 "Globus Medical",
 "Glydways",
+"Gnw",
 "GoDaddy",
 "GoLinks",
 "GoMaterials",
@@ -754,6 +760,7 @@
 "GreatAmerica Financial Services",
 "Greenheck Group",
 "Greenlight",
+"Greif",
 "Greystar Worldwide",
 "Gritt Robotics Inc",
 "Group 1001",
@@ -838,6 +845,7 @@
 "ITERRA",
 "IVX Health",
 "IXL Learning",
+"Ia",
 "Iberdrola Group",
 "Ibility",
 "Ideas United",
@@ -968,6 +976,7 @@
 "Levi Strauss & Co.",
 "Lexeo Therapeutics",
 "Lexington Medical",
+"LexisNexis Legal & Professional",
 "LexisNexis Risk Solutions",
 "Lightcast",
 "Lightmatter",
@@ -1012,6 +1021,7 @@
 "Magnet Forensics",
 "Major League Baseball",
 "Man Group",
+"Manulife",
 "Manulife Financial",
 "Maple Leaf Sports & Entertainment Partnership (MLSE)",
 "Marathon Petroleum",
@@ -1208,6 +1218,7 @@
 "Palmetto Clean Technology",
 "Palo Alto Networks",
 "Papa John's",
+"Papedawson",
 "Parachute Health",
 "Parallel Systems",
 "Parallel Web Systems",
@@ -1257,6 +1268,7 @@
 "Pluralis Research",
 "Pluralsight",
 "PlusAI",
+"Pnc",
 "Podium",
 "Point C",
 "Point72",
@@ -1764,6 +1776,7 @@
 "XPENG Motors",
 "Xaira Therapeutics",
 "Xantium",
+"Xboxgaming",
 "Xcel Energy",
 "Xcimer Energy",
 "Xsolla",
@@ -2192,6 +2205,13 @@
 "title": "Field Tehcnical Engineer Internship - EP - Galicia",
 "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Spain---Madrid/Field-Tehcnical-Engineer-Internship---EP---Galicia_31154346"
 },
+"Abbott:/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025": {
+"company": "Abbott",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821745.1416438,
+"title": "2027 Winter Graduate Co-op - Clinical Affairs AI/ML",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025"
+},
 "Abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern, Spring",
@@ -2553,6 +2573,13 @@
 "title": "2027 Summer Software, Data & AI Engineering Interns",
 "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480"
 },
+"Allegion:/job/Carmel-IN/Enterprise-AI-Platform-Associate-Apprentice_JR37319-1": {
+"company": "Allegion",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821829.0974207,
+"title": "Enterprise AI Platform Associate Apprentice",
+"url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Enterprise-AI-Platform-Associate-Apprentice_JR37319-1"
+},
 "Allegion:/job/Carmel-IN/Software-Engineering-Intern---DevOps_JR37379": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer Intern - Software Engineering - DevOps",
@@ -2587,6 +2614,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer Intern - Software Engineering",
 "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1"
+},
+"Allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1": {
+"company": "Allegion",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821828.5624077,
+"title": "Summer Intern - Software Engineering - Quality Assurance",
+"url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"
 },
 "Allegion:/job/Greenfield-IN---West-350N/Summer-Intern---Process-Engineering_JR37335-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -6700,6 +6734,34 @@
 "title": "Internship: Solution Developer",
 "url": "https://damen.wd3.myworkdayjobs.com/en-US/damen_careers/job/Gorinchem/Internship--Solution-Developer_JR0018136"
 },
+"Danaher:/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675": {
+"company": "Danaher",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790130443.3556066,
+"title": "IT Data Analyst Intern",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675"
+},
+"Danaher:/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1316911": {
+"company": "Danaher",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1788920846.931016,
+"title": "Software Engineering Intern",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1316911"
+},
+"Danaher:/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747": {
+"company": "Danaher",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790648841.6013918,
+"title": "Software Engineering Intern",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747"
+},
+"Danaher:/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525": {
+"company": "Danaher",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1789093645.767497,
+"title": "Data Analytics Intern Summer 2027",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"
+},
 "Dark Wolf Solutions:7994056003": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Virginia Tech College Fair - Internship",
@@ -6882,6 +6944,20 @@
 "title": "Software Engineer Intern",
 "url": "https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559"
 },
+"Disney:/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010": {
+"company": "Disney",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790562564.3071735,
+"title": "Data Analyst Intern, Global Security Control Center, Spring 2027",
+"url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010"
+},
+"Disney:/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237": {
+"company": "Disney",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790648963.903946,
+"title": "FX Original Programming Intern, Spring 2027",
+"url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/FX-Original-Programming-Intern--Spring-2027_10161237"
+},
 "Divergent:5350151008": {
 "company": "Divergent",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -6932,6 +7008,13 @@
 "posted": 1790364026.0,
 "title": "Machine Learning Intern (PhD) - Summer 2027",
 "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953"
+},
+"Dow Chemical Company:/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792": {
+"company": "Dow Chemical Company",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821634.9789186,
+"title": "Data Engineer / Data Platform Engineer Internship Spring 2027 Semester at the Dow Delivery Center at UIUC (Champaign, IL)",
+"url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792"
 },
 "Dow Chemical Company:/job/Midland-MI-USA/Local-College-Co-op--Consumers-Solution-Capital-Engineering-Admin-Support_R2068203": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -8877,6 +8960,76 @@
 "title": "Data Analyst Internship (2028 Graduates)",
 "url": "https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297"
 },
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790476160.0773237,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Data Science and Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790476160.0772576,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Software Development and Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228940": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790476160.0774558,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Software Development and Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228940"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228941": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790476160.0771918,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Software Development and Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228941"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229141": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790476160.0771246,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Software Development and Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229141"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229142": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790476160.0773904,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Software Development and Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229142"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229143": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790476160.0770578,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Software Development and Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229143"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790216960.0769172,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI Network Engineering Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790216960.0767255,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 Generative AI Software Development Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2": {
+"company": "Gdit",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790216960.0768168,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 Software Development Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2"
+},
 "Gecko Robotics:01138338-ff3c-4982-8ba3-5401386bf082": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Full Stack Software Engineering Intern",
@@ -10562,6 +10715,13 @@
 "posted": 1790638220.063423,
 "title": "Data Engineering & Visualization Internship",
 "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/en-US/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441"
+},
+"ICF International:/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1": {
+"company": "ICF International",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790735239.794802,
+"title": "2027 Summer Intern, AI Engineer (Reston, VA)",
+"url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
 },
 "ICF International:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252": {
 "company": "ICF International",
@@ -12398,6 +12558,20 @@
 "title": "Quality Systems Engineering Intern ",
 "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5434143008"
 },
+"LexisNexis Legal & Professional:/job/USA---Raleigh-NC-RDU/Data-Science-Internship_R118691-1": {
+"company": "LexisNexis Legal & Professional",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1789612189.4811354,
+"title": "Data Science Internship",
+"url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/USA---Raleigh-NC-RDU/Data-Science-Internship_R118691-1"
+},
+"LexisNexis Legal & Professional:/job/USA---Raleigh-NC-RDU/Software-Engineer-Internship_R118692": {
+"company": "LexisNexis Legal & Professional",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1789612189.4812305,
+"title": "Software Engineer Internship",
+"url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/USA---Raleigh-NC-RDU/Software-Engineer-Internship_R118692"
+},
 "Lila Sciences:4280811009": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Co-Op, Data Extraction",
@@ -12813,6 +12987,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer Intern 2027 - Data & Analytics (8 Months)",
 "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/XMLNAME-2027-Summer-Co-op---Data---Analytics--8-Months-_JR26081977"
+},
+"Manulife:/job/Quezon-City/Automation--Software-Technical-Analysis-Intern_JR26061506": {
+"company": "Manulife",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1788143365.4889839,
+"title": "Automation: Software Technical Analysis Intern",
+"url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Quezon-City/Automation--Software-Technical-Analysis-Intern_JR26061506"
 },
 "Maricopa Association of Governments:/job/Phoenix-AZ/Socioeconomic-Data-Intern_JR24": {
 "company": "Maricopa Association of Governments",
@@ -15120,10 +15301,38 @@
 "title": "2027 Intern - Systems Security/Cybersecurity Engineer",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418"
 },
+"Northrop Grumman:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821597.7067518,
+"title": "2027 Cyber Software Engineer Intern - Tampa FL",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
+},
 "Northrop Grumman:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electronics-Engineering-Internship---Rolling-Meadows-IL_R10252818": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "2027 Electronics Engineering Internship - Rolling Meadows IL",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electronics-Engineering-Internship---Rolling-Meadows-IL_R10252818"
+},
+"Northrop Grumman:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821598.8239691,
+"title": "2027 Embedded Software Engineer Intern \u2013 Rolling Meadows IL",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"
+},
+"Northrop Grumman:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821598.8241587,
+"title": "2027 Software Digital Intern - Rolling Meadows IL",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812"
+},
+"Northrop Grumman:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821598.063903,
+"title": "2027 Software Engineer Intern - Rolling Meadows IL",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
 },
 "Northrop Grumman:/job/United-States-Maryland-Elkton/XMLNAME-2027-Engineering-Intern---Elkton-MD-or-Palm-Beach-Gardens-FL-or-Ronkonkoma-NY_R10252405": {
 "company": "Northrop Grumman",
@@ -15132,6 +15341,13 @@
 "title": "2027 Engineering Intern - Elkton MD or Palm Beach Gardens FL or Ronkonkoma NY",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2027-Engineering-Intern---Elkton-MD-or-Palm-Beach-Gardens-FL-or-Ronkonkoma-NY_R10252405"
 },
+"Northrop Grumman:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790735200.373629,
+"title": "2027 Software Engineer Intern - Linthicum Maryland",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+},
 "Northrop Grumman:/job/United-States-Nebraska-Bellevue/XMLNAME-2027-Engineering-Intern---Bellevue--NE-_R10252793": {
 "company": "Northrop Grumman",
 "first_seen": "2026-09-28T18:36:54+00:00",
@@ -15139,10 +15355,24 @@
 "title": "2027 Engineering Intern - Bellevue (NE)",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/XMLNAME-2027-Engineering-Intern---Bellevue--NE-_R10252793"
 },
+"Northrop Grumman:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821598.0640407,
+"title": "2027 Software Engineer Intern - Morrisville NC",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
+},
 "Northrop Grumman:/job/United-States-Utah-Corinne/XMLNAME-2027-Quality-Engineering-Intern---Utah_R10252909": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "2027 Quality Engineering Intern - Utah",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Quality-Engineering-Intern---Utah_R10252909"
+},
+"Northrop Grumman:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790821598.4172971,
+"title": "2027 Software Engineering Intern Dulles VA",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
 },
 "Northwestern Mutual:/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -23359,6 +23589,13 @@
 "title": "Software Engineer Co-op - Backend",
 "url": "http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true"
 },
+"src:simplify:080ae983-f3c6-404a-9df2-ba7e7c54506e": {
+"company": "Tesla",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790817862.0,
+"title": "Data Engineer Intern - Data Engineer - Applications Engineering",
+"url": "https://www.tesla.com/careers/search/job/285179"
+},
 "src:simplify:081c3f7a-8349-45b9-a41b-8cf97ca466ba": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Digital Experience Information Systems Intern",
@@ -23529,6 +23766,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Fullstack",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"
+},
+"src:simplify:0bb25d49-891c-45e8-9504-1d5c8d923aa3": {
+"company": "Tesla",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790817854.0,
+"title": "Commercial UI Software Engineer Intern",
+"url": "https://www.tesla.com/careers/search/job/285202"
 },
 "src:simplify:0bd3b5e2-7522-4160-93d9-aa94c49da2cd": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -26637,6 +26881,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Embedded Software Engineer Intern - Steering - Chassis Systems",
 "url": "https://www.tesla.com/careers/search/job/282248"
+},
+"src:simplify:48975da5-2bb2-4457-8702-de4898cd805e": {
+"company": "Stripe",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790806682.0,
+"title": "Software Engineer Intern",
+"url": "https://stripe.com/jobs/search?gh_jid=8241260"
 },
 "src:simplify:48c0bb4b-9270-49f7-8ef8-72f592c37b0a": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -31781,6 +32032,13 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail"
 },
+"src:simplify:aee0379e-2573-4cfb-b9b3-e212ca032e4a": {
+"company": "Rivian",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790817593.0,
+"title": "Software Engineer Intern Co-op - Applied AI",
+"url": "https://careers.rivian.com/jobs/33984?icims=1"
+},
 "src:simplify:af103bac-eb95-46b7-94e6-06439a9bd98c": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Engineering Intern",
@@ -32386,6 +32644,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - IT",
 "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178"
+},
+"src:simplify:bb3c5751-35bc-4618-83e8-1af1b888f533": {
+"company": "Rivian",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790817248.0,
+"title": "Engineer Intern Co-op - ML Compilers",
+"url": "https://careers.rivian.com/jobs/33829?icims=1"
 },
 "src:simplify:bb4f5a3e-e4a4-465b-a9e1-fe07bfe342d3": {
 "company": "Marvell",
@@ -34114,6 +34379,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern",
 "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"
+},
+"src:simplify:df5171fa-1ddf-43a0-ad02-00788d2705f3": {
+"company": "Tesla",
+"first_seen": "2026-10-01T02:26:30+00:00",
+"posted": 1790817569.0,
+"title": "Data Engineer Intern - Data Engineering & Business Intelligence",
+"url": "https://www.tesla.com/careers/search/job/285291"
 },
 "src:simplify:df848f9e-ca3e-4ea9-ac5c-e1e9596730ba": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -35942,6 +36214,8 @@
 "airliquide|alternancedataqualityapprenticefh": 1790379919.414332,
 "airliquide|internengineerdocumentationtrainee": 1790379919.414332,
 "alcon|softwaredataaiengineeringinterns": 1790799045.5141528,
+"allegion|enterpriseaiplatformassociateapprentice": 1790821842.2945032,
+"allegion|internsoftwareengineeringqualityassurance": 1790821842.2944663,
 "allegion|summerinterncoatingsprocessengineering": 1790379919.414332,
 "allegion|summerinterncontrolsengineering": 1790379919.414332,
 "allegion|summerinternengineeringopexdistribution": 1790379919.414332,
@@ -36666,6 +36940,7 @@
 "dallasfortworthinternationalairport|2027undergraduatesummerinterncustomerexperienceinsightsanalytics": 1790379919.414332,
 "dallasfortworthinternationalairport|undergraduateinternenterprisedataanalytics": 1790811935.543189,
 "damen|internsolutiondeveloper": 1790725519.9152157,
+"danaher|softwareengineeringintern": 1790821671.3607326,
 "dandy|phdresearchintern": 1790811935.5429115,
 "dandy|softwareengineeringintern": 1790811935.542935,
 "darkwolfsolutions|virginiatechcollegefairintern": 1790379919.414332,
@@ -37023,6 +37298,8 @@
 "gartner|dataanalystintern2028graduates": 1790379919.414332,
 "gcmgrosvenor|2027arsresearchsummerintern": 1790379919.414332,
 "gcmgrosvenor|2027funddatareportingandanalyticssummerintern": 1790379919.414332,
+"gdit|gditinternaimldatascienceandengineeringintern": 1790821760.9286747,
+"gdit|gditinternaimlsoftwaredevelopmentandengineeringintern": 1790821760.9283445,
 "geaerospace|aircraftenginesprognosticsandhealthmanagementdataanalystengineerintern": 1790379919.414332,
 "geaerospace|appliedaiengineerinternsummer2027mayjunestart": 1790379919.414332,
 "geaerospace|edisonworksengineeringinternaerodesignussummer2027": 1790379919.414332,
@@ -37696,6 +37973,7 @@
 "manulifefinancial|wintercoop2027dataengineering": 1790379919.414332,
 "manulifefinancial|wintercoop2027softwareengineering": 1790379919.414332,
 "manulifefinancial|wintercoop2027softwareengineering8months": 1790379919.414332,
+"manulife|automationsoftwaretechnicalanalysisintern": 1790821769.748775,
 "maricopaassociationofgovernments|socioeconomicdataintern": 1790735046.4010565,
 "marmonholdings|aiintern": 1790379919.414332,
 "marmonholdings|automationcontinuousimprovementengineeringintern": 1790379919.414332,
@@ -37981,6 +38259,7 @@
 "northropgrumman|engineeringinternbellevuene": 1790620768.2606487,
 "northropgrumman|engineeringinternelktonmdorpalmbeachgardensflorronkonkomany": 1790424394.0611234,
 "northropgrumman|softwaredigitalintern": 1790758032.4110277,
+"northropgrumman|softwareengineeringinterndullesva": 1790821620.9755468,
 "northropgrumman|softwareengineerintern": 1790811935.5429845,
 "northropgrumman|testengineerintern": 1790725522.2818851,
 "northwesternmutual|actuarialsystemsinternsummer2027": 1790379919.414332,
@@ -38463,6 +38742,8 @@
 "risepoint|analyticssolutionscoop": 1790725522.2819462,
 "rivianandvolkswagen|embeddedsystemssoftwareengineeringinternjanuaryaugust": 1790712471.5720868,
 "rivian|engineeringinterncoopmachinelearninghardware": 1790811935.5425775,
+"rivian|engineerinterncoopmlcompilers": 1790821791.7596283,
+"rivian|softwareengineerinterncoopappliedai": 1790821791.759587,
 "roam|engineeringintern": 1790379919.414332,
 "robinhood|brokerageriskanalystinternsummer2027": 1790379919.414332,
 "robinhood|businessanalystinternsummer2027": 1790379919.414332,
@@ -38845,6 +39126,9 @@
 "tesla|aihardwaredesignverificationengineerinternaihardwareteslaai": 1790725522.2817924,
 "tesla|aihardwarertldesignengineerinternaihardware": 1790725522.2818296,
 "tesla|aihardwaresignalpowerintegrityengineerinternaihardware": 1790725522.2818487,
+"tesla|commercialuisoftwareengineerintern": 1790821791.7595396,
+"tesla|dataengineerinterndataengineerapplicationsengineering": 1790821791.759565,
+"tesla|dataengineerinterndataengineeringbusinessintelligence": 1790821791.7596083,
 "tesla|embeddedsoftwaredeveloperinternvehiclesuspension": 1790735069.762472,
 "tesla|embeddedsoftwareengineerinternsilicondevelopment": 1790735069.762232,
 "tesla|mobileapplicationsoftwareengineerinternenergyengineering": 1790406425.32182,
@@ -39415,6 +39699,7 @@
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353": "Markham, Ontario, Canada; Oshawa, Ontario, Canada",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513": "Warren, Michigan, United States of America; Austin Technical Center - Austin Technical Center; Mountain View Technical Center - Mountain View Technical Center; Milford, Michigan, United States of America",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546": "Warren, Michigan, United States of America; GM Financial - Seattle Branch 2 - GM Financial - Seattle Branch 2; Austin, Texas, United States of America; Milford, Michigan, United States of America; Mountain View, California, United States of America",
+"https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Ontario-Canada/Software-Developer-Intern--Analytics_JR112099-1": "Ontario, Canada; Toronto (Flexible)",
 "https://granite.wd1.myworkdayjobs.com/en-US/careers/job/Tucson-Arizona/Engineer-Intern---AZ--2027_R0000008207": "Tucson, Arizona; Tempe, Arizona",
 "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Data-Governance-Analyst-Intern_JR1242": "Cedar Rapids, IA; Des Moines, IA",
 "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK---West-Sussex---Worthing/Data---Analytics--Multiple-Roles-and-Locations--Industrial-Placement--UK-2027_446647": "UK - West Sussex - Worthing; Ware",
@@ -39463,6 +39748,8 @@
 "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772": "Louisville, KY; Fort Lauderdale, FL; Chicago, IL; Arlington, VA; New York, NY; Nashville, TN",
 "https://huntington.wd12.myworkdayjobs.com/en-US/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876": "Austin, TX; Columbus, OH; Chicago, IL",
 "https://huntington.wd12.myworkdayjobs.com/en-US/HNBcareers/job/Columbus-OH/Summer-2027-Data-and-Analytics-Internship_R0075377": "Columbus, OH; Detroit, MI; Charlotte, NC; Dallas, TX",
+"https://ia.wd3.myworkdayjobs.com/en-US/Professional/job/Quebec-Quebec/Stagiaire---Dveloppeur-euse-_JR10027589": "Quebec, Quebec; Montreal, Quebec",
+"https://ia.wd3.myworkdayjobs.com/en-US/Professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": "Quebec, Quebec; Montreal, Quebec; Vancouver, British Columbia",
 "https://iberdrola.wd3.myworkdayjobs.com/en-US/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Engineering---Project-Delivery-Internship-Program_R-32746": "",
 "https://iberdrola.wd3.myworkdayjobs.com/en-US/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747": "",
 "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252": "Reston, VA; Nationwide Remote Office (US99); Denver, CO",
@@ -39575,6 +39862,8 @@
 "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Technical-Product-Intern_R-059526-1": "Raleigh; Boston; Durham",
 "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Waterford-City/Software-Engineering-Internship--Ireland-_R-059589": "Waterford City; Dublin - MSO",
 "https://regalrexnord.wd1.myworkdayjobs.com/en-US/careers/job/Milwaukee-Wisconsin-United-States/Engineering-Summer-Intern_R26_04578-2": "Milwaukee, Wisconsin, United States; Union Grove, Wisconsin, United States; East Aurora, New York, United States; Radford, Virginia, United States; Stuarts Draft, Virginia, United States; Charlotte, North Carolina, United States; Columbia City, Indiana, United States; New Hartford, Connecticut, United States; Monticello, Indiana, United States; Erie, Pennsylvania, United States; Arlington, Texas, United States; Simi Valley, California, United States; Downers Grove, Illinois, United States",
+"https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/USA---Raleigh-NC-RDU/Data-Science-Internship_R118691-1": "USA - Raleigh, NC (RDU); North Carolina",
+"https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/USA---Raleigh-NC-RDU/Software-Engineer-Internship_R118692": "USA - Raleigh, NC (RDU); North Carolina",
 "https://revantage.wd1.myworkdayjobs.com/en-US/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR104315": "Remote - Illinois; Remote - USA",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
