@@ -57,6 +57,7 @@ NTFY_TOPIC = os.getenv("NTFY_TOPIC", "").strip()   # .strip() removes stray spac
 NTFY_SERVER = (os.getenv("NTFY_SERVER", "") or "https://ntfy.sh").strip().rstrip("/")
 CHECK_INTERVAL_MIN = int(os.getenv("CHECK_INTERVAL_MIN", "30"))
 STRICT_MODE = os.getenv("STRICT_MODE", "0") == "1"      # 1 = only postings that say 2027
+STRICT_ROLE = os.getenv("STRICT_ROLE", "1") == "1"      # 1 = require a real SWE/ML/AI/DS word (ignore vague "research"/"analyst")
 # LOCATION_FILTER: "hubs" = US tech hubs + US-remote (default), "any" = anywhere
 LOCATION_FILTER = os.getenv("LOCATION_FILTER", "us").lower()   # "us", "hubs" or "any"
 # Only alert for postings published within this many days (older ones are recorded silently).
@@ -137,6 +138,8 @@ def role_matches(title: str) -> bool:
         return False
     if CORE_RE.search(t):
         return True
+    if STRICT_ROLE:
+        return False                                     # strict: only explicit tech roles count
     return bool(GENERAL_RE.search(t)) and not OTHER_FIELD_RE.search(t)
 
 
@@ -756,7 +759,7 @@ def classify_post(p: dict) -> str | None:
         return None                                      # full-time post that only mentions interns in passing
     if mode == "hn":
         t = normalize(p["text"])
-        if not INTERN_RE.search(t) or not (CORE_RE.search(t) or GENERAL_RE.search(t)):
+        if not INTERN_RE.search(t) or not (CORE_RE.search(t) or (not STRICT_ROLE and GENERAL_RE.search(t))):
             return None
         if PHD_RE.search(t) and not NON_PHD_LEVEL_RE.search(t):
             return None

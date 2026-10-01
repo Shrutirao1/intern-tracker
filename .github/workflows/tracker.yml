@@ -37,7 +37,7 @@ jobs:
           STRICT_MODE: "0"
           CHECK_INTERVAL_MIN: "5"
           LOCATION_FILTER: "us"           # "us" = anywhere in the US, "hubs" = tech-hub cities only
-          MAX_AGE_DAYS: "7"               # only alert for postings from the last 7 days
+          MAX_AGE_DAYS: "7"               # GitHub auto-alerts: only postings from the last 7 days
           MAX_COMPANIES_PER_RUN: "3000"
           MAX_WORKERS: "48"
           WORKDAY_CONCURRENCY: "4"      # Workday refuses too many requests at once
