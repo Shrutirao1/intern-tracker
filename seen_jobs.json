@@ -16666,6 +16666,27 @@
 "title": "Research Intern (BS/MS/PhD)",
 "url": "https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a"
 },
+"Pinterest:7838577": {
+"company": "Pinterest",
+"first_seen": "2026-10-01T21:09:11+00:00",
+"posted": 1790874232.0,
+"title": "Software Engineer Intern 2027 (USA)",
+"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+},
+"Pinterest:8138090": {
+"company": "Pinterest",
+"first_seen": "2026-10-01T21:09:11+00:00",
+"posted": 1790874125.0,
+"title": "Master's Machine Learning Internship 2027 (USA)",
+"url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090"
+},
+"Pinterest:8138097": {
+"company": "Pinterest",
+"first_seen": "2026-10-01T21:09:11+00:00",
+"posted": 1790874102.0,
+"title": "Master's Data Science Internship 2027 (USA)",
+"url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097"
+},
 "Pivotal Software:b05be1f0-20ff-4264-8839-4f18f97cbfb7": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Internship, GNC Engineering (Fall)",
@@ -16722,6 +16743,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Quantitative Research Intern (NLP)",
 "url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002"
+},
+"Point72:8236734002": {
+"company": "Point72",
+"first_seen": "2026-10-01T21:09:11+00:00",
+"posted": 1761926579.0,
+"title": "Micro-Intern: Research Technology Developer (IAP)",
+"url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002"
 },
 "Polar Semiconductor:/job/Bloomington-MN-USA/Design-Enablement-Engineer-Intern_R3782": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -19029,6 +19057,13 @@
 "posted": 1790196266.0,
 "title": "Software Engineer - Internship",
 "url": "https://seatgeek.com/jobs/8227553?gh_jid=8227553"
+},
+"SeatGeek:8247554": {
+"company": "SeatGeek",
+"first_seen": "2026-10-01T21:09:11+00:00",
+"posted": 1790881734.0,
+"title": "Data Analyst - Internship",
+"url": "https://seatgeek.com/jobs/8247554?gh_jid=8247554"
 },
 "Securian Financial Group:/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -21667,6 +21702,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Platform, Security & AI Engineering Intern - Summer 2027",
 "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101"
+},
+"Veeam Software:4955279101": {
+"company": "Veeam Software",
+"first_seen": "2026-10-01T21:09:11+00:00",
+"posted": 1790884818.0,
+"title": "Competitive Intelligence AI Engineering Intern - Summer 2027",
+"url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101"
 },
 "Veeam Software:4955293101": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -38824,6 +38866,7 @@
 "pimco|2027summerinternphdquantresearchanalystclientsolutionsanalyticsus": 1790379919.414332,
 "pimco|2027summerinterntechnologyanalystsoftwareengineering": 1790379919.414332,
 "pimco|2027summerinterntechnologyanalystsoftwareengineeringemea": 1790379919.414332,
+"pinterest|mastersdatascienceinternusa": 1790888957.940533,
 "pivotalsoftware|interngncengineeringfall": 1790379919.414332,
 "plot|coopappliedai": 1790725265.3211443,
 "pluralisresearch|researchengineerintern": 1790379919.414332,
@@ -39164,6 +39207,7 @@
 "schweitzerengineeringlaboratories|softwareengineerintern": 1790379919.414332,
 "scottsmiraclegro|engineeringoperationsintern": 1790758092.5589468,
 "scoutmotors|internengineering": 1790379919.414332,
+"seatgeek|dataanalystintern": 1790888957.5018573,
 "seatgeek|softwareengineerintern": 1790725265.1159549,
 "securianfinancialgroup|datascienceandadvancedanalyticsinternsummer2027": 1790379919.414332,
 "securianfinancialgroup|engineeringinternsummer2027": 1790379919.414332,
@@ -39542,6 +39586,7 @@
 "varian|systemsengineeringcoopknoxvilletn": 1790379919.414332,
 "veeamsoftware|aiautomationengineeringinternsummer2027": 1790379919.414332,
 "veeamsoftware|aimlinternsummer2027": 1790379919.414332,
+"veeamsoftware|competitiveintelligenceaiengineeringintern": 1790888953.99065,
 "veeamsoftware|customercareaianalystinternsummer2027": 1790379919.414332,
 "veeamsoftware|dataanalyticsprogramsinternsummer2027": 1790379919.414332,
 "veeamsoftware|kastenengineeringinternsummer2027": 1790379919.414332,
