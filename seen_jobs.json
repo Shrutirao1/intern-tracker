@@ -45,6 +45,7 @@
 "Adobe",
 "Advance Auto Parts",
 "Advanced Space",
+"Aep",
 "AeroVect",
 "AeroVironment",
 "Aevex Aerospace",
@@ -512,6 +513,7 @@
 "Ditto AI",
 "Divergent",
 "Diversified Automation",
+"Djeholdings",
 "Doctors Without Borders",
 "Docugami",
 "Dollar Tree",
@@ -725,6 +727,7 @@
 "Genesys",
 "Geneva Trading",
 "Genmab",
+"Genmills",
 "Genpact",
 "Gensyn",
 "Gentex Corporation",
@@ -807,6 +810,7 @@
 "Haven Studios",
 "Hayden AI",
 "Headlands Tech Holdings",
+"Healthcare",
 "Healthfirst",
 "HeartFlow",
 "Heidelberg Materials",
@@ -1085,6 +1089,7 @@
 "Mill",
 "MillerKnoll",
 "Mirego",
+"Mmc",
 "Mobilityware",
 "Mobius",
 "Modal",
@@ -1168,6 +1173,7 @@
 "Notion",
 "Novanta",
 "Novartis",
+"Nshe",
 "Ntrs",
 "Nuclear Promise X",
 "Nuro",
@@ -1289,6 +1295,7 @@
 "Point72",
 "Polar Semiconductor",
 "Polaris",
+"Politico",
 "Polymath",
 "Poshmark",
 "Prairie View A&M University",
@@ -1629,6 +1636,7 @@
 "The Travelers Companies",
 "The Voleon Group",
 "The Walt Disney Company",
+"Thehartford",
 "Thermo Fisher Scientific",
 "Thomson Reuters",
 "Thrivent",
@@ -1644,6 +1652,7 @@
 "Traackr",
 "Trainerize",
 "Trajectory",
+"Tranetechnologies",
 "TransMarket Group",
 "TransPerfect",
 "TransUnion",
@@ -1703,6 +1712,7 @@
 "Uobgroup",
 "Upbound",
 "Upbound Group",
+"Upenn",
 "Upstart",
 "Upvest",
 "Usbank",
@@ -2427,6 +2437,13 @@
 "title": "Aeromechanical Engineering Intern",
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Aeromechanical-Engineering-Intern_8786"
 },
+"AeroVironment:/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901": {
+"company": "AeroVironment",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790719377.060173,
+"title": "Titan-SV Software Engineer Intern",
+"url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901"
+},
 "AeroVironment:/job/Melbourne-FL/Software-Engineering-Intern_8613": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern",
@@ -2519,10 +2536,31 @@
 "title": "\u00a0Digital Business Technology Infrastructure (DBT) Intern",
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885"
 },
+"AeroVironment:/job/Sunrise-FL/Software-Engineering-Intern_8797": {
+"company": "AeroVironment",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790719376.647524,
+"title": "Software Engineering Intern",
+"url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
+},
 "Aevex Aerospace:5415815008": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Robotics Engineering Co-op",
 "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"
+},
+"Affirm:8008645003": {
+"company": "Affirm",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790978147.0,
+"title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+"url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
+},
+"Affirm:8011590003": {
+"company": "Affirm",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790978051.0,
+"title": "Software Engineer Intern (Summer 2027)",
+"url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
 },
 "AfterQuery:00cd591f-6894-4259-83b6-36c999351dde": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -4785,6 +4823,20 @@
 "title": "Global Cost Engineering Professional Internship (m/f/d)",
 "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Viana-do-Castelo---Portugal/Global-Cost-Engineering-Professional-Internship--m-f-d-_R2026-3554"
 },
+"Bose:/job/US-GA---Atlanta/Supply-Chain---Data-Analytics---Analyst-Co-op_R29240": {
+"company": "Bose",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790805771.4821064,
+"title": "Supply Chain & Data Analytics - Analyst Co-op",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-GA---Atlanta/Supply-Chain---Data-Analytics---Analyst-Co-op_R29240"
+},
+"Bose:/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251": {
+"company": "Bose",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790978571.4822466,
+"title": "Data Science Co-Op (NLP & GenAI)",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251"
+},
 "Bot Auto:5289440008": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern, Deep Learning Engineer",
@@ -5207,15 +5259,36 @@
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155"
 },
+"CVS Health:/job/NY---New-York/Data-Engineer---UG-Intern-Conversion_R1055224": {
+"company": "CVS Health",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790632867.8134644,
+"title": "Data Engineer - UG Intern Conversion",
+"url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Engineer---UG-Intern-Conversion_R1055224"
+},
 "CVS Health:/job/NY---New-York/Data-Scientist---Grad-Intern-Conversion_R1052976": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Data Scientist - Grad Intern Conversion",
 "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---Grad-Intern-Conversion_R1052976"
 },
+"CVS Health:/job/NY---New-York/Data-Scientist---UG-Intern-Conversion_R1055132": {
+"company": "CVS Health",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790632867.813513,
+"title": "Data Scientist - UG Intern Conversion",
+"url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---UG-Intern-Conversion_R1055132"
+},
 "CVS Health:/job/NY---New-York/Software-Engineer---Grad-Intern-Conversion_R1055183": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer - Grad Intern Conversion",
 "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---Grad-Intern-Conversion_R1055183"
+},
+"CVS Health:/job/NY---New-York/Software-Engineer---UG-Intern-Conversion_R1055246": {
+"company": "CVS Health",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790632867.8133998,
+"title": "Software Engineer - UG Intern Conversion",
+"url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---UG-Intern-Conversion_R1055246"
 },
 "CWAN:/job/Office---Boise/Data-Management---Reporting-Intern_R12057": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -7963,6 +8036,13 @@
 "title": "Backend Developer Intern",
 "url": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006"
 },
+"Evolito:/job/Bicester/Industrial-Placement-Programme---Software-Engineering_JR100197": {
+"company": "Evolito",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1789164110.3558083,
+"title": "Industrial Placement Programme \u2013 Software Engineering",
+"url": "https://evolito.wd3.myworkdayjobs.com/en-US/Evolito_Career_Site/job/Bicester/Industrial-Placement-Programme---Software-Engineering_JR100197"
+},
 "Evolver:4254540009": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Applied Data Science Intern",
@@ -8644,6 +8724,13 @@
 "title": "Software Quality Engineer- Internship",
 "url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Italy-Milano/Software-Quality-Engineer_WD230181"
 },
+"Flextronics International:/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700": {
+"company": "Flextronics International",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1789768862.1908336,
+"title": "Manufacturing Data & Analytics Co-Op - Spring 2027",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700"
+},
 "Flint:39f9e665-7037-4dff-b77a-ff7039df2bfc": {
 "company": "Flint",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -8923,6 +9010,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Co-op_Spring 2027",
 "url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832"
+},
+"GE Appliances:/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427": {
+"company": "GE Appliances",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790978548.5369415,
+"title": "Software Engineering Co-op_Summer 2027",
+"url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427"
 },
 "GE Healthcare:/job/Buc/Mammography-Systems-Engineer-Apprentice_R4046250-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -14035,6 +14129,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "INTERNSHIP - NAND Cell Characterization & AI Tools",
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212"
+},
+"Mmc:/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970": {
+"company": "Mmc",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1788818394.50561,
+"title": "Data & Analytics Industrial Placement 2027 (12 months) \u2013 Newcastle upon Tyne",
+"url": "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970"
+},
+"Mmc:/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984": {
+"company": "Mmc",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1788818368.1280737,
+"title": "Oliver Wyman - Data & Analytics Summer Internship 2027 - Newcastle",
+"url": "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984"
 },
 "Mobius:5207009007": {
 "company": "Mobius",
@@ -20640,6 +20748,20 @@
 "title": "Game Research & Development Intern, Engine Research",
 "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1"
 },
+"Tencent:/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794": {
+"company": "Tencent",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790373451.8005636,
+"title": "Cloud Media Services Intern",
+"url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794"
+},
+"Tencent:/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186": {
+"company": "Tencent",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790373451.800609,
+"title": "Cloud Media Services Intern",
+"url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186"
+},
 "Tencent:/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Cyber Security Engineer Intern",
@@ -21612,6 +21734,20 @@
 "title": "Member of Technical Staff - Intern",
 "url": "https://jobs.ashbyhq.com/trajectory/00cd9b1a-5d48-4ecb-8c53-cd27727448c5"
 },
+"Tranetechnologies:/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1": {
+"company": "Tranetechnologies",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1788299987.2734864,
+"title": "2027 AI & Analytics Intern",
+"url": "https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1"
+},
+"Tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648": {
+"company": "Tranetechnologies",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1789509587.2735794,
+"title": "Software Development Engineering Intern",
+"url": "https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648"
+},
 "TransMarket Group:5151577007": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "DevOps/SRE Intern",
@@ -22162,6 +22298,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer 2027 Engineering Intern",
 "url": "https://verdantas.wd108.myworkdayjobs.com/en-US/Verdantas/job/Wilmington-DE/Summer-2027-Engineering-Intern_R-101159"
+},
+"Verizon Communications:/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387": {
+"company": "Verizon Communications",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790719332.073997,
+"title": "Verizon Network and Technology: Business Intelligence Summer 2027 Internship",
+"url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387"
+},
+"Verizon Communications:/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384": {
+"company": "Verizon Communications",
+"first_seen": "2026-10-02T21:57:26+00:00",
+"posted": 1790719332.0740423,
+"title": "Verizon Network and Technology: Data Science Summer 2027 Internship",
+"url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
 },
 "Verkada:5210813007": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -37316,6 +37466,7 @@
 "aerovironment|summer2027softwareengineeringintern": 1790379919.414332,
 "aerovironment|systemsengineeringintern": 1790379919.414332,
 "aerovironment|testproductengineeringintern": 1790379919.414332,
+"aerovironment|titansvsoftwareengineerintern": 1790978593.212903,
 "aes|coopengineergasturbinedcsoperationsspring2027": 1790379919.414332,
 "aes|coopengineersubstationoperationssummer2027": 1790379919.414332,
 "aes|coopsubstationengineerengineeringservicesfall2027": 1790379919.414332,
@@ -37335,6 +37486,8 @@
 "aes|transmissionengineeringinternsummer2027": 1790379919.414332,
 "aes|transmissionplanningengineerinternsummer2027": 1790379919.414332,
 "aevexaerospace|roboticsengineeringcoop": 1790379919.414332,
+"affirm|softwareengineerintern": 1790978247.5037675,
+"affirm|softwareengineermachinelearningintern": 1790978247.5038009,
 "afterquery|aimlresearchintern": 1790379919.414332,
 "afterquery|softwareengineeringintern": 1790379919.414332,
 "ahead|msinfrastructureintern6months": 1790379919.414332,
@@ -37764,6 +37917,8 @@
 "boozallen|universitysummer27enterprisecybersecuritydatalosspreventionintern": 1790379919.414332,
 "borgwarner|globalcostengineeringprofessionalinternmfd": 1790379919.414332,
 "borgwarner|qualityengineeringintern": 1790379919.414332,
+"bose|datasciencecoopnlpgenai": 1790978573.5275674,
+"bose|supplychaindataanalyticsanalystcoop": 1790978573.5275462,
 "bostonscientific|rdfirmwareengineerintern": 1790712471.5724583,
 "bostonscientific|softwaredevelopmentengineercoop": 1790666001.1372526,
 "bostonscientific|softwareengineerinterninternsgraduates": 1790712471.5724366,
@@ -38066,8 +38221,11 @@
 "curtisswright|projectengineeringintern": 1790379919.414332,
 "cushmanwakefield|eicinterndatacentreoperationssingapore": 1790379919.414332,
 "cushmanwakefield|eicinternpricinganalyticssgp": 1790379919.414332,
+"cvshealth|dataengineeruginternconversion": 1790978469.102973,
 "cvshealth|datascientistgradinternconversion": 1790379919.414332,
+"cvshealth|datascientistuginternconversion": 1790978469.1029904,
 "cvshealth|softwareengineergradinternconversion": 1790379919.414332,
+"cvshealth|softwareengineeruginternconversion": 1790978469.1029522,
 "cwan|datamanagementreportingintern": 1790379919.414332,
 "cwan|genaiintern": 1790379919.414332,
 "cwan|quantdeveloperintern": 1790379919.414332,
@@ -38481,6 +38639,7 @@
 "geappliances|engineeringcoopspring2027": 1790379919.414332,
 "geappliances|softwareengineeringcoopfall2027": 1790379919.414332,
 "geappliances|softwareengineeringcoopspring2027": 1790379919.414332,
+"geappliances|softwareengineeringcoopsummer": 1790978584.3740015,
 "geckorobotics|aimachinelearningengineeringintern": 1790379919.414332,
 "geckorobotics|embeddedsoftwareengineeringintern": 1790379919.414332,
 "geckorobotics|fullstacksoftwareengineeringintern": 1790379919.414332,
@@ -39267,6 +39426,7 @@
 "mindex|softwareengineercoop": 1790944708.8274875,
 "mjcompanies|enterprisedataintern": 1790379919.414332,
 "mksinstruments|qaengineerintern": 1790379919.414332,
+"mmc|dataanalyticsindustrialplacement12monthsnewcastleupontyne": 1790978401.6179967,
 "mobius|cybersecurityintern": 1790725265.2631342,
 "modal|mlresearchintern": 1790379919.414332,
 "moderna|coopresearchengineeringandaiintegration": 1790872194.3177886,
@@ -40282,6 +40442,7 @@
 "tencent|backenddevelopmentintern6months": 1790379919.414332,
 "tencent|bigdatadevelopmentengineerintern": 1790379919.414332,
 "tencent|cloudengineerintern": 1790379919.414332,
+"tencent|cloudmediaservicesintern": 1790978257.7965918,
 "tencent|cybersecurityengineerintern": 1790379919.414332,
 "tencent|cybersecurityintern": 1790379919.414332,
 "tencent|dataengineerintern": 1790379919.414332,
@@ -40383,6 +40544,8 @@
 "toyotaresearchinstitute|humancenteredairesearchinterncausalreasoningmodels": 1790379919.414332,
 "toyotaresearchinstitute|roboticsresearchinternposttraining": 1790379919.414332,
 "trajectory|memberoftechnicalstaffintern": 1790725265.543022,
+"tranetechnologies|aianalyticsintern": 1790978417.6779459,
+"tranetechnologies|softwaredevelopmentengineeringintern": 1790978417.6780615,
 "transamerica|dataanalyticsinternspring2027fulltimehours": 1790379919.414332,
 "transmarketgroup|devopssreintern": 1790379919.414332,
 "travelerscompanies|businessinsightsanalyticsleadershipdevelopmentprogrambialdpgeospatialintern": 1790379919.414332,
@@ -40805,6 +40968,7 @@
 "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": "USA - Everett, WA; USA - Saint Charles, MO; USA - Mukilteo, WA; USA - Berkeley, MO; USA - Hazelwood, MO; USA - El Segundo, CA; USA - Renton, WA; USA - Seattle, WA; USA - Auburn, WA; USA - Bellevue, WA; USA - Kent, WA; USA - Plano, TX; USA - Arlington, VA; USA - Ridley Park, PA; USA - Tukwila, WA; USA - Mesa, AZ; USA - North Charleston, SC",
 "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1": "USA - Everett, WA; USA - Saint Charles, MO; USA - Huntsville, AL; USA - Charleston, SC; USA - Oklahoma City, OK; USA - Berkeley, MO; USA - Huntington Beach, CA; USA - Hazelwood, MO; USA - El Segundo, CA; USA - Herndon, VA; USA - Plano, TX; USA - Arlington, VA; USA - Ridley Park, PA; USA - Tukwila, WA; USA - North Charleston, SC; USA - Fairfax, VA; USA - Colorado Springs, CO; USA - Chicago, IL; USA - Seal Beach, CA; USA - Mukilteo, WA; USA - Long Beach, CA; USA - Atlanta, GA; USA - Renton, WA; USA - Dallas, TX; USA - Seattle, WA; USA - Auburn, WA; USA - Bellevue, WA; USA - San Antonio, TX; USA - Kent, WA; USA - Mesa, AZ",
 "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675": "USA - Huntington Beach, CA; USA - Tukwila, WA",
+"https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251": "US, MA - Framingham; US, GA - Atlanta; Portugal, Lisboa",
 "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506": "Annapolis Junction, MD, US; Fort Meade, MD, US",
 "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650": "Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Athens, Georgia; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; Green Valley, Arizona; South Milwaukee, Wisconsin; Fort Worth, Texas; Lafayette, Indiana; San Antonio, Texas; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois",
 "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509": "Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois",
@@ -40844,8 +41008,11 @@
 "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator-Intern_R-71038": "Chicago IL USA; Nashville TN USA",
 "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005": "Chicago IL USA; Washington DC USA; Tallahassee FL USA; Sarasota FL USA; Hartford CT USA; Nashville TN USA; Costa Mesa CA USA; San Jose CA USA; Atlanta GA USA; Boston MA USA; Burlington VT USA; Cleveland OH USA; Columbus OH USA; Dallas TX USA; Denver CO USA; Fort Lauderdale FL USA; Fort Wayne IN USA; Grand Rapids MI USA; Indianapolis IN USA; Knoxville TN USA; Lexington KY USA; Livingston NJ USA; Plano TX USA; Louisville KY USA; Los Angeles CA USA; Miami FL USA; Woodlands TX USA; New York NY USA; Oakbrook Terrace IL USA; Sacramento CA USA; San Francisco CA USA; South Bend IN USA; Springfield IL USA; Tampa FL USA; Houston TX USA; Austin TX USA; Charlotte NC USA",
 "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035": "Chicago IL USA; Sacramento CA USA",
+"https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Engineer---UG-Intern-Conversion_R1055224": "NY - New York; CT - Hartford; RI - Woonsocket; MA - Wellesley",
 "https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---Grad-Intern-Conversion_R1052976": "NY - New York; CT - Hartford; RI - Woonsocket; MA - Wellesley",
+"https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---UG-Intern-Conversion_R1055132": "NY - New York; CT - Hartford; RI - Woonsocket; MA - Wellesley",
 "https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---Grad-Intern-Conversion_R1055183": "NY - New York; TX - Irving; CT - Hartford; RI - Woonsocket; MA - Wellesley",
+"https://cvshealth.wd1.myworkdayjobs.com/en-US/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---UG-Intern-Conversion_R1055246": "NY - New York; TX - Irving; CT - Hartford; RI - Woonsocket; MA - Wellesley",
 "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Washington-US---Remote/Deep-Learning-Research-Engineer-Intern_R-102754": "Washington, US - Remote; Boston, Massachusetts, US; San Francisco, California, US",
 "https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---Central/XMLNAME--JIM-LV-TEST---Do-NOT-Apply--2027-DBS-Internship--Technology-and-AI---Data-Science-_WD89076": "Singapore - Central; Singapore - East",
 "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Shanghai---Haisu-Plaza/data-Intern_R1131311": "Shanghai - Haisu Plaza; Nanjing",
@@ -41088,7 +41255,9 @@
 "https://synnex.wd5.myworkdayjobs.com/en-US/tdsynnexcareers/job/Greenville-SC/Summer-2027-Internship-Program---Technical--Applied-Innovation-Track----Information-Technology---Supply-Chain---Systems-and-Cloud---Artificial-Intelligence_R56571": "Greenville, SC; Clearwater, Florida, United States",
 "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4201-W-Division-St-Saint-CloudMN-56301-6601/Store-Executive-Intern--Store-Leadership-Intern----St-Cloud--MN--Starting-Summer-2027------_R0000449255": "4201 W Division St, Saint Cloud,MN 56301-6601; 21615 S Diamond Lake Rd, Rogers,MN 55374-8893; 300 Clydesdale Trl, Medina,MN 55340-4538; 4175 Vinewood Ln N, Plymouth,MN 55442-2624; 4404 Highway 29 S, Alexandria,MN 56308-2915; 11990 Business Park Blvd N, Champlin,MN 55316-2005; 15300 Grove Circle N, Maple Grove,MN 55369-4469; 125 Lincoln Ave SE, Saint Cloud,MN 56304-0823; 15800 87th St NE, Otsego, MN 55330-6546; 3300 124th Ave NW, Coon Rapids,MN 55433-3805; 2000 Bunker Lake Blvd NW, Andover,MN 55304-4014; 1300 State Highway 55 NE, Buffalo,MN 55313-4321; 1447 E 7th St, Monticello,MN 55362-4666",
 "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": "Toronto, Ontario; Mississauga, Ontario; London, Ontario",
+"https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794": "US-California-Palo Alto; US-Washington-Bellevue",
 "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114": "Hartford, CT; Charlotte, NC; Chicago, IL",
+"https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1": "Davidson, North Carolina; Minneapolis, Minnesota",
 "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305": "CT - Hartford; MN - St. Paul",
 "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304": "CT - Hartford; MN - St. Paul",
 "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270": "CT - Hartford; GA - Atlanta; MN - St. Paul; MD - Hunt Valley",
