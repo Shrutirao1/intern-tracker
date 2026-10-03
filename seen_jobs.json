@@ -5512,6 +5512,13 @@
 "title": "Linux Engineer Intern",
 "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Linux-Engineer-Intern_R-4661"
 },
+"Cboe:/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708": {
+"company": "Cboe",
+"first_seen": "2026-10-03T10:40:30+00:00",
+"posted": 1790937878.2171595,
+"title": "Quant & Data Analytics Intern",
+"url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708"
+},
 "Cboe:/job/Chicago-IL/Software-Engineer-Intern_R-4654": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern",
@@ -15438,6 +15445,13 @@
 "posted": 1790635898.166,
 "title": "Data Science Internship (Current PhD) - Summer 2027",
 "url": "https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c"
+},
+"Nelnet:/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198": {
+"company": "Nelnet",
+"first_seen": "2026-10-03T10:40:30+00:00",
+"posted": 1790937849.8536043,
+"title": "Intern - IT Software Engineer .NET (Summer 2027)",
+"url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
 },
 "Nelnet:/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -38201,6 +38215,7 @@
 "caterpillar|2027summercorporateinternengineering": 1790379919.414332,
 "caterpillar|2027summercorporateinternproductsupportengineering": 1790379919.414332,
 "cboe|linuxengineerintern": 1790379919.414332,
+"cboe|quantdataanalyticsintern": 1791024284.8154185,
 "cboe|softwareengineerintern": 1790379919.414332,
 "celonis|interndeploymentengineerdataai": 1790379919.414332,
 "cencora|softwareintern": 1790380061.784682,
