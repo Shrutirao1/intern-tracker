@@ -30100,6 +30100,13 @@
 "title": "Software Engineer Intern - Command & Control",
 "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply"
 },
+"src:simplify:7510db54-c95e-441b-b7e1-b239a1119742": {
+"company": "HNTB",
+"first_seen": "2026-10-03T05:50:28+00:00",
+"posted": 1790899200.0,
+"title": "AI Business Process Developer Intern",
+"url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
+},
 "src:simplify:7530c688-5657-4159-baad-6d34c53ff482": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Onboard Infrastructure Engineer Intern - ML Inference",
@@ -31732,6 +31739,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Financial Data Analyst Intern",
 "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665"
+},
+"src:simplify:92c455d6-d3f6-4d95-b523-eeca0104e5a8": {
+"company": "HNTB",
+"first_seen": "2026-10-03T05:50:28+00:00",
+"posted": 1790899200.0,
+"title": "AI Business Process Developer Intern",
+"url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865"
 },
 "src:simplify:92cc5eea-0dbd-4f3d-af76-2e459ef588ff": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -33524,6 +33538,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Aircraft Software Integration Intern",
 "url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003"
+},
+"src:simplify:b45557a0-8993-4135-8a47-273587c395f5": {
+"company": "Electronic Arts",
+"first_seen": "2026-10-03T05:50:28+00:00",
+"posted": 1790990108.0,
+"title": "Software Engineer Intern",
+"url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239"
 },
 "src:simplify:b4c471c9-9a26-433f-a75a-81237cee7603": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -39041,6 +39062,7 @@
 "hmh|aiautomationdevelopmentintern": 1790902014.907233,
 "hmh|digitalservicesengineeringintern": 1790379919.414332,
 "hmh|technicalservicesengineeringintern": 1790379919.414332,
+"hntb|aibusinessprocessdeveloperintern": 1791006803.9087095,
 "hntb|coopengineerwinterspringsummer2027": 1790379919.414332,
 "hntb|designbuildinternengineersummer2027": 1790379919.414332,
 "hntb|internengineer": 1790545992.2719967,
