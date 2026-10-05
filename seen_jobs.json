@@ -25199,6 +25199,13 @@
 "title": "Data Science Co-op - Spring 2027",
 "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743"
 },
+"src:simplify:0f621445-f310-4ae7-9e91-f830db926091": {
+"company": "State of North Carolina",
+"first_seen": "2026-10-05T13:07:40+00:00",
+"posted": 1791158400.0,
+"title": "Data Engineer Intern",
+"url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224"
+},
 "src:simplify:0f94776b-245c-41ce-8533-969cf33af5d9": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Machine Learning Research Intern",
@@ -26156,6 +26163,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "IT Performance Analyst Intern",
 "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082"
+},
+"src:simplify:20960b45-bcba-4977-a12f-eabbf6b2c80c": {
+"company": "State of North Carolina",
+"first_seen": "2026-10-05T13:07:40+00:00",
+"posted": 1791158400.0,
+"title": "Data Analytics Intern",
+"url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220"
 },
 "src:simplify:20aa7ab0-ffba-4efb-abf1-15d3064172be": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -27724,6 +27738,13 @@
 "title": "Product Management Intern - Artificial Intelligence Product Management",
 "url": "https://careers.zimmerbiomet.com/us/en/job/12745"
 },
+"src:simplify:3d0e6a5a-a1a8-484a-9a12-fd9fcdb36ad4": {
+"company": "State of North Carolina",
+"first_seen": "2026-10-05T13:07:40+00:00",
+"posted": 1791158400.0,
+"title": "Data Science Intern",
+"url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225"
+},
 "src:simplify:3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5": {
 "company": "RTX",
 "first_seen": "2026-10-01T09:12:16+00:00",
@@ -28429,6 +28450,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Natural Language Processing Intern",
 "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686"
+},
+"src:simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c": {
+"company": "NVIDIA",
+"first_seen": "2026-10-05T13:07:40+00:00",
+"posted": 1791158400.0,
+"title": "Software Engineer Intern",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
 },
 "src:simplify:4cfc6f1c-ae9e-447d-8980-a90e98153e86": {
 "company": "Tesla",
@@ -33249,6 +33277,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - AI Infra Compute",
 "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail"
+},
+"src:simplify:a74310a0-f20c-47e3-a801-788c1fc295d6": {
+"company": "Microsoft",
+"first_seen": "2026-10-05T13:07:40+00:00",
+"posted": 1791180688.0,
+"title": "Firmware Engineer Intern",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557023161"
 },
 "src:simplify:a747cf98-60b0-4ecc-a94e-99f6f44fb3db": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -40089,6 +40124,7 @@
 "microntechnology|internprocessdevelopmentengineerdramthinfilms": 1790379919.414332,
 "micron|internhbmdesigndevelopmenttechnicalleadershipddtl": 1790712280.4670863,
 "micron|internmemorysystemsarchitectureai": 1790712280.46712,
+"microsoft|firmwareengineerintern": 1791205910.828707,
 "mindex|softwareengineercoop": 1790944708.8274875,
 "mjcompanies|enterprisedataintern": 1790379919.414332,
 "mksinstruments|qaengineerintern": 1790379919.414332,
@@ -40368,6 +40404,7 @@
 "nvidia|softwareengineeringinterndlfwcomms2027": 1790379919.414332,
 "nvidia|softwareengineeringinternreplaytoolingandtestautomationautonomousdriving": 1790379919.414332,
 "nvidia|softwareengineeringinterntestdevelopment2027": 1790379919.414332,
+"nvidia|softwareengineerintern": 1791205910.828751,
 "nvidia|softwareengineersimulationandvirtualizationrdssintern": 1790379919.414332,
 "nvidia|softwareqadeveloperintern2027": 1790379919.414332,
 "nvidia|softwareqainternsparkrapids2027": 1790379919.414332,
