@@ -20427,6 +20427,27 @@
 "title": "Student Intern - Traffic Engineering",
 "url": "https://son.wd108.myworkdayjobs.com/en-US/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---Traffic-Engineering_JR2026-00029537"
 },
+"State of North Carolina:/job/Wake-County-NC/Data-Analytics-Intern_JR-125220": {
+"company": "State of North Carolina",
+"first_seen": "2026-10-05T05:56:02+00:00",
+"posted": 1791179857.5721118,
+"title": "Data Analytics Intern",
+"url": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220"
+},
+"State of North Carolina:/job/Wake-County-NC/Data-Engineering-Intern_JR-125224": {
+"company": "State of North Carolina",
+"first_seen": "2026-10-05T05:56:02+00:00",
+"posted": 1791179857.572173,
+"title": "Data Engineering Intern",
+"url": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224"
+},
+"State of North Carolina:/job/Wake-County-NC/Data-Science-Intern_JR-125225": {
+"company": "State of North Carolina",
+"first_seen": "2026-10-05T05:56:02+00:00",
+"posted": 1791179857.5719552,
+"title": "Data Science Intern",
+"url": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225"
+},
 "Stevens Capital Management:721888": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Developer Internship",
@@ -25584,6 +25605,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Commercial Lending AI Engineer Intern - Winter 2027",
 "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply"
+},
+"src:simplify:1677419e-8d02-4e05-b049-cd051f2b1b28": {
+"company": "Etched",
+"first_seen": "2026-10-05T05:56:02+00:00",
+"posted": 1779239343.0,
+"title": "Chip Simulation Software Intern",
+"url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true"
 },
 "src:simplify:1679d1fa-953d-4b83-b4f5-e2e3a9f4cdd0": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -40999,6 +41027,9 @@
 "stanleyblackdecker|engineeringcoopsummerintern": 1790379919.414332,
 "starcatcher|engineeringintern": 1790725265.3212526,
 "stateofnebraska|studentinterntrafficengineering": 1790712814.113318,
+"stateofnorthcarolina|dataanalyticsintern": 1791179879.64451,
+"stateofnorthcarolina|dataengineeringintern": 1791179879.6445334,
+"stateofnorthcarolina|datascienceintern": 1791179879.6444786,
 "stevenscapitalmanagement|developerintern": 1790379919.414332,
 "stevenscapitalmanagement|quantitativeresearchanalystintern": 1790379919.414332,
 "stokespace|internengineering": 1790725265.5239658,
