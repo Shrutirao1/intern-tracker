@@ -2640,6 +2640,13 @@
 "title": "Summer Internship 2027 - Data Analytics - Operational Excellence",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492"
 },
+"Airbus:/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575": {
+"company": "Airbus",
+"first_seen": "2026-10-05T00:23:57+00:00",
+"posted": 1791160151.3581774,
+"title": "Software Engineering Degree Apprenticeship",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575"
+},
 "Airbus:/job/Toulouse-Area/JR10440295-Internship-2027--Data-Analyst-in-Supply-Chain--F-H-_JR10440295": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "JR10440295 Internship 2027_ Data Analyst in Supply Chain (F/H)",
@@ -10051,6 +10058,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Vendor & Customer Master Data Internship",
 "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341"
+},
+"Govsignals:e894290c-3263-424e-b7a4-8dcc32ca8ca9": {
+"company": "Govsignals",
+"first_seen": "2026-10-05T00:23:57+00:00",
+"posted": 1790970274.867,
+"title": "Product Engineer Intern",
+"url": "https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9"
 },
 "Graco:/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -25576,6 +25590,13 @@
 "title": "Software Engineering Intern",
 "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"
 },
+"src:simplify:16856e96-3bd9-4fee-85e4-ed92164905ae": {
+"company": "Primient",
+"first_seen": "2026-10-05T00:23:57+00:00",
+"posted": 1791072000.0,
+"title": "AI Analyst Intern",
+"url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
+},
 "src:simplify:1698a59d-5825-45cf-9f74-49aad6a83aaf": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data & AI Intern - Data & AI Program",
@@ -27403,6 +27424,13 @@
 "posted": 1790640000.0,
 "title": "Ecommerce Data Analytics Intern",
 "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458"
+},
+"src:simplify:39440a28-111a-4535-887b-1a683c23ef54": {
+"company": "Pangram Labs",
+"first_seen": "2026-10-05T00:23:57+00:00",
+"posted": 1791152124.0,
+"title": "AI Research Intern",
+"url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true"
 },
 "src:simplify:39479bef-648c-4874-b869-572f2b6b585a": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -38090,6 +38118,7 @@
 "airbus|interndataanalyticsoperationalexcellence": 1790758245.53807,
 "airbus|internwithinaerodynamicmachinelearningdfm": 1790758245.5380983,
 "airbus|jr10440295intern2027dataanalystinsupplychainfh": 1790379919.414332,
+"airbus|softwareengineeringdegreeapprenticeship": 1791160179.5569992,
 "airbus|stagechangemanagementaiinnovationintern": 1790758245.538127,
 "airliquide|2027summerinternengineering": 1790379919.414332,
 "airliquide|2027summerinternnonengineering": 1790379919.414332,
@@ -39371,6 +39400,7 @@
 "gordonfoodservice|softwareengineerintern": 1790379919.414332,
 "gordonfoodservice|softwareengineerinternlowcode": 1790379919.414332,
 "gordonfoodservice|vendorcustomermasterdataintern": 1790379919.414332,
+"govsignals|productengineerintern": 1791159841.5734353,
 "graco|aiintern": 1790379919.414332,
 "graco|applicationengineeringintern": 1790379919.414332,
 "graco|automationengineeringcoopjanuaryaugust2027": 1790379919.414332,
@@ -40440,6 +40470,7 @@
 "palantir|yearatpalantirforwarddeployedsoftwareengineerinterncommercial": 1790379919.414332,
 "palantir|yearatpalantirforwarddeployedsoftwareengineerinternusg": 1790379919.414332,
 "palantir|yearatpalantirsoftwareengineerintern": 1790379919.414332,
+"pangram|airesearchintern": 1791160024.440312,
 "parsons|bridgeengineeringintern": 1790379919.414332,
 "parsons|bridgeengineeringinternsummer2027": 1790379919.414332,
 "parsons|drainageengineeringinternspringsummer2027": 1790379919.414332,
@@ -40549,6 +40580,7 @@
 "pricewaterhousecooperspwc|dataengineerintern": 1790379919.414332,
 "pricewaterhousecooperspwc|interndigitalclouddataitduediligence": 1790379919.414332,
 "primer|springsummer2027engineeringintern": 1790379919.414332,
+"primient|aianalystintern": 1791160024.440331,
 "primient|digitaldataanalyticsintern": 1790902014.907137,
 "priorlabs|researchscientistinternphd": 1790379919.414332,
 "proctergamblepg|analysisinsightsinternstagiairedataanalyst": 1790379919.414332,
