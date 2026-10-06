@@ -1332,6 +1332,7 @@
 "Prime Intellect",
 "Primer",
 "Primerica",
+"Primient",
 "Prior Labs",
 "ProPharma Group",
 "Procter & Gamble (P&G)",
@@ -1419,6 +1420,7 @@
 "Rilla",
 "Riot Games",
 "Rise8",
+"Risepoint",
 "Riverside Natural Foods",
 "Rivet Industries",
 "Roam",
@@ -17722,6 +17724,20 @@
 "title": "Spring/Summer 2027 Engineering Intern",
 "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0"
 },
+"Primient:/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056": {
+"company": "Primient",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1791126517.5962968,
+"title": "AI Analyst Intern - Summer 2027",
+"url": "https://primient.wd1.myworkdayjobs.com/en-US/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
+},
+"Primient:/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011": {
+"company": "Primient",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1790867317.5964391,
+"title": "Digital Data & Analytics Intern - Summer 2027",
+"url": "https://primient.wd1.myworkdayjobs.com/en-US/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011"
+},
 "Prior Labs:09410424-8e94-4747-8155-bbcd0b1d4f6e": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research Scientist Intern (PhD)",
@@ -19213,6 +19229,13 @@
 "posted": 1790870400.0,
 "title": "Software Engineering Intern - Summer 2027 (Remote)",
 "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015"
+},
+"Risepoint:/job/US---Remote/Analytics-Engineering-Co-Op_JR101355": {
+"company": "Risepoint",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1790694520.3251107,
+"title": "Analytics Engineering Co-Op",
+"url": "https://risepoint.wd503.myworkdayjobs.com/en-US/Risepoint/job/US---Remote/Analytics-Engineering-Co-Op_JR101355"
 },
 "Roam:59b76a77-44e5-424b-a3d5-71edf091869c": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -27318,6 +27341,13 @@
 "title": "CIC Systems Engineer Co-op",
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2"
 },
+"src:simplify:2e5df730-d9a8-47e0-aac3-c386a7274276": {
+"company": "Space Dynamics Laboratory",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1791296845.0,
+"title": "Software Engineer Intern - AI Enabled Software Development",
+"url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development"
+},
 "src:simplify:2e731a5d-c18c-446b-ab15-23f671730a6e": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
@@ -27825,6 +27855,13 @@
 "posted": 1790640000.0,
 "title": "Ecommerce Data Analytics Intern",
 "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458"
+},
+"src:simplify:3922d4b5-0abb-4220-a5a2-9a47a2faba53": {
+"company": "Biogen",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1791244800.0,
+"title": "Machine Learning Engineering Co-op",
+"url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310"
 },
 "src:simplify:39440a28-111a-4535-887b-1a683c23ef54": {
 "company": "Pangram Labs",
@@ -30607,6 +30644,13 @@
 "title": "Application Systems Development Intern - Motive Mix",
 "url": "https://careersus-shure.icims.com/jobs/5021/job?mobile=true&needsRedirect=false"
 },
+"src:simplify:6d72adc9-d3c0-4b7b-95ee-85e523701bab": {
+"company": "RTX",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1790553600.0,
+"title": "Software Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232"
+},
 "src:simplify:6d7e83bd-6e67-4d8c-919e-862288b8b561": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Quantitative Research Intern",
@@ -31680,6 +31724,13 @@
 "title": "Software Engineer Intern",
 "url": "https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false"
 },
+"src:simplify:80c856e0-3ec4-4026-9444-8ee61d28bf1e": {
+"company": "Boston Scientific",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1791296665.0,
+"title": "Equipment Engineering AI Vision Engineer Intern",
+"url": "https://bostonscientific.eightfold.ai/careers/job/563602813584308"
+},
 "src:simplify:80ed798a-4740-4572-bb0b-e99439246dcf": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Science Intern",
@@ -32634,6 +32685,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Developer Intern",
 "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587"
+},
+"src:simplify:8fdae942-cdba-4211-9277-dd563870610d": {
+"company": "Vertiv",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1786370981.0,
+"title": "Software Engineer Intern",
+"url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777"
 },
 "src:simplify:8febf19c-cdf5-437d-bf7b-f5d9d35987ea": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -34877,6 +34935,13 @@
 "title": "Technology Business Administration Co-op Intern - IT Business Management",
 "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345"
 },
+"src:simplify:b83f3fb8-0a55-4eed-82f6-9b98a78af0e9": {
+"company": "Space Dynamics Laboratory",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1791296847.0,
+"title": "Software Engineer Intern - Software, AI, & Machine Learning",
+"url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning"
+},
 "src:simplify:b8511dba-1f6c-40d2-b3b7-e50e87163026": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Systems Engineer Intern - University",
@@ -35385,6 +35450,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data & Analytics Consultant Intern - Summer 2027",
 "url": "https://jobs.smartrecruiters.com/Resultant/744000151474767"
+},
+"src:simplify:c0f389e5-99cf-4fb0-a67e-06d06d9a36b2": {
+"company": "American Family Insurance Group",
+"first_seen": "2026-10-06T15:05:21+00:00",
+"posted": 1791244800.0,
+"title": "Data Analytics Intern",
+"url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631"
 },
 "src:simplify:c0f5bb29-73b3-4d6d-ae4a-8630ce8569e6": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -38922,6 +38994,7 @@
 "americanfamilyinsurancegroup|summer2027consumerresearchandinsightsintern": 1790379919.414332,
 "americanfamilyinsurancegroup|summer2027customeranalyticsintern": 1790379919.414332,
 "americanfamilyinsurance|dataanalystintern": 1791251115.2414243,
+"americanfamilyinsurance|dataanalyticsintern": 1791299321.026411,
 "americanfamilyinsurance|genaiintern": 1790902014.9076867,
 "americanfamilyinsurance|genaimlintern": 1790989014.5201857,
 "ameriprisefinancial|assetmanagementtechnologyinterndataenablement": 1790379919.414332,
@@ -39183,6 +39256,7 @@
 "biogen|coopdatascienceaiinnovation": 1790379919.414332,
 "biogen|coopdatavisualizationandapplicationdevelopment": 1790620635.1286163,
 "biogen|coopneurologyresearch": 1790712749.0446403,
+"biogen|machinelearningengineeringcoop": 1791299321.0264282,
 "blackedgecapital|quantitativedeveloperintern": 1790379919.414332,
 "blackrock|2027quantitativemastersinternprogramtechnologyanalyticsmodelingnewyork": 1790379919.414332,
 "blackrock|2027quantitativemastersinternprogramtechnologyanalyticsmodelingsanfrancisco": 1790379919.414332,
@@ -39268,6 +39342,7 @@
 "borgwarner|qualityengineeringintern": 1790379919.414332,
 "bose|datasciencecoopnlpgenai": 1790978573.5275674,
 "bose|supplychaindataanalyticsanalystcoop": 1790978573.5275462,
+"bostonscientific|equipmentengineeringaivisionengineerintern": 1791299321.0263875,
 "bostonscientific|equipmentengineeringsoftwareengineerintern": 1791274308.0403218,
 "bostonscientific|rdfirmwareengineerintern": 1790712471.5724583,
 "bostonscientific|softwaredevelopmentengineercoop": 1790666001.1372526,
@@ -41749,6 +41824,8 @@
 "southwestairlines|customerexperienceandanalyticsdatascienceintern": 1790846038.7918866,
 "southwestairlines|dataengineerintern": 1790846038.79191,
 "southwestairlines|softwareengineerintern": 1790846038.7918992,
+"spacedynamicslaboratory|softwareengineerinternaienabledsoftwaredevelopment": 1791299321.0264857,
+"spacedynamicslaboratory|softwareengineerinternsoftwareaimachinelearning": 1791299321.0264642,
 "spacex|spring2027engineeringinterncoop": 1790379919.414332,
 "spacex|spring2027graduateengineerinterncoop": 1790379919.414332,
 "spacex|spring2027softwareengineeringinterncoop": 1790379919.414332,
