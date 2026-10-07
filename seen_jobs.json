@@ -10992,6 +10992,13 @@
 "title": "Early Careers - Automation Programmer Intern",
 "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Automation-Programmer-Intern_R0059484"
 },
+"Hcsc:/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505": {
+"company": "Hcsc",
+"first_seen": "2026-10-07T21:30:41+00:00",
+"posted": 1791408831.8207905,
+"title": "Early Careers - Enterprise Data Analyst Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505"
+},
 "Hcsc:/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506": {
 "company": "Hcsc",
 "first_seen": "2026-10-07T16:33:36+00:00",
@@ -17724,6 +17731,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Cyber Security Intern",
 "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2"
+},
+"Persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3": {
+"company": "Persona",
+"first_seen": "2026-10-07T21:30:41+00:00",
+"posted": 1791391713.837,
+"title": "Software Engineer, Intern (Summer 2027) ",
+"url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
 },
 "Philips:/job/Amsterdam/Data-Analytics-Graduate-Internship_587665": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -41123,6 +41137,7 @@
 "hcompany|researchscientistinternphdmodelteamlondon": 1790379919.414332,
 "hcsc|earlycareersautomationprogrammerintern": 1791391005.5935595,
 "hcsc|earlycareersdeveloperintern": 1791391005.5938268,
+"hcsc|earlycareersenterprisedataanalystintern": 1791408837.1766546,
 "hcsc|earlycareersinfrastructureengineerintern": 1791391005.5937328,
 "hdsupply|graduateinternartificialintelligencedatasciencesummer2027": 1790379919.414332,
 "heidelbergmaterials|miningengineerintern": 1790379919.414332,
@@ -43477,6 +43492,7 @@
 "https://guardianlife.wd5.myworkdayjobs.com/en-US/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202": "New York; Bethlehem; Holmdel",
 "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Information-Security-Summer-2027-Internship---KY_R26029765": "US - AIR GROUP BUILDING (KYARP); US - LOUISVILLE TECHNOLGY AND LOGISTIC CENTER (KYLOL)",
 "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Information-Security-Summer-2027-Internship---GA_R26029762": "US - UPS CORPORATE OFFICES (GACOR); US - UPS SUPPLY CHAIN SOLUTIONS (GAAPR)",
+"https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505": "IL - Chicago; TX - Richardson",
 "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506": "IL - Chicago; TX - Richardson",
 "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Arlington-VA/Intern-Engineer---Summer-2027_R-31580": "Arlington, VA; Baltimore, MD; Washington, DC",
 "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Atlanta-GA/New-Grad-Engineer-I--Winter-Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31091": "Atlanta, GA; Lake Mary, FL; Nashville, TN (City Center); Tampa, FL; Jacksonville, FL; Chipley, FL; Green Cove Springs, FL; Fort Lauderdale, FL; Tallahassee, FL; Kissimmee, FL (Neptune Road); Kissimmee, FL (Celebration Blvd); Ormond Beach, FL; Bartow, FL; Ocoee, FL (FTE Turnpike Headquarters); Miami, FL",
