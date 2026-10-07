@@ -516,6 +516,7 @@
 "Diligent Corporation",
 "Dimensional Fund Advisors",
 "Direct Supply",
+"Disa",
 "Discord",
 "Disney",
 "Ditto AI",
@@ -820,6 +821,7 @@
 "Harvey",
 "Haven Studios",
 "Hayden AI",
+"Hcsc",
 "Headlands Tech Holdings",
 "Healthcare",
 "Healthfirst",
@@ -10983,6 +10985,27 @@
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7"
 },
+"Hcsc:/job/IL---Chicago/Early-Careers---Automation-Programmer-Intern_R0059484": {
+"company": "Hcsc",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791218201.2135804,
+"title": "Early Careers - Automation Programmer Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Automation-Programmer-Intern_R0059484"
+},
+"Hcsc:/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506": {
+"company": "Hcsc",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1790959001.2136831,
+"title": "Early Careers - Infrastructure Engineer Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506"
+},
+"Hcsc:/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503": {
+"company": "Hcsc",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1790786201.9441674,
+"title": "Early Careers - Developer Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503"
+},
 "Heidelberg Materials:/job/Burnet-TX/Mining-Engineer-Intern_JR10017976": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Mining Engineer Intern",
@@ -13415,6 +13438,27 @@
 "title": "Software Engineer Intern - Hybrid ",
 "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c"
 },
+"Leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327": {
+"company": "Leidos",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791304425.5926752,
+"title": "Business Systems AI Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327"
+},
+"Leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767": {
+"company": "Leidos",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791304425.59274,
+"title": "Business Systems AI Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767"
+},
+"Leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769": {
+"company": "Leidos",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791390825.592806,
+"title": "Business Systems AI Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769"
+},
 "Leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770": {
 "company": "Leidos",
 "first_seen": "2026-10-03T00:53:39+00:00",
@@ -13435,6 +13479,20 @@
 "posted": 1790988827.2674224,
 "title": "Software Developer Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804"
+},
+"Leidos:/job/Arlington-VA/Data-Science-Intern_R-00193937": {
+"company": "Leidos",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791304425.5922463,
+"title": "Data Science Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Data-Science-Intern_R-00193937"
+},
+"Leidos:/job/Arlington-VA/Software-Engineer-Intern_R-00193933": {
+"company": "Leidos",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791304425.5921807,
+"title": "Software Engineer Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933"
 },
 "Leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -17890,6 +17948,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research Scientist Intern",
 "url": "https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be"
+},
+"Point C:5282758008": {
+"company": "Point C",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1782417996.0,
+"title": "Healthcare Informatics AI Intern",
+"url": "https://job-boards.greenhouse.io/pointc/jobs/5282758008"
 },
 "Point72:7297642002": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -24700,6 +24765,13 @@
 "title": "AI-First Engineering Intern",
 "url": "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4"
 },
+"Xsolla:b2615794-a2c1-4224-9d95-46a890f2a125": {
+"company": "Xsolla",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791304259.283,
+"title": "AI-First Engineering Intern",
+"url": "https://jobs.lever.co/xsolla/b2615794-a2c1-4224-9d95-46a890f2a125"
+},
 "Yotta Labs:09821a51-fbe6-42a7-a566-0d2b5d40fae3": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research Engineer Intern - AI Systems",
@@ -27311,6 +27383,13 @@
 "title": "Software Engineering Intern/Co-op",
 "url": "http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering"
 },
+"src:simplify:258d5748-3766-4b86-b1f1-7672e1c66cef": {
+"company": "S&C Electric Company",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791382885.0,
+"title": "Software Engineer Intern",
+"url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
+},
 "src:simplify:259c0c7d-c60b-40ad-936e-d5aef95bbb9f": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Electrical Engineer Co-op",
@@ -27415,6 +27494,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Hardware Physical Design / VLSI Intern",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501"
+},
+"src:simplify:26dd2b73-7f9e-47f3-8c63-9003aec2977e": {
+"company": "Auto-Owners Insurance",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791331200.0,
+"title": "Business Intelligence Engineer Intern",
+"url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662"
 },
 "src:simplify:26e7fc97-03fa-4445-8338-fdad5cb0812c": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -31819,6 +31905,13 @@
 "title": "Quantitative Intern - Summer 2027",
 "url": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002"
 },
+"src:simplify:78a00951-890f-474e-94ee-6e0cc1a2b9f7": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1791331200.0,
+"title": "Software Developer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
+},
 "src:simplify:78a66370-da21-4e67-97d5-5a37b4f51073": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Engineering Co-op",
@@ -35324,6 +35417,13 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239"
 },
+"src:simplify:b4789431-e06c-4c29-83bf-0028a887dc8a": {
+"company": "Insulet",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1789516800.0,
+"title": "Embedded Software Test Engineering Co-op",
+"url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012"
+},
 "src:simplify:b47a3a87-7204-4961-8b3a-3948d35aaa61": {
 "company": "Expedia Group",
 "first_seen": "2026-10-06T01:43:39+00:00",
@@ -36942,6 +37042,13 @@
 "title": "Embedded and Real-Time Software Intern",
 "url": "https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern"
 },
+"src:simplify:d1dc4ba6-e31d-45f7-951e-0d48b6d86048": {
+"company": "Boston Scientific",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1790576130.0,
+"title": "R&D Research Data Science Intern",
+"url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382"
+},
 "src:simplify:d1e4eec6-2b6b-4b94-a986-8a25822c4666": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Access Control Systems Integration Engineer Intern - Access Control Systems",
@@ -37069,6 +37176,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
+},
+"src:simplify:d3d10ab7-d5dc-4708-9b54-6176ea96d7f0": {
+"company": "Johns Hopkins Applied Physics Laboratory",
+"first_seen": "2026-10-07T16:33:36+00:00",
+"posted": 1788288493.0,
+"title": "Cyber Software Engineer Intern - Capabilities Development",
+"url": "https://careers.jhuapl.edu/jobs/59779?icims=1"
 },
 "src:simplify:d3f54d58-9f89-4689-b91d-f9e03013c3ca": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -39885,6 +39999,7 @@
 "autodesk|stagiaireendveloppementcloudinternclouddeveloper": 1790379919.414332,
 "autodesk|stagiaireendveloppementcloudinternclouddeveloperfcap": 1790379919.414332,
 "autoownersinsurance|businessintelligencedeveloperinternsummer2027": 1790379919.414332,
+"autoownersinsurance|businessintelligenceengineerintern": 1791391007.6267402,
 "autoownersinsurance|dataengineeringinternsummer2027": 1790379919.414332,
 "autoownersinsurance|intelligentautomationdeveloperinternsummer2027": 1790379919.414332,
 "autoownersinsurance|internanalyticswebsystemsdeveloper": 1790379919.414332,
@@ -41006,6 +41121,9 @@
 "hartford|techdataprogramsummer2027softwareengineerinternhartford": 1790379919.414332,
 "harvey|softwareengineeringintern": 1790964025.32079,
 "hcompany|researchscientistinternphdmodelteamlondon": 1790379919.414332,
+"hcsc|earlycareersautomationprogrammerintern": 1791391005.5935595,
+"hcsc|earlycareersdeveloperintern": 1791391005.5938268,
+"hcsc|earlycareersinfrastructureengineerintern": 1791391005.5937328,
 "hdsupply|graduateinternartificialintelligencedatasciencesummer2027": 1790379919.414332,
 "heidelbergmaterials|miningengineerintern": 1790379919.414332,
 "heidelbergmaterials|projectengineerintern": 1790379919.414332,
@@ -41812,6 +41930,7 @@
 "northropgrumman|embeddedsoftwareengineerintern": 1790758032.411073,
 "northropgrumman|engineeringinternbellevuene": 1790620768.2606487,
 "northropgrumman|engineeringinternelktonmdorpalmbeachgardensflorronkonkomany": 1790424394.0611234,
+"northropgrumman|softwaredeveloperintern": 1791391007.626704,
 "northropgrumman|softwaredigitalintern": 1790758032.4110277,
 "northropgrumman|softwareengineeringinterndullesva": 1790821620.9755468,
 "northropgrumman|softwareengineerintern": 1790811935.5429845,
@@ -42471,6 +42590,7 @@
 "sartorius|researchinterndownstreamprocessingmarlboroughma": 1790379919.414332,
 "sas|softwaredevelopmentandtestingintern": 1790902014.906866,
 "scaleai|softwareengineeringinternsummer2027": 1790379919.414332,
+"scelectric|softwareengineerintern": 1791391007.6266644,
 "schonfeld|2027businessanalyticsintern": 1790379919.414332,
 "schonfeld|2027datascienceintern": 1790379919.414332,
 "schonfeld|2027dmfiquantdeveloperintern": 1790379919.414332,
@@ -43357,6 +43477,7 @@
 "https://guardianlife.wd5.myworkdayjobs.com/en-US/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202": "New York; Bethlehem; Holmdel",
 "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Information-Security-Summer-2027-Internship---KY_R26029765": "US - AIR GROUP BUILDING (KYARP); US - LOUISVILLE TECHNOLGY AND LOGISTIC CENTER (KYLOL)",
 "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Information-Security-Summer-2027-Internship---GA_R26029762": "US - UPS CORPORATE OFFICES (GACOR); US - UPS SUPPLY CHAIN SOLUTIONS (GAAPR)",
+"https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506": "IL - Chicago; TX - Richardson",
 "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Arlington-VA/Intern-Engineer---Summer-2027_R-31580": "Arlington, VA; Baltimore, MD; Washington, DC",
 "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Atlanta-GA/New-Grad-Engineer-I--Winter-Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31091": "Atlanta, GA; Lake Mary, FL; Nashville, TN (City Center); Tampa, FL; Jacksonville, FL; Chipley, FL; Green Cove Springs, FL; Fort Lauderdale, FL; Tallahassee, FL; Kissimmee, FL (Neptune Road); Kissimmee, FL (Celebration Blvd); Ormond Beach, FL; Bartow, FL; Ocoee, FL (FTE Turnpike Headquarters); Miami, FL",
 "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Atlanta-GA/Returning-Intern-Engineer----Summer-2027--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30930": "",
