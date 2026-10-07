@@ -849,6 +849,7 @@
 "Hottinger Br\u00fcel & Kjaer (HBK)",
 "Howard University",
 "Howden",
+"Hpe",
 "Hudl",
 "Hudson River Trading",
 "Human Computer Lab",
@@ -1436,6 +1437,7 @@
 "Rocket Lab USA",
 "Rocket Lawyer",
 "Rockwell Automation",
+"Rockwellautomation",
 "Rolls-Royce",
 "Root Access",
 "Royal Bank of Canada",
@@ -1734,6 +1736,7 @@
 "University of Arkansas",
 "University of British Columbia",
 "University of Chicago",
+"University of Maryland - College Park",
 "University of Nevada, Reno",
 "University of Ottawa",
 "University of Rochester",
@@ -2457,6 +2460,13 @@
 "title": "2027 Intern - Solutions Consulting Analyst",
 "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696"
 },
+"Adobe:/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064": {
+"company": "Adobe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791191797.6895366,
+"title": "2027 Intern - Applied and Research Scientist/Engineer",
+"url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
+},
 "Adobe:/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "2027 Intern - Machine Learning Engineer",
@@ -3143,6 +3153,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer 2027 Customer Analytics Intern",
 "url": "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Customer-Analytics-Intern_R39476"
+},
+"American Family Insurance Group:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615": {
+"company": "American Family Insurance Group",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791192093.1501188,
+"title": "Summer 2027 Intern - Data Analyst",
+"url": "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
+},
+"American Family Insurance Group:/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631": {
+"company": "American Family Insurance Group",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791278493.1500523,
+"title": "Summer 2027 Intern - Data Analytics",
+"url": "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631"
 },
 "Ameriprise Financial:/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -4635,6 +4659,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Co-op, Data Science",
 "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science_REQ24211"
+},
+"Biogen:/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310": {
+"company": "Biogen",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791278545.9637494,
+"title": "Co-op, Machine Learning Engineering",
+"url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310"
 },
 "BlackEdge Capital:4703821005": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -7371,6 +7402,13 @@
 "title": "Software Engineer Intern",
 "url": "https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559"
 },
+"Disney:/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1": {
+"company": "Disney",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791191932.5834234,
+"title": "ESPN Programming Intern, Bristol, Spring 2027",
+"url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1"
+},
 "Disney:/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010": {
 "company": "Disney",
 "first_seen": "2026-10-01T02:26:30+00:00",
@@ -8441,6 +8479,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern",
 "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Cork/Software-Engineering-Intern_RP1038785"
+},
+"F5:/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076": {
+"company": "F5",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791278476.9529028,
+"title": "Software Development Engineer Intern (San Jose, CA)",
+"url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076"
+},
+"F5:/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073": {
+"company": "F5",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791278476.9529798,
+"title": "Software Development Engineer Intern (Seattle, WA)",
+"url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
 },
 "F5:/job/Tel-Aviv/DevOps---Cloud-Infrastructure-Intern_RP1038691": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -9641,6 +9693,13 @@
 "title": "2027 Spring Intern - Cell Line Development Automation",
 "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Cell-Line-Development-Automation_202609-123461"
 },
+"Genentech:/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229": {
+"company": "Genentech",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791192101.9194407,
+"title": "2027 Spring Intern - GenAI Applications",
+"url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229"
+},
 "Generac:/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Data Science Intern - Summer 2027",
@@ -9719,12 +9778,26 @@
 "title": "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
 "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
 },
+"General Motors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655": {
+"company": "General Motors",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791192001.857055,
+"title": "2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)",
+"url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655"
+},
 "General Motors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503": {
 "company": "General Motors",
 "first_seen": "2026-10-02T12:35:26+00:00",
 "posted": 1790858355.050158,
 "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
 "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+},
+"General Motors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756": {
+"company": "General Motors",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791192003.6471028,
+"title": "2027 Summer Intern \u2013 AI & Hardware Analytics, ADPT",
+"url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756"
 },
 "General Motors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -9747,6 +9820,20 @@
 "posted": 1790955158.439171,
 "title": "2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
 "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"
+},
+"General Motors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820": {
+"company": "General Motors",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791192003.647252,
+"title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
+"url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820"
+},
+"General Motors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778": {
+"company": "General Motors",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791278403.6471808,
+"title": "2027 Summer Intern, AI/ML Engineer, Mapping",
+"url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
 },
 "Genesis Molecular AI:42fc0631-3f81-481a-b496-daa875c9e92e": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -11263,6 +11350,83 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Business Intelligence Summer Internship 2027",
 "url": "https://hyperiongrp.wd3.myworkdayjobs.com/en-US/Hyperion_External/job/London---One-Creechurch-Place/Business-Intelligence-Summer-Internship-2027_R0019273"
+},
+"Hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1790155163.3556147,
+"title": "Cloud Developer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1"
+},
+"Hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1790155162.5172958,
+"title": "Software Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1"
+},
+"Hpe:/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-development---internship_1213413": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791278365.9405184,
+"title": "Software development - internship",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-development---internship_1213413"
+},
+"Hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1788686364.3030708,
+"title": "HPC AI Systems Administrator Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"
+},
+"Hpe:/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791191964.302248,
+"title": "Systems Software Engineer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401"
+},
+"Hpe:/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1788686364.3029997,
+"title": "ASIC Firmware and Diagnostic Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415"
+},
+"Hpe:/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791191963.3559756,
+"title": "Cloud Developer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"
+},
+"Hpe:/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1788686362.517749,
+"title": "Cloud Engineer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629"
+},
+"Hpe:/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1788686362.5178883,
+"title": "Data Science Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632"
+},
+"Hpe:/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1788686362.517819,
+"title": "Firmware Engineer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627"
+},
+"Hpe:/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625": {
+"company": "Hpe",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1788686362.5176778,
+"title": "Software Engineer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625"
 },
 "Hudl:8114314": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -13045,6 +13209,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Summer Internship Programme",
 "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569"
+},
+"LSEG:/job/THA-Bangkok-One-Bangkok/Engineering-Intern-Programme--Software---Data-or-UI-Engineer-_R0123961-2": {
+"company": "LSEG",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791364871.125487,
+"title": "Engineering Intern Programme (Software,  Data or UI Engineer)",
+"url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/THA-Bangkok-One-Bangkok/Engineering-Intern-Programme--Software---Data-or-UI-Engineer-_R0123961-2"
 },
 "LabCorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795": {
 "company": "LabCorp",
@@ -19685,6 +19856,27 @@
 "title": "Co-op, Robotics Research - Physical AI (OTTO at Rockwell Automation)",
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI--OTTO-at-Rockwell-Automation-_R26-6872"
 },
+"Rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1": {
+"company": "Rockwellautomation",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1790327967.881954,
+"title": "Co-op, AI Software Engineering (6-8 months)",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+},
+"Rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1": {
+"company": "Rockwellautomation",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1790327965.9265757,
+"title": "Intern, AI Software Engineering (June-August 2027)",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
+},
+"Rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1": {
+"company": "Rockwellautomation",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791278365.926507,
+"title": "Intern, Firmware and Software Test Development",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"
+},
 "Rolls-Royce:/job/Dahlewitz/Working-Student---Development-Engineering--f-m-d-_JR6160245": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Working Student - Development Engineering (f/m/d)",
@@ -21686,6 +21878,27 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Infrastructure Automation Engineering Intern",
 "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165445007"
+},
+"Tenstorrent:5256686007": {
+"company": "Tenstorrent",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791357539.0,
+"title": "AI SW Intern, Cloud, Infrastructure & Data Centre Deployment",
+"url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"
+},
+"Tenstorrent:5256691007": {
+"company": "Tenstorrent",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791357435.0,
+"title": "Hardware Intern - Architecture, AI HW & System on a Chip",
+"url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007"
+},
+"Tenstorrent:5258901007": {
+"company": "Tenstorrent",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791357227.0,
+"title": "AI Software Intern",
+"url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"
 },
 "Terranova:58b4f28b-80eb-449a-ad41-63469edb8c6d": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -24009,6 +24222,13 @@
 "posted": 1791320352.0,
 "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660"
+},
+"Waymo:8257801": {
+"company": "Waymo",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791347835.0,
+"title": "2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
 },
 "Wellington Management:/job/Boston-MA-United-States/Business-Intelligence-Co-Op_R94872-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -34244,6 +34464,13 @@
 "title": "Embedded Software Engineer Intern - Spring 2027",
 "url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
 },
+"src:simplify:a6a5ed46-6265-445b-abcd-f0a3316ee4ec": {
+"company": "Waymo",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791353211.0,
+"title": "Research Intern - Perception Foundation Models",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
+},
 "src:simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Data Platforms",
@@ -35542,6 +35769,13 @@
 "posted": 1790726400.0,
 "title": "Firmware Engineer Intern",
 "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
+},
+"src:simplify:bb6a3336-da15-4b50-b989-9e84766d0e86": {
+"company": "Meta",
+"first_seen": "2026-10-07T09:16:29+00:00",
+"posted": 1791353325.0,
+"title": "Data Scientist Intern - Product Analytics",
+"url": "https://www.metacareers.com/jobs/929757023499411"
 },
 "src:simplify:bb78f0cb-d806-4ae3-8996-ed333399cb6b": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -39314,6 +39548,7 @@
 "adobe|2027internmachinelearningengineer": 1790379919.414332,
 "adobe|2027internsoftwareengineer": 1790379919.414332,
 "adobe|2027internsolutionsconsultinganalyst": 1790379919.414332,
+"adobe|internappliedandresearchscientistengineer": 1791364618.32625,
 "advancedspace|2027devopssummerintern": 1790379919.414332,
 "advancedspace|2027machinelearningsummerintern": 1790379919.414332,
 "advancedspace|2027softwareengineeringsummerintern": 1790379919.414332,
@@ -40610,6 +40845,7 @@
 "generalmotors|aimlengineerinternautonomousvehiclessimulation": 1790964259.8392794,
 "generalmotors|aimlengineerinternmapping": 1791251115.2413852,
 "generalmotors|internaihardwareanalyticsadpt": 1791251115.2413447,
+"generalmotors|internmachinelearninginternautonomousvehiclessoftwarevalidationmasters": 1791364842.0560925,
 "generalmotors|internsoftwareverificationengineeravaiplatform": 1791127994.9674711,
 "generalmotors|machinelearningengineerinternavaiplatform": 1790989014.5201693,
 "generalmotors|machinelearninginternautonomousvehiclessoftwarevalidation": 1791251115.241588,
@@ -40848,6 +41084,15 @@
 "howden|analyticssummerintern2027": 1790379919.414332,
 "howden|businessintelligencesummerintern2027": 1790379919.414332,
 "howden|catastropheresearchdevelopmentintern": 1790379919.414332,
+"hpe|asicfirmwareanddiagnosticintern": 1791364820.0164235,
+"hpe|clouddeveloperintern": 1791364820.0162392,
+"hpe|cloudengineerintern": 1791364820.0158923,
+"hpe|datascienceintern": 1791364820.016108,
+"hpe|firmwareengineerintern": 1791364820.0159998,
+"hpe|hpcaisystemsadministratorintern": 1791364820.016525,
+"hpe|softwaredevelopmentintern": 1791364820.0165946,
+"hpe|softwareengineerintern": 1791364820.0157032,
+"hpe|systemssoftwareengineerintern": 1791364820.016345,
 "hpiq|softwareengineeringinternamlplatformsummer2027": 1790379919.414332,
 "hpiq|softwareengineeringinternconnectivitysummer2027": 1790379919.414332,
 "hpiq|softwareengineeringinterndeviceexperiencessummer2027": 1790379919.414332,
@@ -41207,6 +41452,7 @@
 "lplfinancialholdings|intern2027farprogramservicetransformationdataanalytics": 1790379919.414332,
 "lplfinancialholdings|intern2027platformengineer": 1790379919.414332,
 "lplfinancialholdings|intern2027softwareengineer": 1790379919.414332,
+"lseg|engineeringinternprogrammesoftwaredataoruiengineer": 1791364873.1191683,
 "lseg|engineeringsummerinternprogramme": 1790379919.414332,
 "lumentum|embeddedsoftwaredevsecopsengineercoopstudent": 1790379919.414332,
 "lyft|appliedscientistintern": 1790638130.9916785,
@@ -42121,6 +42367,7 @@
 "rockwellautomation|cooproboticsresearchdataengineeringottoatrockwellautomation": 1790379919.414332,
 "rockwellautomation|cooproboticsresearchphysicalaiottoatrockwellautomation": 1790379919.414332,
 "rockwellautomation|internaisoftwareengineeringjuneaugust": 1790379942.826647,
+"rockwellautomation|internfirmwareandsoftwaretestdevelopment": 1791364785.7784126,
 "rollsroyce|assemblytestintern": 1790379919.414332,
 "rollsroyce|designengineeringintern": 1790379919.414332,
 "rollsroyce|internationaldevelopmentengineeringintern": 1790379919.414332,
@@ -42475,6 +42722,9 @@
 "tencent|wxgdatascientistinternsafetystrategies": 1790379919.414332,
 "tensorwave|softwareengineeringintern": 1791234310.4725056,
 "tenstorrent|aicompilersoftwareinternpey": 1790379919.414332,
+"tenstorrent|aisoftwareintern": 1791364591.1411743,
+"tenstorrent|aiswinterncloudinfrastructuredatacentredeployment": 1791364591.1412098,
+"tenstorrent|hardwareinternarchitectureaihwsystemonachip": 1791364591.141234,
 "tenstorrent|infrastructureautomationengineeringintern": 1790379919.414332,
 "tenstorrent|physicaldesigninterncpuaihardware": 1790379919.414332,
 "tenstorrent|softwareengineerinternaicompilerserbia": 1790379919.414332,
@@ -42932,6 +43182,7 @@
 "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Jakarta-Jakarta-Indonesia/Technical-Internship---Expression-of-Interest_JR00044258": "Jakarta, Jakarta, Indonesia; Tangerang, Banten, Indonesia",
 "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Puerto-Rico---Barceloneta/COOP-Engineering-Student_31158635": "Puerto Rico - Barceloneta; Puerto Rico - Arecibo; Puerto Rico - Caguas",
 "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": "Assago, Via del Mulino 11a; Roma",
+"https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064": "San Jose; College Park; San Francisco; Seattle; Cambridge; New York",
 "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": "San Jose; San Francisco; Austin; Seattle; Lehi; New York",
 "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666": "San Jose; Waltham; San Francisco; Austin; Seattle; Lehi; New York",
 "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759": "Chantilly, VA; El Segundo, CA",
@@ -43093,8 +43344,10 @@
 "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001": "Waukesha, WI - USA; Pewaukee, WI - USA",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696": "GM Automation - Sunnyvale - GM Automation - Sunnyvale; Warren, Michigan, United States of America",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353": "Markham, Ontario, Canada; Oshawa, Ontario, Canada",
+"https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756": "Warren, Michigan, United States of America; Milford, Michigan, United States of America",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513": "Warren, Michigan, United States of America; Austin Technical Center - Austin Technical Center; Mountain View Technical Center - Mountain View Technical Center; Milford, Michigan, United States of America",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546": "Warren, Michigan, United States of America; GM Financial - Seattle Branch 2 - GM Financial - Seattle Branch 2; Austin, Texas, United States of America; Milford, Michigan, United States of America; Mountain View, California, United States of America",
+"https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820": "Warren, Michigan, United States of America; Milford, Michigan, United States of America",
 "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Ontario-Canada/Software-Developer-Intern--Analytics_JR112099-1": "Ontario, Canada; Toronto (Flexible)",
 "https://granite.wd1.myworkdayjobs.com/en-US/careers/job/Tucson-Arizona/Engineer-Intern---AZ--2027_R0000008207": "Tucson, Arizona; Tempe, Arizona",
 "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Data-Governance-Analyst-Intern_JR1242": "Cedar Rapids, IA; Des Moines, IA",
@@ -43139,6 +43392,13 @@
 "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Tampa-FL/Returning-New-Grad-Engineer-I--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30928": "Tampa, FL; Bartow, FL; Tallahassee, FL; Chipley, FL",
 "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Engineering---Technical-Internship-Roles---HP-Solutions--HPS-_3167904": "Spring, Texas, United States of America; Scotts Valley, California, United States of America; Fort Collins, Colorado, United States of America; Austin, Texas, United States of America",
 "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906": "Spring, Texas, United States of America; Fort Collins, Colorado, United States of America; Austin, Texas, United States of America",
+"https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1": "Aguadilla, Puerto Rico, Puerto Rico; San Juan, Puerto Rico, Puerto Rico",
+"https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": "Aguadilla, Puerto Rico, Puerto Rico; San Juan, Puerto Rico, Puerto Rico",
+"https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415": "Chippewa Falls, Wisconsin, United States of America; Bloomington, Minnesota, United States of America",
+"https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629": "Spring, Texas, United States of America; Westford, Massachusetts, United States of America; Ft. Collins, Colorado, United States of America; Chippewa Falls, Wisconsin, United States of America; Durham, North Carolina, United States of America; Sunnyvale, California, United States of America; Roseville, California, United States of America; San Jose, California, United States of America; Bloomington, Minnesota, United States of America; Andover, Massachusetts, United States of America",
+"https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632": "Spring, Texas, United States of America; Westford, Massachusetts, United States of America; Ft. Collins, Colorado, United States of America; Chippewa Falls, Wisconsin, United States of America; Durham, North Carolina, United States of America; Sunnyvale, California, United States of America; Roseville, California, United States of America; San Jose, California, United States of America; Bloomington, Minnesota, United States of America; Andover, Massachusetts, United States of America",
+"https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": "Spring, Texas, United States of America; Westford, Massachusetts, United States of America; Ft. Collins, Colorado, United States of America; Chippewa Falls, Wisconsin, United States of America; Durham, North Carolina, United States of America; Sunnyvale, California, United States of America; Roseville, California, United States of America; San Jose, California, United States of America; Bloomington, Minnesota, United States of America; Andover, Massachusetts, United States of America",
+"https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625": "Spring, Texas, United States of America; Westford, Massachusetts, United States of America; Ft. Collins, Colorado, United States of America; Chippewa Falls, Wisconsin, United States of America; Durham, North Carolina, United States of America; Sunnyvale, California, United States of America; Roseville, California, United States of America; San Jose, California, United States of America; Bloomington, Minnesota, United States of America; Andover, Massachusetts, United States of America",
 "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": "Aguadilla, Puerto Rico, Puerto Rico; San Juan, Puerto Rico, Puerto Rico",
 "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3": "Aguadilla, Puerto Rico, Puerto Rico; San Juan, Puerto Rico, Puerto Rico",
 "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772": "Louisville, KY; Fort Lauderdale, FL; Chicago, IL; Arlington, VA; New York, NY; Nashville, TN",
@@ -43277,6 +43537,9 @@
 "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186": "Basel; Rotkreuz; Mannheim; Sant Cugat del Vall\u00e8s; Penzberg",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
+"https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
+"https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
+"https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1": "Mequon, Wisconsin, United States; United States of America Milwaukee (South 2nd Street)",
 "https://ryan.wd1.myworkdayjobs.com/en-US/Students-Graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1": "London; Media City",
 "https://ryancompanies.wd5.myworkdayjobs.com/en-US/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961": "",
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1": "California - San Francisco; California - Palo Alto; New York - New York; Washington - Seattle; Massachusetts - Burlington; Washington - Bellevue; Georgia - Atlanta; Indiana - Indianapolis",
