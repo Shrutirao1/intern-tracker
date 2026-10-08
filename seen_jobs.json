@@ -709,6 +709,7 @@
 "GITAI",
 "GSK",
 "Gables Residential",
+"Gaig",
 "Gallup",
 "Gamechanger",
 "Gametime",
@@ -7490,6 +7491,13 @@
 "title": "Machine Learning Intern (PhD) - Summer 2027",
 "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953"
 },
+"DoorDash:8263774": {
+"company": "DoorDash",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791442212.0,
+"title": "Software Engineer, Intern - Labs (Summer 2027)",
+"url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
+},
 "Dow Chemical Company:/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792": {
 "company": "Dow Chemical Company",
 "first_seen": "2026-10-01T02:26:30+00:00",
@@ -7531,6 +7539,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern (Summer 2027)",
 "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14929"
+},
+"Draper:/job/Lowell-MA/Co-Op-Student-Engineering_JR002974": {
+"company": "Draper",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791357840.076508,
+"title": "Operating Systems and Embedded Software Development Co-Op (Spring 2027)",
+"url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Lowell-MA/Co-Op-Student-Engineering_JR002974"
 },
 "DriveTime:/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2027-_R16295": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -12270,6 +12285,27 @@
 "title": "AI Software Technical Intern",
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"
 },
+"Intel:/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524": {
+"company": "Intel",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791185023.292076,
+"title": "AI Solution Architect - Graduate Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"
+},
+"Intel:/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530": {
+"company": "Intel",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791185023.2921267,
+"title": "AI Solution Architect Graduate Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"
+},
+"Intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931": {
+"company": "Intel",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791357823.2921774,
+"title": "AI Solution Architect - Undergraduate Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931"
+},
 "Intel:/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Module Engineering PhD Intern - Wet Etch",
@@ -13870,6 +13906,13 @@
 "title": "Spring 2027 Jr Software Engineer Co-op (January - June)",
 "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979"
 },
+"MFS:/job/Boston/Spring-2027-Systems-Engineering---Cloud-Technologies-Co-Op--January---June-_MFS-231989": {
+"company": "MFS",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 0,
+"title": "Spring 2027 Systems Engineering - Cloud Technologies Co-Op (January - June)",
+"url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Systems-Engineering---Cloud-Technologies-Co-Op--January---June-_MFS-231989"
+},
 "MFS:/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983": {
 "company": "MFS",
 "first_seen": "2026-10-02T18:00:20+00:00",
@@ -13981,6 +14024,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Quant Research Analyst Intern",
 "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101"
+},
+"Manulife Financial:/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121": {
+"company": "Manulife Financial",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791185260.144773,
+"title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
+"url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
 },
 "Manulife Financial:/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -26552,6 +26602,13 @@
 "title": "AI Analyst Intern",
 "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
 },
+"src:simplify:168a65f0-560f-4f1d-bdb8-105eaa141d0f": {
+"company": "TikTok",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791422022.0,
+"title": "Machine Learning Engineer Intern",
+"url": "https://lifeattiktok.com/search/7694044547207268661"
+},
 "src:simplify:168a9b2f-3f11-497a-a04f-62c40059bff5": {
 "company": "Figma",
 "first_seen": "2026-10-06T01:43:39+00:00",
@@ -28038,6 +28095,13 @@
 "title": "Hardware Test Intern",
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006"
 },
+"src:simplify:2ffedaf1-5e57-4490-b50b-d2db5c9c049c": {
+"company": "Amazon",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791421646.0,
+"title": "Data Engineer Intern",
+"url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us"
+},
 "src:simplify:302d7a14-d6ef-4887-b2e6-ece00d5ae71a": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Quantitative Research Intern",
@@ -29097,6 +29161,13 @@
 "title": "Predictive Data Science Intern - Digital & IT",
 "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525"
 },
+"src:simplify:433f257b-7e1a-4be0-a120-7ade784bff78": {
+"company": "Tesla",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791440374.0,
+"title": "Data Analyst Intern - People Products",
+"url": "https://www.tesla.com/careers/search/job/286085"
+},
 "src:simplify:4341eba9-6dfa-4daf-a025-6cfce5f0518e": {
 "company": "Nokia",
 "first_seen": "2026-10-02T00:43:28+00:00",
@@ -29983,6 +30054,13 @@
 "title": "Systems Engineer Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
 },
+"src:simplify:53e2d2ca-2bf9-417b-8c18-b1af4a682042": {
+"company": "Motorola",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791331200.0,
+"title": "Software Development Intern",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576"
+},
 "src:simplify:54015f6b-c5f8-4381-97e0-d1d98f7f69e0": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Systems Engineering Co-op - Spring 2027",
@@ -30662,6 +30740,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Developer Intern",
 "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
+},
+"src:simplify:60881082-3930-422a-9543-38028c8e9208": {
+"company": "Amazon",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791421646.0,
+"title": "Business Intelligence Engineer Intern",
+"url": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us"
 },
 "src:simplify:60ab7a67-de85-40c1-889d-104e6d6019cd": {
 "company": "IDEMIA",
@@ -33901,6 +33986,13 @@
 "title": "Ground Software Engineer Intern - Summer 2027",
 "url": "https://lunaroutpost.bamboohr.com/careers/398/"
 },
+"src:simplify:9824f95e-030c-4a9f-984a-a8e683459e9a": {
+"company": "Motorola",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791331200.0,
+"title": "Software Engineer Intern",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
+},
 "src:simplify:982c416c-c960-4efd-81a7-a87081597d80": {
 "company": "Northrop Grumman",
 "first_seen": "2026-09-30T23:43:07+00:00",
@@ -36730,6 +36822,13 @@
 "title": "Configuration Control/Data Management Co-op - Engineering Department",
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440"
 },
+"src:simplify:c86990e8-5906-48ea-8deb-30f4e1e7d069": {
+"company": "TikTok",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791422026.0,
+"title": "Machine Learning Engineer Intern",
+"url": "https://lifeattiktok.com/search/7694045969156426037"
+},
 "src:simplify:c8a241fd-2c15-4ae3-8589-8a9b698b11c3": {
 "company": "onsemi",
 "first_seen": "2026-09-29T20:04:03+00:00",
@@ -39214,6 +39313,13 @@
 "title": "Data Science Intern",
 "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Science-Intern-CO--MN_JR116327-1"
 },
+"src:simplify:f5c083c4-8c51-47e5-b0b9-9e74ab87ed5f": {
+"company": "TikTok",
+"first_seen": "2026-10-08T07:23:35+00:00",
+"posted": 1791422026.0,
+"title": "Machine Learning Engineer Intern",
+"url": "https://lifeattiktok.com/search/7694045967754889477"
+},
 "src:simplify:f5d4fc37-b9d9-4b0b-95b0-38f06170c861": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Engineer Intern - Summer 2027",
@@ -39955,6 +40061,7 @@
 "amazon|2027appliedscienceinternmachinelearningrecommendersystemsamazoninternationalmachinelearning": 1790379919.414332,
 "amazon|appliedscienceinterninformationknowledgemanagement": 1790735069.7624488,
 "amazon|asicengineerinternannapurnalabs2027": 1790379919.414332,
+"amazon|businessintelligenceengineerintern": 1791444404.675555,
 "amazon|classof2029internappliedscientistsamazoninternationalstoresamazonjapanstoretech": 1790379919.414332,
 "amazon|datacenterengineeringoperationstechnicianintern": 1790379919.414332,
 "amazon|dcsecurityspecialistinterndcsecurity": 1790379919.414332,
@@ -40739,6 +40846,7 @@
 "docugami|softwareengineeringintern": 1790379919.414332,
 "doordash|machinelearninginternmasters": 1790380003.563138,
 "doordash|machinelearninginternphd": 1790380003.563167,
+"doordash|softwareengineerinternlabs": 1791444219.3222415,
 "doordash|softwareengineerinternsummer2027us": 1790379919.414332,
 "dowchemical|dataengineerdataplatformengineerintern": 1790811935.5430512,
 "dowchemical|localcollegecoopconsumerssolutioncapitalengineeringadminsupport": 1790379919.414332,
@@ -40751,6 +40859,7 @@
 "draftkings|analyticsintern": 1790811935.5426114,
 "draftkings|datascienceinternsummer2027": 1790379919.414332,
 "draftkings|softwareengineerinternsummer2027": 1790379919.414332,
+"draper|operatingsystemsandembeddedsoftwaredevelopmentcoop": 1791444249.669754,
 "draper|requirementsengineeringinterndigitalengineering": 1790712471.572941,
 "drivetime|analyticsinternsummer2027": 1790379919.414332,
 "drivetime|databaseengineeringinternsummer2027": 1790379919.414332,
@@ -41532,6 +41641,8 @@
 "intel|aimlsoftwareappdevelopmentintern": 1790379919.414332,
 "intel|aisoftwareengineeringundergraduateintern": 1790964081.5061321,
 "intel|aisoftwaretechnicalintern": 1790902014.907378,
+"intel|aisolutionarchitectgraduateintern": 1791444419.5648115,
+"intel|aisolutionarchitectundergraduateintern": 1791444419.5648475,
 "intel|developmenttoolssoftwareintern": 1790379919.414332,
 "intel|devopsandsoftwareengineeringintern": 1790379919.414332,
 "intel|firmwaredevelopmentundergraduateengineeringcoop": 1790379919.414332,
@@ -41788,6 +41899,7 @@
 "magnainternational|workingstudentmfxperceptioncustomerfunctionsdevelopment": 1790379919.414332,
 "mangroup|quantresearchanalystintern": 1790379919.414332,
 "mangroup|quantresearcherintern": 1790379919.414332,
+"manulifefinancial|coopsoftwareengineeringsecurityoperations": 1791444515.7015214,
 "manulifefinancial|summerintern2027ai": 1790379919.414332,
 "manulifefinancial|summerintern2027dataanalytics": 1790379919.414332,
 "manulifefinancial|summerintern2027dataanalytics8months": 1790379919.414332,
@@ -41917,6 +42029,7 @@
 "mfs|juniorsoftwareengineercoop": 1790781863.267095,
 "mfs|softwaredataintern": 1790902014.9072492,
 "mfs|softwareengineerintern": 1790902014.9072008,
+"mfs|systemsengineeringcloudtechnologiescoopjanuaryjune": 1791444417.0709512,
 "michelin|itsoftwaredevelopmentdigitalizationintern": 1790379919.414332,
 "michelin|summer2027interndataengineeringardmoreok": 1790379919.414332,
 "michelin|summer2027internengineeringandorsciencesitisandersonsc": 1790379919.414332,
@@ -41995,6 +42108,7 @@
 "motorola|internsoftwaredeveloperreactjs": 1790379919.414332,
 "motorola|presalessystemsengineerintern": 1790798927.0530436,
 "motorola|productqualityengineering2027intern": 1790379919.414332,
+"motorola|softwaredevelopmentintern": 1791444404.675626,
 "motorola|softwareengineeringintern": 1790379919.414332,
 "motorola|softwareengineeringinternsummer2027": 1790379919.414332,
 "motorola|softwareengineerintern": 1790379919.414332,
@@ -43046,6 +43160,7 @@
 "tesla|aihardwarertldesignengineerinternaihardware": 1790725522.2818296,
 "tesla|aihardwaresignalpowerintegrityengineerinternaihardware": 1790725522.2818487,
 "tesla|commercialuisoftwareengineerintern": 1790821791.7595396,
+"tesla|dataanalystinternpeopleproducts": 1791444404.675591,
 "tesla|dataengineerinterndataengineerapplicationsengineering": 1790821791.759565,
 "tesla|dataengineerinterndataengineeringbusinessintelligence": 1790821791.7596083,
 "tesla|distributedsystemssoftwareengineerinternenergyengineering": 1790989014.5202498,
@@ -43074,6 +43189,7 @@
 "thrivent|associatesoftwareengineersophomoreinternsummer2027": 1790379919.414332,
 "thrivent|equityresearchanalystinternsummer2027": 1790379919.414332,
 "tihinsurance|internsoftwareengineering": 1791087500.0139394,
+"tiktok|machinelearningengineerintern": 1791444404.6754942,
 "tilderesearch|kernelengineerinternandfulltime": 1790379919.414332,
 "tilderesearch|mlengineerinternandfulltime": 1790379919.414332,
 "tilderesearch|mlresearcherinternandfulltime": 1790379919.414332,
@@ -43604,6 +43720,7 @@
 "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282": "El Segundo, CA; United States - Virtual",
 "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634": "",
 "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636": "",
+"https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Lowell-MA/Co-Op-Student-Engineering_JR002974": "Lowell, MA; Cambridge, MA",
 "https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2027-_R16295": "1720 W Rio Salado Pkwy Tempe, AZ 85281; 5430 Lyndon B Johnson Fwy Suite 1200 Dallas, TX 75240",
 "https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301": "1720 W Rio Salado Pkwy Tempe, AZ 85281; 5430 Lyndon B Johnson Fwy Suite 1200 Dallas, TX 75240",
 "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/Engineering-Co-op-Spring-2027_R41227": "Charlotte, NC; Owensville, IN; Plainfield, IN; Ocala, FL; Cincinnati, OH; Union, KY; Edwardsport, IN; Cayuga, IN; Raleigh, NC; Lake Mary, FL; Asheville Combined-Cycle Admin Bldg; Goldsboro, NC; Noblesville, IN",
@@ -43722,6 +43839,7 @@
 "https://iberdrola.wd3.myworkdayjobs.com/en-US/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Engineering---Project-Delivery-Internship-Program_R-32746": "",
 "https://iberdrola.wd3.myworkdayjobs.com/en-US/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747": "",
 "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252": "Reston, VA; Nationwide Remote Office (US99); Denver, CO",
+"https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536": "PRC, Shanghai; PRC, Beijing",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945": "PRC, Shanghai; PRC, Chengdu",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834": "US, Oregon, Hillsboro; US, California, Folsom; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836": "US, Oregon, Hillsboro; US, California, Folsom; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix",
