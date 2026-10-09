@@ -31058,6 +31058,13 @@
 "title": "Electrical Engineer Intern",
 "url": "https://jobs.stryten.com/jobs/5800?icims=1"
 },
+"src:simplify:612b75fd-3a87-4038-8d14-df65b4ef144a": {
+"company": "NVIDIA",
+"first_seen": "2026-10-09T13:22:06+00:00",
+"posted": 1791504000.0,
+"title": "CPU Compiler Intern",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
+},
 "src:simplify:612d47bb-ecd4-42e3-8669-3af521907136": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Science Intern - Summer 2027",
@@ -42687,6 +42694,7 @@
 "nvidia|asicphysicaldesignintern2027": 1790379919.414332,
 "nvidia|circuitvalidationengineerintern2027": 1790379919.414332,
 "nvidia|computesystemarchaiinfraintern2027": 1790379919.414332,
+"nvidia|cpucompilerintern": 1791552297.2401073,
 "nvidia|cudafullstackaitestdevintern2027": 1790379919.414332,
 "nvidia|deeplearningsoftwareengineeringinterntestdevelopment2027": 1790379919.414332,
 "nvidia|designverificationengineerrdssintern": 1790379919.414332,
@@ -44259,6 +44267,8 @@
 "https://iberdrola.wd3.myworkdayjobs.com/en-US/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747": "",
 "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380": "Reston, VA; Nationwide Remote Office (US99)",
 "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252": "Reston, VA; Nationwide Remote Office (US99); Denver, CO",
+"https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-GPU-Arch-Perf-Optimization-Intern_JR0287915": "PRC, Shanghai; PRC, Beijing",
+"https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineering-Graduate-Intern_JR0287917": "PRC, Shanghai; PRC, Beijing",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536": "PRC, Shanghai; PRC, Beijing",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945": "PRC, Shanghai; PRC, Chengdu",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834": "US, Oregon, Hillsboro; US, California, Folsom; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix",
