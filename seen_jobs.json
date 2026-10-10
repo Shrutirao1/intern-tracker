@@ -2500,10 +2500,24 @@
 "title": "2027 Systems Engineering Summer Internship",
 "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4376394009"
 },
+"Aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884": {
+"company": "Aep",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791447596.2952614,
+"title": "Data Scientist Intern - Columbus, OH",
+"url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884"
+},
 "AeroVironment:/job/Centreville-VA/Software-Engineering-Intern_8593": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern",
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Centreville-VA/Software-Engineering-Intern_8593"
+},
+"AeroVironment:/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993": {
+"company": "AeroVironment",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791274755.8879006,
+"title": "Hypersonic RF Software Engineering Intern",
+"url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"
 },
 "AeroVironment:/job/Huntsville-AL/Aeromechanical-Engineering-Intern_8786": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -4109,6 +4123,13 @@
 "title": "Software Developer Internship - Summer 2027",
 "url": "https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121"
 },
+"Autodesk:/job/Krakw-POL/Intern--Software-Engineer_26WD101095": {
+"company": "Autodesk",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791533745.1498184,
+"title": "Intern, Software Engineer",
+"url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Krakw-POL/Intern--Software-Engineer_26WD101095"
+},
 "Autodesk:/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern, AI Developer/ Stagiaire en d\u00e9veloppement IA",
@@ -5064,12 +5085,40 @@
 "title": "Supply Chain & Data Analytics - Analyst Co-op",
 "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-GA---Atlanta/Supply-Chain---Data-Analytics---Analyst-Co-op_R29240"
 },
+"Bose:/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277": {
+"company": "Bose",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791360954.3039749,
+"title": "Audio Machine Learning Intern/Co-op",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277"
+},
+"Bose:/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271": {
+"company": "Bose",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791360954.752412,
+"title": "Data Analytics Engineer Co-op",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271"
+},
+"Bose:/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270": {
+"company": "Bose",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791360954.7524917,
+"title": "Data Engineer Co-Op",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270"
+},
 "Bose:/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251": {
 "company": "Bose",
 "first_seen": "2026-10-02T21:57:26+00:00",
 "posted": 1790978571.4822466,
 "title": "Data Science Co-Op (NLP & GenAI)",
 "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251"
+},
+"Bose:/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278": {
+"company": "Bose",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791360954.3051593,
+"title": "Embedded Software Engineer Co-op  - Audio Tech",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278"
 },
 "Bot Auto:5289440008": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -14620,6 +14669,13 @@
 "title": "AI & Data Co-Op (Northeastern University), Spring 2027 \u2013 Purchase, NY, US",
 "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/AI---Data-Co-Op--Northeastern-University---Spring-2027---Purchase--NY--US_R-291653"
 },
+"Mastercard:/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993": {
+"company": "Mastercard",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791361241.7537663,
+"title": "Data Engineering Intern, Summer 2027 \u2013 San Franscisco, CA, US",
+"url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993"
+},
 "Mastercard:/job/Singapore/Software-Engineer-Intern--Summer-2027---Singapore_R-287574": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern, Summer 2027 - Singapore",
@@ -15145,6 +15201,13 @@
 "posted": 1790699377.1701863,
 "title": "Co-Op, Research Engineering and AI Integration",
 "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893"
+},
+"Modernizing Medicine:/job/Boca-Raton-FL/Software-Engineering-Intern_R5148": {
+"company": "Modernizing Medicine",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791447429.2393894,
+"title": "Software Engineering Intern",
+"url": "https://modmed.wd501.myworkdayjobs.com/en-US/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148"
 },
 "Moment Energy:4421775009": {
 "company": "Moment Energy",
@@ -17906,6 +17969,13 @@
 "title": "Engineering Internship / Co-Op Summer 2027",
 "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683"
 },
+"Parsons:/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147": {
+"company": "Parsons",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 0,
+"title": "Software Engineer Co-Op - TS/SCI",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
+},
 "Parsons:/job/US---VA-Herndon/Engineering-Internship-Summer-2027_R186304": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Internship Summer 2027",
@@ -20299,6 +20369,13 @@
 "title": "Intern, AI Software Engineering (June-August 2027)",
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
 },
+"Rockwell Automation:/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568": {
+"company": "Rockwell Automation",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791274775.914279,
+"title": "Intern, Firmware and Software Test Development",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568"
+},
 "Rockwell Automation:/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Co-op, Robotics Integration and Development (OTTO by Rockwell Automation)",
@@ -22136,6 +22213,13 @@
 "title": "NHRC Software Engineering Internship (Summer 2027)",
 "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
 },
+"Tencent:/job/AI-Game-AI-Research-Intern_R106377-1": {
+"company": "Tencent",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791360944.9770272,
+"title": "\u30b2\u30fc\u30e0AI\u30ea\u30b5\u30fc\u30c1\u30a4\u30f3\u30bf\u30fc\u30f3\uff5cGame AI Research Intern",
+"url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/AI-Game-AI-Research-Intern_R106377-1"
+},
 "Tencent:/job/Australia-New-South-Wales-Sydney/Game-Research---Development-Intern--Engine-Research_R107518-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Game Research & Development Intern, Engine Research",
@@ -23850,6 +23934,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Systems Engineering Co-op - Knoxville, TN",
 "url": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/KNV-I/Systems-Engineering-Co-op---Knoxville--TN_R-30684"
+},
+"Varian:/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142": {
+"company": "Varian",
+"first_seen": "2026-10-10T08:15:37+00:00",
+"posted": 1791534002.1255589,
+"title": "Software Developer Co-op - Red River College",
+"url": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142"
 },
 "Veeam Software:4951792101": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -40599,12 +40690,14 @@
 "accenture|pythondeveloperinternshehethey": 1790696092.3109336,
 "aclukentucky|undergraduateinternnationalsecurityproject": 1790620616.5182452,
 "adobe|internappliedandresearchscientistengineer": 1791364618.32625,
+"aep|datascientistinterncolumbusoh": 1791620408.5513248,
 "aerospace|embeddedsystemssoftwareengineeringundergradintern": 1791490433.1913211,
 "aerospace|softwareengineeringgradintern": 1790672586.4974682,
 "aerospace|softwareengineeringintern": 1790649666.1661358,
 "aerospace|softwareengineeringinternsoftwaretoolsandassurance": 1790649666.1661813,
 "aerospace|softwareimplementationandintegrationundergradclearedintern": 1790638287.3172457,
 "aerovironment|digitalbusinesstechnologyinfrastructuredbtintern": 1790712568.8008444,
+"aerovironment|hypersonicrfsoftwareengineeringintern": 1791620375.171392,
 "aerovironment|titansvsoftwareengineerintern": 1790978593.212903,
 "affirm|softwareengineerintern": 1790978247.5037675,
 "affirm|softwareengineermachinelearningintern": 1790978247.5038009,
@@ -40642,9 +40735,9 @@
 "astera|packagingautomationdataengineeringintern": 1791274308.0401638,
 "astranis|radiationeffectsengineerintern": 1790811792.734296,
 "atlassian|dataengineerintern": 1791251115.2410517,
-"atlassian|researchintern": 1790406425.3218653,
 "atoms|machinelearningengineerintern": 1791234306.6920033,
 "audaxprivateequity|coopportfoliovaluationanalytics": 1790725265.7165678,
+"autodesk|internsoftwareengineer": 1791620147.7592175,
 "autodesk|researcherinternmachinelearningforconstruction": 1791234433.0964048,
 "autodesk|researchinternmultimodalaiforhumanexperience": 1791234433.096384,
 "autoownersinsurance|businessintelligenceengineerintern": 1791391007.6267402,
@@ -40669,6 +40762,7 @@
 "bose|dataanalyticsengineercoop": 1791422096.3828363,
 "bose|dataengineercoop": 1791422096.3827996,
 "bose|datasciencecoopnlpgenai": 1790978573.5275674,
+"bose|embeddedsoftwareengineercoopaudiotech": 1791620158.7290657,
 "bose|supplychaindataanalyticsanalystcoop": 1790978573.5275462,
 "bostonscientific|equipmentengineeringaivisionengineerintern": 1791299321.0263875,
 "bostonscientific|equipmentengineeringsoftwareengineerintern": 1791274308.0403218,
@@ -40776,7 +40870,6 @@
 "firstbanktrust|softwaredevelopmentintern": 1790872025.9415784,
 "firy|coopworkforceanalytics": 1790725265.6605635,
 "flagshippioneering|terranabioinformaticscoopcomputationalbiologydatascience": 1790781651.1120727,
-"flint|engineeringintern": 1790406425.3219082,
 "fmr|undergraduateinternsystems": 1790758043.520796,
 "fox|foxnewsmediainterndataanalyticsnewyork": 1790571017.05561,
 "fox|foxnewsmediainterntechnicaloperationsnewyork": 1790571017.0555658,
@@ -40812,7 +40905,6 @@
 "genscript|aiinternenterpriseagentdevelopment": 1790811792.1497858,
 "gevernova|gevernovamachinelearningsoftwareintern": 1790638246.608119,
 "gevernova|scscommercialinternaidataminingagent": 1791470987.873661,
-"gileadsciences|internresearchdatasciencesai": 1790408845.952754,
 "gileadsciences|internresearchmedicinalchemistrystructuralbiologychemistryai": 1790817163.9951503,
 "gitai|fielddeployedsoftwareengineeringinternimmediate": 1790725265.427948,
 "glean|softwareengineerintern": 1790902014.9070404,
@@ -41054,6 +41146,7 @@
 "pacificlife|softwareengineeringintern": 1790712471.5722783,
 "pangram|airesearchintern": 1791160024.440312,
 "papajohns|datascienceintern": 1791572045.9797273,
+"parsons|softwareengineercooptssci": 1791620194.4733353,
 "patchmypc|softwareengineerintern": 1790811935.5426683,
 "pathai|softwareengineeringmlopsinterncoop": 1790725265.1535914,
 "pearvc|airesearchinternoptexityusa": 1790725265.3943677,
@@ -41215,8 +41308,6 @@
 "tesla|embeddedsoftwaredeveloperinternvehiclesuspension": 1790735069.762472,
 "tesla|embeddedsoftwareengineerinternsilicondevelopment": 1790735069.762232,
 "tesla|embeddedsoftwareengineerinternthermalsystems": 1791251115.2418022,
-"tesla|mobileapplicationsoftwareengineerinternenergyengineering": 1790406425.32182,
-"tesla|siliconvalidationengineerinternaihardware": 1790406425.3218431,
 "tesla|softwaredeveloperinternintegrationtools": 1790735069.7624953,
 "tesla|softwareengineerinterndatatransformations": 1790725522.281756,
 "tesla|softwareintegrationengineerinternaiplatforms": 1790725522.2818115,
@@ -41242,6 +41333,7 @@
 "upstart|appliedscientistintern": 1790725265.0022845,
 "usfoods|interndataanalysthybridonsiteremote": 1791274352.401085,
 "vardaspace|flightsoftwareintern": 1790845936.9756815,
+"varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
 "veeamsoftware|competitiveintelligenceaiengineeringintern": 1790888953.99065,
 "vegaamericas|engineeringcoop": 1790725265.4124892,
 "verizoncommunications|businessintelligenceinternfiberengineeringoperationstransformationbusinessenablement": 1790666001.1373541,
@@ -41351,7 +41443,11 @@
 "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": "USA - Everett, WA; USA - Saint Charles, MO; USA - Mukilteo, WA; USA - Berkeley, MO; USA - Hazelwood, MO; USA - El Segundo, CA; USA - Renton, WA; USA - Seattle, WA; USA - Auburn, WA; USA - Bellevue, WA; USA - Kent, WA; USA - Plano, TX; USA - Arlington, VA; USA - Ridley Park, PA; USA - Tukwila, WA; USA - Mesa, AZ; USA - North Charleston, SC",
 "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1": "USA - Everett, WA; USA - Saint Charles, MO; USA - Huntsville, AL; USA - Charleston, SC; USA - Oklahoma City, OK; USA - Berkeley, MO; USA - Huntington Beach, CA; USA - Hazelwood, MO; USA - El Segundo, CA; USA - Herndon, VA; USA - Plano, TX; USA - Arlington, VA; USA - Ridley Park, PA; USA - Tukwila, WA; USA - North Charleston, SC; USA - Fairfax, VA; USA - Colorado Springs, CO; USA - Chicago, IL; USA - Seal Beach, CA; USA - Mukilteo, WA; USA - Long Beach, CA; USA - Atlanta, GA; USA - Renton, WA; USA - Dallas, TX; USA - Seattle, WA; USA - Auburn, WA; USA - Bellevue, WA; USA - San Antonio, TX; USA - Kent, WA; USA - Mesa, AZ",
 "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675": "USA - Huntington Beach, CA; USA - Tukwila, WA",
+"https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277": "US, MA - Framingham; US, MI - Bloomfield Hills; US, GA - Atlanta",
+"https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271": "US, MA - Framingham; US, MI - Bloomfield Hills; US, GA - Atlanta",
+"https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270": "US, MA - Framingham; US, MI - Bloomfield Hills; US, GA - Atlanta",
 "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251": "US, MA - Framingham; US, GA - Atlanta; Portugal, Lisboa",
+"https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278": "US, MA - Framingham; US, MI - Bloomfield Hills; US, GA - Atlanta; US, MI - Troy",
 "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506": "Annapolis Junction, MD, US; Fort Meade, MD, US",
 "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650": "Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Athens, Georgia; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; Green Valley, Arizona; South Milwaukee, Wisconsin; Fort Worth, Texas; Lafayette, Indiana; San Antonio, Texas; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois",
 "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509": "Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois",
@@ -41658,6 +41754,7 @@
 "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186": "Basel; Rotkreuz; Mannheim; Sant Cugat del Vall\u00e8s; Penzberg",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
+"https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568": "Mequon, Wisconsin, United States; United States of America Milwaukee (South 2nd Street)",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1": "Mayfield Heights, Ohio, United States; Milwaukee, Wisconsin, United States",
 "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1": "Mequon, Wisconsin, United States; United States of America Milwaukee (South 2nd Street)",
