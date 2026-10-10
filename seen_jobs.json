@@ -4303,10 +4303,24 @@
 "title": "Internship \u2013 Research Intern (AI for Scientific Reasoning)",
 "url": "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4845060101"
 },
+"Axos Bank:/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658": {
+"company": "Axos Bank",
+"first_seen": "2026-10-10T14:29:12+00:00",
+"posted": 1791383474.3295221,
+"title": "AI Engineer Intern",
+"url": "https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658"
+},
 "Axos Bank:/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Automation Analyst Intern",
 "url": "https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507"
+},
+"Axos Bank:/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647": {
+"company": "Axos Bank",
+"first_seen": "2026-10-10T14:29:12+00:00",
+"posted": 1791383473.8429022,
+"title": "Software Development Intern",
+"url": "https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"
 },
 "BDO Canada:/job/Oakville/Co-op-or-Intern--DevOps-Engineer--September-2026-_JR7058": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -10563,6 +10577,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern (Low Code)",
 "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
+},
+"Gordon Food Service:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374": {
+"company": "Gordon Food Service",
+"first_seen": "2026-10-10T14:29:12+00:00",
+"posted": 1791469906.7113802,
+"title": "Software Engineer Intern (Transportation Routing )",
+"url": "https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"
 },
 "Gordon Food Service:/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -25608,6 +25629,13 @@
 "title": "Firmware Engineer Intern (Summer 2027) ",
 "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003"
 },
+"Zoetis:/job/Kalamazoo---Downtown-Portage-Street/Summer-Intern---Pharmacogenomics-Data-Science---Genomic-Prediction--VMRD-_JR00021759-2": {
+"company": "Zoetis",
+"first_seen": "2026-10-10T14:29:12+00:00",
+"posted": 1791556198.7424815,
+"title": "Summer Intern \u2013 Pharmacogenomics Data Science & Genomic Prediction (VMRD)",
+"url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Summer-Intern---Pharmacogenomics-Data-Science---Genomic-Prediction--VMRD-_JR00021759-2"
+},
 "Zuru:16d4cc04-a913-495f-a835-f6dd1275384c": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "AI Integration Summer Internship 2026/2027",
@@ -37836,6 +37864,13 @@
 "title": "Quantitative Trading Intern",
 "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002"
 },
+"src:simplify:ce67de6b-014f-45b0-8b18-54b623767679": {
+"company": "RTX",
+"first_seen": "2026-10-10T14:29:12+00:00",
+"posted": 1791504000.0,
+"title": "Software Engineering Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467"
+},
 "src:simplify:ce6bb4b3-0f2f-4eb0-b490-e518ef1dba06": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Member of Technical Staff Intern - Research",
@@ -40742,6 +40777,8 @@
 "autodesk|researchinternmultimodalaiforhumanexperience": 1791234433.096384,
 "autoownersinsurance|businessintelligenceengineerintern": 1791391007.6267402,
 "axelera|internmlinferenceperformanceengineer": 1790725265.5969925,
+"axosbank|aiengineerintern": 1791642684.2743418,
+"axosbank|softwaredevelopmentintern": 1791642684.2743196,
 "backmarket|customercaredataanalystintern": 1790725265.3112671,
 "backmarket|customerjourneyappanalyticsapprentice": 1790725265.311061,
 "backmarket|operationsdataautomationapprentice": 1790725265.311192,
@@ -40910,6 +40947,7 @@
 "glean|softwareengineerintern": 1790902014.9070404,
 "globalfoundries|softwareengineerintern": 1791597839.2445283,
 "globalfoundries|technologyarchitectureengineeringintern": 1790638288.9533193,
+"gordonfoodservice|softwareengineerinterntransportationrouting": 1791642737.12199,
 "govsignals|productengineerintern": 1791159841.5734353,
 "graphcore|digitaltwinengineeringintern": 1790757864.5668113,
 "graphcore|machinelearninganddatascienceengineeringintern": 1790944527.5192468,
@@ -41120,7 +41158,6 @@
 "northmarq|softwareengineeringintern": 1790725265.663501,
 "northropgrumman|embeddedsoftwareengineerintern": 1790758032.411073,
 "northropgrumman|engineeringinternbellevuene": 1790620768.2606487,
-"northropgrumman|engineeringinternelktonmdorpalmbeachgardensflorronkonkomany": 1790424394.0611234,
 "northropgrumman|softwaredeveloperintern": 1791391007.626704,
 "northropgrumman|softwaredigitalintern": 1790758032.4110277,
 "northropgrumman|softwareengineeringinterndullesva": 1790821620.9755468,
@@ -41289,7 +41326,6 @@
 "stateofnorthcarolina|dataengineeringintern": 1791179879.6445334,
 "stateofnorthcarolina|datascienceintern": 1791179879.6444786,
 "stokespace|internengineering": 1790725265.5239658,
-"swingvisionisaitennispickleballandpadelappthat|swingvisionistheaitennispickleballandpadelappthatprovidesautomatedstatshighlightsandlinecallingusingjustyourphoneourmission": 1790413571.4463298,
 "symbotic|internmachinelearningops": 1791597966.8121402,
 "tencent|cloudmediaservicesintern": 1790978257.7965918,
 "tenet3|softwaredeveloperinternfullstack": 1791597839.2444186,
@@ -41371,7 +41407,8 @@
 "zipline|flighttestengineerintern": 1790725266.371501,
 "zipline|softwaresystemsvalidationintern": 1790725266.3716583,
 "zipline|supplierindustrializationengineeringintern": 1790725266.3717332,
-"zipline|systemtestautomationintern": 1790725266.3718045
+"zipline|systemtestautomationintern": 1790725266.3718045,
+"zoetis|internpharmacogenomicsdatasciencegenomicpredictionvmrd": 1791642602.1777542
 },
 "wd_locations": {
 "https://3m.wd1.myworkdayjobs.com/en-US/search/job/US-Minnesota-Maplewood/Internship---2027-PhD-Research---Development-Intern_R01170406": "US, Minnesota, Maplewood; US, Texas, Austin",
