@@ -3610,6 +3610,34 @@
 "title": "Quality Engineering Intern",
 "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Quality-Engineering-Intern_J000702994"
 },
+"Aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398": {
+"company": "Aptiv",
+"first_seen": "2026-10-10T18:46:39+00:00",
+"posted": 1791571608.0817227,
+"title": "Linux Software Development Intern",
+"url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398"
+},
+"Aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399": {
+"company": "Aptiv",
+"first_seen": "2026-10-10T18:46:39+00:00",
+"posted": 1791571608.0817552,
+"title": "Linux Software Development Intern",
+"url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
+},
+"Aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386": {
+"company": "Aptiv",
+"first_seen": "2026-10-10T18:46:39+00:00",
+"posted": 1791571608.0815787,
+"title": "Embedded Software - Engineering Intern",
+"url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"
+},
+"Aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385": {
+"company": "Aptiv",
+"first_seen": "2026-10-10T18:46:39+00:00",
+"posted": 1791571608.081691,
+"title": "Intern - Compiler Team",
+"url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385"
+},
 "Aptiv:/job/Wuppertal-Germany/Working-Student-Interior-Sensing-ML_J000700630": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Working Student Interior Sensing ML",
@@ -16010,6 +16038,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "System Software Engineer (RDSS Intern)",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500"
+},
+"NVIDIA:/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251": {
+"company": "NVIDIA",
+"first_seen": "2026-10-10T18:46:39+00:00",
+"posted": 1791571608.9020355,
+"title": "CPU Compiler Intern - 2027",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
 },
 "NVIDIA:/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958": {
 "company": "NVIDIA",
@@ -34202,6 +34237,13 @@
 "title": "Hardware Quality Co-op - Verification & Validation",
 "url": "https://berkshiregrey.bamboohr.com/careers/771/"
 },
+"src:simplify:8f6341ff-47e2-4a91-8d5d-fca1f79014c0": {
+"company": "RTX",
+"first_seen": "2026-10-10T18:46:39+00:00",
+"posted": 1791504000.0,
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918"
+},
 "src:simplify:8f7fcdad-e342-4a99-91d5-65496fcb049a": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Business Intelligence Co-op",
@@ -40763,6 +40805,9 @@
 "americanfamilyinsurance|interndataanalyst": 1791586921.3238614,
 "apexcompanies|engineeringintern": 1790725266.087102,
 "apog|engineeringintern": 1790799031.7448888,
+"aptiv|embeddedsoftwareengineeringintern": 1791658038.536458,
+"aptiv|interncompilerteam": 1791658038.536479,
+"aptiv|linuxsoftwaredevelopmentintern": 1791658038.5364928,
 "arcesium|infrastructureengineerintern": 1791571946.8366327,
 "arcesium|softwareengineerintern": 1791586589.0123591,
 "arc|softwareengineerintern": 1790989014.5200994,
