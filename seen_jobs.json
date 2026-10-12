@@ -3958,6 +3958,13 @@
 "title": "Roads & Highways Engineering Intern \u2013 Summer 2027",
 "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/USCODenver/Roads---Highways-Engineering-Intern---Summer-2027_R-161174-1"
 },
+"AtkinsR\u00e9alis:/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1": {
+"company": "AtkinsR\u00e9alis",
+"first_seen": "2026-10-12T16:00:49+00:00",
+"posted": 1791820999.7083952,
+"title": "Software Developer Intern - Summer 2027",
+"url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1"
+},
 "AtkinsR\u00e9alis:/job/USCODenver/Water-Resources-Engineering-Intern---Summer-2027_R-161180": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Water Resources Engineering Intern \u2013 Summer 2027",
@@ -19229,6 +19236,20 @@
 "title": "Software Support Engineer Internship (NetSuite) - Summer 2027",
 "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008"
 },
+"RF-SMART:5427723008": {
+"company": "RF-SMART",
+"first_seen": "2026-10-12T16:00:49+00:00",
+"posted": 1791817614.0,
+"title": "Software Support Engineer Internship (RFS for NetSuite) -Summer 2027",
+"url": "https://job-boards.greenhouse.io/rfsmart/jobs/5427723008"
+},
+"RF-SMART:5446867008": {
+"company": "RF-SMART",
+"first_seen": "2026-10-12T16:00:49+00:00",
+"posted": 1791816539.0,
+"title": "Software Developer Internship- Summer 2027",
+"url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008"
+},
 "RFCUNY:/job/New-York-NY/Student-Research-Intern_JR109": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Student Research Intern",
@@ -22490,6 +22511,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern (Brazil) - Year Round 2027",
 "url": "https://jobs.ashbyhq.com/telus-digital/98495440-1a32-4c7e-8183-f38beebfd1d0"
+},
+"TIAA:/job/Chicago-IL-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Business-Intelligence_R261000134": {
+"company": "TIAA",
+"first_seen": "2026-10-12T16:00:49+00:00",
+"posted": 1791820933.2660441,
+"title": "2027 Early Talent Internship: Nuveen Business Intelligence",
+"url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Chicago-IL-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Business-Intelligence_R261000134"
 },
 "TRUMPF:/job/Chicago-IL/Smart-Factory-Robotics---Operations-Intern_R00042570": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -32087,6 +32115,13 @@
 "title": "Data Trading Analyst Intern - Data Trading Lab",
 "url": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009"
 },
+"src:simplify:68895e12-9a1f-4ca5-8dfb-b050f2ea8a43": {
+"company": "Google",
+"first_seen": "2026-10-12T16:00:49+00:00",
+"posted": 1791814721.0,
+"title": "Forward Deployed Engineer Intern",
+"url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958"
+},
 "src:simplify:689f3f86-89fe-46b9-8d8f-72346df3b0ae": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Embedded Software Engineering Intern",
@@ -37302,6 +37337,13 @@
 "title": "PhD Research Intern",
 "url": "https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application?embed=true"
 },
+"src:simplify:bd284fb3-53b0-4465-abd6-86445c4a9a0a": {
+"company": "CapTech Consulting",
+"first_seen": "2026-10-12T16:00:49+00:00",
+"posted": 1791813971.0,
+"title": "Data Analysis/Data Engineering Intern",
+"url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169"
+},
 "src:simplify:bdc2e5e0-9ec7-4480-af9b-d02e6fb8dbfd": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Fleet Management Algorithms Intern - Vehicle Software",
@@ -41119,6 +41161,7 @@
 "assurant|softwareengineerintern": 1790811935.5428793,
 "astera|packagingautomationdataengineeringintern": 1791274308.0401638,
 "astranis|radiationeffectsengineerintern": 1790811792.734296,
+"atkinsralis|softwaredeveloperintern": 1791821048.9891891,
 "atlassian|dataengineerintern": 1791251115.2410517,
 "atoms|machinelearningengineerintern": 1791234306.6920033,
 "audaxprivateequity|coopportfoliovaluationanalytics": 1790725265.7165678,
@@ -41168,6 +41211,7 @@
 "cadencedesignsystems|internproductvalidationengineeringaiqualityassuranceqa": 1790964049.271143,
 "cadencesolutions|softwareengineerintern": 1791274308.040252,
 "cai|cloudsecurityanalystintern": 1791087622.3916357,
+"captechconsulting|dataanalysisdataengineeringintern": 1791820971.127025,
 "cboe|quantdataanalyticsintern": 1791024284.8154185,
 "centene|aienablementintern": 1791422096.3830194,
 "centerforaisafety|researchengineerintern": 1790725265.758423,
@@ -41295,6 +41339,7 @@
 "glean|softwareengineerintern": 1790902014.9070404,
 "globalfoundries|softwareengineerintern": 1791597839.2445283,
 "globalfoundries|technologyarchitectureengineeringintern": 1790638288.9533193,
+"google|forwarddeployedengineerintern": 1791820971.127002,
 "gordonfoodservice|softwareengineerinterntransportationrouting": 1791642737.12199,
 "govsignals|productengineerintern": 1791159841.5734353,
 "graphcore|digitaltwinengineeringintern": 1790757864.5668113,
@@ -41590,6 +41635,8 @@
 "remason|coopopportunityitotservicesengineering": 1790725265.7107108,
 "replit|softwareengineeringinternusbased": 1791490096.6897867,
 "revvity|softwareintegrationcoop": 1791087431.3846507,
+"rfsmart|softwaredeveloperintern": 1791820851.3207057,
+"rfsmart|softwaresupportengineerinternrfsfornetsuite": 1791820851.3207316,
 "rhodaai|robotsoftwareengineerintern": 1790725265.1247563,
 "richemont|dataandaiintern": 1790758117.7687287,
 "riotgames|softwareengineerintern": 1790902014.907073,
@@ -41709,6 +41756,7 @@
 "thales|aiengineerapprenticelevel6machinelearning": 1791317906.2763667,
 "thales|airesearcherapprenticelevel6machinelearning": 1791317906.276396,
 "thrivent|applicationengineerinterninvestments": 1790666001.1372802,
+"tiaa|earlytalentinternnuveenbusinessintelligence": 1791820949.948472,
 "tihinsurance|internsoftwareengineering": 1791087500.0139394,
 "tiktok|machinelearningengineerintern": 1791444404.6754942,
 "tiktok|machinelearningengineerinternmonetizationtechnologyadscoreglobal": 1791470759.7693439,
@@ -42173,6 +42221,7 @@
 "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": "Toronto, Ontario; Mississauga, Ontario; London, Ontario",
 "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794": "US-California-Palo Alto; US-Washington-Bellevue",
 "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114": "Hartford, CT; Charlotte, NC; Chicago, IL",
+"https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Chicago-IL-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Business-Intelligence_R261000134": "Chicago, IL, USA; New York, NY, USA",
 "https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1": "Davidson, North Carolina; Minneapolis, Minnesota",
 "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305": "CT - Hartford; MN - St. Paul",
 "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304": "CT - Hartford; MN - St. Paul",
