@@ -47,7 +47,6 @@
     "platform engineer",
     "platform engineering",
     "infrastructure engineer",
-    "production engineer",
     "systems software",
     "distributed systems",
     "compiler",
@@ -322,7 +321,14 @@
     "architecture & engineering",
     "digital infrastructure",
     "cfo",
-    "corporate operation"
+    "corporate operation",
+    "product engineer",
+    "product engineering",
+    "production engineer",
+    "mechatronics",
+    "radiation effects",
+    "operating engineer",
+    "apprentice engineer"
   ],
   "always_exclude": [
     "sales",
@@ -453,6 +459,12 @@
     "program operations",
     "operations analyst",
     "technical program",
-    "technical account"
+    "technical account",
+    "mechatronics",
+    "union operating",
+    "operating engineer apprentice",
+    "radiation effects",
+    "product engineer",
+    "production engineer"
   ]
 }
