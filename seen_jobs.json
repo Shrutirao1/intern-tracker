@@ -5534,6 +5534,13 @@
 "title": "Embedded Software Engineering Co-op - Spring 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368"
 },
+"CACI:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354": {
+"company": "CACI",
+"first_seen": "2026-10-13T10:33:46+00:00",
+"posted": 1791801233.5615647,
+"title": "Software Engineering Co-op - Summer & Fall 2027",
+"url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
+},
 "CACI:/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Cleared Software Engineer Intern - Summer 2027",
@@ -9610,6 +9617,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern, AI Agent Evaluations",
 "url": "https://jobs.ashbyhq.com/g2/64dcc04a-a0e7-493b-b899-dd4c56e561fd"
+},
+"GAF:/job/Parsippany-NJ/AI-Intern_26421": {
+"company": "GAF",
+"first_seen": "2026-10-13T10:33:46+00:00",
+"posted": 1791801370.3101985,
+"title": "AI Intern",
+"url": "https://gafsgi.wd5.myworkdayjobs.com/en-US/GAF_Careers/job/Parsippany-NJ/AI-Intern_26421"
+},
+"GAF:/job/Parsippany-NJ/IT-Data-Analytics-Intern_26422": {
+"company": "GAF",
+"first_seen": "2026-10-13T10:33:46+00:00",
+"posted": 1791801370.3101325,
+"title": "IT Data Analytics Intern",
+"url": "https://gafsgi.wd5.myworkdayjobs.com/en-US/GAF_Careers/job/Parsippany-NJ/IT-Data-Analytics-Intern_26422"
 },
 "GCM Grosvenor:7992997003": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -41593,7 +41614,6 @@
 "adobe|internappliedandresearchscientistengineer": 1791364618.32625,
 "aep|datascientistinterncolumbusoh": 1791620408.5513248,
 "aerospace|embeddedsystemssoftwareengineeringundergradintern": 1791490433.1913211,
-"aerospace|softwareengineeringgradintern": 1790672586.4974682,
 "aerovironment|digitalbusinesstechnologyinfrastructuredbtintern": 1790712568.8008444,
 "aerovironment|hypersonicrfsoftwareengineeringintern": 1791620375.171392,
 "aerovironment|titansvsoftwareengineerintern": 1790978593.212903,
@@ -41676,7 +41696,6 @@
 "bostonscientific|equipmentengineeringaivisionengineerintern": 1791299321.0263875,
 "bostonscientific|equipmentengineeringsoftwareengineerintern": 1791274308.0403218,
 "bostonscientific|rdfirmwareengineerintern": 1790712471.5724583,
-"bostonscientific|softwaredevelopmentengineercoop": 1790666001.1372526,
 "bostonscientific|softwareengineerinterninternsgraduates": 1790712471.5724366,
 "brattle|researchanalystinterneconomics": 1790725265.5511155,
 "brunswick|datascienceintern": 1790734993.7856412,
@@ -41791,6 +41810,8 @@
 "fmr|undergraduateinternsystems": 1790758043.520796,
 "foundenergy|dataengineercoop": 1791845339.9284947,
 "freddiemac|multifamilycapitalmarketsanalyticsengineeringintern": 1790902014.9073033,
+"gaf|aiintern": 1791887776.8679817,
+"gaf|itdataanalyticsintern": 1791887776.8679516,
 "gassouth|softwareengineeringintern": 1791234311.193481,
 "gcmgrosvenor|softwareengineeringintern": 1791571947.1511986,
 "gdit|gditinternaimldatascienceandengineeringintern": 1790821760.9286747,
@@ -41846,7 +41867,6 @@
 "hcsc|earlycareersdeveloperintern": 1791391005.5938268,
 "hcsc|earlycareersenterprisedataanalystintern": 1791408837.1766546,
 "hcsc|earlycareersinfrastructureengineerintern": 1791391005.5937328,
-"hermeus|flightsoftwareengineeringinternsimulationhardwareintheloop": 1790665921.828766,
 "hermeus|loadsdynamicsengineeringintern": 1790798875.1923065,
 "heronpower|internelectronicsdesignengineer": 1790781651.63184,
 "heronpower|internmediumvoltagetestengineering": 1790798874.3524506,
@@ -42254,7 +42274,6 @@
 "thales|aiengineerapprenticeaianddatasciencegraduatelevelapprenticeship": 1791317906.2764225,
 "thales|aiengineerapprenticelevel6machinelearning": 1791317906.2763667,
 "thales|airesearcherapprenticelevel6machinelearning": 1791317906.276396,
-"thrivent|applicationengineerinterninvestments": 1790666001.1372802,
 "tiaa|earlytalentinternnuveenbusinessintelligence": 1791820949.948472,
 "tihinsurance|internsoftwareengineering": 1791087500.0139394,
 "tiktok|machinelearningengineerintern": 1791444404.6754942,
@@ -42275,9 +42294,6 @@
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
 "veeamsoftware|competitiveintelligenceaiengineeringintern": 1790888953.99065,
 "vegaamericas|engineeringcoop": 1790725265.4124892,
-"verizoncommunications|businessintelligenceinternfiberengineeringoperationstransformationbusinessenablement": 1790666001.1373541,
-"verizoncommunications|datascienceinternnetworkandtechnology": 1790666001.1373284,
-"verizoncommunications|datascientistinternfiberengineeringoperations": 1790666001.1373053,
 "verizoncommunications|verizonconsumergrouphomemobilevaluepropintern": 1791845401.0175326,
 "vertexpharmaceuticals|vertexcoopprocessengineeringdataanalytics": 1790712608.4567626,
 "viget|softwaredeveloperintern": 1791505201.445405,
