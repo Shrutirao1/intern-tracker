@@ -4205,6 +4205,13 @@
 "title": "Machine Learning Engineer Intern",
 "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869106002"
 },
+"Atoms:8888411002": {
+"company": "Atoms",
+"first_seen": "2026-10-14T19:30:01+00:00",
+"posted": 1791993051.0,
+"title": "Software Engineering Intern - 2027 Winter Term ",
+"url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002"
+},
 "Auctor:9d67c881-3ca7-4616-a059-e94c03e19607": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern",
@@ -17146,6 +17153,13 @@
 "title": "Digital & AI Experience Intern \u2013 Summer 2027",
 "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403876009"
 },
+"National Life Insurance Company:4449670009": {
+"company": "National Life Insurance Company",
+"first_seen": "2026-10-14T19:30:01+00:00",
+"posted": 1792001098.0,
+"title": "Data Science Intern \u2013 Summer 2027",
+"url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009"
+},
 "Nationwide Children's Hospital:/job/Main-Campus-Columbus-OH/Research-Intern_R-28187-1": {
 "company": "Nationwide Children's Hospital",
 "first_seen": "2026-09-29T20:04:03+00:00",
@@ -22234,6 +22248,13 @@
 "title": "PhD Autonomy Engineer Intern - Computer Vision / Deep Learning Summer 2027",
 "url": "https://jobs.ashbyhq.com/skydio/611a7f87-bc4c-468f-976f-ecd33b731fa3"
 },
+"Skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c": {
+"company": "Skydio",
+"first_seen": "2026-10-14T19:30:01+00:00",
+"posted": 1791913886.463,
+"title": "Software Engineer Intern - Summer 2027",
+"url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c"
+},
 "Skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260": {
 "company": "Skydio",
 "first_seen": "2026-10-13T21:58:49+00:00",
@@ -22245,6 +22266,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
 "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
+},
+"Skydio:ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb": {
+"company": "Skydio",
+"first_seen": "2026-10-14T19:30:01+00:00",
+"posted": 1791997927.43,
+"title": "Manufacturing Software Engineer Intern - Winter 2027",
+"url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
 },
 "Snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -42263,6 +42291,7 @@
 "atkinsralis|softwaredeveloperintern": 1791821048.9891891,
 "atlassian|dataengineerintern": 1791251115.2410517,
 "atoms|machinelearningengineerintern": 1791234306.6920033,
+"atoms|softwareengineeringinternterm": 1792006203.176475,
 "autodesk|internsoftwareengineer": 1791620147.7592175,
 "autodesk|researcherinternmachinelearningforconstruction": 1791234433.0964048,
 "autodesk|researchinternmultimodalaiforhumanexperience": 1791234433.096384,
@@ -42533,6 +42562,7 @@
 "myhrabc|itsoftwaredevelopmentintern": 1791087527.6581633,
 "myhrabc|itsoftwareintern": 1791087527.6585124,
 "natera|softwareengineeringintern": 1791234311.3392022,
+"nationallifeinsurance|datascienceintern": 1792006207.9475257,
 "nelnet|itsoftwareengineerintern": 1790989014.5202157,
 "netflix|softwareengineerintern": 1791939383.3789344,
 "neurarobotics|roboticfoundationmodelengineerinternhuman": 1791274162.3575957,
@@ -42641,6 +42671,8 @@
 "sigmacomputing|softwareengineeringintern": 1791330396.5869427,
 "signify|dataanalystintern": 1790872176.314524,
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
+"skydio|manufacturingsoftwareengineerintern": 1792006203.3530595,
+"skydio|softwareengineerintern": 1792006203.3530192,
 "solopulse|softwareengineerinterncoop": 1791490100.2093084,
 "sonypicturesentertainment|interncloudsecurityoperations": 1790902080.2508316,
 "sony|firmwaredesignintern": 1790812017.583243,
