@@ -2399,6 +2399,13 @@
 "title": "Angular Developer Internship Program (She/He/They)",
 "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473"
 },
+"Accenture:/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950": {
+"company": "Accenture",
+"first_seen": "2026-10-15T05:16:48+00:00",
+"posted": 1791868756.3817594,
+"title": "Backend Developer Internship Program (She/He/They)",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950"
+},
 "Accenture:/job/Warsaw/Cloud-DevOps-Engineer-Intern_14778770-1": {
 "company": "Accenture",
 "first_seen": "2026-09-29T02:39:47+00:00",
@@ -5733,10 +5740,24 @@
 "title": "Data Analyst Intern",
 "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8551"
 },
+"CAI:/job/PA-CLIENT-STATE/Programmer-Intern_R8523": {
+"company": "CAI",
+"first_seen": "2026-10-15T05:16:48+00:00",
+"posted": 1791955321.3073206,
+"title": "Programmer Intern",
+"url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523"
+},
 "CAI:/job/PA-CLIENT-STATE/Proposal-and-Technical-Solutions-Analyst-Intern_R8421": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Proposal and Technical Solutions Analyst Intern",
 "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Proposal-and-Technical-Solutions-Analyst-Intern_R8421"
+},
+"CAI:/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554": {
+"company": "CAI",
+"first_seen": "2026-10-15T05:16:48+00:00",
+"posted": 1791868921.3075528,
+"title": "Software Developer Intern",
+"url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554"
 },
 "CIBC:/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -12065,6 +12086,13 @@
 "posted": 1790828288.6384206,
 "title": "Intern - Onboard Software Developer",
 "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042"
+},
+"Hitachi:/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396": {
+"company": "Hitachi",
+"first_seen": "2026-10-15T05:16:48+00:00",
+"posted": 1792041489.5314486,
+"title": "Research Intern, Knowledge Engineering & Generative AI",
+"url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396"
 },
 "Hiverge:ea6edea4-5216-4cdc-b368-909ba91c78a3": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -23480,6 +23508,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern",
 "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0"
+},
+"Tessera Labs:892bb150-8c98-47f4-a8b6-93633ecb2ea7": {
+"company": "Tessera Labs",
+"first_seen": "2026-10-15T05:16:48+00:00",
+"posted": 1792030249.154,
+"title": "Software Engineering Intern, Full Stack",
+"url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7"
 },
 "Texas Rangers:/job/Arlington-TX/Data-Apprentice_R2405": {
 "company": "Texas Rangers",
@@ -42534,6 +42569,7 @@
 "7eleven|fuelpricingdatascientistintern": 1791991453.2764297,
 "abb|aiengineeringbusinesssystemsintern": 1791317583.3625321,
 "abb|aiengineeringerpintern": 1791317583.362505,
+"accenture|backenddeveloperinternshehethey": 1792041653.0161948,
 "accenture|dataaiinternshehethey": 1791087696.311206,
 "acronaviation|softwareengineerinternphoenixsite": 1791845337.2056751,
 "adobe|internappliedandresearchscientistengineer": 1791364618.32625,
@@ -42548,8 +42584,6 @@
 "agco|businessintelligenceintern": 1792025322.4792812,
 "airbus|softwareengineeringdegreeapprenticeship": 1791160179.5569992,
 "airbus|workingstudentdfmassoftwaredevelopmentassistant": 1791597954.9441636,
-"allegion|enterpriseaiplatformassociateapprentice": 1790821842.2945032,
-"allegion|internsoftwareengineeringqualityassurance": 1790821842.2944663,
 "alliancelaundrysystems|embeddedfirmwarecoop": 1791330516.3205743,
 "allstateinsurance|supplymanagementdataanalyticsintern": 1791845635.8921356,
 "amazon|amazonroboticssoftwaredevelopmentengineerinterncoop": 1791991362.5372763,
@@ -42646,7 +42680,6 @@
 "cvshealth|dataengineeruginternconversion": 1790978469.102973,
 "cvshealth|datascientistuginternconversion": 1790978469.1029904,
 "cvshealth|softwareengineeruginternconversion": 1790978469.1029522,
-"danaher|softwareengineeringintern": 1790821671.3607326,
 "datacor|datascienceintern": 1790902014.907057,
 "dbs|datascienceintern": 1790872105.7814198,
 "denver|dataanalyticsandinnovationcollegeinternanalyticsandinnovationdenverinternationalairport4months": 1791679726.2913322,
@@ -42689,8 +42722,6 @@
 "gassouth|softwareengineeringintern": 1791234311.193481,
 "gcmgrosvenor|softwareengineeringintern": 1791571947.1511986,
 "gdit|aianddataanalyticsintern": 1791928892.617701,
-"gdit|gditinternaimldatascienceandengineeringintern": 1790821760.9286747,
-"gdit|gditinternaimlsoftwaredevelopmentandengineeringintern": 1790821760.9283445,
 "geaerospace|lynncncprogrammercoop": 1790846106.1954215,
 "geappliances|softwareengineeringcoopsummer": 1790978584.3740015,
 "genbioai|researchscientistinternaimoleculardesign": 1791490099.8245225,
@@ -42720,7 +42751,6 @@
 "gevernova|aievaluationbenchmarkinginternagi": 1791991660.207666,
 "gevernova|aiposttrainingandmodelalignmentintern": 1791991660.2076194,
 "gevernova|scscommercialinternaidataminingagent": 1791470987.873661,
-"gileadsciences|internresearchmedicinalchemistrystructuralbiologychemistryai": 1790817163.9951503,
 "glean|softwareengineerintern": 1790902014.9070404,
 "globalfoundries|softwareengineerintern": 1791597839.2445283,
 "google|forwarddeployedengineerintern": 1791820971.127002,
@@ -42765,12 +42795,10 @@
 "iex|platformengineerintern": 1791845340.0883257,
 "iex|softwaredevelopmentengineerintestintern": 1791845340.0920074,
 "iex|softwareengineerintern": 1791845340.092124,
-"igsenergy|softwareengineerintern": 1790817067.4796646,
 "illinoistoolworks|softwareengineerinternapplicationsoftware": 1791422096.38276,
 "imctrading|machinelearningengineerintern": 1791490096.8851676,
 "innovativedefense|softwareengineerintern": 1791274308.0402687,
 "insulet|coopsoftwaredevelopmentengineerintestjanuaryjunehybrid": 1790872273.8626723,
-"intact|softwaredeveloperi4monthsinterncoop": 1790817169.005712,
 "intel|aisoftwareengineeringundergraduateintern": 1790964081.5061321,
 "intel|aisoftwaretechnicalintern": 1790902014.907378,
 "intel|aisolutionarchitectgraduateintern": 1791444419.5648115,
@@ -42807,7 +42835,6 @@
 "lseg|softwareengineerintern": 1792017214.4117978,
 "macys|softwareengineerintern": 1792017214.4118958,
 "manulifefinancial|coopsoftwareengineeringsecurityoperations": 1791444515.7015214,
-"manulife|automationsoftwaretechnicalanalysisintern": 1790821769.748775,
 "mastercard|dataengineerintern": 1791422096.3827155,
 "mckesson|softwareengineerintern": 1791422096.3827376,
 "medpace|pythondeveloperintern": 1791939383.378974,
@@ -42825,7 +42852,6 @@
 "modernizingmedicine|softwareengineerintern": 1791505201.4451249,
 "momentenergy|firmwareengineeringcoop": 1791251022.8493714,
 "momentenergy|softwareengineeringcoop": 1791251022.8494165,
-"moog|internartificialintelligence": 1790816777.7471862,
 "moog|interncomputerscience": 1791755806.2503698,
 "moog|softwareengineerintern": 1791505201.4449816,
 "motorola|androidapplicationsdeveloperintern": 1791234433.096423,
@@ -42862,7 +42888,6 @@
 "nordson|softwareintern": 1790922063.9112864,
 "northropgrumman|softwaredeveloperintern": 1791391007.626704,
 "northropgrumman|softwareembeddedengineerintern": 1791973938.940421,
-"northropgrumman|softwareengineeringinterndullesva": 1790821620.9755468,
 "northropgrumman|softwareengineeringinternroyut": 1791526614.2917614,
 "novanta|computersoftwareengineeringcoop": 1790964296.4213204,
 "nvidia|cpucompilerintern": 1791552297.2401073,
@@ -42887,7 +42912,6 @@
 "perpay|superdaydatascienceintern": 1791490097.355596,
 "philips|coopsoftwareengineerrdcambridgemajanuaryaugust": 1791317810.7558131,
 "philips|dataaialgorithminternphilipsaventexperienceinnovation": 1791755719.3914707,
-"philips|internaipowereddigitaldailymanagementforqualityoperations": 1790817063.8357022,
 "pinterest|mastersdatascienceinternusa": 1790888957.940533,
 "point72|internmsphddatascientistproprietaryresearch": 1791991357.0182395,
 "point72|internsoftwareengineer": 1791991357.0182743,
@@ -42911,8 +42935,6 @@
 "riotgames|softwareengineerintern": 1790902014.907073,
 "rivetindustries|internsoftwareengineering": 1791317450.513063,
 "rivian|engineeringinterncoopaimlasiccad": 1791330516.3202639,
-"rivian|engineerinterncoopmlcompilers": 1790821791.7596283,
-"rivian|softwareengineerinterncoopappliedai": 1790821791.759587,
 "rivian|softwareengineerinterncoopembeddedsoftware": 1791251115.2415452,
 "rochesterregionalhealth|ritcoopdataanalyticsservices": 1791139547.9441757,
 "roche|datascienceinternmasterthesisstudentbasel6monate": 1791317665.0314825,
@@ -42966,13 +42988,11 @@
 "tenstorrent|aiswinterncloudinfrastructuredatacentredeployment": 1791364591.1412098,
 "tenstorrent|hardwareinternarchitectureaihwsystemonachip": 1791364591.141234,
 "tenstorrent|systemsinternvalidationsoftwaredesignarchitecturepackagingusa": 1791973818.5460246,
-"tesla|commercialuisoftwareengineerintern": 1790821791.7595396,
 "tesla|dataanalystinternpeopleproducts": 1791444404.675591,
-"tesla|dataengineerinterndataengineerapplicationsengineering": 1790821791.759565,
-"tesla|dataengineerinterndataengineeringbusinessintelligence": 1790821791.7596083,
 "tesla|distributedsystemssoftwareengineerinternenergyengineering": 1790989014.5202498,
 "tesla|embeddedsoftwareengineerinternthermalsystems": 1791251115.2418022,
 "tesla|softwareintegrationengineerinternservicetooling": 1791505201.444947,
+"tessera|softwareengineeringinternfullstack": 1792041412.2666733,
 "thales|aiengineerapprenticeaianddatasciencegraduatelevelapprenticeship": 1791317906.2764225,
 "thales|aiengineerapprenticelevel6machinelearning": 1791317906.2763667,
 "thales|airesearcherapprenticelevel6machinelearning": 1791317906.276396,
@@ -42988,7 +43008,6 @@
 "tiktok|machinelearningengineerinternecommercesupplychainlogisticsllmagent": 1792025322.4790401,
 "tiktok|machinelearningengineerinternecommerceusergrowth": 1791956008.5618186,
 "tiktok|machinelearningengineerinternmonetizationtechnologyadscoreglobal": 1791470759.7693439,
-"toro|electricalsoftwarecoopbosssnowplow": 1790817156.4060252,
 "tranetechnologies|aianalyticsintern": 1790978417.6779459,
 "tranetechnologies|softwaredevelopmentengineeringintern": 1790978417.6780615,
 "upbound|servicenowdeveloperintern": 1790964259.5798333,
@@ -43008,7 +43027,6 @@
 "workday|machinelearningengineerintern": 1791597839.2445626,
 "workday|softwareapplicationdevelopmentengineerintern": 1791597839.2445772,
 "workday|softwareengineerintern": 1791597839.2445903,
-"worldvision|impactdataanalyticsintern": 1790816971.579344,
 "xai|softwareengineeringinterncoop": 1790989014.5200331,
 "xai|softwareengineerinterncoop": 1790989014.5200036,
 "xcelenergy|dataanalyticsinterncorporateimpactmn": 1791861390.6883814,
