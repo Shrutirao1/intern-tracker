@@ -31717,6 +31717,13 @@
 "title": "Software Engineer Intern/Co-op",
 "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
 },
+"src:simplify:5083f980-f378-47f2-9737-61eb9fbeeac0": {
+"company": "Brunswick",
+"first_seen": "2026-10-15T09:59:28+00:00",
+"posted": 1787616000.0,
+"title": "G3 Software Engineer Intern",
+"url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160"
+},
 "src:simplify:50940dc5-4b2f-4f49-983e-f589769f3848": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Research Scientist Intern - Multimedia Streaming",
@@ -42512,6 +42519,13 @@
 "title": "Machine Learning Research Intern",
 "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682"
 },
+"src:simplify:ff40ee27-6821-4bc8-8929-0a9a37fa6d77": {
+"company": "Tessera Labs",
+"first_seen": "2026-10-15T09:59:28+00:00",
+"posted": 1792045761.0,
+"title": "Full Stack Software Engineer Intern - Full Stack",
+"url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
+},
 "src:simplify:ff6acfde-5cfa-48f1-9900-723a0df08069": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Healthcare Analytics Intern - Healthcare Analytics",
@@ -42722,7 +42736,6 @@
 "gassouth|softwareengineeringintern": 1791234311.193481,
 "gcmgrosvenor|softwareengineeringintern": 1791571947.1511986,
 "gdit|aianddataanalyticsintern": 1791928892.617701,
-"geaerospace|lynncncprogrammercoop": 1790846106.1954215,
 "geappliances|softwareengineeringcoopsummer": 1790978584.3740015,
 "genbioai|researchscientistinternaimoleculardesign": 1791490099.8245225,
 "genentech|appliedgenaiscientistinterngenaiapplications": 1791274308.040242,
@@ -42943,7 +42956,6 @@
 "rtx|aiengineeringintern": 1791505201.4452593,
 "rtx|coopaidspappliedresearch": 1791139438.2561405,
 "rtx|dataanalyticsintern": 1791251115.2411864,
-"rtx|embeddedsoftwareengineerintern": 1790846038.7918682,
 "rtx|flightcontrolsoftwareengineerintern": 1790902014.907344,
 "rtx|softwareengineerdevsecopscoophybrid": 1791139438.2562282,
 "rtx|softwareengineeringcoopavionicshybrid": 1791139438.2561762,
@@ -42967,9 +42979,6 @@
 "skydio|softwareengineerintern": 1792006203.3530192,
 "solopulse|softwareengineerinterncoop": 1791490100.2093084,
 "sonypicturesentertainment|interncloudsecurityoperations": 1790902080.2508316,
-"southwestairlines|customerexperienceandanalyticsdatascienceintern": 1790846038.7918866,
-"southwestairlines|dataengineerintern": 1790846038.79191,
-"southwestairlines|softwareengineerintern": 1790846038.7918992,
 "spacedynamicslaboratory|computervisionengineerintern": 1791330516.3202388,
 "spacedynamicslaboratory|softwareengineerinternaienabledsoftwaredevelopment": 1791299321.0264857,
 "spacedynamicslaboratory|softwareengineerinternsoftwareaimachinelearning": 1791299321.0264642,
@@ -43012,7 +43021,6 @@
 "tranetechnologies|softwaredevelopmentengineeringintern": 1790978417.6780615,
 "upbound|servicenowdeveloperintern": 1790964259.5798333,
 "usfoods|interndataanalysthybridonsiteremote": 1791274352.401085,
-"vardaspace|flightsoftwareintern": 1790845936.9756815,
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
 "veeamsoftware|competitiveintelligenceaiengineeringintern": 1790888953.99065,
 "verizoncommunications|verizonconsumergrouphomemobilevaluepropintern": 1791845401.0175326,
