@@ -902,6 +902,7 @@
 "Incident IQ",
 "Inferact",
 "Infobip",
+"Ing",
 "Ingram Micro",
 "Ingredion",
 "Inherent",
@@ -1182,6 +1183,7 @@
 "Neuralink",
 "New Balance",
 "New Lantern",
+"New York Mets",
 "New York Post Holdings",
 "NewYork-Presbyterian",
 "Newrez",
@@ -1571,6 +1573,7 @@
 "Sony",
 "Sony Interactive Entertainment",
 "Sony Pictures Entertainment",
+"Sonyglobal",
 "Southern New Hampshire University",
 "Southwest Airlines",
 "Space Kinetic",
@@ -2776,6 +2779,13 @@
 "posted": 1790585394.5852084,
 "title": "STAGE 2027 - Change Management & AI Innovation Intern",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/STAGE-2027---Change-Management---AI-Innovation-Intern_JR10440133"
+},
+"Alcon:/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204": {
+"company": "Alcon",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791582456.3336313,
+"title": "Clinical Data Science Intern",
+"url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204"
 },
 "Alcon:/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480": {
 "company": "Alcon",
@@ -4592,6 +4602,27 @@
 "title": "Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities",
 "url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R169118-1"
 },
+"Baker Hughes:/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Data-Analyst---2027--M-F-D-_R170299": {
+"company": "Baker Hughes",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791409727.4680176,
+"title": "Intern \u2013 Data Analyst \u2013 2027 (M/F/D)",
+"url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Data-Analyst---2027--M-F-D-_R170299"
+},
+"Baker Hughes:/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543": {
+"company": "Baker Hughes",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791928127.4681573,
+"title": "Intern - Generative AI - 2027 (M/F/D)",
+"url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Generative-AI---2027--M-F-D-_R170543"
+},
+"Baker Hughes:/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Physical-AI---Computer-Vision---2027--M-F-D-_R170038": {
+"company": "Baker Hughes",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791323328.1962023,
+"title": "Intern - Physical AI & Computer Vision - 2027 (M/F/D)",
+"url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Physical-AI---Computer-Vision---2027--M-F-D-_R170038"
+},
 "Baker Hughes:/job/US-LA-BROUSSARD-1064-BAKER-HUGHES-DR/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169112": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern/Co-op - Field Engineering - Spring 2027 Opportunities",
@@ -6043,6 +6074,13 @@
 "title": "Information Security Co-Op Internship \u2013 2027",
 "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Co-Op-Internship---2027_JR205939"
 },
+"Carrier Global:/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161": {
+"company": "Carrier Global",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1792100870.0952203,
+"title": "Software Engineering Intern - Summer",
+"url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161"
+},
 "Carrier Global:/job/UK-Field-Based-Field-Based-United-Kingdom/Engineering-Apprenticeship_30190431": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Apprenticeship",
@@ -7116,6 +7154,13 @@
 "title": "Application Development Engineering Co-Op",
 "url": "https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Pittsburgh-PA/Application-Development-Engineering-Co-Op_JR-2026-01885"
 },
+"Covestro:/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1": {
+"company": "Covestro",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1792014380.793038,
+"title": "Supply Chain Application Developer Co-Op",
+"url": "https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1"
+},
 "Covestro:/job/Pudong-Shanghai-China/Full-Stack-Software-Development-Intern_JR-2026-01407": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Full-Stack Software Development Intern",
@@ -8126,6 +8171,13 @@
 "title": "Software Engineer, Intern",
 "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002"
 },
+"Duolingo University Recruitment:8888785002": {
+"company": "Duolingo University Recruitment",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1792094401.0,
+"title": "Data Scientist, Intern",
+"url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002"
+},
 "Duolingo:8805925002": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer, Intern",
@@ -8135,6 +8187,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer, Thrive Intern",
 "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002"
+},
+"Duolingo:8888721002": {
+"company": "Duolingo",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1792094401.0,
+"title": "Data Scientist, Intern",
+"url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002"
 },
 "Dynamic Catholic:603f082e-07c8-4b1c-ac09-8963c51229ad": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -13867,6 +13926,13 @@
 "title": "Controls Engineering Intern/Co-Op",
 "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003-1"
 },
+"KION Group:/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1": {
+"company": "KION Group",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1792014527.1413388,
+"title": "Software Engineering Intern",
+"url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1"
+},
 "KION Group:/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "AI Internships",
@@ -15384,6 +15450,13 @@
 "title": "Software Development Intern - Summer 2027",
 "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
 },
+"McKesson:/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382": {
+"company": "McKesson",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791409733.3929563,
+"title": "Software Engineering Intern - Summer 2027",
+"url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
+},
 "McKesson:/job/USA-TX-Remote/Health-Systems-Optimization-Intern---Summer-2027_JR0152892": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Health Systems Optimization Intern - Summer 2027",
@@ -15459,6 +15532,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Co-op/Apprentice (Non-Tech)",
 "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803"
+},
+"Medtronic:/job/Istanbul-Istanbul-Trkiye/Data-Analytics-Intern_R78960": {
+"company": "Medtronic",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1792100949.6698809,
+"title": "Data Analytics Intern",
+"url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Istanbul-Istanbul-Trkiye/Data-Analytics-Intern_R78960"
 },
 "Medtronic:/job/Jaipur-Rajasthan-India/Co-op-Apprentice--Non-Tech-_R71470": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -15781,12 +15861,26 @@
 "title": "Intern - Process Development Engineer, DRAM Thin Films",
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203"
 },
+"Micron Technology:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991": {
+"company": "Micron Technology",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791236741.8033469,
+"title": "Intern - SMAI TD AI Engineering Team",
+"url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"
+},
 "Micron Technology:/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283": {
 "company": "Micron Technology",
 "first_seen": "2026-09-29T20:04:03+00:00",
 "posted": 1789761865.5582504,
 "title": "Intern - TSE KEG Engineer",
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283"
+},
+"Micron Technology:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542": {
+"company": "Micron Technology",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791582334.7867825,
+"title": "Intern - SSD Firmware - CICD",
+"url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542"
 },
 "Micron Technology:/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -16122,6 +16216,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Android Applications Developer Intern - Summer 2027",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
+},
+"Motorola:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313": {
+"company": "Motorola",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791236728.799882,
+"title": "Android Applications Developer Intern - Summer 2027",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313"
 },
 "Motorola:/job/Chicago-IL/Business-Systems-Analyst-Internship-Summer-2027_R68572": {
 "company": "Motorola",
@@ -17418,6 +17519,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Digital IC Design Engineer Intern",
 "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003"
+},
+"New York Mets:/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508": {
+"company": "New York Mets",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791236871.2194808,
+"title": "Intern, Data Science",
+"url": "https://sterlingmets.wd5.myworkdayjobs.com/en-US/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508"
 },
 "Newrez:/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Investor-Reporting-Data-Systems_R10352": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -19587,6 +19695,13 @@
 "title": "Data Engineer Intern",
 "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Moscow/Data-Engineer-Intern_R000159290"
 },
+"Procter & Gamble (P&G):/job/Moscow/IT-Internship-Program--Analytics---Data-Engineering_R000160982": {
+"company": "Procter & Gamble (P&G)",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1792014420.356798,
+"title": "IT Internship Program: Analytics & Data Engineering",
+"url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Moscow/IT-Internship-Program--Analytics---Data-Engineering_R000160982"
+},
 "Procter & Gamble (P&G):/job/Novomoskovsk/Technical-Projects-Intern_R000147816": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Technical Projects Intern",
@@ -20798,6 +20913,97 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "AI Ecosystem Intern",
 "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/AI-Ecosystem-Intern_R-059276"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/InternSoftware-Engineering-Intern---Container-Tools--Brno--Czech-Republic-_R-059211": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495964.9626167,
+"title": "Software Engineering Intern - Container Tools (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/InternSoftware-Engineering-Intern---Container-Tools--Brno--Czech-Republic-_R-059211"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Linux-Systems-Engineering-Intern---Storage--Brno--Czech-Republic-_R-059156": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495964.9626687,
+"title": "Linux Systems Engineering Intern \u2013 Storage (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Linux-Systems-Engineering-Intern---Storage--Brno--Czech-Republic-_R-059156"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Red-Hat-In-Vehicle-OS-Intern--Brno--Czech-Republic-_R-059214": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495964.9627194,
+"title": "Red Hat In Vehicle OS / Linux Kernel Engineering Intern (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Red-Hat-In-Vehicle-OS-Intern--Brno--Czech-Republic-_R-059214"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/SaaS-Full-Stack-Product-Engineering-Intern--Brno--Czech-Republic-_R-059212": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.7169168,
+"title": "SaaS Full Stack Product Engineering Intern (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/SaaS-Full-Stack-Product-Engineering-Intern--Brno--Czech-Republic-_R-059212"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/SecureFlow-Foundry-Team---Software-Engineering-Intern--Brno--Czech-Republic-_R-059159": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.7170205,
+"title": "SecureFlow Foundry Team - Software Engineering Intern (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/SecureFlow-Foundry-Team---Software-Engineering-Intern--Brno--Czech-Republic-_R-059159"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Site-Reliability-Engineering-Intern--Brno--Czech-Republic-_R-059220": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.717072,
+"title": "Site Reliability Engineering Intern (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Site-Reliability-Engineering-Intern--Brno--Czech-Republic-_R-059220"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Software-Developer-Intern---Virtualization-team---Brno--Czech-Republic-_R-059155": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.7171233,
+"title": "Software Developer Intern - Virtualization team  (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Developer-Intern---Virtualization-team---Brno--Czech-Republic-_R-059155"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Cloud-IDE--Brno--Czech-Republic-_R-059218": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.717174,
+"title": "Software Engineering Intern - Cloud IDE (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Cloud-IDE--Brno--Czech-Republic-_R-059218"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Developer-Hub-Security-team--Brno--Czech-Republic-_R-059219": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.7172763,
+"title": "Software Engineering Intern - Developer Hub Security team (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Developer-Hub-Security-team--Brno--Czech-Republic-_R-059219"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Kernel-Maintainers-team--Brno--Czech-Republic-_R-059215": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.7173278,
+"title": "Software Engineering Intern - Kernel Maintainers team (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Kernel-Maintainers-team--Brno--Czech-Republic-_R-059215"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Pipeline-Value-Observability----Brno--Czech-Republic-_R-059160": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.7173798,
+"title": "Software Engineering Intern - Pipeline Value Observability   (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Pipeline-Value-Observability----Brno--Czech-Republic-_R-059160"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Telco-Platform--Brno--Czech-Republic-_R-059217": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.7174318,
+"title": "Software Engineering Intern - Telco Platform (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Telco-Platform--Brno--Czech-Republic-_R-059217"
+},
+"Red Hat:/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Trusted-Profile-Analyzer--Brno--Czech-Republic-_R-059157": {
+"company": "Red Hat",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1791495965.717483,
+"title": "Software Engineering Intern - Trusted Profile Analyzer (Brno, Czech Republic)",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Trusted-Profile-Analyzer--Brno--Czech-Republic-_R-059157"
 },
 "Red Hat:/job/Raleigh/Software-Engineer-Co-op_R-059039": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -22592,6 +22798,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Account Management & Business Analytics Intern",
 "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543"
+},
+"Sonyglobal:/job/Lysaker/Firmware-Design---Summer-Internship_JR-119579": {
+"company": "Sonyglobal",
+"first_seen": "2026-10-15T21:45:19+00:00",
+"posted": 1790891446.157964,
+"title": "Firmware Design - Summer Internship",
+"url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/Sony_Europe_Careers/job/Lysaker/Firmware-Design---Summer-Internship_JR-119579"
 },
 "Southwest Airlines:/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023": {
 "company": "Southwest Airlines",
@@ -42682,6 +42895,7 @@
 "agco|businessintelligenceintern": 1792025322.4792812,
 "airbus|softwareengineeringdegreeapprenticeship": 1791160179.5569992,
 "airbus|workingstudentdfmassoftwaredevelopmentassistant": 1791597954.9441636,
+"alcon|clinicaldatascienceintern": 1792100923.9622815,
 "alliancelaundrysystems|embeddedfirmwarecoop": 1791330516.3205743,
 "allstateinsurance|supplymanagementdataanalyticsintern": 1791845635.8921356,
 "amazon|amazonroboticssoftwaredevelopmentengineerinterncoop": 1791991362.5372763,
@@ -42723,6 +42937,7 @@
 "axosbank|aiengineerintern": 1791642684.2743418,
 "axosbank|softwaredevelopmentintern": 1791642684.2743196,
 "badgermeter|softwareengineeringintern": 1791913830.9602046,
+"bakerhughes|interngenerativeaimfd": 1792100972.4006581,
 "barrywehmiller|softwareengineeringinterndal": 1791755523.7352748,
 "bedrockrobotics|internbehaviormlengineerlearnedmanipulationpolicies": 1790964022.2598493,
 "biogen|machinelearningengineeringcoop": 1791299321.0264282,
@@ -42751,6 +42966,7 @@
 "cai|softwaredeveloperintern": 1791861372.2230937,
 "captechconsulting|dataanalysisdataengineeringintern": 1791820971.127025,
 "carbonrobotics|engineeringinternhardwaresoftware": 1791939383.3788445,
+"carrierglobal|softwareengineeringintern": 1792100911.117345,
 "cboe|quantdataanalyticsintern": 1791024284.8154185,
 "cboe|softwareengineerinternc": 1791861472.4193394,
 "centene|aienablementintern": 1791422096.3830194,
@@ -42787,6 +43003,8 @@
 "draper|operatingsystemsandembeddedsoftwaredevelopmentcoop": 1791444249.669754,
 "drivetime|dataanalyticsintern": 1791939383.3793058,
 "dryft|memberoftechnicalstaffintern": 1791317449.7352724,
+"duolingouniversityrecruitment|datascientistintern": 1792100726.2794325,
+"duolingo|datascientistintern": 1792100720.8828285,
 "electronicarts|dataandaiengineerintern": 1791861372.2232997,
 "elevancehealth|dataanalystgraduateintern": 1790989014.5200698,
 "elevancehealth|dataanalyticsintern": 1790989014.5200868,
@@ -42910,6 +43128,7 @@
 "johnsonjohnson|aimldatascienceintern": 1791991660.2077525,
 "joneslanglasalle|aiintern": 1791505201.445041,
 "k2space|platformengineeringintern": 1791421992.4751887,
+"kion|softwareengineeringintern": 1792101045.0725324,
 "knowbe4|softwareengineerinternremote": 1791317450.1908393,
 "kochindustries|datascienceintern": 1791470759.769384,
 "later|dataanalyticscoop": 1791571945.1876972,
@@ -42930,12 +43149,14 @@
 "mastercard|dataengineerintern": 1791422096.3827155,
 "mckesson|softwareengineerintern": 1791422096.3827376,
 "medpace|pythondeveloperintern": 1791939383.378974,
+"medtronic|dataanalyticsintern": 1792101020.9762611,
 "memx|dataengineerintern": 1791861372.22331,
 "meta|datascientistinternproductanalytics": 1791330516.3203769,
 "metropolitantransportationauthority|dataanalystemergingtalentinternsupplierrelations": 1791939383.3793364,
 "mfs|softwaredataintern": 1790902014.9072492,
 "mfs|softwareengineerintern": 1790902014.9072008,
 "mfs|systemsengineeringcloudtechnologiescoopjanuaryjune": 1791444417.0709512,
+"micron|internssdfirmwarecicd": 1792100758.177105,
 "microsoft|firmwareengineerintern": 1791205910.828707,
 "midlandstatesbank|aisolutionsengineerintern": 1791251115.2408214,
 "mindex|softwareengineercoop": 1790944708.8274875,
@@ -43006,17 +43227,30 @@
 "perpay|superdaydatascienceintern": 1791490097.355596,
 "philips|coopsoftwareengineerrdcambridgemajanuaryaugust": 1791317810.7558131,
 "philips|dataaialgorithminternphilipsaventexperienceinnovation": 1791755719.3914707,
-"pinterest|mastersdatascienceinternusa": 1790888957.940533,
 "point72|internmsphddatascientistproprietaryresearch": 1791991357.0182395,
 "point72|internsoftwareengineer": 1791991357.0182743,
 "primient|aianalystintern": 1791160024.440331,
 "primient|digitaldataanalyticsintern": 1790902014.907137,
+"proctergamble|itinternanalyticsdataengineering": 1792101016.9352653,
 "profluent|internsoftwareengineering": 1790921657.2502904,
 "prysmiancablessystems|aisoftwaredeveloperintern": 1791597819.8365645,
 "purestorage|softwareengineerintern": 1791317450.581748,
 "quantumsignalai|softwareengineerinterntoolsandprototypes": 1791234433.0963383,
 "range|softwareengineeringintern": 1791234311.481402,
 "raytheon|softwareengineeringinternhybrid": 1791274303.068551,
+"redhat|linuxsystemsengineeringinternstoragebrnoczechrepublic": 1792100776.9986181,
+"redhat|redhatinvehicleoslinuxkernelengineeringinternbrnoczechrepublic": 1792100776.9986546,
+"redhat|saasfullstackproductengineeringinternbrnoczechrepublic": 1792100776.9986885,
+"redhat|secureflowfoundryteamsoftwareengineeringinternbrnoczechrepublic": 1792100776.9987185,
+"redhat|sitereliabilityengineeringinternbrnoczechrepublic": 1792100776.9987483,
+"redhat|softwaredeveloperinternvirtualizationteambrnoczechrepublic": 1792100776.998778,
+"redhat|softwareengineeringinterncloudidebrnoczechrepublic": 1792100776.9988039,
+"redhat|softwareengineeringinterncontainertoolsbrnoczechrepublic": 1792100776.9985757,
+"redhat|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": 1792100776.9988346,
+"redhat|softwareengineeringinternkernelmaintainersteambrnoczechrepublic": 1792100776.9988623,
+"redhat|softwareengineeringinternpipelinevalueobservabilitybrnoczechrepublic": 1792100776.9988961,
+"redhat|softwareengineeringinterntelcoplatformbrnoczechrepublic": 1792100776.9989276,
+"redhat|softwareengineeringinterntrustedprofileanalyzerbrnoczechrepublic": 1792100776.9989588,
 "regeneronpharmaceuticals|datasciencedigitalinnovationcooppreclinicalmanufacturingresearchit": 1790964259.839344,
 "regeneron|coopdataanalyticsdigitaltoolsiops": 1791679679.052049,
 "regeneron|coopdatasciencecomputationalbiologyresearch": 1791679679.0513725,
@@ -43049,7 +43283,6 @@
 "sas|softwaredevelopmentandtestingintern": 1790902014.906866,
 "scelectric|softwareengineerintern": 1791391007.6266644,
 "schonfeld|quantitativedeveloperintern": 1791571944.890073,
-"seatgeek|dataanalystintern": 1790888957.5018573,
 "semtech|softwaredeveloperwebcloudapplicationcoop": 1791234450.2736564,
 "servicenow|aiengineeringassociatesoftwareengineerintern": 1791939383.3792412,
 "servicenow|softwareengineerintern": 1791939383.3792198,
@@ -43103,7 +43336,6 @@
 "upbound|servicenowdeveloperintern": 1790964259.5798333,
 "usfoods|interndataanalysthybridonsiteremote": 1791274352.401085,
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
-"veeamsoftware|competitiveintelligenceaiengineeringintern": 1790888953.99065,
 "verizoncommunications|verizonconsumergrouphomemobilevaluepropintern": 1791845401.0175326,
 "vertiv|dataanalyticsintern": 1791913831.5754309,
 "vestmark|softwareengineercoop": 1791913831.5754464,
@@ -43391,6 +43623,7 @@
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000": "US, Oregon, Hillsboro; US, California, Santa Clara; US, Texas, Austin",
 "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Artificial-Intelligence_JR102924-2": "United States of America, Washington, Liberty Lake; United States of America, North Carolina, Raleigh; United States of America, Texas, Austin",
 "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Engineering-Development-Co-Op_R-099378": "San Lorenzo, Puerto Rico, United States of America; Manat\u00ed, Puerto Rico, United States of America",
+"https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1": "",
 "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521": "Milpitas, CA; Ann Arbor, MI",
 "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1": "Milpitas, CA; Ann Arbor, MI",
 "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615": "USA  - WI - Milwaukee - 3727 W Wisconsin Avenue; Remote_United States",
@@ -43418,6 +43651,7 @@
 "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1": "Santa Clara, CA; Irvine, CA; Westlake Village, CA",
 "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216": "Shanghai; CN - Wuhan",
 "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235": "USA, GA, Atlanta; USA, TX, Irving",
+"https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382": "USA, TX, Irving; Columbus, OH, USA - 910 John Street (CMM Main Campus) (C317); Work at Home - Pennsylvania, USA (WPAA); Work at Home - Texas, USA (WTXA)",
 "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Glens-Falls-New-York/Engineering-Co-Op--January-May-2027-_R2616936": "Glens Falls, New York; University Recruiting",
 "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Intelligence-Development-Analytics-Intern---Summer-2027_R2617383": "Northbrook, Illinois; University Recruiting",
 "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626": "Northbrook, Illinois; University Recruiting",
