@@ -2748,6 +2748,13 @@
 "title": "Working Student (d/f/m) as Software Development Assistant",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Buxtehude/Working-Student--d-f-m--as-Software-Development-Assistant_JR10445193"
 },
+"Airbus:/job/Gdansk/Intern-Backend-Developer_JR10451110": {
+"company": "Airbus",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1792165074.516808,
+"title": "Intern Backend Developer",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110"
+},
 "Airbus:/job/Gdansk/Intern-Frontend-Developer_JR10451058": {
 "company": "Airbus",
 "first_seen": "2026-10-16T06:24:42+00:00",
@@ -2796,6 +2803,34 @@
 "posted": 1791160151.3581774,
 "title": "Software Engineering Degree Apprenticeship",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575"
+},
+"Airbus:/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360": {
+"company": "Airbus",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1792165076.8659732,
+"title": "ATR - Internship- Geospatial Data Science (F/M)",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360"
+},
+"Airbus:/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326": {
+"company": "Airbus",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1792165075.6515856,
+"title": "ATR \u2013 Internship 2027  - AI & Data Engineering - Automated Technical Knowledge Extraction",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship-2027----AI---Data-Engineering---Automated-Technical-Knowledge-Extraction_JR10447326"
+},
+"Airbus:/job/Toulouse-Area/ATR---Internship-2027----infra-IA-et-deploiement-de-LLM_JR10450491": {
+"company": "Airbus",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1792165076.865812,
+"title": "ATR \u2013 Internship 2027  - infra IA et deploiement de LLM",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship-2027----infra-IA-et-deploiement-de-LLM_JR10450491"
+},
+"Airbus:/job/Toulouse-Area/ATR---Internship-2027---AI-and-structural-in--service-repairs_JR10450722": {
+"company": "Airbus",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1792165072.0271592,
+"title": "ATR \u2013 Internship 2027 \u2013 AI and structural in -service repairs",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship-2027---AI-and-structural-in--service-repairs_JR10450722"
 },
 "Airbus:/job/Toulouse-Area/JR10440295-Internship-2027--Data-Analyst-in-Supply-Chain--F-H-_JR10440295": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -14677,6 +14712,13 @@
 "title": "Business Systems AI Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
 },
+"Leidos:/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668": {
+"company": "Leidos",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1792164742.0360222,
+"title": "Cloud Engineering Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668"
+},
 "Leidos:/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656": {
 "company": "Leidos",
 "first_seen": "2026-10-16T06:24:42+00:00",
@@ -25513,6 +25555,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Customer Care AI Analyst Intern - Summer 2027",
 "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101"
+},
+"Veeam Software:4996533101": {
+"company": "Veeam Software",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1792160687.0,
+"title": "Data & Analytics Engineering Intern - Summer 2027",
+"url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101"
 },
 "Vendelux:ec44a794-9622-444e-a789-491fa12726dd": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -42671,6 +42720,13 @@
 "title": "Data Analytics Intern - Summer 2027",
 "url": "https://corningjobs.corning.com/job/Painted-Post-Data-Analytics-Intern-Summer-2027-NY-14870/1426622100/?ats=successfactors"
 },
+"src:simplify:f6398163-4e7d-4ddd-aaab-04adafd0ee67": {
+"company": "KLA",
+"first_seen": "2026-10-16T15:32:16+00:00",
+"posted": 1791849600.0,
+"title": "Research Scientist Intern - Plasma Light Source Characterization",
+"url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033"
+},
 "src:simplify:f648dee8-f116-470b-a358-a621305e0f9f": {
 "company": "Jones Lang LaSalle",
 "first_seen": "2026-10-09T00:17:43+00:00",
@@ -43280,6 +43336,11 @@
 "affirm|softwareengineermachinelearningintern": 1790978247.5038009,
 "agco|aidatascienceintern": 1792025322.4791775,
 "agco|businessintelligenceintern": 1792025322.4792812,
+"airbus|atrinternaiandstructuralinservicerepairs": 1792165137.3946557,
+"airbus|atrinternaidataengineeringautomatedtechnicalknowledgeextraction": 1792165137.3946898,
+"airbus|atrinterngeospatialdatasciencefm": 1792165137.3947182,
+"airbus|atrinterninfraiaetdeploiementdellm": 1792165137.394704,
+"airbus|internbackenddeveloper": 1792165137.3946714,
 "airbus|internfrontenddeveloper": 1792132271.291201,
 "airbus|internsystemintegrationdeveloper": 1792132271.2911801,
 "airbus|softwareengineeringdegreeapprenticeship": 1791160179.5569992,
@@ -43360,8 +43421,6 @@
 "centene|aisoftwaredeveloperintern": 1792108649.8232481,
 "centific|airesearchinternphysicalai": 1791526594.6516633,
 "cirruslogic|embeddedfirmwareengineerintern": 1791251115.241743,
-"cisco|softwareengineericoopunitedstates": 1790944834.8620472,
-"cisco|softwareengineeriicoopunitedstates": 1790944834.8620245,
 "claylabs|softwareengineeringintern": 1791234311.4478176,
 "clera|computervisionroboticsintern": 1791597641.6121886,
 "clnera|dataengineerintern": 1791341071.6547172,
@@ -43428,7 +43487,6 @@
 "generaldynamicsmissionsystems|softwaresystemsengineeringintern": 1791505201.4453664,
 "generalmotors|adassoftwareengineerinternadpt": 1791251115.2414649,
 "generalmotors|aimachinelearninginternresearchanddevelopment": 1791861372.2232554,
-"generalmotors|aimlengineerinternautonomousvehiclesimulation": 1790944708.8274534,
 "generalmotors|aimlengineerinternautonomousvehiclessimulation": 1790964259.8392794,
 "generalmotors|aimlengineerinternmapping": 1791251115.2413852,
 "generalmotors|aimlengineerinternmappingmasters": 1792108649.8233984,
@@ -43447,7 +43505,6 @@
 "generalmotors|machinelearninginternautonomousvehiclessoftwarevalidation": 1791251115.241588,
 "generalmotors|onboardautonomyinternembodiedai": 1792108649.823424,
 "generalmotors|seaminternembodiedai": 1792108649.823436,
-"generalmotors|simulationinternsoftwareengineerautonomousvehiclesimulation": 1790944708.8274722,
 "generalmotors|softwareengineerinternavaiplatform": 1790989014.520135,
 "gevernova|aievaluationbenchmarkinginternagi": 1791991660.207666,
 "gevernova|aiposttrainingandmodelalignmentintern": 1791991660.2076194,
@@ -43456,7 +43513,6 @@
 "google|forwarddeployedengineerintern": 1791820971.127002,
 "gordonfoodservice|softwareengineerinterntransportationrouting": 1791642737.12199,
 "govsignals|productengineerintern": 1791159841.5734353,
-"graphcore|machinelearninganddatascienceengineeringintern": 1790944527.5192468,
 "guidepointsecurity|aidatascienceinterngpsune": 1791845339.9653714,
 "guidepointsecurity|cloudinfrastructureinterngpsune": 1791845339.965467,
 "harvey|softwareengineeringintern": 1790964025.32079,
@@ -43527,6 +43583,7 @@
 "kochindustries|datascienceintern": 1791470759.769384,
 "later|dataanalyticscoop": 1791571945.1876972,
 "leidos|businesssystemsaiintern": 1790988879.0454028,
+"leidos|cloudengineeringintern": 1792164805.004621,
 "leidos|dataengineeringanalyticsintern": 1792108649.823357,
 "leidos|datascienceintern": 1791330516.3203142,
 "leidos|performanceenablementaimlintern": 1792132110.7168033,
@@ -43553,7 +43610,6 @@
 "micron|internssdfirmwarecicd": 1792100758.177105,
 "microsoft|firmwareengineerintern": 1791205910.828707,
 "midlandstatesbank|aisolutionsengineerintern": 1791251115.2408214,
-"mindex|softwareengineercoop": 1790944708.8274875,
 "mmc|dataanalyticsindustrialplacement12monthsnewcastleupontyne": 1790978401.6179967,
 "modernizingmedicine|softwareengineerintern": 1791505201.4451249,
 "momentenergy|firmwareengineeringcoop": 1791251022.8493714,
@@ -43727,6 +43783,7 @@
 "upbound|servicenowdeveloperintern": 1790964259.5798333,
 "usfoods|interndataanalysthybridonsiteremote": 1791274352.401085,
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
+"veeamsoftware|dataanalyticsengineeringintern": 1792164737.4141262,
 "verizoncommunications|verizonconsumergrouphomemobilevaluepropintern": 1791845401.0175326,
 "vertiv|dataanalyticsintern": 1791913831.5754309,
 "vestmark|softwareengineercoop": 1791913831.5754464,
