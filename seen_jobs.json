@@ -15065,6 +15065,13 @@
 "title": "Jr. Software Engineer Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184"
 },
+"Leonardo:/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283": {
+"company": "Leonardo",
+"first_seen": "2026-10-17T21:40:00+00:00",
+"posted": 1792187170.4831007,
+"title": "Industrial Placement Software Engineer",
+"url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283"
+},
 "Levi Strauss & Co.:/job/London-United-Kingdom/Analytics-Intern_R-0155618-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Analytics Intern",
@@ -17506,6 +17513,13 @@
 "title": "Internship: Software Test Engineer - JavaCard Applications (m/f/d)",
 "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Developer---Tools--m-f-d-_R-10060873-1"
 },
+"NXP Semiconductors:/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1": {
+"company": "NXP Semiconductors",
+"first_seen": "2026-10-17T21:40:00+00:00",
+"posted": 1792187107.9169123,
+"title": "Internship: Software Engineer (m/f/d) - Java & Python Tools Development for Trust Provisioning",
+"url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1"
+},
 "NXP Semiconductors:/job/Guadalajara/Student-Intern---Non-Technical_R-10064559": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Student Intern - Non Technical",
@@ -18233,6 +18247,13 @@
 "posted": 1791818975.607876,
 "title": "Data Science Intern - Summer 2027 - Smyrna, TN",
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331"
+},
+"Nissan Global:/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302": {
+"company": "Nissan Global",
+"first_seen": "2026-10-17T21:40:00+00:00",
+"posted": 1792187130.1412525,
+"title": "Robotics Programmer Intern - Summer 2027 - Smyrna, TN",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302"
 },
 "Nordson:/job/Germany---Erkrath/Working-Student-Software-Electrical-Engineering_REQ52876": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -44059,6 +44080,7 @@
 "leidos|performanceenablementaimlintern": 1792132110.7168033,
 "leidos|softwareengineerintern": 1791330516.32033,
 "leidos|systemsintegrationandsoftwareengineerintern": 1791597701.9712002,
+"leonardo|industrialplacementsoftwareengineer": 1792273579.8216035,
 "lexisnexisrisksolutions|dataanalystintern": 1791251115.24165,
 "lexisnexisrisksolutions|datascienceintern": 1791251115.2416198,
 "libertymutual|datasciencecoop": 1791274308.0401964,
@@ -44109,6 +44131,7 @@
 "nissanglobal|machinelearningresearchintern": 1792025322.4791026,
 "nissanglobal|machinelearningresearchperceptionintern": 1792025322.4791238,
 "nissanglobal|machinelearningresearchpredictionandplanningintern": 1792025322.4791458,
+"nissanglobal|roboticsprogrammerinternsmyrnatn": 1792273543.3780935,
 "nissanglobal|softwareengineerintern": 1792025322.4790819,
 "nissan|aidataanalyticsintern": 1791861372.2231145,
 "nokia|aiengineercoop": 1791330516.3204436,
@@ -44126,6 +44149,7 @@
 "nxpsemiconductors|internproductengineeringdatasciencemachinelearninganalyst": 1791679817.0206144,
 "nxpsemiconductors|internproductengineeringmlmodeldevelopment": 1791679817.020591,
 "nxpsemiconductors|internsecurefirmwaredevelopmentmfd": 1791991813.7694232,
+"nxpsemiconductors|internsoftwareengineermfdjavapythontoolsdevelopmentfortrustprovisioning": 1792273533.6290953,
 "nxpsemiconductors|masterthesisinternaidriventransistordesignexploration": 1791679817.0206304,
 "nxpsemiconductors|workingstudentfmddevops": 1791679817.0206447,
 "omya|datascientistcoop": 1791087702.614825,
