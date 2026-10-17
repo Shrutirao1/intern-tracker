@@ -2627,6 +2627,13 @@
 "title": "Guidance, Navigation, and Controls Engineering Intern",
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Guidance--Navigation--and-Controls-Engineering-Intern_8625"
 },
+"AeroVironment:/job/Moorpark-CA/Software-Engineering-Intern_9094": {
+"company": "AeroVironment",
+"first_seen": "2026-10-17T14:27:00+00:00",
+"posted": 1792161120.3775291,
+"title": "Software Engineering Intern",
+"url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineering-Intern_9094"
+},
 "AeroVironment:/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer 2027 Autonomy & Robotics Engineering Intern",
@@ -15779,6 +15786,13 @@
 "title": "Platform Engineering Intern, Summer 2027 \u2013 St. Louis, MO, US",
 "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284876"
 },
+"Mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284880": {
+"company": "Mastercard",
+"first_seen": "2026-10-17T14:27:00+00:00",
+"posted": 1792161028.8693402,
+"title": "Platform Engineering Intern, Summer 2027 \u2013 St. Louis, MO, US",
+"url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284880"
+},
 "Mastercard:/job/OFallon-Missouri/Research---Development-Co-Op--WashU---Spring-2027---St-Louis--MO--US_R-291654": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research & Development Co-Op (WashU), Spring 2027 \u2013 St. Louis, MO, US",
@@ -25792,6 +25806,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Systems Engineering Co-op - Knoxville, TN",
 "url": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/KNV-I/Systems-Engineering-Co-op---Knoxville--TN_R-30684"
+},
+"Varian:/job/OAV-N/Billing-Data-Analyst-Intern_R-31164": {
+"company": "Varian",
+"first_seen": "2026-10-17T14:27:00+00:00",
+"posted": 1792161071.5850635,
+"title": "Billing Data Analyst Intern",
+"url": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/OAV-N/Billing-Data-Analyst-Intern_R-31164"
+},
+"Varian:/job/YOW-B/Software-Quality-Assurance-Specialist-Co-op_R-31551": {
+"company": "Varian",
+"first_seen": "2026-10-17T14:27:00+00:00",
+"posted": 1792161071.585477,
+"title": "Software Quality Assurance Specialist Co-op",
+"url": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/YOW-B/Software-Quality-Assurance-Specialist-Co-op_R-31551"
 },
 "Varian:/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142": {
 "company": "Varian",
@@ -43769,6 +43797,7 @@
 "aep|datascientistinterncolumbusoh": 1791620408.5513248,
 "aerospace|embeddedsystemssoftwareengineeringundergradintern": 1791490433.1913211,
 "aerovironment|hypersonicrfsoftwareengineeringintern": 1791620375.171392,
+"aerovironment|softwareengineeringintern": 1792247538.7222571,
 "agco|aidatascienceintern": 1792025322.4791775,
 "agco|businessintelligenceintern": 1792025322.4792812,
 "agco|embeddedsoftwareengineerintern": 1792195338.000872,
@@ -44034,6 +44063,7 @@
 "macys|softwareengineerintern": 1792017214.4118958,
 "manulifefinancial|coopsoftwareengineeringsecurityoperations": 1791444515.7015214,
 "mastercard|dataengineerintern": 1791422096.3827155,
+"mastercard|platformengineeringinternstlouismous": 1792247433.927961,
 "mckesson|softwareengineerintern": 1791422096.3827376,
 "medpace|pythondeveloperintern": 1791939383.378974,
 "medtronic|dataanalyticsintern": 1792101020.9762611,
@@ -44213,7 +44243,9 @@
 "tiktok|softwareengineerinternrecommendationperformanceefficiency": 1792132081.003107,
 "tmobile|softwareengineeringintern": 1792108848.9201307,
 "usfoods|interndataanalysthybridonsiteremote": 1791274352.401085,
+"varian|billingdataanalystintern": 1792247498.0211434,
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
+"varian|softwarequalityassurancespecialistcoop": 1792247498.021197,
 "veeamsoftware|dataanalyticsengineeringintern": 1792164737.4141262,
 "verizoncommunications|verizonconsumergrouphomemobilevaluepropintern": 1791845401.0175326,
 "vertiv|dataanalyticsintern": 1791913831.5754309,
