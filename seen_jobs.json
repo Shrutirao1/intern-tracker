@@ -15072,6 +15072,34 @@
 "title": "Industrial Placement Software Engineer",
 "url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283"
 },
+"Leonardo:/job/GB---Edinburgh/Industrial-Placement-Software-Engineer_R0033875": {
+"company": "Leonardo",
+"first_seen": "2026-10-17T23:24:22+00:00",
+"posted": 1792279818.2680795,
+"title": "Industrial Placement Software Engineer",
+"url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Software-Engineer_R0033875"
+},
+"Leonardo:/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205": {
+"company": "Leonardo",
+"first_seen": "2026-10-17T23:24:22+00:00",
+"posted": 1792279809.079683,
+"title": "Industrial Placement Test Software Engineer",
+"url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205"
+},
+"Leonardo:/job/GB---Luton---Cap-Green-300/Industrial-Placement-Firmware-Engineer_R0032906": {
+"company": "Leonardo",
+"first_seen": "2026-10-17T23:24:22+00:00",
+"posted": 1792279823.741885,
+"title": "Industrial Placement Firmware Engineer",
+"url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Firmware-Engineer_R0032906"
+},
+"Leonardo:/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102": {
+"company": "Leonardo",
+"first_seen": "2026-10-17T23:24:22+00:00",
+"posted": 1792279825.4908864,
+"title": "Software Engineering Degree Apprentice",
+"url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102"
+},
 "Levi Strauss & Co.:/job/London-United-Kingdom/Analytics-Intern_R-0155618-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Analytics Intern",
@@ -44080,7 +44108,10 @@
 "leidos|performanceenablementaimlintern": 1792132110.7168033,
 "leidos|softwareengineerintern": 1791330516.32033,
 "leidos|systemsintegrationandsoftwareengineerintern": 1791597701.9712002,
+"leonardo|industrialplacementfirmwareengineer": 1792279827.2981455,
 "leonardo|industrialplacementsoftwareengineer": 1792273579.8216035,
+"leonardo|industrialplacementtestsoftwareengineer": 1792279827.298093,
+"leonardo|softwareengineeringdegreeapprentice": 1792279827.298169,
 "lexisnexisrisksolutions|dataanalystintern": 1791251115.24165,
 "lexisnexisrisksolutions|datascienceintern": 1791251115.2416198,
 "libertymutual|datasciencecoop": 1791274308.0401964,
