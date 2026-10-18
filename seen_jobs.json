@@ -30683,6 +30683,13 @@
 "title": "Data Engineer Intern",
 "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job"
 },
+"src:simplify:2d44df47-4fb1-4120-a4ac-7fbcc5f6c103": {
+"company": "Tesla",
+"first_seen": "2026-10-18T10:02:33+00:00",
+"posted": 1792316246.0,
+"title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
+"url": "https://www.tesla.com/careers/search/job/287024"
+},
 "src:simplify:2d557827-15c8-4aae-b17a-37a7ad82b3ec": {
 "company": "Bose",
 "first_seen": "2026-10-03T00:53:39+00:00",
@@ -44284,6 +44291,7 @@
 "tenstorrent|systemsinternvalidationsoftwaredesignarchitecturepackagingusa": 1791973818.5460246,
 "tesla|dataanalystinternpeopleproducts": 1791444404.675591,
 "tesla|embeddedsoftwareengineerinternthermalsystems": 1791251115.2418022,
+"tesla|firmwareinternsocfirmwareengineersihardwareinfrastructure": 1792317928.7055273,
 "tesla|softwareintegrationengineerinternservicetooling": 1791505201.444947,
 "tessera|softwareengineeringinternfullstack": 1792041412.2666733,
 "thales|aiengineerapprenticeaianddatasciencegraduatelevelapprenticeship": 1791317906.2764225,
