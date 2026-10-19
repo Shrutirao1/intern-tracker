@@ -53,8 +53,10 @@
 "Affirm",
 "AfterQuery",
 "AgWest Farm Credit",
+"AgZen",
 "Age of Learning",
 "Agropur",
+"AiDASH, Inc.",
 "Air Liquide",
 "Air Products",
 "AirCapture",
@@ -115,6 +117,7 @@
 "Analytical Mechanics Associates",
 "Ancestry",
 "Anduril",
+"Angel City",
 "Anglian Water",
 "Ankura Consulting Group",
 "Anomali",
@@ -164,6 +167,7 @@
 "AspenTech",
 "AssetMark",
 "AssetWorks",
+"Assorthealth",
 "Assurant",
 "Assured Guaranty",
 "Astera",
@@ -202,6 +206,7 @@
 "Axon",
 "Axos Bank",
 "Aypa Power",
+"Azul Systems",
 "BCBST",
 "BDC Venture Capital",
 "BDO Canada",
@@ -287,6 +292,7 @@
 "Bpinternational",
 "Bracebridge Capital",
 "Bracket Bot",
+"Brain Co.",
 "Brandeis University",
 "Brave",
 "Bree",
@@ -426,6 +432,7 @@
 "Collinear AI",
 "Colonist",
 "Commerce Bank",
+"Commonwealth Fusion Systems",
 "Commure",
 "Commvault",
 "Compa",
@@ -853,6 +860,7 @@
 "Hewlett Packard (HP)",
 "Hewlett Packard Enterprise",
 "Hex Technologies",
+"HeyGen",
 "Higharc",
 "Highmarkhealth",
 "Hippocratic AI",
@@ -934,6 +942,7 @@
 "Internship",
 "Intrinsic",
 "Intropic",
+"Inversion",
 "Invesco",
 "IonQ",
 "Iowa State University",
@@ -1062,6 +1071,7 @@
 "Lyft",
 "M&G",
 "MBDA",
+"MEMX",
 "MERGE",
 "MFS",
 "MGIC",
@@ -1127,6 +1137,7 @@
 "Midland States Bank",
 "Mill",
 "MillerKnoll",
+"Mirakl",
 "Mirego",
 "Mmc",
 "Mobilityware",
@@ -1333,6 +1344,7 @@
 "Pitney Bowes",
 "Pivotal Software",
 "Plains",
+"Plancraft",
 "Planet",
 "PlanetScale",
 "Plastipak",
@@ -1442,6 +1454,7 @@
 "Rgare",
 "Rho",
 "Rhoda Ai",
+"Rhombus",
 "Rhombus Power",
 "Richardson",
 "Richemont",
@@ -1763,6 +1776,7 @@
 "Unisys",
 "United Parcel Service (UPS)",
 "UnitedMasters",
+"Unitytech",
 "University Corporation for Atmospheric Research",
 "University System of New Hampshire",
 "University of Arkansas",
@@ -1813,6 +1827,7 @@
 "Verne Robotics",
 "Vertex Pharmaceuticals",
 "Very Good Security",
+"Vestmark, Inc.",
 "Vestwell",
 "Vevo",
 "Viam",
@@ -1857,7 +1872,9 @@
 "Welocalize",
 "Western Union",
 "Wex",
+"Whataburger",
 "WhiteWater Midstream",
+"Wikimedia Foundation",
 "Williams",
 "WindBorne Systems",
 "Wonder",
@@ -2731,6 +2748,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern",
 "url": "https://jobs.ashbyhq.com/afterquery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b"
+},
+"AgZen:4cff4edd-3e9a-4ea1-8138-80c7241a2d3a": {
+"company": "AgZen",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792175598.469,
+"title": "Software Engineering Co-op",
+"url": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a"
+},
+"AiDASH, Inc.:4436057009": {
+"company": "AiDASH, Inc.",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792111535.0,
+"title": "Software Engineering Intern, Backend",
+"url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
 },
 "Air Liquide:/job/AL-Paris-HO---Digital--IT/Data-Quality-Apprentice--F-H-_R10087763": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -3640,6 +3671,13 @@
 "title": "2027 Firmware Engineer Intern",
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"
 },
+"Angel City:6226220004": {
+"company": "Angel City",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792106349.0,
+"title": "Data Analytics Intern",
+"url": "https://job-boards.greenhouse.io/wfclainc/jobs/6226220004"
+},
 "Ankura Consulting Group:/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "University Intern, Forensic Data & Analytics",
@@ -4013,6 +4051,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Development Intern - Digital Grid Management - Summer 2027",
 "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456"
+},
+"Assorthealth:3d8a2c74-8d0c-40be-9624-afc3678654ee": {
+"company": "Assorthealth",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792184985.72,
+"title": "Software Engineering Internship (Jan - Apr 2027)",
+"url": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee"
 },
 "Assurant:/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727": {
 "company": "Assurant",
@@ -4646,6 +4691,13 @@
 "posted": 1791383473.8429022,
 "title": "Software Development Intern",
 "url": "https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"
+},
+"Azul Systems:8f41ceaf-8835-4fc7-ba57-9384487d59db": {
+"company": "Azul Systems",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791840618.595,
+"title": "IT Intern, AI and Operations",
+"url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db"
 },
 "BDO Canada:/job/Oakville/Co-op-or-Intern--DevOps-Engineer--September-2026-_JR7058": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -5527,10 +5579,45 @@
 "title": "Intern, Deep Learning Engineer",
 "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008"
 },
+"Bracebridge Capital:4744999005": {
+"company": "Bracebridge Capital",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792419839.0,
+"title": "Northeastern University Software Engineer - Business Intelligence Co-op",
+"url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005"
+},
+"Bracebridge Capital:4745001005": {
+"company": "Bracebridge Capital",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792419989.0,
+"title": "Northeastern University Software Engineer - Application Development Co-op",
+"url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005"
+},
 "Bracket Bot:aecb5cb3-a96b-4ba8-863d-a1ad45414086": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Robotics Engineering Intern",
 "url": "https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086"
+},
+"Brain Co.:aadc490a-0d72-4be0-891b-4c362d491c3a": {
+"company": "Brain Co.",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791585402.075,
+"title": "AI Platform Engineer Co-Op Intern, Winter 2027",
+"url": "https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a"
+},
+"Brain Co.:b6adda4c-490c-4e9e-8354-e55c05d3c6ac": {
+"company": "Brain Co.",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791585006.759,
+"title": "Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027",
+"url": "https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac"
+},
+"Brain Co.:c93cdb4a-1ca8-40e0-b49c-205922772930": {
+"company": "Brain Co.",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791585695.637,
+"title": "AI Security Engineer Co-Op Intern, Winter 2027",
+"url": "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930"
 },
 "Brave:8161945": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -5740,6 +5827,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Business Intelligence Analyst Internship (Innovation & Data Science)",
 "url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738"
+},
+"Businessolver:8197911": {
+"company": "Businessolver",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1789403535.0,
+"title": "Mobile UX/UI Design Intern (Work-from-Home)",
+"url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8197911"
 },
 "C&S Wholesale Grocers:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963": {
 "company": "C&S Wholesale Grocers",
@@ -7047,6 +7141,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern - Data Science (Summer 2027)",
 "url": "https://commercebank.wd1.myworkdayjobs.com/en-US/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483"
+},
+"Commonwealth Fusion Systems:fa87d365-ac8a-44c3-8fda-c9dec3ea8878": {
+"company": "Commonwealth Fusion Systems",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792094411.009,
+"title": "Intern - AI & Infrastructure Engineer - Spring 2027",
+"url": "https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878"
 },
 "Compeer Financial:5404850008": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -12301,6 +12402,13 @@
 "title": "Intern, Medium Voltage Test Engineering",
 "url": "https://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0"
 },
+"Heron Power:5dbf22e3-41ba-40de-b428-6fab9934d6da": {
+"company": "Heron Power",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792428837.014,
+"title": "Intern, Firmware Engineering",
+"url": "https://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da"
+},
 "Heron Power:796052b0-3811-4282-b1f9-7e6f83c3e87b": {
 "company": "Heron Power",
 "first_seen": "2026-09-30T15:20:48+00:00",
@@ -12416,6 +12524,13 @@
 "posted": 1788932351.0,
 "title": "Product Engineer Intern",
 "url": "https://hex.tech/careers/6186215004/?gh_jid=6186215004"
+},
+"HeyGen:4540716007": {
+"company": "HeyGen",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1728939036.0,
+"title": "Software Engineer Intern (Winter 2027)",
+"url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007"
 },
 "Highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Artificial-Intelligence--Operations--Undergraduate-Intern_J287476": {
 "company": "Highmarkhealth",
@@ -13796,6 +13911,27 @@
 "title": "AI Labs Intern",
 "url": "https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac"
 },
+"Inversion:4744391005": {
+"company": "Inversion",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792108108.0,
+"title": "Avionics Embedded Software Engineer - Summer Internship 2027",
+"url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
+},
+"Inversion:4745076005": {
+"company": "Inversion",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792429117.0,
+"title": "AI & Internal Tools Software Engineer - Summer Internship 2027",
+"url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005"
+},
+"Inversion:4745083005": {
+"company": "Inversion",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792429346.0,
+"title": "Vehicle Software Engineer - Summer Internship 2027",
+"url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005"
+},
 "Itron:/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern -  Firmware Engineer (Spring 2027)",
@@ -14043,6 +14179,13 @@
 "posted": 1792199697.2032967,
 "title": "Summer intern, Digital Signal/ Imaging AI",
 "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-103933"
+},
+"Johnson & Johnson:/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629": {
+"company": "Johnson & Johnson",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792439067.9562075,
+"title": "Quality Data Science Co-Op , Summer 2027",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629"
 },
 "Johnson & Johnson:/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094": {
 "company": "Johnson & Johnson",
@@ -15374,6 +15517,13 @@
 "title": "Applied Scientist Intern (Summer 2027)",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"
 },
+"MEMX:5450442008": {
+"company": "MEMX",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791841557.0,
+"title": "Data Engineering Intern, Summer 2027 (Hybrid, NYC)",
+"url": "https://job-boards.greenhouse.io/memx/jobs/5450442008"
+},
 "MFS:/job/Boston/Information-Security-Co-op-Spring-2027--January---June-_MFS-231951": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Information Security Co-op Spring 2027 (January - June)",
@@ -15745,6 +15895,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "AI Infrastructure Engineer Intern",
 "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499"
+},
+"Marvell:/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1": {
+"company": "Marvell",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792438994.9423351,
+"title": "AI Data Science Intern, MS - Summer 2027",
+"url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1"
 },
 "Marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1": {
 "company": "Marvell",
@@ -16417,6 +16574,13 @@
 "posted": 1791226890.4722574,
 "title": "Intern - AI Solutions Engineer",
 "url": "https://midlandsb.wd1.myworkdayjobs.com/en-US/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461"
+},
+"Mirakl:6222277004": {
+"company": "Mirakl",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791900030.0,
+"title": "AI Analyst Co-op",
+"url": "https://job-boards.greenhouse.io/mirakl/jobs/6222277004"
 },
 "Mmc:/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970": {
 "company": "Mmc",
@@ -19882,6 +20046,13 @@
 "title": "Internship, GNC Engineering (Fall)",
 "url": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7"
 },
+"Plancraft:287c0239-776d-4f48-b41d-fc88cd11bd25": {
+"company": "Plancraft",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791902045.093,
+"title": "Working Student / Intern GTM AI Growth Engineering (f/m/d)",
+"url": "https://jobs.ashbyhq.com/plancraft/287c0239-776d-4f48-b41d-fc88cd11bd25"
+},
 "Plot Technologies:5f8cfeaa-c368-480f-aaa5-de52452a63d0": {
 "company": "Plot Technologies",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -21818,6 +21989,13 @@
 "title": "Robot Software Engineer Internship",
 "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5"
 },
+"Rhombus:59e7a5f3-b457-491d-af08-b629ad35e380": {
+"company": "Rhombus",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791909023.403,
+"title": "Software Engineering Intern - Summer 2027",
+"url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380"
+},
 "Richemont:/job/HONG-KONG-SAR-China/Regional-Analytics-Engineering-Intern_JR133564-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Regional Analytics Engineering Intern",
@@ -22723,6 +22901,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineering Intern (Summer 2027) ",
 "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005"
+},
+"Scale AI:4735665005": {
+"company": "Scale AI",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792434189.0,
+"title": "Machine Learning Research Intern (Summer 2027)",
+"url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005"
 },
 "Schonfeld:7185553": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -25602,6 +25787,13 @@
 "title": "UPS Information Security Summer 2027 Internship - NJ",
 "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"
 },
+"Unitytech:/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965": {
+"company": "Unitytech",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791920523.7511928,
+"title": "Machine Learning Engineer-Internship",
+"url": "https://unitytech.wd1.myworkdayjobs.com/en-US/unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965"
+},
 "University System of New Hampshire:/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research Intern",
@@ -26108,6 +26300,13 @@
 "posted": 0,
 "title": "Vertex Spring Co-Op, Process Engineering Data Analytics",
 "url": "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op--Process-Engineering-Data-Analytics_REQ-31006-1"
+},
+"Vestmark, Inc.:8204509": {
+"company": "Vestmark, Inc.",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1791897098.0,
+"title": "Software Engineer Co-op",
+"url": "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
 },
 "Viam:6185046004": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -26865,6 +27064,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Data Science Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007"
+},
+"Wikimedia Foundation:8268853": {
+"company": "Wikimedia Foundation",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792101765.0,
+"title": "Software Engineering Internship Program (2027)",
+"url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853"
 },
 "WindBorne Systems:75c5c65c-8179-4ca0-9659-39bf0f8f7b8b": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -29973,6 +30179,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Scientist Intern - Summer 2027",
 "url": "https://c3.ai/job-description/8738918002?gh_jid=8738918002"
+},
+"src:simplify:226b2e00-45e3-4969-ae52-9edd0338ac22": {
+"company": "Marvell",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792368000.0,
+"title": "AI Data Science Intern",
+"url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1"
 },
 "src:simplify:22788572-42f5-4949-95ac-5b883dbb7696": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -37495,6 +37708,13 @@
 "title": "Data Science Intern - Data Intelligence",
 "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077"
 },
+"src:simplify:9b53f089-b4bf-4541-b4fe-50a181bb2f8c": {
+"company": "Autodesk",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792368000.0,
+"title": "Software Engineer Intern",
+"url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105"
+},
 "src:simplify:9b814dc4-e65c-4e43-aa10-eb1cfeed3036": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Technology Intern - Enterprise Operations + Technology",
@@ -40166,6 +40386,13 @@
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
 },
+"src:simplify:c35aada5-ad17-4000-baae-c7099528eabb": {
+"company": "Marvell",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792368000.0,
+"title": "AI Data Science Intern",
+"url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846"
+},
 "src:simplify:c36ab777-30bb-4843-9f8e-eb51269d6083": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Developer Intern - University - 2027 Summer Games",
@@ -40978,6 +41205,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "AI/ML Infrastructure Engineer Intern - Data-Arch-Tiktok Live",
 "url": "https://lifeattiktok.com/search/7670876223732762933"
+},
+"src:simplify:d19bf91f-90c0-4799-9c56-302b3703168a": {
+"company": "Robert Bosch Venture Capital",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792418919.0,
+"title": "Software Engineering Co-op",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682"
 },
 "src:simplify:d19faef5-69be-4dee-b896-16d292336009": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -43033,6 +43267,13 @@
 "title": "Software Development Intern",
 "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456"
 },
+"src:simplify:f2273a00-fd36-44f4-b959-cffdf589df8a": {
+"company": "RTX",
+"first_seen": "2026-10-19T19:40:09+00:00",
+"posted": 1792368000.0,
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499"
+},
 "src:simplify:f24bc603-523e-46fb-b6f7-b7ed10094fcd": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Management Intern - Global Merchant & Network Services",
@@ -43899,6 +44140,7 @@
 "agco|businessintelligenceintern": 1792025322.4792812,
 "agco|embeddedsoftwareengineerintern": 1792195338.000872,
 "agzen|softwareengineercoop": 1792195338.0012085,
+"aidash|softwareengineeringinternbackend": 1792438814.268113,
 "airbus|atrinternaiandstructuralinservicerepairs": 1792165137.3946557,
 "airbus|atrinternaidataengineeringautomatedtechnicalknowledgeextraction": 1792165137.3946898,
 "airbus|atrinterngeospatialdatasciencefm": 1792165137.3947182,
@@ -43927,6 +44169,7 @@
 "amgen|undergradcoopinteractivedeveloperimmersivecourseprogrammerformanufacturing": 1791679769.914715,
 "anduril|firmwareengineerintern": 1791939210.5496142,
 "anduril|researchengineercoop": 1792017108.7657728,
+"angelcity|dataanalyticsintern": 1792438814.293639,
 "appliedmaterials|softwareengineeringinternmasterssantaclaraca": 1791755492.0417671,
 "aptiv|cloudengineeringintern": 1792177080.9206686,
 "aptiv|cloudengineerintern": 1792177080.9206884,
@@ -43950,10 +44193,12 @@
 "autodesk|internsoftwareengineer": 1791620147.7592175,
 "autodesk|researcherinternmachinelearningforconstruction": 1791234433.0964048,
 "autodesk|researchinternmultimodalaiforhumanexperience": 1791234433.096384,
+"autodesk|softwareengineerintern": 1792438936.6935873,
 "autoownersinsurance|businessintelligenceengineerintern": 1791391007.6267402,
 "axiomspace|softwareengineerintern": 1792115194.6814349,
 "axosbank|aiengineerintern": 1791642684.2743418,
 "axosbank|softwaredevelopmentintern": 1791642684.2743196,
+"azulsystems|itinternaiandoperations": 1792438814.4679554,
 "badgermeter|softwareengineeringintern": 1791913830.9602046,
 "bakerhughes|interngenerativeaimfd": 1792100972.4006581,
 "barrywehmiller|softwareengineeringinterndal": 1791755523.7352748,
@@ -43971,6 +44216,10 @@
 "bostonscientific|aidatascienceintern": 1792195338.000966,
 "bostonscientific|equipmentengineeringaivisionengineerintern": 1791299321.0263875,
 "bostonscientific|equipmentengineeringsoftwareengineerintern": 1791274308.0403218,
+"bracebridgecapital|northeasternuniversitysoftwareengineerapplicationdevelopmentcoop": 1792438811.7367272,
+"bracebridgecapital|northeasternuniversitysoftwareengineerbusinessintelligencecoop": 1792438811.7367442,
+"brain|aiplatformengineercoopintern": 1792438814.1977167,
+"brain|aisecurityengineercoopintern": 1792438814.1975303,
 "brain|machinelearningengineerappliedaicoopintern": 1791956008.5618439,
 "caci|softwareengineerintern": 1792017214.4118736,
 "caci|softwaretestengineerintern": 1792187609.315268,
@@ -44078,6 +44327,8 @@
 "hcsc|earlycareersinfrastructureengineerintern": 1791391005.5937328,
 "healthpeakproperties|forwarddeployedsoftwareengineerintern": 1792115194.6814897,
 "heinz|culinaryinsightsdataanalystintern": 1791991685.9943185,
+"heronpower|internfirmwareengineering": 1792438811.4604437,
+"heygen|softwareengineerintern": 1792438814.273551,
 "highmarkhealth|artificialintelligenceoperationsundergraduateintern": 1792177312.7404919,
 "hitachi|researchinternknowledgeengineeringgenerativeai": 1792017214.411917,
 "howden|dataanalystapprenticeshipprogrammecheltenham": 1791598001.5455031,
@@ -44116,6 +44367,8 @@
 "intel|aisolutionarchitectundergraduateintern": 1791444419.5648475,
 "intel|studentinterncollaborationservicessystemprogrammer": 1791861234.8274622,
 "inversionspace|avionicsembeddedsoftwareengineerintern": 1792115194.6814082,
+"inversion|aiinternaltoolssoftwareengineerintern": 1792438814.4847023,
+"inversion|vehiclesoftwareengineerintern": 1792438814.4847596,
 "itw|softwareengineerinternapplicationsoftware": 1791679643.373689,
 "jabil|aitransformationintern": 1791330516.3206027,
 "jabil|itprogrammeranalystintern": 1791679750.3865182,
@@ -44159,6 +44412,7 @@
 "lseg|softwareengineerintern": 1792017214.4117978,
 "macys|softwareengineerintern": 1792017214.4118958,
 "manulifefinancial|coopsoftwareengineeringsecurityoperations": 1791444515.7015214,
+"marvell|aidatascienceintern": 1792438936.6935744,
 "mastercard|dataengineerintern": 1791422096.3827155,
 "mastercard|platformengineeringinternstlouismous": 1792247433.927961,
 "mckesson|softwareengineerintern": 1791422096.3827376,
@@ -44170,6 +44424,7 @@
 "mfs|systemsengineeringcloudtechnologiescoopjanuaryjune": 1791444417.0709512,
 "micron|internssdfirmwarecicd": 1792100758.177105,
 "midlandstatesbank|aisolutionsengineerintern": 1791251115.2408214,
+"mirakl|aianalystcoop": 1792438814.4846108,
 "modernizingmedicine|softwareengineerintern": 1791505201.4451249,
 "momentenergy|firmwareengineeringcoop": 1791251022.8493714,
 "momentenergy|softwareengineeringcoop": 1791251022.8494165,
@@ -44227,6 +44482,7 @@
 "philips|coopsoftwareengineerrdcambridgemajanuaryaugust": 1791317810.7558131,
 "philips|dataaialgorithminternphilipsaventexperienceinnovation": 1791755719.3914707,
 "philips|internsyntheticdatagenerationfordentalaimaster": 1792188050.5902677,
+"plancraft|workingstudentinterngtmaigrowthengineeringfmd": 1792438814.36902,
 "point72|internmsphddatascientistproprietaryresearch": 1791991357.0182395,
 "point72|internsoftwareengineer": 1791991357.0182743,
 "proctergamble|itinternanalyticsdataengineering": 1792101016.9352653,
@@ -44258,6 +44514,7 @@
 "rivian|engineeringinterncoopaimlasiccad": 1791330516.3202639,
 "rivian|softwareengineerinterncoopembeddedsoftware": 1791251115.2415452,
 "rivian|softwareengineerinterncoopmachinelearningresearchperception": 1792108649.8234522,
+"robertboschventurecapital|softwareengineeringcoop": 1792438936.6936128,
 "roche|datascienceinternmasterthesisstudentbasel6monate": 1791317665.0314825,
 "roche|workforceoptimizationstrategiesdatascienceintern": 1791317665.0314505,
 "rockwellautomation|internfirmwareandsoftwaretestdevelopment": 1791364785.7784126,
@@ -44273,6 +44530,7 @@
 "sanofi|coopbiologicsdesignandaicambridgema": 1792237880.036164,
 "sanofi|coopdatasciencedigitaltransformationframinghamma": 1791526914.4277165,
 "sartorius|workingstudentdatasciencexfm": 1792237866.7528696,
+"scaleai|machinelearningresearchintern": 1792438810.5410943,
 "scelectric|softwareengineerintern": 1791391007.6266644,
 "schonfeld|quantitativedeveloperintern": 1791571944.890073,
 "schweitzerengineeringlaboratories|softwareengineerintern": 1792131917.8144152,
@@ -44322,6 +44580,7 @@
 "tiktok|machinelearningengineerinternmonetizationtechnologyadscoreglobal": 1791470759.7693439,
 "tiktok|softwareengineerinternrecommendationperformanceefficiency": 1792132081.003107,
 "tmobile|softwareengineeringintern": 1792108848.9201307,
+"unitytech|machinelearningengineerintern": 1792438928.0805926,
 "usfoods|interndataanalysthybridonsiteremote": 1791274352.401085,
 "varian|billingdataanalystintern": 1792247498.0211434,
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
@@ -44786,6 +45045,7 @@
 "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676": "US - CO, Westminster; US - GA, Atlanta; US - NH, Portsmouth; US - TN, Knoxville; US - CA, Sunnyvale; US - OH, Dayton; US - OR, Lake Oswego",
 "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677": "Baltimore, MD; Owings Mills, MD",
 "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684": "Pleasant Prairie, WI; Milwaukee, WI; Waukegan, IL; Glenview, IL; Kenosha, WI",
+"https://unitytech.wd1.myworkdayjobs.com/en-US/unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965": "",
 "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Future-Leaders-Program---Data-Intern_R0120824": "San Antonio Home Office I; Charlotte, NC - CENTS",
 "https://verdantas.wd108.myworkdayjobs.com/en-US/Verdantas/job/Wilmington-DE/Summer-2027-Engineering-Intern_R-101159": "Wilmington DE; Dover DE",
 "https://woodward.wd5.myworkdayjobs.com/en-US/woodward/job/Fort-Collins---Lincoln-Campus/Engineering-Internship-Summer-2027_JR113067": "",
