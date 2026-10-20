@@ -1158,6 +1158,7 @@
 "Morrison-Maierle",
 "Mosaic",
 "Motorola",
+"Mtb",
 "MultiCare Health System",
 "Multiply Labs",
 "Munters",
@@ -2534,6 +2535,13 @@
 "title": "Intern - Data Scientist",
 "url": "https://acxiomllc.wd5.myworkdayjobs.com/en-US/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459"
 },
+"Adobe:/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015": {
+"company": "Adobe",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792537741.393258,
+"title": "2027 Intern- Software Engineer",
+"url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"
+},
 "Adobe:/job/New-York/XMLNAME-2027-Intern---Digital-Strategy-Analyst_R171828": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
@@ -2549,12 +2557,26 @@
 "title": "2027 Intern - Solutions Consulting Analyst",
 "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696"
 },
+"Adobe:/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998": {
+"company": "Adobe",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792451341.3933425,
+"title": "2027 Intern - AI & Architecture",
+"url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
+},
 "Adobe:/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064": {
 "company": "Adobe",
 "first_seen": "2026-10-07T09:16:29+00:00",
 "posted": 1791191797.6895366,
 "title": "2027 Intern - Applied and Research Scientist/Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
+},
+"Adobe:/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997": {
+"company": "Adobe",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792451341.3942683,
+"title": "2027 Intern - Data, AI & Innovation",
+"url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997"
 },
 "Adobe:/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -2565,6 +2587,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "2027 Intern - Software Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
+},
+"Adobe:/job/Yerevan/XMLNAME-2027-Intern--Software-Engineer_R173019": {
+"company": "Adobe",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792451341.3934207,
+"title": "2027 Intern- Software Engineer",
+"url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Yerevan/XMLNAME-2027-Intern--Software-Engineer_R173019"
 },
 "Advanced Space:4324855009": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -17059,6 +17088,13 @@
 "title": "2027 Software Engineering Summer Internship",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"
 },
+"Mtb:/job/Buffalo-NY/Technology-Apprentice---Application-Developer--ZDP-_R91349": {
+"company": "Mtb",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792192371.8867953,
+"title": "Technology Apprentice - Application Developer (ZDP)",
+"url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/Technology-Apprentice---Application-Developer--ZDP-_R91349"
+},
 "Muon Space:5244641007": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Applied Science Intern (Summer 2027)",
@@ -23522,6 +23558,13 @@
 "title": "Embedded Software Engineer Intern - Summer 2027",
 "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260"
 },
+"Skydio:8a237302-3fe8-4403-b32b-7690f333ba52": {
+"company": "Skydio",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792529913.699,
+"title": "Mobile Software Engineer Intern - Summer 2027",
+"url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52"
+},
 "Skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
@@ -28186,6 +28229,13 @@
 "title": "Systems Research Engineer Intern - GPU Programming",
 "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238411007"
 },
+"src:simplify:00e04eac-1e56-4e4d-ad08-1472c68a0683": {
+"company": "Zillow",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792454400.0,
+"title": "Applied Scientist Intern - Economics",
+"url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1"
+},
 "src:simplify:0114fd01-23de-4242-a750-9e8add8525e7": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Research & Development Co-op",
@@ -29454,6 +29504,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+},
+"src:simplify:15541ad0-6422-49de-b84d-968855e502c2": {
+"company": "CommonAI C.I.C.",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792534037.0,
+"title": "Software Engineer Intern",
+"url": "https://apply.workable.com/commonai/j/021D3FCF3E/apply"
 },
 "src:simplify:155c8d93-ccf5-40ce-a59e-5011b213e79f": {
 "company": "Ascension",
@@ -31542,6 +31599,13 @@
 "title": "Simulation Engineering Intern",
 "url": "https://lunaroutpost.bamboohr.com/careers/390/"
 },
+"src:simplify:352ca30a-f20a-448d-8092-68c1f8720f68": {
+"company": "Paccar",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792536026.0,
+"title": "Field Service Data Analyst Intern",
+"url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors"
+},
 "src:simplify:3548b466-2e50-4b00-9af5-beccc61fd77d": {
 "company": "Waymo",
 "first_seen": "2026-09-25T23:45:19+00:00",
@@ -32501,6 +32565,13 @@
 "posted": 1789683374.0,
 "title": "Oracle Application Developer Intern",
 "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804"
+},
+"src:simplify:44c5476b-29a9-42cd-8bd8-4691ff83f588": {
+"company": "Keysight Technologies",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792535436.0,
+"title": "R&D Software Engineer Intern",
+"url": "https://jobs.keysight.com/jobs/55110?icims=1"
 },
 "src:simplify:44dacd86-f76d-414d-9cb5-9dd6a0211b2d": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -37797,6 +37868,13 @@
 "title": "Software Developer/Data Scientist Intern - Summer 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
 },
+"src:simplify:977d6496-2a2b-4bba-83d0-e902e7ced1d6": {
+"company": "Berkshire Hathaway Energy",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792535542.0,
+"title": "Software Engineer Intern",
+"url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930"
+},
 "src:simplify:9782344e-0072-4996-ae4d-b36ef27d13db": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
@@ -38459,6 +38537,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Application Developer Intern",
 "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459"
+},
+"src:simplify:a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5": {
+"company": "Skydio",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792534507.0,
+"title": "Mobile Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true"
 },
 "src:simplify:a2379b29-b59b-4caf-b306-c75979e0bc9e": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -40027,6 +40112,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Video and Analytics Intern - Baseball",
 "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706"
+},
+"src:simplify:b8bee710-0e73-4628-b6c5-5f14de72eec9": {
+"company": "Skydio",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792534507.0,
+"title": "Embedded Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34/application?embed=true"
 },
 "src:simplify:b8ea1f69-0e58-40a5-b2db-ebf0b0197dca": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -42445,6 +42537,13 @@
 "title": "Data Engineer Intern - Data Engineering & Business Intelligence",
 "url": "https://www.tesla.com/careers/search/job/285291"
 },
+"src:simplify:df54723a-af5c-4a60-bdf7-9724974c60a7": {
+"company": "Salesforce",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792454400.0,
+"title": "AI Research Intern",
+"url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1"
+},
 "src:simplify:df848f9e-ca3e-4ea9-ac5c-e1e9596730ba": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Machine Learning Scientist Intern",
@@ -43079,6 +43178,13 @@
 "title": "Software Development Intern - Citizen Remote Identity Verification",
 "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360"
 },
+"src:simplify:e8a2975b-62cb-450a-9629-f7210118211b": {
+"company": "RTX",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792454400.0,
+"title": "Software Engineering Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
+},
 "src:simplify:e8c586d7-f281-4ffc-bd41-078c7158f059": {
 "company": "Northrop Grumman",
 "first_seen": "2026-09-30T23:43:07+00:00",
@@ -43186,6 +43292,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineering Intern - Masters",
 "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
+},
+"src:simplify:ea35e6ba-134e-48fe-b946-e6109877602e": {
+"company": "Salesforce",
+"first_seen": "2026-10-20T23:08:53+00:00",
+"posted": 1792454400.0,
+"title": "AI Research Intern",
+"url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111"
 },
 "src:simplify:ea8a7a43-d2ba-4e7f-b5e9-a8a86b8e1946": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -44523,7 +44636,10 @@
 "abridge|memberoftechnicalstaffintern": 1792108408.1766644,
 "accenture|backenddeveloperinternshehethey": 1792041653.0161948,
 "acronaviation|softwareengineerinternphoenixsite": 1791845337.2056751,
+"adobe|internaiarchitecture": 1792537756.9188828,
 "adobe|internappliedandresearchscientistengineer": 1791364618.32625,
+"adobe|interndataaiinnovation": 1792537756.9189265,
+"adobe|internsoftwareengineer": 1792537756.918853,
 "aecom|engineeringdataanalyticsintern": 1792017214.4117486,
 "aep|datascientistinterncolumbusoh": 1791620408.5513248,
 "aerospace|embeddedsystemssoftwareengineeringundergradintern": 1791490433.1913211,
@@ -44592,6 +44708,7 @@
 "badgermeter|softwareengineeringintern": 1791913830.9602046,
 "bakerhughes|interngenerativeaimfd": 1792100972.4006581,
 "barrywehmiller|softwareengineeringinterndal": 1791755523.7352748,
+"berkshirehathawayenergy|softwareengineerintern": 1792537972.0791857,
 "bobyard|computervisionresearchengineerintern": 1791845339.8818634,
 "boozallen|universityappliedaisoftwaredevelopmentintern": 1791526633.4534533,
 "boozallen|universitysoftwareengineerintern": 1792237643.7748847,
@@ -44626,6 +44743,7 @@
 "cmu|aisecurityresearchintern": 1791861363.8059466,
 "cmu|aisecuritysoftwareengineerintern": 1791861363.805971,
 "cognex|softwareengineerintern": 1792451178.5120325,
+"commonaicic|softwareengineerintern": 1792537972.0791116,
 "commonwealthfusionsystems|aiinfrastructureengineerintern": 1792108649.823265,
 "corewellhealth|digitalservicesgenerativeaiintern": 1791845417.7637804,
 "corewellhealth|digitalserviceswebandmobiledevelopmentintern": 1791845417.7638407,
@@ -44760,6 +44878,7 @@
 "joneslanglasalle|aiintern": 1791505201.445041,
 "jpmorganchase|machinelearningassociateinternnlp": 1792498048.0322628,
 "k2space|platformengineeringintern": 1791421992.4751887,
+"keysight|rdsoftwareengineerintern": 1792537972.0792034,
 "kion|softwareengineeringintern": 1792101045.0725324,
 "kla|aimlsoftwareengineerintern": 1792132190.3897352,
 "kla|computervisionmachinelearningintern": 1792132190.389677,
@@ -44803,6 +44922,7 @@
 "moog|softwareengineerintern": 1791505201.4449816,
 "motorola|genaimachinelearningintern": 1791422096.383003,
 "motorola|softwaredevelopmentintern": 1791444404.675626,
+"mtb|technologyapprenticeapplicationdeveloperzdp": 1792537974.4197671,
 "muonspace|groundsoftwareengineeringintern": 1792089593.750337,
 "nationallaboratoryofrockies|graduate1012weeksinternaimlforcybersecurity": 1792359340.8634956,
 "nationallaboratoryofrockies|graduate312monthinternartificialintelligenceforpowersystemoperations": 1792017385.5819352,
@@ -44839,6 +44959,7 @@
 "onsemi|semiconductoraispecialistintern": 1792017214.411821,
 "opengov|internsoftwareengineer": 1792089592.2300394,
 "opswat|supportengineeringinternaiautomationfocus": 1791845340.1302912,
+"paccar|fieldservicedataanalystintern": 1792537972.0791478,
 "paccar|warrantydataanalystintern": 1792451178.511988,
 "palantir|softwareengineerinternqueryengines": 1792460533.4216638,
 "papajohns|datascienceintern": 1791572045.9797273,
@@ -44848,7 +44969,6 @@
 "peraton|softwaredevelopmentintern": 1791505201.4452233,
 "perpay|superdaydataengineeringintern": 1791490097.3555732,
 "perpay|superdaydatascienceintern": 1791490097.355596,
-"philips|coopsoftwareengineerrdcambridgemajanuaryaugust": 1791317810.7558131,
 "philips|dataaialgorithminternphilipsaventexperienceinnovation": 1791755719.3914707,
 "philips|internsyntheticdatagenerationfordentalaimaster": 1792188050.5902677,
 "plancraft|workingstudentinterngtmaigrowthengineeringfmd": 1792438814.36902,
@@ -44890,6 +45010,7 @@
 "ruggedrobotics|roboticsoftwareinterncoopor": 1791470536.0555484,
 "ryan|softwaredevelopmentintern": 1792195338.0011213,
 "ryan|softwareengineerintern": 1792207077.5898376,
+"salesforce|airesearchintern": 1792537972.0790896,
 "salesforce|softwareengineerintern": 1792451178.5120132,
 "sanofi|coopbiologicsdesignandaicambridgema": 1792237880.036164,
 "sanofi|coopdatasciencedigitaltransformationframinghamma": 1791526914.4277165,
@@ -44905,6 +45026,7 @@
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
 "skydio|embeddedsoftwareengineerinternwiner": 1792526968.2907512,
 "skydio|manufacturingsoftwareengineerintern": 1792006203.3530595,
+"skydio|mobilesoftwareengineerintern": 1792537735.080359,
 "skydio|softwareengineerintern": 1792006203.3530192,
 "solopulse|softwareengineerinterncoop": 1791490100.2093084,
 "sonypicturesentertainment|currentprogramminginternsonypicturestelevision": 1792132186.8456368,
@@ -44924,9 +45046,6 @@
 "tesla|firmwareinternsocfirmwareengineersihardwareinfrastructure": 1792317928.7055273,
 "tesla|softwareintegrationengineerinternservicetooling": 1791505201.444947,
 "tessera|softwareengineeringinternfullstack": 1792041412.2666733,
-"thales|aiengineerapprenticeaianddatasciencegraduatelevelapprenticeship": 1791317906.2764225,
-"thales|aiengineerapprenticelevel6machinelearning": 1791317906.2763667,
-"thales|airesearcherapprenticelevel6machinelearning": 1791317906.276396,
 "tiaa|earlytalentinternnuveenbusinessintelligence": 1791820949.948472,
 "tiktok|machinelearningengineerintern": 1791444404.6754942,
 "tiktok|machinelearningengineerinternecommercegovernance": 1792025322.4790606,
@@ -44965,6 +45084,7 @@
 "xcelenergy|dataanalyticsinterncorporateimpactmn": 1791861390.6883814,
 "zeiss|internincomputervisioncalibrationpipelinesfmx": 1791991726.3995156,
 "zeiss|internsoftwareengineeringagenticsystemsfordigitaltwinsfmx": 1791679696.7953396,
+"zillow|appliedscientistinterneconomics": 1792537972.0790226,
 "zipline|firmwareengineerintern": 1791586591.6312516,
 "zoetis|internpharmacogenomicsdatasciencegenomicpredictionvmrd": 1791642602.1777542
 },
