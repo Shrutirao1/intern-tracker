@@ -32564,6 +32564,13 @@
 "title": "Project Delivery Digital Engineering & Property Services Co-op",
 "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717"
 },
+"src:simplify:46965922-9d94-4b6d-9e87-ff3889d5d343": {
+"company": "Salesforce",
+"first_seen": "2026-10-20T12:04:22+00:00",
+"posted": 1792368000.0,
+"title": "Software Engineer Intern",
+"url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
+},
 "src:simplify:46a3b20e-600a-4c23-b027-efd88685a714": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Summer 2027",
@@ -37623,6 +37630,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern",
 "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102446"
+},
+"src:simplify:9540c6d5-a3f9-44ef-bbc8-f2e6f966e07c": {
+"company": "The New York Times",
+"first_seen": "2026-10-20T12:04:22+00:00",
+"posted": 1792489107.0,
+"title": "AI Initiatives Fellow",
+"url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005"
 },
 "src:simplify:95542b2a-559f-4043-9abf-11784ddc524b": {
 "company": "Commonwealth Fusion Systems",
@@ -44001,6 +44015,13 @@
 "title": "Multifamily Software Development Intern - Summer 2027",
 "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564"
 },
+"src:simplify:f9299641-0cec-447d-8ed6-26445441d4ec": {
+"company": "JP Morgan Chase",
+"first_seen": "2026-10-20T12:04:22+00:00",
+"posted": 1792487487.0,
+"title": "Machine Learning Summer Associate Intern - NLP",
+"url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"
+},
 "src:simplify:f9783cfd-0933-41da-8102-1c15ae7d9c3c": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
@@ -44491,7 +44512,6 @@
 "ascension|datascienceintern": 1791861372.2231302,
 "associatedbank|corporateinternartificialintelligencecorpcommercialbanking": 1792460774.4486125,
 "assorthealth|softwareengineerintern": 1792195338.001059,
-"astera|packagingautomationdataengineeringintern": 1791274308.0401638,
 "atkinsralis|softwaredeveloperintern": 1791821048.9891891,
 "atoms|softwareengineeringinternterm": 1792006203.176475,
 "atoms|softwareengineerintern": 1792025322.4793735,
@@ -44518,7 +44538,6 @@
 "bostonconsulting|forwarddeployedaiengineerintern": 1791939383.378813,
 "bostonscientific|aidatascienceintern": 1792195338.000966,
 "bostonscientific|equipmentengineeringaivisionengineerintern": 1791299321.0263875,
-"bostonscientific|equipmentengineeringsoftwareengineerintern": 1791274308.0403218,
 "bostonscientific|rdsoftwareengineerintern": 1792478372.1675863,
 "bracebridgecapital|northeasternuniversitysoftwareengineerapplicationdevelopmentcoop": 1792438811.7367272,
 "bracebridgecapital|northeasternuniversitysoftwareengineerbusinessintelligencecoop": 1792438811.7367442,
@@ -44527,7 +44546,6 @@
 "brain|machinelearningengineerappliedaicoopintern": 1791956008.5618439,
 "caci|softwareengineerintern": 1792017214.4118736,
 "caci|softwaretestengineerintern": 1792187609.315268,
-"cadencesolutions|softwareengineerintern": 1791274308.040252,
 "cai|programmerintern": 1791939383.3789902,
 "cai|softwaredeveloperintern": 1791861372.2230937,
 "captechconsulting|dataanalysisdataengineeringintern": 1791820971.127025,
@@ -44586,7 +44604,6 @@
 "geaerospace|cncprogrammercoop": 1792115206.4650958,
 "geaerospace|datascienceandaidigitaltechnologyintern": 1792115206.4650097,
 "genbioai|researchscientistinternaimoleculardesign": 1791490099.8245225,
-"genentech|appliedgenaiscientistinterngenaiapplications": 1791274308.040242,
 "generaldynamicsinformation|defenseagenciesinternaiml": 1791861372.2233887,
 "generaldynamicsinformation|softwaredeveloperintern": 1792451178.512343,
 "generaldynamicsinformation|softwaredevelopmentintern": 1791845487.2337887,
@@ -44658,7 +44675,6 @@
 "illinoistoolworks|softwareengineerinternapplicationsoftware": 1791422096.38276,
 "imctrading|machinelearningengineerintern": 1791490096.8851676,
 "impulsespace|enterprisesoftwareengineerintern": 1792195338.0009305,
-"innovativedefense|softwareengineerintern": 1791274308.0402687,
 "intel|aisolutionarchitectgraduateintern": 1791444419.5648115,
 "intel|aisolutionarchitectundergraduateintern": 1791444419.5648475,
 "intel|studentinterncollaborationservicessystemprogrammer": 1791861234.8274622,
@@ -44677,6 +44693,7 @@
 "johnsonjohnson|interndigitalsignalimagingai": 1792286286.941101,
 "johnsonjohnson|qualitydatasciencecoop": 1792392478.0754507,
 "joneslanglasalle|aiintern": 1791505201.445041,
+"jpmorganchase|machinelearningassociateinternnlp": 1792498048.0322628,
 "k2space|platformengineeringintern": 1791421992.4751887,
 "kion|softwareengineeringintern": 1792101045.0725324,
 "kla|aimlsoftwareengineerintern": 1792132190.3897352,
@@ -44697,9 +44714,6 @@
 "leonardo|industrialplacementsoftwareengineer": 1792273579.8216035,
 "leonardo|industrialplacementtestsoftwareengineer": 1792279827.298093,
 "leonardo|softwareengineeringdegreeapprentice": 1792279827.298169,
-"libertymutual|datasciencecoop": 1791274308.0401964,
-"libertymutual|datascienceintern": 1791274308.0402112,
-"libertymutual|softwaredevelopmentcoop": 1791274308.0402253,
 "lifefitness|androidsoftwareengineerintern": 1791861372.2232807,
 "lseg|engineeringinternprogrammesoftwaredataoruiengineer": 1791364873.1191683,
 "lseg|softwareengineerintern": 1792017214.4117978,
@@ -44728,8 +44742,7 @@
 "nationallaboratoryofrockies|graduate312monthinternartificialintelligenceforpowersystemoperations": 1792017385.5819352,
 "nationallifeinsurance|datascienceintern": 1792006207.9475257,
 "netflix|softwareengineerintern": 1791939383.3789344,
-"neurarobotics|roboticfoundationmodelengineerinternhuman": 1791274162.3575957,
-"neurarobotics|roboticfoundationmodelengineerinternmensch": 1791274162.3576128,
+"newyorktimes|aiinitiativesfellow": 1792498048.0323136,
 "nianticspatial|softwareengineeringintern": 1791317450.300511,
 "nissanglobal|aiagentarchitectintern": 1791505201.4451456,
 "nissanglobal|airoboticsresearchintern": 1792025322.479196,
@@ -44749,7 +44762,6 @@
 "northropgrumman|softwareengineeringinternroyut": 1791526614.2917614,
 "northropgrumman|softwareengineerintern": 1792195338.001091,
 "nvidia|cpucompilerintern": 1791552297.2401073,
-"nvidia|researchinternefficientdeeplearning": 1791274456.1339629,
 "nxpsemiconductors|aisoftwaredeveloperintern": 1792075732.6482003,
 "nxpsemiconductors|internaitooldevelopmentintern": 1791991813.769373,
 "nxpsemiconductors|internproductengineeringdatasciencemachinelearninganalyst": 1791679817.0206144,
@@ -44781,7 +44793,6 @@
 "prysmiancablessystems|aisoftwaredeveloperintern": 1791597819.8365645,
 "purestorage|softwareengineerintern": 1791317450.581748,
 "qts|peopleservicesdataanalyticsintern": 1792451178.512173,
-"raytheon|softwareengineeringinternhybrid": 1791274303.068551,
 "redhat|linuxsystemsengineeringinternstoragebrnoczechrepublic": 1792100776.9986181,
 "redhat|redhatinvehicleoslinuxkernelengineeringinternbrnoczechrepublic": 1792100776.9986546,
 "redhat|saasfullstackproductengineeringinternbrnoczechrepublic": 1792100776.9986885,
@@ -44870,7 +44881,6 @@
 "toro|cloudsoftwaredeveloperintern": 1792451178.512045,
 "tyler|softwaredeveloperintern": 1792451178.5121963,
 "unitytech|machinelearningengineerintern": 1792438928.0805926,
-"usfoods|interndataanalysthybridonsiteremote": 1791274352.401085,
 "varian|billingdataanalystintern": 1792247498.0211434,
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
 "varian|softwarequalityassurancespecialistcoop": 1792247498.021197,
