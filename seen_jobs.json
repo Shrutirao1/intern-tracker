@@ -1092,6 +1092,7 @@
 "Marathon Petroleum",
 "Mariana Minerals",
 "Maricopa Association of Governments",
+"MarketStar",
 "Marmon Holdings",
 "Marriott Vacations Worldwide",
 "Mars",
@@ -10077,6 +10078,13 @@
 "title": "Additive Engineering Intern (Summer 2027)",
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003"
 },
+"Freudenberg Group:/job/Hamburg/Working-Student--f-m-d--Purchasing_R_00094639": {
+"company": "Freudenberg Group",
+"first_seen": "2026-10-20T06:36:36+00:00",
+"posted": 1792478281.760103,
+"title": "Working Student (f/m/d) Purchasing & AI Tools",
+"url": "https://freudenberg.wd3.myworkdayjobs.com/en-US/freudenberg-group/job/Hamburg/Working-Student--f-m-d--Purchasing_R_00094639"
+},
 "Freudenberg Group:/job/Plymouth-MI/Engineering-Co-Op_R_00107019": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Co-Op",
@@ -16598,6 +16606,13 @@
 "title": "Data & Analytics Industrial Placement 2027 (12 months) \u2013 Newcastle upon Tyne",
 "url": "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970"
 },
+"Mmc:/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Apprenticeship-2027---Newcastle_R_369738": {
+"company": "Mmc",
+"first_seen": "2026-10-20T06:36:36+00:00",
+"posted": 1792478334.2054708,
+"title": "Oliver Wyman - Data & Analytics Apprenticeship 2027 - Newcastle",
+"url": "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Apprenticeship-2027---Newcastle_R_369738"
+},
 "Mmc:/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984": {
 "company": "Mmc",
 "first_seen": "2026-10-02T21:57:26+00:00",
@@ -20643,6 +20658,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer 2027 Internship: Tableau Analytics and Business Intelligence",
 "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090"
+},
+"QTS:/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307": {
+"company": "QTS",
+"first_seen": "2026-10-20T06:36:36+00:00",
+"posted": 1792478467.8983226,
+"title": "Summer 2027 Internship: People Services Data Analytics",
+"url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307"
 },
 "QuEra Computing:5227710008": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -26243,6 +26265,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer 2027 Engineering Intern",
 "url": "https://verdantas.wd108.myworkdayjobs.com/en-US/Verdantas/job/Wilmington-DE/Summer-2027-Engineering-Intern_R-101159"
+},
+"Verizon Communications:/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417": {
+"company": "Verizon Communications",
+"first_seen": "2026-10-20T06:36:36+00:00",
+"posted": 1792478425.540994,
+"title": "Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship",
+"url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417"
+},
+"Verizon Communications:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419": {
+"company": "Verizon Communications",
+"first_seen": "2026-10-20T06:36:36+00:00",
+"posted": 1792478425.5410974,
+"title": "Verizon Consumer Group: Data Science Summer 2027 Internship",
+"url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419"
 },
 "Verizon Communications:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Home---Mobile-Value-Prop-Summer-2027-Internship_R-1102103": {
 "company": "Verizon Communications",
@@ -34369,6 +34405,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern - Web",
 "url": "https://boards.greenhouse.io/robinhood/jobs/8142963"
+},
+"src:simplify:649995a2-a18c-401a-9cc3-062fa58dc1b3": {
+"company": "Boston Scientific",
+"first_seen": "2026-10-20T06:36:36+00:00",
+"posted": 1792460036.0,
+"title": "R&D Software Engineer Intern",
+"url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514"
 },
 "src:simplify:64a04930-5ef0-4b6e-a89b-0ef7d8a6cf17": {
 "company": "Waymo",
@@ -44476,6 +44519,7 @@
 "bostonscientific|aidatascienceintern": 1792195338.000966,
 "bostonscientific|equipmentengineeringaivisionengineerintern": 1791299321.0263875,
 "bostonscientific|equipmentengineeringsoftwareengineerintern": 1791274308.0403218,
+"bostonscientific|rdsoftwareengineerintern": 1792478372.1675863,
 "bracebridgecapital|northeasternuniversitysoftwareengineerapplicationdevelopmentcoop": 1792438811.7367272,
 "bracebridgecapital|northeasternuniversitysoftwareengineerbusinessintelligencecoop": 1792438811.7367442,
 "brain|aiplatformengineercoopintern": 1792438814.1977167,
@@ -44533,6 +44577,7 @@
 "figure|embeddedsoftwareengineeringinternplatform": 1792017055.5749614,
 "figure|middlewaresoftwareintern": 1791341071.6547453,
 "foundenergy|dataengineercoop": 1791845339.9284947,
+"freudenberg|workingstudentfmdpurchasingaitools": 1792478292.8655884,
 "gaf|aiintern": 1791887776.8679817,
 "gaf|itdataanalyticsintern": 1791887776.8679516,
 "gallup|dataengineeringintern": 1791913572.8231351,
@@ -44672,6 +44717,7 @@
 "mfs|systemsengineeringcloudtechnologiescoopjanuaryjune": 1791444417.0709512,
 "micron|internssdfirmwarecicd": 1792100758.177105,
 "mirakl|aianalystcoop": 1792438814.4846108,
+"mmc|oliverwymandataanalyticsapprenticeshipnewcastle": 1792478343.3703375,
 "modernizingmedicine|softwareengineerintern": 1791505201.4451249,
 "moog|interncomputerscience": 1791755806.2503698,
 "moog|softwareengineerintern": 1791505201.4449816,
@@ -44829,6 +44875,8 @@
 "varian|softwaredevelopercoopredrivercollege": 1791620430.9954126,
 "varian|softwarequalityassurancespecialistcoop": 1792247498.021197,
 "veeamsoftware|dataanalyticsengineeringintern": 1792164737.4141262,
+"verizoncommunications|baskingridgenjvteamerforadayverizonconsumergroupdatascienceintern": 1792478448.503991,
+"verizoncommunications|verizonconsumergroupdatascienceintern": 1792478448.5040188,
 "verizoncommunications|verizonconsumergrouphomemobilevaluepropintern": 1791845401.0175326,
 "vertiv|dataanalyticsintern": 1791913831.5754309,
 "vestmark|softwareengineercoop": 1791913831.5754464,
