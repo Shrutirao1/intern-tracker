@@ -16523,12 +16523,26 @@
 "title": "Intern - Process Development Engineer, DRAM Thin Films",
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203"
 },
+"Micron Technology:/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094": {
+"company": "Micron Technology",
+"first_seen": "2026-10-20T20:09:25+00:00",
+"posted": 1792526973.366824,
+"title": "Intern - SMAI Probe AI Engineer",
+"url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"
+},
 "Micron Technology:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991": {
 "company": "Micron Technology",
 "first_seen": "2026-10-15T21:45:19+00:00",
 "posted": 1791236741.8033469,
 "title": "Intern - SMAI TD AI Engineering Team",
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"
+},
+"Micron Technology:/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210": {
+"company": "Micron Technology",
+"first_seen": "2026-10-20T20:09:25+00:00",
+"posted": 1792526973.3669636,
+"title": "Intern - SSD Firmware",
+"url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210"
 },
 "Micron Technology:/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283": {
 "company": "Micron Technology",
@@ -16579,6 +16593,13 @@
 "posted": 1790625857.9411588,
 "title": "Intern \u2013 Memory Systems Architecture & AI",
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524"
+},
+"Micron Technology:/job/San-Jose-CA/Intern---SSD-Firmware_JR115209": {
+"company": "Micron Technology",
+"first_seen": "2026-10-20T20:09:25+00:00",
+"posted": 1792526973.3668957,
+"title": "Intern - SSD Firmware",
+"url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209"
 },
 "Micron Technology:/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -23469,6 +23490,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "MIT- Software Engineer Intern | Helios",
 "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220941"
+},
+"Skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34": {
+"company": "Skydio",
+"first_seen": "2026-10-20T20:09:25+00:00",
+"posted": 1792524698.502,
+"title": "Embedded Software Engineer Intern - Winer 2027",
+"url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"
 },
 "Skydio:3eb06d6e-b6f0-4814-a80a-f1c43075873b": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -44492,8 +44520,6 @@
 "7eleven|aianalystaiautomationspecialistintern": 1791939383.3789566,
 "7eleven|aiengineerintern": 1791505201.44531,
 "7eleven|fuelpricingdatascientistintern": 1791991453.2764297,
-"abb|aiengineeringbusinesssystemsintern": 1791317583.3625321,
-"abb|aiengineeringerpintern": 1791317583.362505,
 "abridge|memberoftechnicalstaffintern": 1792108408.1766644,
 "accenture|backenddeveloperinternshehethey": 1792041653.0161948,
 "acronaviation|softwareengineerinternphoenixsite": 1791845337.2056751,
@@ -44526,7 +44552,6 @@
 "amazon|amazonroboticssoftwaredevelopmentengineerinterncoop": 1791991362.5372763,
 "amazon|businessintelligenceengineerintern": 1791444404.675555,
 "amazon|softwaredevelopmentengineerembeddedsystemsinternamazonleousa": 1791340970.4238517,
-"amazon|softwaredevelopmentengineerinternmobileiosandroidusa": 1791317452.101233,
 "amd|aiagenticflowforgpuasicdesigncoopintern": 1791586762.926223,
 "americanfamilyinsurance|dataanalystinternagencyperformanceinsightsandoperations": 1791861372.2233734,
 "americanfamilyinsurance|dataengineeringdatascienceintern": 1792195338.001004,
@@ -44617,7 +44642,6 @@
 "dowjones|softwareengineerintern": 1791422096.3829699,
 "draper|operatingsystemsandembeddedsoftwaredevelopmentcoop": 1791444249.669754,
 "drivetime|dataanalyticsintern": 1791939383.3793058,
-"dryft|memberoftechnicalstaffintern": 1791317449.7352724,
 "duolingouniversityrecruitment|datascientistintern": 1792100726.2794325,
 "duolingo|datascientistintern": 1792100720.8828285,
 "dxc|businessintelligencebiintern": 1792132195.3511994,
@@ -44742,7 +44766,6 @@
 "kla|researchscientistinternplasmalightsourcecharacterization": 1792108649.8234763,
 "kla|softwareengineeringintern": 1792132190.3897166,
 "kla|softwareengineerinternai": 1792132190.3897002,
-"knowbe4|softwareengineerinternremote": 1791317450.1908393,
 "kochindustries|datascienceintern": 1791470759.769384,
 "later|dataanalyticscoop": 1791571945.1876972,
 "leidos|cloudengineeringintern": 1792164805.004621,
@@ -44770,6 +44793,8 @@
 "meta|datascientistinternproductanalytics": 1791330516.3203769,
 "metropolitantransportationauthority|dataanalystemergingtalentinternsupplierrelations": 1791939383.3793364,
 "mfs|systemsengineeringcloudtechnologiescoopjanuaryjune": 1791444417.0709512,
+"micron|internsmaiprobeaiengineer": 1792527006.2185757,
+"micron|internssdfirmware": 1792527006.2186074,
 "micron|internssdfirmwarecicd": 1792100758.177105,
 "mirakl|aianalystcoop": 1792438814.4846108,
 "mmc|oliverwymandataanalyticsapprenticeshipnewcastle": 1792478343.3703375,
@@ -44784,7 +44809,6 @@
 "nationallifeinsurance|datascienceintern": 1792006207.9475257,
 "netflix|softwareengineerintern": 1791939383.3789344,
 "newyorktimes|aiinitiativesfellow": 1792498048.0323136,
-"nianticspatial|softwareengineeringintern": 1791317450.300511,
 "nissanglobal|aiagentarchitectintern": 1791505201.4451456,
 "nissanglobal|airoboticsresearchintern": 1792025322.479196,
 "nissanglobal|datascienceintern": 1791861372.223226,
@@ -44832,7 +44856,6 @@
 "point72|internsoftwareengineer": 1791991357.0182743,
 "proctergamble|itinternanalyticsdataengineering": 1792101016.9352653,
 "prysmiancablessystems|aisoftwaredeveloperintern": 1791597819.8365645,
-"purestorage|softwareengineerintern": 1791317450.581748,
 "qts|peopleservicesdataanalyticsintern": 1792451178.512173,
 "redgate|softwareengineerintern": 1792515148.5785928,
 "redhat|linuxsystemsengineeringinternstoragebrnoczechrepublic": 1792100776.9986181,
@@ -44854,12 +44877,9 @@
 "rfsmart|softwaredeveloperintern": 1791820851.3207057,
 "rfsmart|softwaresupportengineerinternrfsfornetsuite": 1791820851.3207316,
 "rhombus|softwareengineerintern": 1791939383.3790047,
-"rivetindustries|internsoftwareengineering": 1791317450.513063,
 "rivian|engineeringinterncoopaimlasiccad": 1791330516.3202639,
 "rivian|softwareengineerinterncoopmachinelearningresearchperception": 1792108649.8234522,
 "robertboschventurecapital|softwareengineeringcoop": 1792438936.6936128,
-"roche|datascienceinternmasterthesisstudentbasel6monate": 1791317665.0314825,
-"roche|workforceoptimizationstrategiesdatascienceintern": 1791317665.0314505,
 "rockwellautomation|internfirmwareandsoftwaretestdevelopment": 1791364785.7784126,
 "roguefitness|aiengineerintern": 1792451178.5123138,
 "rtx|aiengineeringintern": 1791505201.4452593,
@@ -44883,6 +44903,7 @@
 "sierranevada|softwareengineerintern": 1792108649.823385,
 "sigmacomputing|softwareengineeringintern": 1791330396.5869427,
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
+"skydio|embeddedsoftwareengineerinternwiner": 1792526968.2907512,
 "skydio|manufacturingsoftwareengineerintern": 1792006203.3530595,
 "skydio|softwareengineerintern": 1792006203.3530192,
 "solopulse|softwareengineerinterncoop": 1791490100.2093084,
@@ -44933,7 +44954,6 @@
 "vestmark|softwareengineercoop": 1791913831.5754464,
 "viget|softwaredeveloperintern": 1791505201.445405,
 "walgreens|datascienceintern": 1791505201.445069,
-"waltdisney|espnprogramminginternbristol": 1791317474.9529505,
 "washu|dataanalystemergencymanagementinternprnenterprisephysicaloperations": 1792115193.8947752,
 "wellmark|softwareengineerinterntechnologyhealthplan": 1792195338.0012736,
 "westinghouseelectric|fuelengineeringdataanalystintern": 1791505201.4452004,
@@ -45260,6 +45280,8 @@
 "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309-2": "Minneapolis, Minnesota, United States of America; Tempe, Arizona, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Newton, Massachusetts, United States of America; Memphis, Tennessee, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Fort Worth, Texas, United States of America; Santa Clara, California, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America",
 "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021": "Mounds View, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America",
 "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684": "Edmonton, AB - 10160 103 St. NW; Alberta, CAN-Remote",
+"https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210": "Boise, ID - Main Site; San Jose, CA",
+"https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209": "San Jose, CA; Boise, ID - Main Site",
 "https://midlandsb.wd1.myworkdayjobs.com/en-US/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461": "Effingham, IL; Rockford, IL; St. Louis, MO",
 "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---QA-Research-Clinical-Quality--Analytics---AI---Co-Op_R414840": "USA - New Jersey - Rahway; USA - Pennsylvania - Upper Gwynedd",
 "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Statistical-Programmer---Intern_R412843": "USA - New Jersey - Rahway; USA - Pennsylvania - North Wales (Upper Gwynedd)",
