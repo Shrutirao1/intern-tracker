@@ -29119,6 +29119,13 @@
 "title": "Data Scientist Intern",
 "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414"
 },
+"src:simplify:10497907-6a16-498a-a06a-e40113931577": {
+"company": "Space Dynamics Laboratory",
+"first_seen": "2026-10-20T16:49:27+00:00",
+"posted": 1792506847.0,
+"title": "AI-Enabled Requirements Engineering Intern",
+"url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern"
+},
 "src:simplify:107197c3-30d5-45c2-b0b2-4a499d03531d": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
@@ -32609,6 +32616,13 @@
 "posted": 1788912000.0,
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623"
+},
+"src:simplify:47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b": {
+"company": "Verizon Communications",
+"first_seen": "2026-10-20T16:49:27+00:00",
+"posted": 1792454400.0,
+"title": "Data Science Intern",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419"
 },
 "src:simplify:47fb79bc-9f49-407b-bb0c-52352eba40be": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -38157,6 +38171,13 @@
 "title": "Data Scientist Intern - Multiple Teams",
 "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job"
 },
+"src:simplify:9defe8eb-d389-4c5c-875c-b511da9b3f64": {
+"company": "Ciena",
+"first_seen": "2026-10-20T16:49:27+00:00",
+"posted": 1792454400.0,
+"title": "Software Engineer Intern - Security",
+"url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
+},
 "src:simplify:9e0bc00a-d5c9-45f4-bf25-da61a77dd946": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Engineer Intern - Enterprise Technology Services",
@@ -39218,6 +39239,13 @@
 "title": "Systems Engineer Co-op - Avi MIL Fms/Das",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240"
 },
+"src:simplify:adea30a6-775b-4c81-ae92-6ed234b64e3b": {
+"company": "Redgate",
+"first_seen": "2026-10-20T16:49:27+00:00",
+"posted": 1792505183.0,
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true"
+},
 "src:simplify:adf0a40d-85b8-4712-bc55-164c7686e667": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Geographic Information Systems Intern/Co-op",
@@ -40052,6 +40080,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "AI Research Intern - Reinforcement Learning and LLM Post-Training",
 "url": "https://careers.amd.com/jobs/91013?icims=1"
+},
+"src:simplify:ba0364a9-1ac6-476c-bce0-118895d7a5ed": {
+"company": "Allstate",
+"first_seen": "2026-10-20T16:49:27+00:00",
+"posted": 1792454400.0,
+"title": "Software Engineer Intern",
+"url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
 },
 "src:simplify:ba118ced-217b-406f-8885-fb001cb6f2ee": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -41160,6 +41195,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineering Intern - Summer 2027",
 "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false"
+},
+"src:simplify:cb08255f-ab56-485d-a46a-26e0cb2ada69": {
+"company": "Verizon Communications",
+"first_seen": "2026-10-20T16:49:27+00:00",
+"posted": 1792454400.0,
+"title": "Data Science Intern",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417"
 },
 "src:simplify:cb1173a2-154e-496d-b10e-fb3d0b07c7bf": {
 "company": "AgZen",
@@ -44479,6 +44521,7 @@
 "alleninstituteforai|researchinternaiforscience": 1792451178.5119598,
 "alliancelaundrysystems|embeddedfirmwarecoop": 1791330516.3205743,
 "allstateinsurance|supplymanagementdataanalyticsintern": 1791845635.8921356,
+"allstate|softwareengineerintern": 1792515148.5786424,
 "alstonbirdlawfirm|developerintern": 1792177283.2467391,
 "amazon|amazonroboticssoftwaredevelopmentengineerinterncoop": 1791991362.5372763,
 "amazon|businessintelligenceengineerintern": 1791444404.675555,
@@ -44486,7 +44529,6 @@
 "amazon|softwaredevelopmentengineerinternmobileiosandroidusa": 1791317452.101233,
 "amd|aiagenticflowforgpuasicdesigncoopintern": 1791586762.926223,
 "americanfamilyinsurance|dataanalystinternagencyperformanceinsightsandoperations": 1791861372.2233734,
-"americanfamilyinsurance|dataanalyticsintern": 1791299321.026411,
 "americanfamilyinsurance|dataengineeringdatascienceintern": 1792195338.001004,
 "americanfamilyinsurance|interndataanalyst": 1791586921.3238614,
 "americanfamilyinsurance|softwareengineeringintern": 1791861372.223344,
@@ -44525,7 +44567,6 @@
 "badgermeter|softwareengineeringintern": 1791913830.9602046,
 "bakerhughes|interngenerativeaimfd": 1792100972.4006581,
 "barrywehmiller|softwareengineeringinterndal": 1791755523.7352748,
-"biogen|machinelearningengineeringcoop": 1791299321.0264282,
 "bobyard|computervisionresearchengineerintern": 1791845339.8818634,
 "boozallen|universityappliedaisoftwaredevelopmentintern": 1791526633.4534533,
 "boozallen|universitysoftwareengineerintern": 1792237643.7748847,
@@ -44537,7 +44578,6 @@
 "bose|embeddedsoftwareengineercoopaudiotech": 1791620158.7290657,
 "bostonconsulting|forwarddeployedaiengineerintern": 1791939383.378813,
 "bostonscientific|aidatascienceintern": 1792195338.000966,
-"bostonscientific|equipmentengineeringaivisionengineerintern": 1791299321.0263875,
 "bostonscientific|rdsoftwareengineerintern": 1792478372.1675863,
 "bracebridgecapital|northeasternuniversitysoftwareengineerapplicationdevelopmentcoop": 1792438811.7367272,
 "bracebridgecapital|northeasternuniversitysoftwareengineerbusinessintelligencecoop": 1792438811.7367442,
@@ -44555,6 +44595,7 @@
 "centene|aienablementintern": 1791422096.3830194,
 "centene|aisoftwaredeveloperintern": 1792108649.8232481,
 "centific|airesearchinternphysicalai": 1791526594.6516633,
+"ciena|softwareengineerinternsecurity": 1792515148.5786088,
 "clera|computervisionroboticsintern": 1791597641.6121886,
 "clnera|dataengineerintern": 1791341071.6547172,
 "cmu|aisecurityresearchintern": 1791861363.8059466,
@@ -44793,6 +44834,7 @@
 "prysmiancablessystems|aisoftwaredeveloperintern": 1791597819.8365645,
 "purestorage|softwareengineerintern": 1791317450.581748,
 "qts|peopleservicesdataanalyticsintern": 1792451178.512173,
+"redgate|softwareengineerintern": 1792515148.5785928,
 "redhat|linuxsystemsengineeringinternstoragebrnoczechrepublic": 1792100776.9986181,
 "redhat|redhatinvehicleoslinuxkernelengineeringinternbrnoczechrepublic": 1792100776.9986546,
 "redhat|saasfullstackproductengineeringinternbrnoczechrepublic": 1792100776.9986885,
@@ -44845,9 +44887,8 @@
 "skydio|softwareengineerintern": 1792006203.3530192,
 "solopulse|softwareengineerinterncoop": 1791490100.2093084,
 "sonypicturesentertainment|currentprogramminginternsonypicturestelevision": 1792132186.8456368,
+"spacedynamicslaboratory|aienabledrequirementsengineeringintern": 1792515148.578631,
 "spacedynamicslaboratory|computervisionengineerintern": 1791330516.3202388,
-"spacedynamicslaboratory|softwareengineerinternaienabledsoftwaredevelopment": 1791299321.0264857,
-"spacedynamicslaboratory|softwareengineerinternsoftwareaimachinelearning": 1791299321.0264642,
 "stateaffairs|softwareengineerintern": 1791422096.3829854,
 "strada|softwareengineerintern": 1791845339.9522138,
 "stv|dataengineerintern": 1791939383.3792768,
