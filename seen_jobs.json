@@ -3631,6 +3631,13 @@
 "title": "Test Engineering Intern",
 "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Engineering-Intern_R266146"
 },
+"Analytic Partners:006928a3-9a6d-49a3-be4f-46d77f0bb302": {
+"company": "Analytic Partners",
+"first_seen": "2026-10-21T17:05:37+00:00",
+"posted": 1792593414.812,
+"title": "Data Science Co-Op | January 2027",
+"url": "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302"
+},
 "Analytical Mechanics Associates:/job/Remote---Georgia/Intern--Research-on-CFD-Analysis-with-Hybrid-Mesh-Adaptation-for-High-Speed-Configurations_R-100770": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern: Research on CFD Analysis with Hybrid Mesh Adaptation for High-Speed Configurations",
@@ -12673,6 +12680,13 @@
 "posted": 1792477692.1786304,
 "title": "Summer 2027 Data Analyst Undergraduate Intern",
 "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017"
+},
+"Hitachi:/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733": {
+"company": "Hitachi",
+"first_seen": "2026-10-21T17:05:37+00:00",
+"posted": 1792602434.733427,
+"title": "Software Engineering Co-op",
+"url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733"
 },
 "Hitachi:/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042": {
 "company": "Hitachi",
@@ -29100,6 +29114,13 @@
 "title": "Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science",
 "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952"
 },
+"src:simplify:09d77bd3-845b-4ffb-bc37-c77d9ed70dd6": {
+"company": "RTX",
+"first_seen": "2026-10-21T17:05:37+00:00",
+"posted": 1792540800.0,
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127"
+},
 "src:simplify:09e061cd-a5e8-4059-bb6d-a0672a475328": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Science Intern - Analytics & Modeling Program",
@@ -44584,6 +44605,13 @@
 "title": "Software Engineer Intern",
 "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985"
 },
+"src:simplify:fa9f1de2-6097-4e3f-9d78-36635f2d80de": {
+"company": "Northrop Grumman",
+"first_seen": "2026-10-21T17:05:37+00:00",
+"posted": 1792540800.0,
+"title": "Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
+},
 "src:simplify:fa9fe56f-b359-4990-84d8-bf75393d78e5": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Electrical Engineer Intern",
@@ -44988,6 +45016,7 @@
 "amplify|aiscientistintern": 1792451178.5122066,
 "amplify|dataanalyticsintern": 1792451178.5122519,
 "amplify|softwareengineerintern": 1792451178.5122387,
+"analyticpartners|datasciencecoopjanuary": 1792602338.9652302,
 "anduril|firmwareengineerintern": 1791939210.5496142,
 "anduril|researchengineercoop": 1792017108.7657728,
 "angelcity|dataanalyticsintern": 1792438814.293639,
@@ -45013,7 +45042,6 @@
 "atoms|softwareengineerintern": 1792025322.4793735,
 "autodesk|internsoftwareengineer": 1791620147.7592175,
 "autodesk|softwareengineerintern": 1792438936.6935873,
-"autoownersinsurance|businessintelligenceengineerintern": 1791391007.6267402,
 "axiomspace|softwareengineerintern": 1792115194.6814349,
 "axosbank|aiengineerintern": 1791642684.2743418,
 "axosbank|softwaredevelopmentintern": 1791642684.2743196,
@@ -45125,10 +45153,7 @@
 "guidepointsecurity|aidatascienceinterngpsune": 1791845339.9653714,
 "guidepointsecurity|cloudinfrastructureinterngpsune": 1791845339.965467,
 "hasbro|itsoftwareintern": 1791845339.9197168,
-"hcsc|earlycareersautomationprogrammerintern": 1791391005.5935595,
-"hcsc|earlycareersdeveloperintern": 1791391005.5938268,
 "hcsc|earlycareersenterprisedataanalystintern": 1791408837.1766546,
-"hcsc|earlycareersinfrastructureengineerintern": 1791391005.5937328,
 "healthpeakproperties|forwarddeployedsoftwareengineerintern": 1792115194.6814897,
 "heinz|culinaryinsightsdataanalystintern": 1791991685.9943185,
 "heronpower|internfirmwareengineering": 1792438811.4604437,
@@ -45137,6 +45162,7 @@
 "highmarkhealth|dataanalystundergraduateintern": 1792451178.5120018,
 "highmarkhealth|datasciencerdgraduateintern": 1792564122.828082,
 "hitachi|researchinternknowledgeengineeringgenerativeai": 1792017214.411917,
+"hitachi|softwareengineeringcoop": 1792602488.5206597,
 "howden|dataanalystapprenticeshipprogrammecheltenham": 1791598001.5455031,
 "hpe|aihpcperformanceengineeringintern": 1792237842.1302364,
 "hpe|aiperformanceengineeringintern": 1791526839.8443687,
@@ -45239,7 +45265,6 @@
 "nissanglobal|roboticsprogrammerinternsmyrnatn": 1792273543.3780935,
 "nissanglobal|softwareengineerintern": 1792025322.4790819,
 "nissan|aidataanalyticsintern": 1791861372.2231145,
-"northropgrumman|softwaredeveloperintern": 1791391007.626704,
 "northropgrumman|softwareembeddedengineerintern": 1791973938.940421,
 "northropgrumman|softwareengineeringintern": 1792195338.0012355,
 "northropgrumman|softwareengineeringinternroyut": 1791526614.2917614,
@@ -45318,7 +45343,6 @@
 "sanofi|coopdatasciencedigitaltransformationframinghamma": 1791526914.4277165,
 "sartorius|workingstudentdatasciencexfm": 1792237866.7528696,
 "scaleai|machinelearningresearchintern": 1792438810.5410943,
-"scelectric|softwareengineerintern": 1791391007.6266644,
 "schonfeld|quantitativedeveloperintern": 1791571944.890073,
 "schweitzerengineeringlaboratories|softwareengineerintern": 1792131917.8144152,
 "servicenow|aiengineeringassociatesoftwareengineerintern": 1791939383.3792412,
