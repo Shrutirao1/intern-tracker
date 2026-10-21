@@ -174,6 +174,7 @@
 "Astera Labs",
 "AstraZeneca",
 "Astranis",
+"Astreya",
 "Astronomer",
 "Athena Health",
 "Athene",
@@ -1278,6 +1279,7 @@
 "Orbital Operations",
 "Oregon State Government",
 "Orennia",
+"Orionsteel",
 "Oshkosh",
 "Oura",
 "Outmarket AI",
@@ -1482,6 +1484,7 @@
 "Rocket Lawyer",
 "Rockwell Automation",
 "Rockwellautomation",
+"Roguefitness",
 "Rolls-Royce",
 "Root Access",
 "Royal Bank of Canada",
@@ -4229,6 +4232,48 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Defined Radio Hardware Intern (Summer 2027)",
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
+},
+"Astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746": {
+"company": "Astreya",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1789868099.1682477,
+"title": "AI Infrastructure DC Design Intern",
+"url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746"
+},
+"Astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747": {
+"company": "Astreya",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1789868099.1681874,
+"title": "AI Infrastructure DC Design Intern",
+"url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747"
+},
+"Astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927": {
+"company": "Astreya",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792028099.1683774,
+"title": "AI Infrastructure DC Design Intern",
+"url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927"
+},
+"Astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929": {
+"company": "Astreya",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792028099.1684256,
+"title": "AI Infrastructure DC Design Intern",
+"url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929"
+},
+"Astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930": {
+"company": "Astreya",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792028099.168472,
+"title": "AI Infrastructure DC Design Intern",
+"url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930"
+},
+"Astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931": {
+"company": "Astreya",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792028099.1682975,
+"title": "AI Infrastructure DC Design Intern",
+"url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931"
 },
 "Athene:/job/West-Des-Moines-Iowa/Business-Systems-Analyst-Intern_R255113": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -15296,6 +15341,13 @@
 "title": "Industrial Placement Firmware Engineer",
 "url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Firmware-Engineer_R0032906"
 },
+"Leonardo:/job/GB---Luton---Cap-Green-300/Industrial-Placement-Software-Engineer_R0032981": {
+"company": "Leonardo",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792460267.8050604,
+"title": "Industrial Placement Software Engineer",
+"url": "https://leonardocompany.wd3.myworkdayjobs.com/en-US/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Software-Engineer_R0032981"
+},
 "Leonardo:/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102": {
 "company": "Leonardo",
 "first_seen": "2026-10-17T23:24:22+00:00",
@@ -17920,6 +17972,13 @@
 "title": "AI Verification Engineering Intern",
 "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-Teda/AI-Verification-Engineering-Intern_R-10066766"
 },
+"NXP Semiconductors:/job/Tianjin-Teda/XMLNAME-2027-Intern---STA-agent-developer-Intern_R-10066785": {
+"company": "NXP Semiconductors",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792460183.384242,
+"title": "2027 Intern - STA agent developer Intern",
+"url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-Teda/XMLNAME-2027-Intern---STA-agent-developer-Intern_R-10066785"
+},
 "NXP Semiconductors:/job/Tianjin-Teda/XMLNAME-2027-Intern--AI-tool-development-Intern_R-10067254": {
 "company": "NXP Semiconductors",
 "first_seen": "2026-10-14T15:22:35+00:00",
@@ -18467,12 +18526,26 @@
 "title": "NIKE, Inc. Software Engineering Undergraduate Internship",
 "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"
 },
+"Nissan Global:/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218": {
+"company": "Nissan Global",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792546574.7563965,
+"title": "AI Agent Architect Intern - Summer 2027 - Farmington Hills, MI",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218"
+},
 "Nissan Global:/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223": {
 "company": "Nissan Global",
 "first_seen": "2026-10-14T15:22:35+00:00",
 "posted": 1791818976.4965072,
 "title": "AI & Data Analytics Intern - Summer 2027 - Irving, TX or Franklin, TN",
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223"
+},
+"Nissan Global:/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225": {
+"company": "Nissan Global",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792460174.7569783,
+"title": "Applied AI & Business Innovation Intern - Summer 2027 - Franklin, TN",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225"
 },
 "Nissan Global:/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250": {
 "company": "Nissan Global",
@@ -18487,6 +18560,13 @@
 "posted": 1791593300.2890406,
 "title": "EA & Cloud Intern - Summer 2027 - Franklin, TN",
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214"
+},
+"Nissan Global:/job/Santa-Clara-California---United-States-of-America/AI-Autonomous-Driving-Verification---Validation-Intern---Summer-2027---Santa-Clara--CA_R00214263": {
+"company": "Nissan Global",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792546575.9162078,
+"title": "AI Autonomous Driving Verification & Validation Intern - Summer 2027 - Santa Clara, CA",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Autonomous-Driving-Verification---Validation-Intern---Summer-2027---Santa-Clara--CA_R00214263"
 },
 "Nissan Global:/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267": {
 "company": "Nissan Global",
@@ -19071,6 +19151,13 @@
 "posted": 1788208215.0,
 "title": "Spring 2027 Internship - Engineering",
 "url": "https://job-boards.greenhouse.io/orbitaloperations/jobs/4375088009"
+},
+"Orionsteel:/job/Pueblo-CO-USA/Inventory-and-Procurement-Data-Analytics-Intern_R8164": {
+"company": "Orionsteel",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792114597.0246775,
+"title": "Inventory and Procurement Data Analytics Intern",
+"url": "https://orionsteel.wd5.myworkdayjobs.com/en-US/externalcareers/job/Pueblo-CO-USA/Inventory-and-Procurement-Data-Analytics-Intern_R8164"
 },
 "Oshkosh:/job/Clearwater-Florida-United-States/Engineer-Intern---Systems--Year-Round-_R49936": {
 "company": "Oshkosh",
@@ -20946,6 +21033,20 @@
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741"
 },
+"RTX:/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026": {
+"company": "RTX",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792546252.7401285,
+"title": "Software Engineering Intern (Summer 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
+},
+"RTX:/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452": {
+"company": "RTX",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792546251.4963148,
+"title": "Part time Software Engineer Co-op (Remote)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452"
+},
 "RTX:/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623": {
 "company": "RTX",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -21094,6 +21195,13 @@
 "title": "Co-Op - AI DSP Applied Research",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016"
 },
+"RTX:/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499": {
+"company": "RTX",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792459854.7132344,
+"title": "Software Engineering Intern (Summer 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499"
+},
 "RTX:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464": {
 "company": "RTX",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -21121,6 +21229,13 @@
 "posted": 1792108413.149358,
 "title": "Software Engineering Co-op (Spring/Summer 2027)",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996"
+},
+"RTX:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368": {
+"company": "RTX",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792459854.394526,
+"title": "Software Engineering Co-op (Summer / Fall 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368"
 },
 "RTX:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738": {
 "company": "RTX",
@@ -21448,6 +21563,13 @@
 "title": "Internship \u2013 Raytheon Systems Security Engineer- Onsite",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
 },
+"RTX:/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939": {
+"company": "RTX",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792546251.4956992,
+"title": "Software Engineering Intern (Summer 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939"
+},
 "RTX:/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Intern--Systems-Engineer--Onsite_01874992": {
 "company": "RTX",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -21553,6 +21675,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Internship \u2013 Raytheon Systems Security Engineer-Onsite",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Internship---Raytheon-Systems-Security-Engineer-Onsite_01874705"
+},
+"RTX:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545": {
+"company": "RTX",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792546253.074919,
+"title": "Part time Software Engineer Co-op (Remote)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545"
 },
 "RTX:/job/US-UT-VIRGIN-3O--1-Mesa-Rd--OFFICE-TRAILER/Test-Engineering-Co-op--Summer-Fall-2027-_01877177": {
 "company": "RTX",
@@ -22522,6 +22651,13 @@
 "title": "Intern, Firmware and Software Test Development",
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1"
 },
+"Roguefitness:/job/Columbus-Ohio/AI-Engineer-Intern_R-103005": {
+"company": "Roguefitness",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 0,
+"title": "AI Engineer Intern",
+"url": "https://roguefitness.wd1.myworkdayjobs.com/en-US/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005"
+},
 "Rolls-Royce:/job/Dahlewitz/Working-Student---Development-Engineering--f-m-d-_JR6160245": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Working Student - Development Engineering (f/m/d)",
@@ -23321,6 +23457,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer 2027 - Software Engineer Intern",
 "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010"
+},
+"Shield AI:aa71c28a-be00-43ca-8aa7-b764b2143797": {
+"company": "Shield AI",
+"first_seen": "2026-10-21T01:30:45+00:00",
+"posted": 1792542538.027,
+"title": "Summer 2027 - Data Science Intern (R6324)",
+"url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797"
 },
 "ShopBack:640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
 "company": "ShopBack",
@@ -44661,7 +44804,6 @@
 "airbus|workingstudentdfmcompositemanufacturingaidrivendataanalytics": 1792132271.2912276,
 "alcon|clinicaldatascienceintern": 1792100923.9622815,
 "alleninstituteforai|researchinternaiforscience": 1792451178.5119598,
-"alliancelaundrysystems|embeddedfirmwarecoop": 1791330516.3205743,
 "allstateinsurance|supplymanagementdataanalyticsintern": 1791845635.8921356,
 "allstate|softwareengineerintern": 1792515148.5786424,
 "alstonbirdlawfirm|developerintern": 1792177283.2467391,
@@ -44695,6 +44837,7 @@
 "ascension|datascienceintern": 1791861372.2231302,
 "associatedbank|corporateinternartificialintelligencecorpcommercialbanking": 1792460774.4486125,
 "assorthealth|softwareengineerintern": 1792195338.001059,
+"astreya|aiinfrastructuredcdesignintern": 1792546508.7020047,
 "atkinsralis|softwaredeveloperintern": 1791821048.9891891,
 "atoms|softwareengineeringinternterm": 1792006203.176475,
 "atoms|softwareengineerintern": 1792025322.4793735,
@@ -44747,7 +44890,6 @@
 "commonwealthfusionsystems|aiinfrastructureengineerintern": 1792108649.823265,
 "corewellhealth|digitalservicesgenerativeaiintern": 1791845417.7637804,
 "corewellhealth|digitalserviceswebandmobiledevelopmentintern": 1791845417.7638407,
-"courierhealth|softwareengineerintern": 1791330516.3206682,
 "covestro|supplychainapplicationdevelopercoop": 1792017214.4118564,
 "cox|datascientistcoop": 1791490301.2381942,
 "creativeartistsagency|dataanalyticsintern": 1792451178.5121844,
@@ -44770,7 +44912,6 @@
 "epicgames|sdetintern": 1791421996.9175975,
 "exponential|researchinternaisecurity": 1791845339.8244352,
 "f5|softwaredeveloperintern": 1791341071.6546419,
-"f5|softwaredevelopmentengineerintern": 1791330516.3203468,
 "faire|appliedaimlscientistintern": 1791571946.1737685,
 "federalreservesystem|internmacmobile": 1792187952.7988858,
 "fieldai|researchscientistinternrobotlearningmanipulationmastersphdintern": 1791955895.7420104,
@@ -44865,7 +45006,6 @@
 "inversion|aiinternaltoolssoftwareengineerintern": 1792438814.4847023,
 "inversion|vehiclesoftwareengineerintern": 1792438814.4847596,
 "itw|softwareengineerinternapplicationsoftware": 1791679643.373689,
-"jabil|aitransformationintern": 1791330516.3206027,
 "jabil|itprogrammeranalystintern": 1791679750.3865182,
 "jainglobal|quantitativedeveloperintern": 1791939383.379168,
 "jbtm|internaitoolfortendermanagementsystem": 1792132088.4673777,
@@ -44889,9 +45029,7 @@
 "later|dataanalyticscoop": 1791571945.1876972,
 "leidos|cloudengineeringintern": 1792164805.004621,
 "leidos|dataengineeringanalyticsintern": 1792108649.823357,
-"leidos|datascienceintern": 1791330516.3203142,
 "leidos|performanceenablementaimlintern": 1792132110.7168033,
-"leidos|softwareengineerintern": 1791330516.32033,
 "leidos|systemsintegrationandsoftwareengineerintern": 1791597701.9712002,
 "leonardo|industrialplacementfirmwareengineer": 1792279827.2981455,
 "leonardo|industrialplacementsoftwareengineer": 1792273579.8216035,
@@ -44909,7 +45047,6 @@
 "medpace|pythondeveloperintern": 1791939383.378974,
 "medtronic|dataanalyticsintern": 1792101020.9762611,
 "memx|dataengineerintern": 1791861372.22331,
-"meta|datascientistinternproductanalytics": 1791330516.3203769,
 "metropolitantransportationauthority|dataanalystemergingtalentinternsupplierrelations": 1791939383.3793364,
 "mfs|systemsengineeringcloudtechnologiescoopjanuaryjune": 1791444417.0709512,
 "micron|internsmaiprobeaiengineer": 1792527006.2185757,
@@ -44930,7 +45067,9 @@
 "netflix|softwareengineerintern": 1791939383.3789344,
 "newyorktimes|aiinitiativesfellow": 1792498048.0323136,
 "nissanglobal|aiagentarchitectintern": 1791505201.4451456,
+"nissanglobal|aiautonomousdrivingverificationvalidationinternsantaclaraca": 1792546592.5119908,
 "nissanglobal|airoboticsresearchintern": 1792025322.479196,
+"nissanglobal|appliedaibusinessinnovationinternfranklintn": 1792546592.511965,
 "nissanglobal|datascienceintern": 1791861372.223226,
 "nissanglobal|eacloudintern": 1791597839.2444885,
 "nissanglobal|machinelearningresearchintern": 1792025322.4791026,
@@ -44939,8 +45078,6 @@
 "nissanglobal|roboticsprogrammerinternsmyrnatn": 1792273543.3780935,
 "nissanglobal|softwareengineerintern": 1792025322.4790819,
 "nissan|aidataanalyticsintern": 1791861372.2231145,
-"nokia|aiengineercoop": 1791330516.3204436,
-"nokia|aiengineeringcoop": 1791330516.3204994,
 "northropgrumman|softwaredeveloperintern": 1791391007.626704,
 "northropgrumman|softwareembeddedengineerintern": 1791973938.940421,
 "northropgrumman|softwareengineeringintern": 1792195338.0012355,
@@ -44953,12 +45090,14 @@
 "nxpsemiconductors|internproductengineeringmlmodeldevelopment": 1791679817.020591,
 "nxpsemiconductors|internsecurefirmwaredevelopmentmfd": 1791991813.7694232,
 "nxpsemiconductors|internsoftwareengineermfdjavapythontoolsdevelopmentfortrustprovisioning": 1792273533.6290953,
+"nxpsemiconductors|internstaagentdeveloperintern": 1792546627.7591,
 "nxpsemiconductors|masterthesisinternaidriventransistordesignexploration": 1791679817.0206304,
 "nxpsemiconductors|workingstudentfmddevops": 1791679817.0206447,
 "onsemi|manufacturingaiengineeringintern": 1792017214.4117773,
 "onsemi|semiconductoraispecialistintern": 1792017214.411821,
 "opengov|internsoftwareengineer": 1792089592.2300394,
 "opswat|supportengineeringinternaiautomationfocus": 1791845340.1302912,
+"orionsteel|inventoryandprocurementdataanalyticsintern": 1792546599.5904453,
 "paccar|fieldservicedataanalystintern": 1792537972.0791478,
 "paccar|warrantydataanalystintern": 1792451178.511988,
 "palantir|softwareengineerinternqueryengines": 1792460533.4216638,
@@ -44997,12 +45136,12 @@
 "rfsmart|softwaredeveloperintern": 1791820851.3207057,
 "rfsmart|softwaresupportengineerinternrfsfornetsuite": 1791820851.3207316,
 "rhombus|softwareengineerintern": 1791939383.3790047,
-"rivian|engineeringinterncoopaimlasiccad": 1791330516.3202639,
 "rivian|softwareengineerinterncoopmachinelearningresearchperception": 1792108649.8234522,
 "robertboschventurecapital|softwareengineeringcoop": 1792438936.6936128,
 "rockwellautomation|internfirmwareandsoftwaretestdevelopment": 1791364785.7784126,
 "roguefitness|aiengineerintern": 1792451178.5123138,
 "rtx|aiengineeringintern": 1791505201.4452593,
+"rtx|parttimesoftwareengineercoopremote": 1792546582.1506906,
 "rtx|softwareengineeringcoop": 1792108433.5318995,
 "rtx|softwareengineeringintern": 1792075757.5576956,
 "rtx|softwareengineerintern": 1792075757.5577416,
@@ -45021,8 +45160,8 @@
 "schweitzerengineeringlaboratories|softwareengineerintern": 1792131917.8144152,
 "servicenow|aiengineeringassociatesoftwareengineerintern": 1791939383.3792412,
 "servicenow|softwareengineerintern": 1791939383.3792198,
+"shieldai|datascienceinternr6324": 1792546249.2262428,
 "sierranevada|softwareengineerintern": 1792108649.823385,
-"sigmacomputing|softwareengineeringintern": 1791330396.5869427,
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
 "skydio|embeddedsoftwareengineerinternwiner": 1792526968.2907512,
 "skydio|manufacturingsoftwareengineerintern": 1792006203.3530595,
@@ -45031,7 +45170,6 @@
 "solopulse|softwareengineerinterncoop": 1791490100.2093084,
 "sonypicturesentertainment|currentprogramminginternsonypicturestelevision": 1792132186.8456368,
 "spacedynamicslaboratory|aienabledrequirementsengineeringintern": 1792515148.578631,
-"spacedynamicslaboratory|computervisionengineerintern": 1791330516.3202388,
 "stateaffairs|softwareengineerintern": 1791422096.3829854,
 "strada|softwareengineerintern": 1791845339.9522138,
 "stv|dataengineerintern": 1791939383.3792768,
@@ -45356,6 +45494,7 @@
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834": "US, Oregon, Hillsboro; US, California, Folsom; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836": "US, Oregon, Hillsboro; US, California, Folsom; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000": "US, Oregon, Hillsboro; US, California, Santa Clara; US, Texas, Austin",
+"https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Madrid-Spain/Intern---Clinical-Coding_R1550143": "Madrid, Spain; Madrid, Spain",
 "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Artificial-Intelligence_JR102924-2": "United States of America, Washington, Liberty Lake; United States of America, North Carolina, Raleigh; United States of America, Texas, Austin",
 "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-103933": "Cambridge, Massachusetts, United States of America; Leiden, Netherlands; La Jolla, California, United States of America; Titusville, New Jersey, United States of America; Zug, Switzerland",
 "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Engineering-Development-Co-Op_R-099378": "San Lorenzo, Puerto Rico, United States of America; Manat\u00ed, Puerto Rico, United States of America",
