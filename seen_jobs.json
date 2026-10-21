@@ -23396,6 +23396,13 @@
 "title": "Engineering Intern",
 "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Engineering-Intern_2026-23283"
 },
+"Schweitzer Engineering Laboratories:/job/Washington---Pullman/Software-Engineer-Intern_2026-24190": {
+"company": "Schweitzer Engineering Laboratories",
+"first_seen": "2026-10-21T20:33:28+00:00",
+"posted": 0,
+"title": "Software Engineer Intern",
+"url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190"
+},
 "Schweitzer Engineering Laboratories:/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231": {
 "company": "Schweitzer Engineering Laboratories",
 "first_seen": "2026-10-16T06:24:42+00:00",
@@ -23668,6 +23675,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
+},
+"Sierra Space:/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456": {
+"company": "Sierra Space",
+"first_seen": "2026-10-21T20:33:28+00:00",
+"posted": 1792615050.7676077,
+"title": "Summer 2027 Flight Software Engineer Intern",
+"url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456"
 },
 "Sierra:34b31b67-268c-4270-b48f-72e59064c96e": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -23993,6 +24007,13 @@
 "posted": 1790812012.1049366,
 "title": "Firmware Design - Summer Internship",
 "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Lysaker/Firmware-Design---Summer-Internship_JR-119579-1"
+},
+"Sony:/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784": {
+"company": "Sony",
+"first_seen": "2026-10-21T20:33:28+00:00",
+"posted": 1792528490.6563013,
+"title": "Research Engineer Intern (Ethical Creative and Protective AI Lab)",
+"url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784"
 },
 "Sony:/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -45349,6 +45370,7 @@
 "servicenow|softwareengineerintern": 1791939383.3792198,
 "shieldai|datascienceinternr6324": 1792546249.2262428,
 "sierranevada|softwareengineerintern": 1792108649.823385,
+"sierraspace|flightsoftwareengineerintern": 1792615057.1891966,
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
 "skydio|embeddedsoftwareengineerinternwiner": 1792526968.2907512,
 "skydio|manufacturingsoftwareengineerintern": 1792006203.3530595,
@@ -45358,6 +45380,7 @@
 "smithnephew|internembeddedsoftwareengineering": 1792564228.8220303,
 "solopulse|softwareengineerinterncoop": 1791490100.2093084,
 "sonypicturesentertainment|currentprogramminginternsonypicturestelevision": 1792132186.8456368,
+"sony|researchengineerinternethicalcreativeandprotectiveailab": 1792614935.9392803,
 "spacedynamicslaboratory|aienabledrequirementsengineeringintern": 1792515148.578631,
 "stateaffairs|softwareengineerintern": 1791422096.3829854,
 "strada|softwareengineerintern": 1791845339.9522138,
@@ -45843,6 +45866,7 @@
 "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1": "Santa Clara, California, United States; Austin, Texas, United States; Berkeley, California, United States; Boston, Massachusetts, United States",
 "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101292": "Santa Clara, California, United States; Austin, Texas, United States; Berkeley, California, United States; Boston, Massachusetts, United States",
 "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/CAONMississauga2251-Speakman-Drive/Student-Engineering-Co-op-Intern_R-165131-1": "CA.ON.Mississauga.2251 Speakman Drive; CA.ON.Pickering.1340 Pickering Parkway",
+"https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784": "Remote - New York; Remote - Connecticut; Remote - Michigan; Remote - Florida; Remote - Massachusetts; Remote - New Jersey; Remote - Virginia",
 "https://spgi.wd5.myworkdayjobs.com/en-US/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714": "Cambridge, MA; New York, NY",
 "https://spgi.wd5.myworkdayjobs.com/en-US/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1": "Cambridge, MA; New York, NY",
 "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1": "Cambridge, MA; New York, NY",
