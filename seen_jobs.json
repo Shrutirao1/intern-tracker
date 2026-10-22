@@ -1965,6 +1965,13 @@
 "title": "Developer Intern, Front-End Platform - Winter 2027",
 "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37"
 },
+"1Password:7f1732a6-5317-4319-82b9-67c62e88d491": {
+"company": "1Password",
+"first_seen": "2026-10-22T20:35:47+00:00",
+"posted": 1792694626.841,
+"title": "Developer Intern, Extension Excellence - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491"
+},
 "1Password:8af1359a-c8a2-492b-b567-ae8ae184a8a1": {
 "company": "1Password",
 "first_seen": "2026-10-22T17:19:31+00:00",
@@ -8202,6 +8209,13 @@
 "title": "Software Engineering Intern (2027)",
 "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
 },
+"Databricks:6866538002": {
+"company": "Databricks",
+"first_seen": "2026-10-22T20:35:47+00:00",
+"posted": 1692308494.0,
+"title": "Data Science Intern (2027 Start)",
+"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"
+},
 "Databricks:7011263002": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "PhD GenAI Research Scientist Intern",
@@ -10230,6 +10244,13 @@
 "posted": 1789980400.9604692,
 "title": "Summer 2027 Undergraduate Internship - Systems",
 "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Systems_2134164"
+},
+"Formlabs:8256004": {
+"company": "Formlabs",
+"first_seen": "2026-10-22T20:35:47+00:00",
+"posted": 1792695212.0,
+"title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
+"url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004"
 },
 "Forus:82e10191-232e-4e8d-9c5e-cb82940cdfc7": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -23982,6 +24003,13 @@
 "posted": 1791913599.083,
 "title": "Embedded Software Engineer Intern - Summer 2027",
 "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260"
+},
+"Skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd": {
+"company": "Skydio",
+"first_seen": "2026-10-22T20:35:47+00:00",
+"posted": 1792698293.854,
+"title": "Frontend Software Engineer Intern - Summer 2027",
+"url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
 },
 "Skydio:8a237302-3fe8-4403-b32b-7690f333ba52": {
 "company": "Skydio",
@@ -45315,6 +45343,7 @@
 },
 "title_keys": {
 "1password|developerinterndatasecurity": 1792689571.685698,
+"1password|developerinternextensionexcellence": 1792701349.4626565,
 "1password|developerinternfrontendplatform": 1792689571.6857526,
 "1password|developerinternmachineidentity": 1792689571.685718,
 "1password|developerinternprovisioning": 1792689571.6857414,
@@ -45338,7 +45367,6 @@
 "aerospace|cloudsolutionsengineersitereliabilityundergradintern": 1792651288.7517116,
 "aerospace|embeddedsoftwareengineeringgradintern": 1792651288.7517412,
 "aerospace|embeddedsoftwareengineeringundergradintern": 1792651288.7517283,
-"aerospace|embeddedsystemssoftwareengineeringundergradintern": 1791490433.1913211,
 "aerovironment|hypersonicrfsoftwareengineeringintern": 1791620375.171392,
 "aerovironment|softwareengineeringintern": 1792247538.7222571,
 "agco|aidatascienceintern": 1792025322.4791775,
@@ -45443,7 +45471,6 @@
 "corewellhealth|digitalservicesgenerativeaiintern": 1791845417.7637804,
 "corewellhealth|digitalserviceswebandmobiledevelopmentintern": 1791845417.7638407,
 "covestro|supplychainapplicationdevelopercoop": 1792017214.4118564,
-"cox|datascientistcoop": 1791490301.2381942,
 "creativeartistsagency|dataanalyticsintern": 1792451178.5121844,
 "crusoe|softwareengineeringintern": 1792625650.9839652,
 "cswholesalegrocers|isinterndataanalyticsdatascience": 1791913726.267432,
@@ -45456,7 +45483,6 @@
 "dxc|businessintelligencebiintern": 1792132195.3511994,
 "electronicarts|dataandaiengineerintern": 1791861372.2232997,
 "electronicarts|softwareengineerintern": 1792451178.5122693,
-"entrust|firmwareengineeringcoop": 1791490249.874169,
 "entrust|softwareengineeringcoop": 1792177133.4608848,
 "exponential|researchinternaisecurity": 1791845339.8244352,
 "faire|appliedaimlscientistintern": 1791571946.1737685,
@@ -45464,6 +45490,7 @@
 "fieldai|researchscientistinternrobotlearningmanipulationmastersphdintern": 1791955895.7420104,
 "fieldai|roboticsresearchinternembodiedai": 1791939211.7594767,
 "figure|embeddedsoftwareengineeringinternplatform": 1792017055.5749614,
+"formlabs|manufacturingtestsoftwareintern": 1792701352.7647254,
 "foundenergy|dataengineercoop": 1791845339.9284947,
 "freseniusmedicalcare|softwareengineeringcoop": 1792564134.344216,
 "freudenberg|workingstudentfmdpurchasingaitools": 1792478292.8655884,
@@ -45474,7 +45501,6 @@
 "gdit|aianddataanalyticsintern": 1791928892.617701,
 "geaerospace|cncprogrammercoop": 1792115206.4650958,
 "geaerospace|datascienceandaidigitaltechnologyintern": 1792115206.4650097,
-"genbioai|researchscientistinternaimoleculardesign": 1791490099.8245225,
 "generaldynamicsinformation|aiandestimationintern": 1792625856.9782596,
 "generaldynamicsinformation|defenseagenciesinternaiml": 1791861372.2233887,
 "generaldynamicsinformation|softwaredeveloperintern": 1792451178.512343,
@@ -45533,7 +45559,6 @@
 "iex|platformengineerintern": 1791845340.0883257,
 "iex|softwaredevelopmentengineerintestintern": 1791845340.0920074,
 "iex|softwareengineerintern": 1791845340.092124,
-"imctrading|machinelearningengineerintern": 1791490096.8851676,
 "impulsespace|enterprisesoftwareengineerintern": 1792195338.0009305,
 "inmarintelligence|datascienceintern": 1792625791.968024,
 "intel|studentinterncollaborationservicessystemprogrammer": 1791861234.8274622,
@@ -45637,8 +45662,6 @@
 "parsons|softwareengineerintern": 1791991660.2076411,
 "patreon|softwareengineeringintern": 1792451064.4272778,
 "peraton|softwaredevelopmentintern": 1791505201.4452233,
-"perpay|superdaydataengineeringintern": 1791490097.3555732,
-"perpay|superdaydatascienceintern": 1791490097.355596,
 "philips|dataaialgorithminternphilipsaventexperienceinnovation": 1791755719.3914707,
 "philips|internrdfrontendinnovationinternoralhealthcarebothellwa": 1792625976.9285636,
 "philips|internsyntheticdatagenerationfordentalaimaster": 1792188050.5902677,
@@ -45665,7 +45688,6 @@
 "redhat|softwareengineeringinterntrustedprofileanalyzerbrnoczechrepublic": 1792100776.9989588,
 "regeneron|coopdataanalyticsdigitaltoolsiops": 1791679679.052049,
 "regeneron|coopdatasciencecomputationalbiologyresearch": 1791679679.0513725,
-"replit|softwareengineeringinternusbased": 1791490096.6897867,
 "rfsmart|softwaredeveloperintern": 1791820851.3207057,
 "rfsmart|softwaresupportengineerinternrfsfornetsuite": 1791820851.3207316,
 "rhodaai|softwareengineerinterninference": 1792563944.269651,
@@ -45698,13 +45720,13 @@
 "sierraspace|flightsoftwareengineerintern": 1792615057.1891966,
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
 "skydio|embeddedsoftwareengineerinternwiner": 1792526968.2907512,
+"skydio|frontendsoftwareengineerintern": 1792701348.8512213,
 "skydio|manufacturingsoftwareengineerintern": 1792006203.3530595,
 "skydio|mobilesoftwareengineerintern": 1792537735.080359,
 "skydio|softwareengineerintern": 1792006203.3530192,
 "smithnephew|internagenticaisoftwareengineering": 1792564228.8220506,
 "smithnephew|interncomputervisionsoftwareengineering": 1792651215.3476229,
 "smithnephew|internembeddedsoftwareengineering": 1792564228.8220303,
-"solopulse|softwareengineerinterncoop": 1791490100.2093084,
 "sonypicturesentertainment|currentprogramminginternsonypicturestelevision": 1792132186.8456368,
 "sony|researchengineerinternethicalcreativeandprotectiveailab": 1792614935.9392803,
 "spacedynamicslaboratory|aienabledrequirementsengineeringintern": 1792515148.578631,
