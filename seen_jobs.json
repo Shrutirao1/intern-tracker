@@ -1951,6 +1951,41 @@
 "zaimler"
 ],
 "jobs": {
+"1Password:6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f": {
+"company": "1Password",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792683120.089,
+"title": "Developer Intern, Machine Identity - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f"
+},
+"1Password:71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37": {
+"company": "1Password",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792682451.182,
+"title": "Developer Intern, Front-End Platform - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37"
+},
+"1Password:8af1359a-c8a2-492b-b567-ae8ae184a8a1": {
+"company": "1Password",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792682523.972,
+"title": "Developer Intern, Data Security - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1"
+},
+"1Password:b2726ac7-dd0d-42f3-93a5-139e18c90779": {
+"company": "1Password",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792683149.239,
+"title": "Developer Intern, Vault Team - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779"
+},
+"1Password:c5289ef1-e919-4672-85c5-ee3112f9ddb9": {
+"company": "1Password",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792683362.416,
+"title": "Developer Intern, Provisioning - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9"
+},
 "3M:/job/US-Minnesota-Maplewood/Internship---2027-PhD-Research---Development-Intern_R01170406": {
 "company": "3M",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -2393,6 +2428,13 @@
 "title": "Field Engineering Co-Op",
 "url": "https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f"
 },
+"Accenture:/job/Amsterdam/Engineering-Services-New-Associate_R00342637": {
+"company": "Accenture",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792689763.5219543,
+"title": "AI Engineering Internship",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Engineering-Services-New-Associate_R00342637"
+},
 "Accenture:/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Digital Engineering Internship",
@@ -2408,6 +2450,13 @@
 "title": "Internship - Security - as of February 2027",
 "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
 },
+"Accenture:/job/Budapest/C--Developer---Intern_R00273549": {
+"company": "Accenture",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792430592.2989888,
+"title": "Talent Pool - \u00d3buda Job Fair - C# Developer Intern - Manufacturing Area",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest/C--Developer---Intern_R00273549"
+},
 "Accenture:/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786": {
 "company": "Accenture",
 "first_seen": "2026-10-04T04:16:58+00:00",
@@ -2420,6 +2469,13 @@
 "title": "AWS Backend Developer (Python/Node.js) Internship Program (She/He/They)",
 "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lodz-University-Business-Park/AWS-Backend-Developer--Python-Nodejs--Internship-Program--She-He-They-_R00311112"
 },
+"Accenture:/job/Lodz/Data---AI-Internship-Program_R00365279": {
+"company": "Accenture",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792430565.0741484,
+"title": "Data & AI Internship Program",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lodz/Data---AI-Internship-Program_R00365279"
+},
 "Accenture:/job/Lodz/Java-Developer-Internship-Program--She-He-They-_R00351502-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Java Developer Internship Program (She/He/They)",
@@ -2429,6 +2485,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Tech Intern - Accenture Customer Innovation Network",
 "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814"
+},
+"Accenture:/job/Prague/Data-Engineer-Intern_R00329471": {
+"company": "Accenture",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792430563.5213177,
+"title": "Data Engineer Intern",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471"
+},
+"Accenture:/job/Santiago/Prctica-Fullstack-Prompt-Engineering--ChangeMakers-Internship-Program---Ing-Informatica-Programacin_R00365391": {
+"company": "Accenture",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792430592.299023,
+"title": "Pr\u00e1ctica Fullstack/Prompt Engineering -ChangeMakers Internship Program - Ing. Informatica/Programaci\u00f3n",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Prctica-Fullstack-Prompt-Engineering--ChangeMakers-Internship-Program---Ing-Informatica-Programacin_R00365391"
 },
 "Accenture:/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -37891,6 +37961,13 @@
 "title": "Computer Science and Software Engineering Intern",
 "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
 },
+"src:simplify:8ee871d8-4385-49e0-9f0d-1f89f3ed0863": {
+"company": "Target",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1788998400.0,
+"title": "Software Engineer Intern",
+"url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
+},
 "src:simplify:8eec74b3-7daf-4b67-b262-621b5b164a09": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Hardware Validation Engineer Intern - Optimus",
@@ -42010,6 +42087,13 @@
 "title": "Data & Analytics Engineering Intern",
 "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101"
 },
+"src:simplify:ce026bae-c60a-419e-8307-847eafa898fd": {
+"company": "RTX",
+"first_seen": "2026-10-22T17:19:31+00:00",
+"posted": 1792627200.0,
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
+},
 "src:simplify:ce049c8e-cbb5-4b0e-b4e2-4f3706fcf0b7": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Aerospace Software Engineer Intern",
@@ -45230,11 +45314,21 @@
 }
 },
 "title_keys": {
+"1password|developerinterndatasecurity": 1792689571.685698,
+"1password|developerinternfrontendplatform": 1792689571.6857526,
+"1password|developerinternmachineidentity": 1792689571.685718,
+"1password|developerinternprovisioning": 1792689571.6857414,
+"1password|developerinternvaultteam": 1792689571.685731,
 "7eleven|aianalystaiautomationspecialistintern": 1791939383.3789566,
 "7eleven|aiengineerintern": 1791505201.44531,
 "7eleven|fuelpricingdatascientistintern": 1791991453.2764297,
 "abridge|memberoftechnicalstaffintern": 1792108408.1766644,
+"accenture|aiengineeringintern": 1792690203.7174375,
 "accenture|backenddeveloperinternshehethey": 1792041653.0161948,
+"accenture|dataaiintern": 1792690203.7174516,
+"accenture|dataengineerintern": 1792690203.7174208,
+"accenture|prcticafullstackpromptengineeringchangemakersinterninginformaticaprogramacin": 1792690203.7175057,
+"accenture|talentpoolbudajobfaircdeveloperinternmanufacturingarea": 1792690203.7174702,
 "acronaviation|softwareengineerinternphoenixsite": 1791845337.2056751,
 "adobe|internaiarchitecture": 1792537756.9188828,
 "adobe|interndataaiinnovation": 1792537756.9189265,
@@ -45403,7 +45497,6 @@
 "gevernova|aievaluationbenchmarkinginternagi": 1791991660.207666,
 "gevernova|aiposttrainingandmodelalignmentintern": 1791991660.2076194,
 "gevernova|gevernovaagiaipowersystemsintern": 1792187930.6748998,
-"gevernova|scscommercialinternaidataminingagent": 1791470987.873661,
 "globalfoundries|aimlsystemsengineeringintern": 1792451178.5122254,
 "globalfoundries|aisoftwareintern": 1792625856.9782758,
 "globalfoundries|softwareengineerintern": 1791597839.2445283,
@@ -45466,7 +45559,6 @@
 "kla|researchscientistinternplasmalightsourcecharacterization": 1792108649.8234763,
 "kla|softwareengineeringintern": 1792132190.3897166,
 "kla|softwareengineerinternai": 1792132190.3897002,
-"kochindustries|datascienceintern": 1791470759.769384,
 "lakemichigancreditunion|businessintelligenceintern": 1792564142.1754858,
 "later|dataanalyticscoop": 1791571945.1876972,
 "leidos|cloudengineeringintern": 1792164805.004621,
@@ -45589,7 +45681,6 @@
 "rtx|softwareengineeringintern": 1792075757.5576956,
 "rtx|softwareengineerintern": 1792075757.5577416,
 "rtx|stagehiverdveloppementlogicielavancmthodesnumriquesinternadvancedsoftwaredevelopmentnumericalmethods": 1791679733.4955664,
-"ruggedrobotics|roboticsoftwareinterncoopor": 1791470536.0555484,
 "ryan|softwaredevelopmentintern": 1792195338.0011213,
 "ryan|softwareengineerintern": 1792207077.5898376,
 "salesforce|airesearchintern": 1792537972.0790896,
@@ -45636,7 +45727,6 @@
 "tiktok|machinelearningengineerinternecommercerecommendationvideo": 1792025322.4789498,
 "tiktok|machinelearningengineerinternecommercesupplychainlogisticsllmagent": 1792025322.4790401,
 "tiktok|machinelearningengineerinternecommerceusergrowth": 1791956008.5618186,
-"tiktok|machinelearningengineerinternmonetizationtechnologyadscoreglobal": 1791470759.7693439,
 "tiktok|softwareengineerinternrecommendationperformanceefficiency": 1792132081.003107,
 "tmobile|softwareengineeringintern": 1792108848.9201307,
 "toro|cloudsoftwaredeveloperintern": 1792451178.512045,
