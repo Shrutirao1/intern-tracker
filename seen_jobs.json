@@ -1951,6 +1951,20 @@
 "zaimler"
 ],
 "jobs": {
+"1Password:00f861d4-2b4a-4159-b6dc-8aed0cde6e39": {
+"company": "1Password",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792761113.014,
+"title": "Developer Intern, Developer Interfaces - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39"
+},
+"1Password:67bfbd8b-aba9-42b1-a8a8-833367888fba": {
+"company": "1Password",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792761091.276,
+"title": "Developer Intern, Credential Brokering - Winter 2027",
+"url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba"
+},
 "1Password:6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f": {
 "company": "1Password",
 "first_seen": "2026-10-22T17:19:31+00:00",
@@ -14878,6 +14892,13 @@
 "title": "Product Development Engineering Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1"
 },
+"KLA Corporation:/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1": {
+"company": "KLA Corporation",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792774053.6255958,
+"title": "Software Engineering Intern \u2013 AI/ML for Diagnostics & Calibration",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1"
+},
 "KLA Corporation:/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern (C++, Unix)",
@@ -14896,6 +14917,13 @@
 "posted": 1790812001.8587964,
 "title": "Software Engineering Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1"
+},
+"KLA Corporation:/job/Milpitas-CA/Software-Engineering-Intern_2642189-1": {
+"company": "KLA Corporation",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792774052.4421144,
+"title": "Software Engineering Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
 },
 "KLA Corporation:/job/Shanghai-China/Software-Engineering-Intern_2641426": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -14987,6 +15015,20 @@
 "title": "Product Development Engineering Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562"
 },
+"KLA:/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878": {
+"company": "KLA",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792773831.5068266,
+"title": "Software Engineer Intern (C++, Linux) \u2013 Summer 2027",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
+},
+"KLA:/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129": {
+"company": "KLA",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792773831.2020793,
+"title": "Software Engineering Intern \u2013 AI/ML for Diagnostics & Calibration",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129"
+},
 "KLA:/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern (C++, Unix)",
@@ -15005,6 +15047,13 @@
 "posted": 1790782026.6222422,
 "title": "Software Engineering Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2641581"
+},
+"KLA:/job/Milpitas-CA/Software-Engineering-Intern_2642189": {
+"company": "KLA",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792773831.5068967,
+"title": "Software Engineering Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2642189"
 },
 "Kairos Power:6123830004": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -15531,6 +15580,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Power Delivery Engineering Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Greensboro-NC/Power-Delivery-Engineering-Intern_R-00192019"
+},
+"Leidos:/job/Huntsville-AL/AI-ML-Intern_R-00195168": {
+"company": "Leidos",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792687285.8182697,
+"title": "AI/ML Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168"
 },
 "Leidos:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574": {
 "company": "Leidos",
@@ -17115,6 +17171,13 @@
 "title": "Summer 2027 Silanes Production & Energy Systems Engineer Intern",
 "url": "https://momentive.wd1.myworkdayjobs.com/en-US/MC/job/US-WV-Friendly/Summer-2027-Silanes-Production---Energy-Systems-Engineer-Intern_R9776"
 },
+"MongoDB:8209134": {
+"company": "MongoDB",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792760236.0,
+"title": "2027 - Software Engineering Intern, AMER",
+"url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
+},
 "Monolithic Power Systems:/job/Hangzhou---China/Technical-Solution-Engineer--Intern-_R-1057": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Technical Solution Engineer (Intern)",
@@ -17442,6 +17505,20 @@
 "posted": 1792192371.8867953,
 "title": "Technology Apprentice - Application Developer (ZDP)",
 "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/Technology-Apprentice---Application-Developer--ZDP-_R91349"
+},
+"Multiply Labs:8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
+"company": "Multiply Labs",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1771544557.687,
+"title": "Software Intern",
+"url": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b"
+},
+"Multiply Labs:acca98ab-c206-4f71-b7a5-6977e4828586": {
+"company": "Multiply Labs",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1771544915.395,
+"title": "Robotics Software Intern",
+"url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586"
 },
 "Muon Space:5244641007": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -23655,6 +23732,13 @@
 "title": "Engineering Intern",
 "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Engineering-Intern_2026-23283"
 },
+"Schweitzer Engineering Laboratories:/job/Washington---Pullman/Software-Engineer-Intern_2026-23816": {
+"company": "Schweitzer Engineering Laboratories",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 0,
+"title": "Software Engineer Intern",
+"url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-23816"
+},
 "Schweitzer Engineering Laboratories:/job/Washington---Pullman/Software-Engineer-Intern_2026-24190": {
 "company": "Schweitzer Engineering Laboratories",
 "first_seen": "2026-10-21T20:33:28+00:00",
@@ -24288,6 +24372,13 @@
 "title": "Research Engineer Intern (Ethical Creative and Protective AI Lab)",
 "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784"
 },
+"Sony:/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804": {
+"company": "Sony",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792773979.3432605,
+"title": "Research Intern \u2013 Self-evolving Multimodal Foundation Models",
+"url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804"
+},
 "Sony:/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Account Management & Business Analytics Intern",
@@ -24733,6 +24824,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Co-op - Software Engineer",
 "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111"
+},
+"Symbotic:/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327": {
+"company": "Symbotic",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1792687648.5945878,
+"title": "Co-op- Machine Learning Ops",
+"url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327"
 },
 "Symbotic:/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -35040,6 +35138,13 @@
 "title": "Software Developer Intern",
 "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
 },
+"src:simplify:601997d3-10ff-480d-b969-07e2d092725a": {
+"company": "Blue Cross Blue Shield of Michigan",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790605147.0,
+"title": "Data Analytics Intern - HEDIS",
+"url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838"
+},
 "src:simplify:602db96f-f754-408e-b396-d3bdadbc3dac": {
 "company": "Jain Global",
 "first_seen": "2026-10-14T00:53:27+00:00",
@@ -35196,6 +35301,13 @@
 "posted": 1792540800.0,
 "title": "Software Development Engineer Intern",
 "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630"
+},
+"src:simplify:62a58db2-7867-4166-bfeb-81e7fc0f9aac": {
+"company": "William Blair",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790633778.0,
+"title": "Technology Intern - Wit - Data Science",
+"url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242280007"
 },
 "src:simplify:62b070f3-36f8-45af-8694-3c1417f363aa": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -36316,6 +36428,13 @@
 "posted": 1792627200.0,
 "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence",
 "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114"
+},
+"src:simplify:733a4e9a-123e-4033-bfa1-d81fb7521453": {
+"company": "Muon Space",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790730549.0,
+"title": "GNC Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007"
 },
 "src:simplify:733aae83-7fd4-4bfb-ba95-f338e4c04fdd": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -40125,6 +40244,13 @@
 "title": "Data Scientist Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140"
 },
+"src:simplify:ab6d1cf4-f0b7-43c9-be13-a1185c95297f": {
+"company": "IAT Insurance Group",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790553600.0,
+"title": "Data Engineering & Visualization Intern",
+"url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441"
+},
 "src:simplify:ab99a605-a566-4425-b53c-7bd28c399832": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Insights Analyst Co-op",
@@ -41165,6 +41291,13 @@
 "title": "AI Research Intern - Reinforcement Learning and LLM Post-Training",
 "url": "https://careers.amd.com/jobs/91013?icims=1"
 },
+"src:simplify:ba02c1f4-7c0e-4af7-9491-23050dd2fa93": {
+"company": "RTX",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790553600.0,
+"title": "AGS Software Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"
+},
 "src:simplify:ba0364a9-1ac6-476c-bce0-118895d7a5ed": {
 "company": "Allstate",
 "first_seen": "2026-10-20T16:49:27+00:00",
@@ -41416,6 +41549,13 @@
 "posted": 1791813971.0,
 "title": "Data Analysis/Data Engineering Intern",
 "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169"
+},
+"src:simplify:bd93c9e1-34c6-4861-bd78-38f25dccb3ae": {
+"company": "Airbus",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790553600.0,
+"title": "Operational Excellence Analyst Intern - Data Analytics - Operational Excellence",
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492"
 },
 "src:simplify:bda4abe8-aa5b-41a0-bb34-7806e4ff2679": {
 "company": "Gallup",
@@ -41782,6 +41922,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Dealer Business Operations & Analytics Intern - Summer 2027",
 "url": "https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false"
+},
+"src:simplify:c32610f4-7f0d-42bd-8186-eb8b18ba634d": {
+"company": "Constellation Energy",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790633785.0,
+"title": "Quantitative Analytics & Data Science Intern",
+"url": "https://jobs.constellationenergy.com/jobs/139494?icims=1"
 },
 "src:simplify:c343edb5-a613-4009-b00b-9dda7f9a8fee": {
 "company": "Astranis",
@@ -44669,6 +44816,13 @@
 "title": "Artificial Intelligence Specialist Intern - Operations",
 "url": "https://careersus-shure.icims.com/jobs/5029/job?mobile=true&needsRedirect=false"
 },
+"src:simplify:ef81bfb1-56bf-4a32-b001-020a5ce145b3": {
+"company": "onsemi",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790633467.0,
+"title": "AI & Data Engineering Intern",
+"url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506526"
+},
 "src:simplify:efa4bb78-1704-403b-903f-cc0df69e06a1": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern",
@@ -45104,6 +45258,13 @@
 "title": "Software Developer Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
 },
+"src:simplify:f60317b7-57f8-4a35-8a4a-001aa5b31e8d": {
+"company": "UL Solutions",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790633172.0,
+"title": "Data Science Intern",
+"url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10629"
+},
 "src:simplify:f62e39e9-0447-47d4-82a3-e90f65622f59": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data Analytics Intern - Summer 2027",
@@ -45438,6 +45599,13 @@
 "title": "Claims Intern - Data",
 "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1"
 },
+"src:simplify:fb4240c7-cb85-41c8-82ab-0d99dd36ba66": {
+"company": "The Toro Company",
+"first_seen": "2026-10-23T16:41:17+00:00",
+"posted": 1790553600.0,
+"title": "Electrical/Software Co-op",
+"url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"
+},
 "src:simplify:fb43ca64-ac2c-4698-b2fe-f67d16fff11d": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Co-op - 8 Months",
@@ -45769,7 +45937,9 @@
 }
 },
 "title_keys": {
+"1password|developerinterncredentialbrokering": 1792773678.8078058,
 "1password|developerinterndatasecurity": 1792689571.685698,
+"1password|developerinterndeveloperinterfaces": 1792773678.8078377,
 "1password|developerinternextensionexcellence": 1792701349.4626565,
 "1password|developerinternfrontendplatform": 1792689571.6857526,
 "1password|developerinternmachineidentity": 1792689571.685718,
@@ -46031,7 +46201,9 @@
 "kla|computervisionmachinelearningintern": 1792132190.389677,
 "kla|researchscientistinternplasmalightsourcecharacterization": 1792108649.8234763,
 "kla|softwareengineeringintern": 1792132190.3897166,
+"kla|softwareengineeringinternaimlfordiagnosticscalibration": 1792773833.9103942,
 "kla|softwareengineerinternai": 1792132190.3897002,
+"kla|softwareengineerinternclinux": 1792773833.9104252,
 "lakemichigancreditunion|businessintelligenceintern": 1792564142.1754858,
 "later|dataanalyticscoop": 1791571945.1876972,
 "leidos|aimlintern": 1792712100.4210925,
@@ -46059,6 +46231,7 @@
 "micron|internssdfirmwarecicd": 1792100758.177105,
 "mirakl|aianalystcoop": 1792438814.4846108,
 "mmc|oliverwymandataanalyticsapprenticeshipnewcastle": 1792478343.3703375,
+"mongodb|softwareengineeringinternamer": 1792773684.4154336,
 "moog|interncomputerscience": 1791755806.2503698,
 "mtbank|technologyinternsoftwareengineeringenterpriseapiservicesdevelopmentteam": 1792712100.420708,
 "mtb|technologyapprenticeapplicationdeveloperzdp": 1792537974.4197671,
@@ -46085,7 +46258,6 @@
 "northropgrumman|softwareengineerintern": 1792195338.001091,
 "northropgrumman|systemsengineeringinternaiexperience": 1792712100.4206395,
 "nvent|businessintelligencedataanalyticsintern1year": 1792625710.931335,
-"nvidia|cpucompilerintern": 1791552297.2401073,
 "nvidia|systemssoftwareinternaerialphy": 1792564205.4849994,
 "nxpsemiconductors|aisoftwaredeveloperintern": 1792075732.6482003,
 "nxpsemiconductors|internaitooldevelopmentintern": 1791991813.769373,
@@ -46180,6 +46352,7 @@
 "smithnephew|internembeddedsoftwareengineering": 1792564228.8220303,
 "sonypicturesentertainment|currentprogramminginternsonypicturestelevision": 1792132186.8456368,
 "sony|researchengineerinternethicalcreativeandprotectiveailab": 1792614935.9392803,
+"sony|researchinternselfevolvingmultimodalfoundationmodels": 1792773989.85277,
 "spacedynamicslaboratory|aienabledrequirementsengineeringintern": 1792515148.578631,
 "standtogether|dataanalystinternopenthebooks": 1792712100.420727,
 "strada|softwareengineerintern": 1791845339.9522138,
