@@ -14134,6 +14134,13 @@
 "title": "Packaging Technology Development Graduate Intern",
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080"
 },
+"Intel:/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533": {
+"company": "Intel",
+"first_seen": "2026-10-24T17:30:05+00:00",
+"posted": 1792776614.0891693,
+"title": "AI Hardware Engineering Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533"
+},
 "Intel:/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544": {
 "company": "Intel",
 "first_seen": "2026-10-02T18:00:20+00:00",
@@ -16837,6 +16844,34 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern - Applied Statistics - Innovation & Engineering",
 "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Data-Science---BioStatistics--Manufacturing_R390572-1"
+},
+"Merck:/job/NLD---North-Brabant---Boxmeer/Intern---HBO-WO-Business-administration-or-Data-Analytics---Intellectual-Property_R421707-1": {
+"company": "Merck",
+"first_seen": "2026-10-24T17:30:05+00:00",
+"posted": 1792776773.8378952,
+"title": "Intern \u2013 HBO/WO Business administration or Data Analytics \u2013 Intellectual Property",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO-WO-Business-administration-or-Data-Analytics---Intellectual-Property_R421707-1"
+},
+"Merck:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515": {
+"company": "Merck",
+"first_seen": "2026-10-24T17:30:05+00:00",
+"posted": 1792776773.548435,
+"title": "2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515"
+},
+"Merck:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333": {
+"company": "Merck",
+"first_seen": "2026-10-24T17:30:05+00:00",
+"posted": 1792776773.268116,
+"title": "2027 Future Talent Program - Data, AI, and Genome Sciences - Intern",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333"
+},
+"Merck:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438": {
+"company": "Merck",
+"first_seen": "2026-10-24T17:30:05+00:00",
+"posted": 1792776773.5488234,
+"title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438"
 },
 "Merck:/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R413657": {
 "company": "Merck",
@@ -46466,7 +46501,6 @@
 "globalfoundries|softwareengineerinterncloudplatform": 1792625856.978311,
 "globalfoundries|workingstudentforbackendoflineintegration": 1792626105.5078464,
 "google|forwarddeployedengineerintern": 1791820971.127002,
-"gordonfoodservice|softwareengineerinterntransportationrouting": 1791642737.12199,
 "guidepointsecurity|aidatascienceinterngpsune": 1791845339.9653714,
 "guidepointsecurity|cloudinfrastructureinterngpsune": 1791845339.965467,
 "hasbro|itsoftwareintern": 1791845339.9197168,
@@ -46499,6 +46533,7 @@
 "inmarintelligence|datascienceintern": 1792625791.968024,
 "insperity|rotationalaiintern": 1792737560.9781404,
 "insperity|rotationaldataanalyticsintern": 1792737560.9781644,
+"intel|aihardwareengineeringintern": 1792863310.5823302,
 "intel|studentinterncollaborationservicessystemprogrammer": 1791861234.8274622,
 "inversionspace|avionicsembeddedsoftwareengineerintern": 1792115194.6814082,
 "inversion|aiinternaltoolssoftwareengineerintern": 1792438814.4847023,
@@ -46541,7 +46576,10 @@
 "medpace|pythondeveloperintern": 1791939383.378974,
 "medtronic|dataanalyticsintern": 1792101020.9762611,
 "memx|dataengineerintern": 1791861372.22331,
+"merck|futuretalentdataaiandgenomesciencesfoundationmodelsintern": 1792863191.6680548,
+"merck|futuretalentdataaiandgenomesciencesintern": 1792863191.6679938,
 "merck|futuretalentinternaimlbiomedicalimagingandcomputationalpathology": 1792796813.1446729,
+"merck|internhbowobusinessadministrationordataanalyticsintellectualproperty": 1792863191.6680825,
 "metropolitantransportationauthority|dataanalystemergingtalentinternsupplierrelations": 1791939383.3793364,
 "micron|internsmaiprobeaiengineer": 1792527006.2185757,
 "micron|internssdfirmware": 1792527006.2186074,
@@ -46998,6 +47036,7 @@
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineering-Graduate-Intern_JR0287917": "PRC, Shanghai; PRC, Beijing",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536": "PRC, Shanghai; PRC, Beijing",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945": "PRC, Shanghai; PRC, Chengdu",
+"https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533": "US, California, Santa Clara; US, California, Folsom",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834": "US, Oregon, Hillsboro; US, California, Folsom; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836": "US, Oregon, Hillsboro; US, California, Folsom; US, California, Santa Clara; US, Texas, Austin; US, Arizona, Phoenix",
 "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000": "US, Oregon, Hillsboro; US, California, Santa Clara; US, Texas, Austin",
