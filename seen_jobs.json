@@ -41848,6 +41848,13 @@
 "title": "Technology Undergraduate Intern",
 "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778"
 },
+"src:simplify:baa25da2-9ee0-403d-8396-0d4788626830": {
+"company": "Skydio",
+"first_seen": "2026-10-26T06:25:01+00:00",
+"posted": 1792886400.0,
+"title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+"url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true"
+},
 "src:simplify:bab771b3-ac96-486f-9e4a-e48811b37eab": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Physical Design Engineer Intern - MS - Multiple Teams",
@@ -46876,6 +46883,7 @@
 "simberobotics|computervisionappliedaiintern": 1792796813.144736,
 "simberobotics|dataanalyticsdatascienceintern": 1792796813.1447477,
 "simberobotics|robotsoftwareengineerintern": 1792796813.1447575,
+"skydio|autonomyengineerinterndeeplearningcomputervision": 1792996062.8245444,
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
 "skydio|embeddedsoftwareengineerinternwiner": 1792526968.2907512,
 "skydio|frontendsoftwareengineerintern": 1792701348.8512213,
