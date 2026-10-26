@@ -110,6 +110,7 @@
 "Amgen",
 "Amp Robotics",
 "Amperesand",
+"Amplify",
 "Amynta Group",
 "AnaVation",
 "Analog Devices",
@@ -296,6 +297,7 @@
 "Brain Co.",
 "Brandeis University",
 "Brave",
+"Braze",
 "Bree",
 "Breeze Airways",
 "Brevium",
@@ -885,6 +887,7 @@
 "Human Computer Lab",
 "HumanSignal",
 "Humana",
+"Humble Robotics",
 "Huntington Bancshares",
 "Hy-Vee",
 "Hydrite",
@@ -922,6 +925,7 @@
 "Inmar Intelligence",
 "Innodata",
 "Insitro",
+"Insomniac Games",
 "Insperity",
 "InstaLILY",
 "Instacart",
@@ -1049,6 +1053,7 @@
 "Lightmatter",
 "Lila Sciences",
 "Linear",
+"Linkup",
 "Littelfuse",
 "LivaNova",
 "Live Nation Entertainment",
@@ -1088,6 +1093,7 @@
 "Magna International",
 "Magnet Forensics",
 "Major League Baseball",
+"Maki",
 "Man Group",
 "Manulife",
 "Manulife Financial",
@@ -1135,6 +1141,7 @@
 "Meriton",
 "Meshy",
 "MetOx International",
+"Metalenz",
 "Metron",
 "Miami University",
 "Michelin",
@@ -1235,6 +1242,7 @@
 "Novartis",
 "Nshe",
 "Ntrs",
+"Nubank",
 "Nuclear Promise X",
 "Nuro",
 "Nycsca",
@@ -1275,6 +1283,8 @@
 "Onto Innovation",
 "OpenAI",
 "OpenGov",
+"OpenSesame",
+"Openart",
 "Optiver",
 "OpusClip",
 "Orbital Industries",
@@ -1318,6 +1328,7 @@
 "PathAI",
 "PatientPoint",
 "Patreon",
+"Pattern",
 "Patterson Companies",
 "Paypal",
 "Pear Vc",
@@ -1430,6 +1441,7 @@
 "Realm",
 "Realtor.com",
 "Realty Income",
+"Red Gate",
 "Red Hat",
 "Reddit",
 "Redhorse",
@@ -1508,6 +1520,7 @@
 "SOTI",
 "SPAICE Technology",
 "SS&C",
+"STR",
 "STRS Ohio",
 "STV",
 "SWBC",
@@ -1669,6 +1682,7 @@
 "TMX Group",
 "TNS",
 "TOPPAN Packaging Americas",
+"TPG Careers Page",
 "TRUMPF",
 "TSC",
 "Taara",
@@ -1703,6 +1717,7 @@
 "Thales",
 "The Access Group",
 "The Aerospace Corporation",
+"The Allen Institute for Artificial Intelligence",
 "The Andersons",
 "The Boeing Company",
 "The Boyd Group",
@@ -1726,6 +1741,7 @@
 "Thehartford",
 "Thermo Fisher Scientific",
 "Thomson Reuters",
+"Thorit",
 "Thrivent",
 "Tihinsurance",
 "Tilde Research",
@@ -1738,6 +1754,8 @@
 "Toshiba Global Commerce",
 "Toyota Research Institute",
 "Traackr",
+"Trace Labs",
+"Trace3",
 "Trainerize",
 "Trajectory",
 "Tranetechnologies",
@@ -1761,6 +1779,7 @@
 "Tutor Intelligence",
 "Tutor Perini Corporation",
 "Twilio",
+"Twitch",
 "Two Six Technologies",
 "Tyson Foods",
 "U.S. Bank",
@@ -1805,6 +1824,7 @@
 "Upenn",
 "Upstart",
 "Upvest",
+"Ursa Major",
 "Usbank",
 "UserTesting",
 "VEGA Americas",
@@ -1866,6 +1886,7 @@
 "Wade Trim",
 "Walleye Capital",
 "Walmart",
+"Walrus",
 "Warner Bros.",
 "Wasabi Technologies",
 "Wash U",
@@ -3718,6 +3739,27 @@
 "title": "AI/ML Engineering Intern",
 "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009"
 },
+"Amplify:7b859cc1-1354-43c5-bbd4-0571e85f7c51": {
+"company": "Amplify",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792436613.857,
+"title": "Summer 2027: Data Analytics Intern",
+"url": "https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51"
+},
+"Amplify:855d22a3-f15e-49f6-854c-29e505653efa": {
+"company": "Amplify",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792436647.357,
+"title": "Summer 2027: Software Engineering Intern",
+"url": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa"
+},
+"Amplify:bb45b7f6-dd7e-40e5-84e6-52e21650a7b8": {
+"company": "Amplify",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792436598.661,
+"title": "Summer 2027: AI Scientist Intern",
+"url": "https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8"
+},
 "AnaVation:4a82ae00-30f0-410c-bf3c-f1cdd18739e7": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Computer Science Internship Summer 2027",
@@ -5111,6 +5153,13 @@
 "title": "Internship \u2013 Software Developer (Year-Round)",
 "url": "https://baird.wd1.myworkdayjobs.com/en-US/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1"
 },
+"Baker Hughes:/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942": {
+"company": "Baker Hughes",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792610907.9854739,
+"title": "Intern - Software Engineering - 2027",
+"url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942"
+},
 "Baker Hughes:/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R169118-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern/Co-op - Engineering & Technology - Spring 2027 Opportunities",
@@ -5947,6 +5996,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern - Waterloo University",
 "url": "https://job-boards.greenhouse.io/brave/jobs/8161945"
+},
+"Braze:8301086": {
+"company": "Braze",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792443344.0,
+"title": "Intern, Software Engineering",
+"url": "https://job-boards.greenhouse.io/braze/jobs/8301086"
 },
 "Bree:17d8dd15-5f97-4003-8d6c-170dca13ff88": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -13340,6 +13396,13 @@
 "title": "Graduate Analytics Internship \u2013 Summer 2027",
 "url": "https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772"
 },
+"Humble Robotics:8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3": {
+"company": "Humble Robotics",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792524329.719,
+"title": "Embedded Software Engineer, 2027 Internship",
+"url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3"
+},
 "Huntington Bancshares:/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer 2027 Business Innovation & AI Products Intern",
@@ -13856,6 +13919,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Internships, Summer 2027",
 "url": "https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineering-Internships--Summer-2027_JY2627638"
+},
+"Insomniac Games:6227080004": {
+"company": "Insomniac Games",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792513902.0,
+"title": "Engine and Tools Programming Intern \u2013 Undergraduate",
+"url": "https://job-boards.greenhouse.io/insomniac/jobs/6227080004"
 },
 "Insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -16298,6 +16368,13 @@
 "title": "Student - Engineering Co-op",
 "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Southfield-Michigan-US/Student---Engineering-Co-op_R00261071"
 },
+"Maki:e315491d-2c1d-4656-a5a2-07ce158d5d40": {
+"company": "Maki",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792440147.948,
+"title": "AI Implementation Intern",
+"url": "https://jobs.ashbyhq.com/maki/e315491d-2c1d-4656-a5a2-07ce158d5d40"
+},
 "Man Group:4969142101": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Quant Researcher Internship",
@@ -17132,6 +17209,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Process Engineering Co-Op/Intern (Spring/Summer 2027)",
 "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5430385008"
+},
+"Metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6": {
+"company": "Metalenz",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792610547.469,
+"title": "Camera Software Intern",
+"url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
 },
 "Metron:5227222007": {
 "company": "Metron",
@@ -19797,6 +19881,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern, Software Engineer",
 "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08"
+},
+"OpenSesame:8313424": {
+"company": "OpenSesame",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792697541.0,
+"title": "AI Product Builder Intern",
+"url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424"
+},
+"Openart:8dd52ba6-a5b6-40b1-95fe-50de352fa254": {
+"company": "Openart",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792631694.485,
+"title": "Early Adopter & Product Builder Intern, Creative AI",
+"url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254"
 },
 "Orbital Operations:4375088009": {
 "company": "Orbital Operations",
@@ -22636,6 +22734,13 @@
 "title": "Software Engineer - Intern",
 "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a"
 },
+"Red Gate:2449a05b-81da-40de-b64d-3436c8ddb1df": {
+"company": "Red Gate",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792492569.619,
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df"
+},
 "Red Hat:/job/Boston/AI-Ecosystem-Intern_R-059053-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "AI Ecosystem Intern",
@@ -24484,6 +24589,13 @@
 "title": "MIT- Software Engineer Intern | Helios",
 "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220941"
 },
+"Skydio:19352f5e-c30d-4184-a070-3c25b0ebc048": {
+"company": "Skydio",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1793031337.074,
+"title": "Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)",
+"url": "https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048"
+},
 "Skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34": {
 "company": "Skydio",
 "first_seen": "2026-10-20T20:09:25+00:00",
@@ -25416,6 +25528,13 @@
 "title": "2027 Early Talent Internship: Nuveen Business Intelligence",
 "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Chicago-IL-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Business-Intelligence_R261000134"
 },
+"TPG Careers Page:8034245003": {
+"company": "TPG Careers Page",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792020414.0,
+"title": "Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship",
+"url": "https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003"
+},
 "TRUMPF:/job/Chicago-IL/Smart-Factory-Robotics---Operations-Intern_R00042570": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Smart Factory Robotics & Operations Intern",
@@ -26026,6 +26145,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "2027 Tracking Architecture and Performance Graduate Intern",
 "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Tracking-Architecture-and-Performance-Graduate-Intern_R016510"
+},
+"The Allen Institute for Artificial Intelligence:8293615": {
+"company": "The Allen Institute for Artificial Intelligence",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792434502.0,
+"title": "Research Internship, AI for Science",
+"url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615"
 },
 "The Andersons:/job/Albion-MI/Renewables-Engineering-Intern--Summer-2027-_R12499": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -26640,6 +26766,13 @@
 "title": "Applied Scientist Intern",
 "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-San-Francisco-California/Applied-Scientist-Intern_JREQ203428"
 },
+"Thorit:c525ea45-418e-4771-ba06-e16ed257e284": {
+"company": "Thorit",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1793027614.82,
+"title": "Working Student AI Software Engineer, LangChain (all genders)",
+"url": "https://jobs.ashbyhq.com/thorit/c525ea45-418e-4771-ba06-e16ed257e284"
+},
 "Thrivent:/job/Mpls-Investments-Office/Equity-Research-Analyst-Intern---Summer-2027_REQ-48119": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Equity Research Analyst Intern - Summer 2027",
@@ -26792,6 +26925,20 @@
 "title": "Human-Centered AI Research Intern, Causal Reasoning Models",
 "url": "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f"
 },
+"Trace Labs:dec74a24-a2d5-46d2-b5b9-e7a4e3f29525": {
+"company": "Trace Labs",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792785498.14,
+"title": "Robotics Engineering Intern \u2014 Hardware & Software",
+"url": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525"
+},
+"Trace3:8274818": {
+"company": "Trace3",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792612852.0,
+"title": "Data & Analytics Intern",
+"url": "https://job-boards.greenhouse.io/trace3/jobs/8274818"
+},
 "Trajectory:00cd9b1a-5d48-4ecb-8c53-cd27727448c5": {
 "company": "Trajectory",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -26881,6 +27028,20 @@
 "posted": 1786036660.0,
 "title": "Ecosystem Engineer Co-op",
 "url": "https://tulip.co/careers/job-posting/?gh_jid=7763800003"
+},
+"Twitch:8886605002": {
+"company": "Twitch",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792696682.0,
+"title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+"url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002"
+},
+"Twitch:8886748002": {
+"company": "Twitch",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792696638.0,
+"title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+"url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002"
 },
 "Tyson Foods:/job/Corporate---Springdale-Arkansas/Research-and-Development-Summer-Intern-2027_R0482561-2": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -27133,6 +27294,20 @@
 "posted": 1789740772.0,
 "title": "Applied Scientist Intern",
 "url": "https://careers.upstart.com/jobs?gh_jid=8213476"
+},
+"Ursa Major:4746825005": {
+"company": "Ursa Major",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792703398.0,
+"title": "2027 Summer Embedded Flight Software Intern",
+"url": "https://ursamajor.com/careers/?gh_jid=4746825005"
+},
+"Ursa Major:4746827005": {
+"company": "Ursa Major",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792703548.0,
+"title": "2027 Summer Software Development Intern",
+"url": "https://ursamajor.com/careers/?gh_jid=4746827005"
 },
 "VEGA Americas:4715487006": {
 "company": "VEGA Americas",
@@ -27902,6 +28077,13 @@
 "posted": 1792626011.6152065,
 "title": "2026 Intern Conversion: 2027 FT Software Engineer II - Bentonville",
 "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Bentonville_R-2630128"
+},
+"Walrus:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5": {
+"company": "Walrus",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792620623.57,
+"title": "Full Stack Developer Intern",
+"url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5"
 },
 "Warner Bros.:/job/Warsaw-166-Wiertnicza-TVN/Transmission-Enigeering-Internship-Program_R000106092": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -34214,6 +34396,13 @@
 "title": "Innovation & Technology Data Engineering Intern",
 "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090"
 },
+"src:simplify:4bc89fb6-aa1c-4885-baa5-14d7ba2a7849": {
+"company": "CVS Health",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792972800.0,
+"title": "Innovation & Technology Intern - Data Engineering",
+"url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1"
+},
 "src:simplify:4bcd5c66-dd7f-4827-9604-aaf0042ab85a": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "GPU Intern - Multiple Teams",
@@ -37616,6 +37805,13 @@
 "title": "Software Development Intern",
 "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
 },
+"src:simplify:7e450fbd-9292-460d-988b-8583bf42ae43": {
+"company": "Wells Fargo",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792972800.0,
+"title": "Technology Intern - Early Careers - Data Engineering",
+"url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066"
+},
 "src:simplify:7e502eb4-3d9c-4f91-8e83-a471504d8a4b": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027",
@@ -37747,6 +37943,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "AI Product Manager Intern - Product Social",
 "url": "https://lifeattiktok.com/search/7675616554318596357"
+},
+"src:simplify:8005e595-614b-4b9a-9c29-cb113c52566a": {
+"company": "PTC",
+"first_seen": "2026-10-26T19:25:08+00:00",
+"posted": 1792972800.0,
+"title": "Software Engineer Intern",
+"url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
 },
 "src:simplify:800e06ea-4a8a-4db5-a93a-7aae82cfac49": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -46583,7 +46786,6 @@
 "associatedbank|corporateinternartificialintelligencecorpcommercialbanking": 1792460774.4486125,
 "assorthealth|softwareengineerintern": 1792195338.001059,
 "astreya|aiinfrastructuredcdesignintern": 1792546508.7020047,
-"atkinsralis|softwaredeveloperintern": 1791821048.9891891,
 "atoms|softwareengineeringinternterm": 1792006203.176475,
 "atoms|softwareengineerintern": 1792025322.4793735,
 "autodesk|internsoftwareqaengineerfusion": 1792805349.9693882,
@@ -46593,6 +46795,7 @@
 "azulsystems|itinternaiandoperations": 1792438814.4679554,
 "badgermeter|softwareengineeringintern": 1791913830.9602046,
 "bakerhughes|interngenerativeaimfd": 1792100972.4006581,
+"bakerhughes|internsoftwareengineering": 1793042956.7316236,
 "berkshirehathawayenergy|softwareengineerintern": 1792537972.0791857,
 "bobyard|computervisionresearchengineerintern": 1791845339.8818634,
 "boozallen|enterprisecybersecuritydataandbusinessintelligenceanalystintern": 1792712100.4211144,
@@ -46607,13 +46810,13 @@
 "brain|aiplatformengineercoopintern": 1792438814.1977167,
 "brain|aisecurityengineercoopintern": 1792438814.1975303,
 "brain|machinelearningengineerappliedaicoopintern": 1791956008.5618439,
+"braze|internsoftwareengineering": 1793042713.054899,
 "caci|softwareengineerintern": 1792017214.4118736,
 "caci|softwaretestengineerintern": 1792187609.315268,
 "cadencedesignsystems|internaiforsilicontestdataanalyticsfailureanalysis": 1792737296.3970215,
 "cadencedesignsystems|internaiforsmarteratetestdevelopmentdebug": 1792737296.397056,
 "cai|programmerintern": 1791939383.3789902,
 "cai|softwaredeveloperintern": 1791861372.2230937,
-"captechconsulting|dataanalysisdataengineeringintern": 1791820971.127025,
 "carbonrobotics|engineeringinternhardwaresoftware": 1791939383.3788445,
 "carrierglobal|softwareengineeringintern": 1792100911.117345,
 "carrierglobal|softwareengineerintern": 1792796813.1448233,
@@ -46693,7 +46896,6 @@
 "globalfoundries|aisoftwareintern": 1792625856.9782758,
 "globalfoundries|softwareengineerinterncloudplatform": 1792625856.978311,
 "globalfoundries|workingstudentforbackendoflineintegration": 1792626105.5078464,
-"google|forwarddeployedengineerintern": 1791820971.127002,
 "guidepointsecurity|aidatascienceinterngpsune": 1791845339.9653714,
 "guidepointsecurity|cloudinfrastructureinterngpsune": 1791845339.965467,
 "hasbro|itsoftwareintern": 1791845339.9197168,
@@ -46713,6 +46915,7 @@
 "hpe|hpcaisystemadminhwswserviceengineerintern": 1791913865.3509014,
 "hpe|hpcaisystemsserviceprocessimprovementengineerintern": 1791913865.3508863,
 "hpe|productsoftwaredevelopmentintern": 1791913865.3508718,
+"humblerobotics|embeddedsoftwareengineerintern": 1793042713.2054715,
 "icfinternational|aiengineerintern": 1792025322.4793177,
 "icfinternational|interncloudengineerawsazurerestonva": 1792237839.5509067,
 "icfinternational|softwareengineerintern": 1792025322.4793003,
@@ -46723,6 +46926,7 @@
 "iex|softwareengineerintern": 1791845340.092124,
 "impulsespace|enterprisesoftwareengineerintern": 1792195338.0009305,
 "inmarintelligence|datascienceintern": 1792625791.968024,
+"insomniacgames|engineandtoolsprogramminginternundergraduate": 1793042713.0919025,
 "insperity|rotationalaiintern": 1792737560.9781404,
 "insperity|rotationaldataanalyticsintern": 1792737560.9781644,
 "intel|aihardwareengineeringintern": 1792863310.5823302,
@@ -46761,6 +46965,7 @@
 "linkedin|softwareengineerintern": 1792564105.075877,
 "lseg|softwareengineerintern": 1792017214.4117978,
 "macys|softwareengineerintern": 1792017214.4118958,
+"maki|aiimplementationintern": 1793042713.0332835,
 "marvell|aidatascienceintern": 1792438936.6935744,
 "mastercard|platformengineeringinternstlouismous": 1792247433.927961,
 "mbda|softwareengineeringlevel6degreeapprenticeship": 1792886051.6828163,
@@ -46771,6 +46976,7 @@
 "merck|futuretalentdataaiandgenomesciencesintern": 1792863191.6679938,
 "merck|futuretalentinternaimlbiomedicalimagingandcomputationalpathology": 1792796813.1446729,
 "merck|internhbowobusinessadministrationordataanalyticsintellectualproperty": 1792863191.6680825,
+"metalenz|camerasoftwareintern": 1793042712.9811282,
 "metropolitantransportationauthority|dataanalystemergingtalentinternsupplierrelations": 1791939383.3793364,
 "micron|internsmaiprobeaiengineer": 1792527006.2185757,
 "micron|internssdfirmware": 1792527006.2186074,
@@ -46812,7 +47018,9 @@
 "nxpsemiconductors|internstaagentdeveloperintern": 1792546627.7591,
 "onsemi|manufacturingaiengineeringintern": 1792017214.4117773,
 "onsemi|semiconductoraispecialistintern": 1792017214.411821,
+"openart|earlyadopterproductbuilderinterncreativeai": 1793042712.956134,
 "opengov|internsoftwareengineer": 1792089592.2300394,
+"opensesame|aiproductbuilderintern": 1793042713.0428133,
 "opswat|supportengineeringinternaiautomationfocus": 1791845340.1302912,
 "orionsteel|inventoryandprocurementdataanalyticsintern": 1792546599.5904453,
 "paccar|aftersalesdataanalystintern": 1792720376.838488,
@@ -46833,6 +47041,7 @@
 "point72|internmsphddatascientistproprietaryresearch": 1791991357.0182395,
 "point72|internsoftwareengineer": 1791991357.0182743,
 "proctergamble|itinternanalyticsdataengineering": 1792101016.9352653,
+"ptc|softwareengineerintern": 1793042852.1918194,
 "qts|peopleservicesdataanalyticsintern": 1792451178.512173,
 "rakuteninternational|earlycareeraiengineerintern": 1792584647.6843135,
 "redgate|softwareengineerintern": 1792515148.5785928,
@@ -46849,8 +47058,6 @@
 "redhat|softwareengineeringinternpipelinevalueobservabilitybrnoczechrepublic": 1792100776.9988961,
 "redhat|softwareengineeringinterntelcoplatformbrnoczechrepublic": 1792100776.9989276,
 "redhat|softwareengineeringinterntrustedprofileanalyzerbrnoczechrepublic": 1792100776.9989588,
-"rfsmart|softwaredeveloperintern": 1791820851.3207057,
-"rfsmart|softwaresupportengineerinternrfsfornetsuite": 1791820851.3207316,
 "rhodaai|softwareengineerinterninference": 1792563944.269651,
 "rhombus|softwareengineerintern": 1791939383.3790047,
 "rivian|softwareengineerinterncoopmachinelearningresearchperception": 1792108649.8234522,
@@ -46884,6 +47091,7 @@
 "simberobotics|dataanalyticsdatascienceintern": 1792796813.1447477,
 "simberobotics|robotsoftwareengineerintern": 1792796813.1447575,
 "skydio|autonomyengineerinterndeeplearningcomputervision": 1792996062.8245444,
+"skydio|autonomyengineerinternreinforcementlearninghq": 1793042709.376628,
 "skydio|embeddedsoftwareengineerintern": 1791928730.0497189,
 "skydio|embeddedsoftwareengineerinternwiner": 1792526968.2907512,
 "skydio|frontendsoftwareengineerintern": 1792701348.8512213,
@@ -46909,7 +47117,7 @@
 "tessera|softwareengineeringinternfullstack": 1792041412.2666733,
 "thehartford|techdatadataengineerinterncharlotte": 1792805517.9063437,
 "thomsonreuters|appliedscienceintern": 1792584673.737102,
-"tiaa|earlytalentinternnuveenbusinessintelligence": 1791820949.948472,
+"thorit|workingstudentaisoftwareengineerlangchainallgenders": 1793042713.003707,
 "tiktok|machinelearningengineerinternecommercegovernance": 1792025322.4790606,
 "tiktok|machinelearningengineerinternecommerceknowledgegraph": 1792025322.478995,
 "tiktok|machinelearningengineerinternecommercerecommendationlive": 1792025322.4789736,
@@ -46923,7 +47131,11 @@
 "tmobile|softwareengineeringintern": 1792108848.9201307,
 "toro|cloudsoftwaredeveloperintern": 1792451178.512045,
 "toyota|datascienceintern": 1792564105.075927,
+"tpgcareerspage|yanalyticsdataanalyticsandreportingresearchassistantintern": 1793042713.0979135,
+"trace3|dataanalyticsintern": 1793042713.0264804,
+"trace|roboticsengineeringinternhardwaresoftware": 1793042713.003857,
 "trimble|peopledevelopmentaidigitallearningintern": 1792712040.009257,
+"twitch|undergradsoftwareengineeringinterngradyear": 1793042713.0980203,
 "tyler|softwaredeveloperintern": 1792451178.5121963,
 "uline|softwaredevelopmentintern": 1792712177.5050397,
 "unitytech|machinelearningengineerintern": 1792438928.0805926,
@@ -46938,8 +47150,10 @@
 "vertiv|dataanalyticsintern": 1791913831.5754309,
 "vestmark|softwareengineercoop": 1791913831.5754464,
 "walmart|internconversionftsoftwareengineeriibentonville": 1792626055.5572894,
+"walrus|fullstackdeveloperintern": 1793042713.0356426,
 "washu|dataanalystemergencymanagementinternprnenterprisephysicaloperations": 1792115193.8947752,
 "wellmark|softwareengineerinterntechnologyhealthplan": 1792195338.0012736,
+"wellsfargo|technologyinternearlycareersdataengineering": 1793042852.1918538,
 "westinghouseelectric|softwaredevelopmentintern": 1792451178.5123978,
 "westinghouseelectric|softwareengineeringintern": 1792712100.4205244,
 "whataburger|datascientistintern": 1792712110.7650068,
