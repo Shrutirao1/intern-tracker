@@ -1521,6 +1521,7 @@
 "SK hynix",
 "SOTI",
 "SPAICE Technology",
+"SPS Commerce",
 "SS&C",
 "STR",
 "STRS Ohio",
@@ -4090,6 +4091,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Intern / Working Student (m/f/d) for PVD Display Engineering in Alzenau",
 "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlzenauDEU/Intern---Working-Student--m-f-d--for-PVD-Display-Engineering-in-Alzenau_R2627143"
+},
+"Applied Materials:/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146": {
+"company": "Applied Materials",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793023869.555574,
+"title": "2027 Spring Data Scientist Co-op - Gloucester, MA",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146"
 },
 "Applied Materials:/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705": {
 "company": "Applied Materials",
@@ -6751,6 +6759,13 @@
 "title": "Information Security Co-Op Internship \u2013 2027",
 "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Co-Op-Internship---2027_JR205939"
 },
+"Carrier Global:/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588": {
+"company": "Carrier Global",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793024283.1072357,
+"title": "Software Engineering Intern - Summer",
+"url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
+},
 "Carrier Global:/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161": {
 "company": "Carrier Global",
 "first_seen": "2026-10-15T21:45:19+00:00",
@@ -7734,6 +7749,13 @@
 "title": "QA Engineering Intern",
 "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR111181-1"
 },
+"Copart:/job/Dallas-TX---Headquarters/SDET-Intern_JR112006": {
+"company": "Copart",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1792678263.0498862,
+"title": "SDET Intern",
+"url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/SDET-Intern_JR112006"
+},
 "Copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Site Reliability Engineer Intern",
@@ -7778,6 +7800,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern",
 "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173"
+},
+"Copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861": {
+"company": "Copart",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1792764663.0504093,
+"title": "Software Engineering Intern",
+"url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861"
 },
 "Copart:/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -12858,6 +12887,20 @@
 "title": "Early Careers - Infrastructure Engineer Intern",
 "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506"
 },
+"Hcsc:/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Associate-Intern_R0059493": {
+"company": "Hcsc",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793024088.6756144,
+"title": "Early Careers \u2013 Product Engineering Developer Associate Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Associate-Intern_R0059493"
+},
+"Hcsc:/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492": {
+"company": "Hcsc",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793024088.6756535,
+"title": "Early Careers \u2013 Product Engineering Developer Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492"
+},
 "Hcsc:/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503": {
 "company": "Hcsc",
 "first_seen": "2026-10-07T16:33:36+00:00",
@@ -13120,6 +13163,13 @@
 "posted": 1788034196.2197118,
 "title": "Software and Engineering Intern Roles - Imaging and Print",
 "url": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142"
+},
+"Hewlett Packard (HP):/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799": {
+"company": "Hewlett Packard (HP)",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793110264.723816,
+"title": "Cloud Engineering Intern - HP IQ",
+"url": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799"
 },
 "Hewlett Packard (HP):/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -22073,12 +22123,33 @@
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741"
 },
+"RTX:/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793110264.6105976,
+"title": "Embedded Software Engineering Intern (Summer 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782"
+},
+"RTX:/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering--Intern--Summer-2027-_01884532": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793023866.378549,
+"title": "Software Engineering  Intern (Summer 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering--Intern--Summer-2027-_01884532"
+},
 "RTX:/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026": {
 "company": "RTX",
 "first_seen": "2026-10-21T01:30:45+00:00",
 "posted": 1792546252.7401285,
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
+},
+"RTX:/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793023869.0143678,
+"title": "Part Time Software Platform Engineer Co-Op  (Remote)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752"
 },
 "RTX:/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452": {
 "company": "RTX",
@@ -22506,6 +22577,13 @@
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01873687"
 },
+"RTX:/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793110264.9739463,
+"title": "Software Engineering Intern (Summer 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074"
+},
 "RTX:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974": {
 "company": "RTX",
 "first_seen": "2026-10-04T18:43:30+00:00",
@@ -22593,6 +22671,20 @@
 "title": "Internship \u2013 Raytheon Systems Security Engineer -Onsite",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874700"
 },
+"RTX:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793110263.2156067,
+"title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187"
+},
+"RTX:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793196662.8721771,
+"title": "Software Engineer Co-op (January 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
+},
 "RTX:/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743": {
 "company": "RTX",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -22637,6 +22729,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Internship \u2013 Raytheon Systems Security Engineer- Onsite",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
+},
+"RTX:/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793110264.610629,
+"title": "Secure Software Intern (Summer 2027)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942"
 },
 "RTX:/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939": {
 "company": "RTX",
@@ -22757,6 +22856,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Internship \u2013 Raytheon Systems Security Engineer-Onsite",
 "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Internship---Raytheon-Systems-Security-Engineer-Onsite_01874705"
+},
+"RTX:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756": {
+"company": "RTX",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793023869.0143347,
+"title": "Part Time Software Platform Engineer Co-Op  (Remote)",
+"url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756"
 },
 "RTX:/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545": {
 "company": "RTX",
@@ -29379,6 +29485,13 @@
 "title": "Internship \u2013 Robotics for Medical Applications & Robot-Assisted Surgery (f/m/x)",
 "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Karlsruhe/Internship---Robotics-for-Medical-Applications---Robot-Assisted-Surgery--f-m-x-_JR_1051889-1"
 },
+"Zeiss:/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317": {
+"company": "Zeiss",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793110274.5601373,
+"title": "Internship in AI & Machine Learning (f/m/x)",
+"url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317"
+},
 "Zeiss:/job/Karlsruhe/Internship-in-Agriculture-Technology-and-Robotics--f-m-x-_JR_1049137": {
 "company": "Zeiss",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -35995,6 +36108,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern",
 "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443"
+},
+"src:simplify:5a6710d9-eb37-4044-b352-2b23303dd73c": {
+"company": "VSP Vision",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793145600.0,
+"title": "Software Engineer Intern",
+"url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046"
 },
 "src:simplify:5a7c2b4d-1df9-478c-b742-c98a38d125ee": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -44632,6 +44752,13 @@
 "title": "Analog Design Engineer Intern",
 "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623"
 },
+"src:simplify:d54ad503-0917-4cd9-8e73-8ecd6fe2d56d": {
+"company": "VSP Vision",
+"first_seen": "2026-10-28T14:10:56+00:00",
+"posted": 1793145600.0,
+"title": "Software Engineer Intern",
+"url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071"
+},
 "src:simplify:d55095b6-b7dc-4c2a-b7dd-9f93cb9358fb": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Single-Family Data Intern",
@@ -47715,6 +47842,8 @@
 "commonaicic|softwareengineerintern": 1792537972.0791116,
 "commonwealthfusionsystems|aiinfrastructureengineerintern": 1792108649.823265,
 "commonwealthfusionsystems|internscientificsoftwareengineer": 1793127211.8146381,
+"copart|sdetintern": 1793196673.3256903,
+"copart|softwareengineeringintern": 1793196673.3257146,
 "coretekservices|aidataautomationdevelopercoop": 1792786099.0123515,
 "covestro|supplychainapplicationdevelopercoop": 1792017214.4118564,
 "creativeartistsagency|dataanalyticsintern": 1792451178.5121844,
@@ -47770,9 +47899,12 @@
 "greatamericaninsurance|claimslabdeveloperintern": 1793151839.531694,
 "greatamericaninsurance|clouddataplatformintern": 1793151839.5316377,
 "greatamericaninsurance|dataengineerintern": 1793151839.5316563,
+"hcsc|earlycareersproductengineeringdeveloperassociateintern": 1793196896.0528603,
+"hcsc|earlycareersproductengineeringdeveloperintern": 1793196896.0528784,
 "healthpeakproperties|forwarddeployedsoftwareengineerintern": 1792115194.6814897,
 "heinz|culinaryinsightsdataanalystintern": 1791991685.9943185,
 "heronpower|internfirmwareengineering": 1792438811.4604437,
+"hewlettpackard|cloudengineeringinternhpiq": 1793196722.8974245,
 "heygen|softwareengineerintern": 1792438814.273551,
 "highmarkhealth|appliedgenaidatascientistgraduateintern": 1793108194.7374716,
 "highmarkhealth|artificialintelligenceoperationsundergraduateintern": 1792177312.7404919,
@@ -47880,7 +48012,6 @@
 "nissanglobal|softwareengineerintern": 1792025322.4790819,
 "nissan|aiintern": 1793127369.817374,
 "northropgrumman|cybersoftwareengineerintern": 1792712100.4206607,
-"northropgrumman|softwareembeddedengineerintern": 1791973938.940421,
 "northropgrumman|softwareengineeringintern": 1792195338.0012355,
 "northropgrumman|softwareengineerintern": 1792195338.001091,
 "northropgrumman|systemsengineeringinternaiexperience": 1792712100.4206395,
@@ -47951,8 +48082,10 @@
 "rtx|datascienceengineeringcoopjanuaryhybrid": 1792963379.8759768,
 "rtx|embeddedsoftwareengineerintern": 1793127369.81742,
 "rtx|parttimesoftwareengineercoopremote": 1792546582.1506906,
+"rtx|parttimesoftwareplatformengineercoopremote": 1793196688.7805562,
 "rtx|receiverprocessingarchitecturesoftwareengineerinternexciter": 1793172505.841126,
 "rtx|securesoftwareintern": 1793127369.8174036,
+"rtx|softwareengineercoopjanuary": 1793196688.7804744,
 "rtx|softwareengineeringcoop": 1792108433.5318995,
 "rtx|softwareengineeringintern": 1792075757.5576956,
 "rtx|softwareengineerintern": 1792075757.5577416,
@@ -47996,7 +48129,6 @@
 "str|dataanalystintern": 1792712100.420904,
 "sunlife|datascienceinternintern": 1792963358.386306,
 "symbotic|machinelearningopscoop": 1792712100.4208329,
-"tenstorrent|systemsinternvalidationsoftwaredesignarchitecturepackagingusa": 1791973818.5460246,
 "tesla|firmwareinternsocfirmwareengineersihardwareinfrastructure": 1792317928.7055273,
 "tessera|softwareengineeringinternfullstack": 1792041412.2666733,
 "thehartford|techdatadataengineerinterncharlotte": 1792805517.9063437,
@@ -48044,6 +48176,7 @@
 "westinghouseelectric|softwareengineeringintern": 1792712100.4205244,
 "whataburger|datascientistintern": 1792712110.7650068,
 "wikimediafoundation|softwareengineeringintern": 1792108649.823343,
+"zeiss|interninaimachinelearningfmx": 1793196718.1804929,
 "zeiss|internincomputervisioncalibrationpipelinesfmx": 1791991726.3995156,
 "zillow|appliedscientistinterneconomics": 1792537972.0790226,
 "zillow|datascienceintern": 1793066880.6856875,
@@ -48266,8 +48399,11 @@
 "https://guardianlife.wd5.myworkdayjobs.com/en-US/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202": "New York; Bethlehem; Holmdel",
 "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Information-Security-Summer-2027-Internship---KY_R26029765": "US - AIR GROUP BUILDING (KYARP); US - LOUISVILLE TECHNOLGY AND LOGISTIC CENTER (KYLOL)",
 "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Information-Security-Summer-2027-Internship---GA_R26029762": "US - UPS CORPORATE OFFICES (GACOR); US - UPS SUPPLY CHAIN SOLUTIONS (GAAPR)",
+"https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Automation-Programmer-Intern_R0059484": "IL - Chicago; TX - Richardson",
 "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505": "IL - Chicago; TX - Richardson",
 "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506": "IL - Chicago; TX - Richardson",
+"https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Associate-Intern_R0059493": "IL - Chicago; TX - Richardson",
+"https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492": "IL - Chicago; TX - Richardson",
 "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007": "",
 "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175": "",
 "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333": "",
