@@ -6472,6 +6472,13 @@
 "title": "Software Engineering Intern - Summer 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"
 },
+"CACI:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160": {
+"company": "CACI",
+"first_seen": "2026-10-29T20:33:20+00:00",
+"posted": 1793306006.670908,
+"title": "Software Engineering Co-op/Intern - Spring 2027",
+"url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160"
+},
 "CACI:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618": {
 "company": "CACI",
 "first_seen": "2026-10-27T22:40:31+00:00",
@@ -7383,6 +7390,13 @@
 "posted": 1792256558.658,
 "title": "Computer Vision & Robotics Intern",
 "url": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0"
+},
+"Clera:add0d66a-62ce-43e6-a666-4ee20b2d3bcb": {
+"company": "Clera",
+"first_seen": "2026-10-29T20:33:20+00:00",
+"posted": 1793293408.617,
+"title": "Computer Vision & Robotics Intern",
+"url": "https://jobs.ashbyhq.com/clera/add0d66a-62ce-43e6-a666-4ee20b2d3bcb"
 },
 "Clera:d3c69268-3324-4a84-b911-7a4303672767": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -11272,6 +11286,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern (AI Internal Tools) ",
 "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146408004"
+},
+"Garda Capital Partners:6238021004": {
+"company": "Garda Capital Partners",
+"first_seen": "2026-10-29T20:33:20+00:00",
+"posted": 1793224115.0,
+"title": "Software Engineer Intern (C#)",
+"url": "https://job-boards.greenhouse.io/gardacp/jobs/6238021004"
 },
 "Garner Health:6164698004": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -21109,6 +21130,13 @@
 "posted": 1792443679.796,
 "title": "Software Engineering Intern - Summer 2027",
 "url": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c"
+},
+"Pattern:48945dce-b5ef-43cd-9d85-f8b26ce5b43e": {
+"company": "Pattern",
+"first_seen": "2026-10-29T20:33:20+00:00",
+"posted": 1792160869.938,
+"title": "AI Automation Engineer Intern",
+"url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e"
 },
 "Pear Vc:ec6028da-190c-4cf3-949c-e130e8ba099a": {
 "company": "Pear Vc",
@@ -48552,6 +48580,7 @@
 "cisco|softwareengineerembeddedsystemsicoopunitedstates": 1792886004.3068986,
 "cisco|softwareengineerfullstackbackendicoopunitedstates": 1792886004.3068645,
 "cleanharbors|softwarefieldtechnologyinternis": 1793230163.4697132,
+"clera|computervisionroboticsintern": 1793306003.3506422,
 "cognex|softwareengineerintern": 1792451178.5120325,
 "cohesity|softwareengineerintern": 1793056522.9161756,
 "commonaicic|softwareengineerintern": 1792537972.0791116,
@@ -48590,6 +48619,7 @@
 "freseniusmedicalcare|softwareengineeringcoop": 1792564134.344216,
 "freudenberg|workingstudentfmdpurchasingaitools": 1792478292.8655884,
 "futo|softwareengineerintern": 1793151839.5320418,
+"gardacapitalpartners|softwareengineerinternc": 1793306003.6862512,
 "geaerospace|cncprogrammercoop": 1792115206.4650958,
 "geaerospace|datascienceandaidigitaltechnologyintern": 1792115206.4650097,
 "genentech|datasciencemachinelearninginternagenticaidiscoveryprototyping": 1792712100.4208143,
@@ -48710,7 +48740,6 @@
 "msasafety|aiengineercoop": 1792796813.1447027,
 "mtbank|technologyinternsoftwareengineeringenterpriseapiservicesdevelopmentteam": 1792712100.420708,
 "mtb|technologyapprenticeapplicationdeveloperzdp": 1792537974.4197671,
-"muonspace|groundsoftwareengineeringintern": 1792089593.750337,
 "myhrabc|dataanalyticsintern": 1793264087.80361,
 "nationallaboratoryofrockies|graduate1012weeksinternaimlforcybersecurity": 1792359340.8634956,
 "newyorktimes|aiinitiativesfellow": 1792498048.0323136,
@@ -48732,7 +48761,6 @@
 "onsemi|aidatascienceintern": 1793056522.9160404,
 "onsemi|customeroperationsdataanalystintern": 1793151839.5318096,
 "openart|earlyadopterproductbuilderinterncreativeai": 1793042712.956134,
-"opengov|internsoftwareengineer": 1792089592.2300394,
 "opensesame|aiproductbuilderintern": 1793042713.0428133,
 "orionsteel|inventoryandprocurementdataanalyticsintern": 1792546599.5904453,
 "paccar|aftersalesdataanalystintern": 1792720376.838488,
