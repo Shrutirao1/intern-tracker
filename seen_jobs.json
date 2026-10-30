@@ -168,6 +168,7 @@
 "AspenTech",
 "AssetMark",
 "AssetWorks",
+"Associated Bank",
 "Assorthealth",
 "Assurant",
 "Assured Guaranty",
@@ -2694,6 +2695,13 @@
 "title": "Test Automation Internship Program (She/He/They)",
 "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Test-Automation-Internship-Program--She-He-They-_R00299233"
 },
+"Ace Hardware:/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797": {
+"company": "Ace Hardware",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793222989.5301664,
+"title": "IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)",
+"url": "https://acehardware.wd1.myworkdayjobs.com/en-US/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"
+},
 "Achievers:e0700fce-b33b-435a-ab90-84bbd677e181": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Co-op - Winter 2027",
@@ -4468,6 +4476,13 @@
 "title": "Summer 2027 Intern: Software Engineering Intern",
 "url": "https://assurant.wd1.myworkdayjobs.com/en-US/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727"
 },
+"Assurant:/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105": {
+"company": "Assurant",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136718.2711198,
+"title": "Summer 2027: AI and Data Science Internship",
+"url": "https://assurant.wd1.myworkdayjobs.com/en-US/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105"
+},
 "Astera Labs:4562833005": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Platform Applications Engineer Intern (8-month Co-Op)",
@@ -6119,6 +6134,13 @@
 "title": "Robotics Engineering Intern",
 "url": "https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086"
 },
+"Brain Co.:2db4339e-79c8-4e97-9c94-92753b49e20a": {
+"company": "Brain Co.",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1789243187.847,
+"title": "AI Platform Engineer Intern (Summer 2027)",
+"url": "https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a"
+},
 "Brain Co.:a4bdb254-8007-4142-bf36-a3e8622b1ed9": {
 "company": "Brain Co.",
 "first_seen": "2026-10-30T17:10:10+00:00",
@@ -6132,6 +6154,13 @@
 "posted": 1791585402.075,
 "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
 "url": "https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a"
+},
+"Brain Co.:b697421a-4a50-4028-9832-6798132e327a": {
+"company": "Brain Co.",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1789248479.775,
+"title": "AI Security Engineer Intern (Summer 2027)",
+"url": "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a"
 },
 "Brain Co.:b6adda4c-490c-4e9e-8354-e55c05d3c6ac": {
 "company": "Brain Co.",
@@ -6896,6 +6925,27 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Information Security Co-Op Internship \u2013 2027",
 "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Co-Op-Internship---2027_JR205939"
+},
+"CareSource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126": {
+"company": "CareSource",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793309312.730786,
+"title": "2027 Summer Internship Program - AI Healthcare Operations",
+"url": "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126"
+},
+"CareSource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123": {
+"company": "CareSource",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793309312.7304807,
+"title": "2027 Summer Internship Program - AI Intern",
+"url": "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123"
+},
+"CareSource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181": {
+"company": "CareSource",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793309312.7307417,
+"title": "2027 Summer Internship Program - Full Stack AI Development Intern-1",
+"url": "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181"
 },
 "Carrier Global:/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588": {
 "company": "Carrier Global",
@@ -11294,6 +11344,13 @@
 "title": "Automation & Robotic Engineer Intern",
 "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Singapore/Automation---Robotic-Engineer-Intern_R5053727-3"
 },
+"GE Vernova:/job/Software-Engineering-Intern_R5057006-1": {
+"company": "GE Vernova",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793395689.5285738,
+"title": "Software Engineering Intern",
+"url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Software-Engineering-Intern_R5057006-1"
+},
 "GITAI:5437128008": {
 "company": "GITAI",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -11379,6 +11436,13 @@
 "posted": 1793224115.0,
 "title": "Software Engineer Intern (C#)",
 "url": "https://job-boards.greenhouse.io/gardacp/jobs/6238021004"
+},
+"Garda Capital Partners:6239821004": {
+"company": "Garda Capital Partners",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793388433.0,
+"title": "Infrastructure Engineer Intern",
+"url": "https://job-boards.greenhouse.io/gardacp/jobs/6239821004"
 },
 "Garner Health:6164698004": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -13806,6 +13870,13 @@
 "title": "Cloud Developer Intern",
 "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"
 },
+"Hpe:/job/San-Jose-California/AI-ML-Developer-Intern_1217413": {
+"company": "Hpe",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1792963783.736195,
+"title": "AI/ML Developer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413"
+},
 "Hpe:/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397": {
 "company": "Hpe",
 "first_seen": "2026-10-17T11:46:35+00:00",
@@ -13854,6 +13925,13 @@
 "posted": 1791827409.121714,
 "title": "Firmware Engineering Intern",
 "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254"
+},
+"Hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146": {
+"company": "Hpe",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793395781.7063525,
+"title": "Software Engineering Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"
 },
 "Hudl:8114314": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -16602,6 +16680,20 @@
 "posted": 1793107950.0,
 "title": "Co-Op, AI Nucleic Acid Design",
 "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465061009"
+},
+"Lila Sciences:4469152009": {
+"company": "Lila Sciences",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793388154.0,
+"title": "Co-Op, AI-Driven Equation Discovery",
+"url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469152009"
+},
+"Littelfuse:/job/Bremerhaven/Working-Student-AI--w-m-d-_JR-112902": {
+"company": "Littelfuse",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793309397.287841,
+"title": "Working Student AI (w/m/d)",
+"url": "https://littelfuse.wd1.myworkdayjobs.com/en-US/Littelfuse-Careers/job/Bremerhaven/Working-Student-AI--w-m-d-_JR-112902"
 },
 "Littelfuse:/job/Kaunas---Donelaicio/IT-Security-Intern_JR-112427-2": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -25297,6 +25389,13 @@
 "title": "Test Engineering Intern (Summer 2027)",
 "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766"
 },
+"Sierra Nevada Corporation:/job/Folsom-CA/Firmware-Engineering-Intern_R0031219": {
+"company": "Sierra Nevada Corporation",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793395931.8595498,
+"title": "Firmware Engineering Intern",
+"url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219"
+},
 "Sierra Nevada Corporation:/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern (Summer 2027)",
@@ -27411,6 +27510,13 @@
 "title": "Enterprise Data Intern",
 "url": "https://job-boards.greenhouse.io/themjcos/jobs/5418283008"
 },
+"The New York Times:4748483005": {
+"company": "The New York Times",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793386927.0,
+"title": "Backend Engineering Intern, Wirecutter",
+"url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
+},
 "The Nuclear Company:5383171008": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Spring 2027 Software Engineering Intern",
@@ -27863,6 +27969,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Human-Centered AI Research Intern, Causal Reasoning Models",
 "url": "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f"
+},
+"Toyota Research Institute:f8c9ed26-4574-4ad2-954b-b7f5ec365495": {
+"company": "Toyota Research Institute",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793380756.359,
+"title": "Machine Learning/Agentic AI Intern",
+"url": "https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495"
 },
 "Toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1": {
 "company": "Toyota",
@@ -28805,15 +28918,71 @@
 "title": "2027 Summer Internship - Technical ",
 "url": "https://job-boards.greenhouse.io/virtu/jobs/8745933002"
 },
+"Visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136667.5111713,
+"title": "Software Engineer, Intern - 2027 Ashburn, VA",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1"
+},
+"Visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136666.7316203,
+"title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1"
+},
+"Visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136667.511377,
+"title": "Software Engineer, Intern - 2027 Austin, TX",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
+},
 "Visa:/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Staff Research Scientist, Intern - PhD Agentic AI",
 "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1"
 },
+"Visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136666.7316883,
+"title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"
+},
+"Visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136667.511043,
+"title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"
+},
+"Visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136666.7316542,
+"title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1"
+},
 "Visa:/job/US---Foster-City-CA/Associate-Technical-Program-Analyst-Intern---Summer-2027_REF088637W": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Associate Technical Program Analyst Intern - Summer 2027",
 "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Technical-Program-Analyst-Intern---Summer-2027_REF088637W"
+},
+"Visa:/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136666.7311747,
+"title": "Data Science Intern, Data and AI Team \u2013 Summer 2027",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1"
+},
+"Visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136667.5112064,
+"title": "Software Engineer, Intern - Foster City 2027",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1"
 },
 "Visa:/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Foundational-AI_REF088579W-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -28824,6 +28993,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Staff Research Scientist, Intern - PhD Quantum",
 "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2"
+},
+"Visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1": {
+"company": "Visa",
+"first_seen": "2026-10-30T21:28:03+00:00",
+"posted": 1793136667.5111358,
+"title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+"url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1"
 },
 "Vishay Intertechnology:/job/Yankton-SD/R-D-Engineering-Intern_JR-20288": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -48984,7 +49160,6 @@
 "allstate|dataanalyticsengineerintern": 1792712100.4209223,
 "allstate|datascienceinterncoretelematics": 1792712100.4209406,
 "allstate|softwareengineerintern": 1792515148.5786424,
-"alstonbirdlawfirm|developerintern": 1792177283.2467391,
 "amazon|appliedscienceinterngenailargelanguagemodels": 1792737473.3434694,
 "amazon|appliedscienceinternmastersstudentscience": 1792737473.3433013,
 "amazon|appliedscienceinternnaturallanguageprocessingandspeechtechnologies": 1792737473.3439212,
@@ -49016,13 +49191,9 @@
 "appliedmaterials|datascientistinternmasters": 1793230163.4698496,
 "appliedmaterials|softwareengineerintern": 1792564105.0759125,
 "aptiv|aiproductanalystintern": 1792651047.567839,
-"aptiv|cloudengineeringintern": 1792177080.9206686,
-"aptiv|cloudengineerintern": 1792177080.9206884,
-"aptiv|cloudsoftwareengineerintern": 1792177080.9207213,
 "aptiv|linuxengineeringintern": 1792720237.8061857,
 "aptiv|linuxintern": 1792720237.8062077,
 "aptiv|softwaredevelopmentintern": 1792651047.567819,
-"aptiv|softwareengineeringintern": 1792177080.9206367,
 "archcapital|dataanalyticsintern": 1793288356.8051708,
 "ardian|datascientistinternfebruarynyc": 1792237652.6546044,
 "asml|internapplicationsoftwareqaengineer": 1792797083.2436137,
@@ -49073,6 +49244,7 @@
 "cadencedesignsystems|internaiforsmarteratetestdevelopmentdebug": 1792737296.397056,
 "caresource|aiintern": 1793319313.5350623,
 "caresource|fullstackaidevelopmentintern": 1793319313.535083,
+"caresource|internaihealthcareoperations": 1793395716.537868,
 "carrierglobal|softwareengineerintern": 1792796813.1448233,
 "caterpillar|softwareintern": 1793339401.5923927,
 "centene|aidesignsystemsinternmasters": 1793264110.4650042,
@@ -49107,7 +49279,6 @@
 "dtna|softwarereleasemanagementintern": 1793172505.3578024,
 "dtna|vehicleelectronicsprogrammingstationintern": 1792805561.9414144,
 "electronicarts|softwareengineerintern": 1792451178.5122693,
-"entrust|softwareengineeringcoop": 1792177133.4608848,
 "epicgames|toolsprogrammerinterngraphics": 1792785894.867802,
 "eqt|aiintern": 1793127209.5486045,
 "federalreservesystem|internmacmobile": 1792187952.7988858,
@@ -49120,6 +49291,7 @@
 "freudenberg|workingstudentfmdpurchasingaitools": 1792478292.8655884,
 "fussballclubcincinnati|dataanalystintern": 1793380213.011581,
 "futo|softwareengineerintern": 1793151839.5320418,
+"gardacapitalpartners|infrastructureengineerintern": 1793395685.7197096,
 "gardacapitalpartners|softwareengineerinternc": 1793306003.6862512,
 "gearset|softwareengineerintern": 1793380417.4548612,
 "genentech|datasciencemachinelearninginternagenticaidiscoveryprototyping": 1792712100.4208143,
@@ -49130,6 +49302,7 @@
 "generalmotors|internaimlengineercapacityperformanceengineeringautonomousvehicles": 1792237759.1112149,
 "geniusai|softwareengineerintern": 1793319313.5351408,
 "gevernova|gevernovaagiaipowersystemsintern": 1792187930.6748998,
+"gevernova|softwareengineeringintern": 1793395708.347389,
 "glean|softwareengineerintern": 1793056359.503402,
 "globalfoundries|aimlsystemsengineeringintern": 1792451178.5122254,
 "globalfoundries|aisoftwareintern": 1792625856.9782758,
@@ -49149,7 +49322,6 @@
 "hewlettpackard|cloudengineeringinternhpiq": 1793196722.8974245,
 "heygen|softwareengineerintern": 1792438814.273551,
 "highmarkhealth|appliedgenaidatascientistgraduateintern": 1793108194.7374716,
-"highmarkhealth|artificialintelligenceoperationsundergraduateintern": 1792177312.7404919,
 "highmarkhealth|dataanalystintern": 1793056522.9159434,
 "highmarkhealth|dataanalystundergraduateintern": 1792451178.5120018,
 "highmarkhealth|datasciencerdgraduateintern": 1792564122.828082,
@@ -49163,7 +49335,9 @@
 "hitachi|softwareengineeringcoop": 1792602488.5206597,
 "hivefinancialsystems|softwareengineerintern": 1793056522.9160066,
 "hpe|aihpcperformanceengineeringintern": 1792237842.1302364,
+"hpe|aimldeveloperintern": 1793395843.279809,
 "hpe|embeddedsoftwareengineeringintern": 1792633816.5790184,
+"hpe|softwareengineeringintern": 1793395843.279794,
 "hp|softwareengineerintern": 1793241588.482636,
 "hp|softwareengineerinternconnectivity": 1793241588.4827054,
 "hp|softwareproductsecurityinternhpiq": 1793288538.7081506,
@@ -49205,9 +49379,11 @@
 "leonardo|industrialplacementtestsoftwareengineer": 1792279827.298093,
 "leonardo|softwareengineeringdegreeapprentice": 1792279827.298169,
 "lifefitness|embeddedsoftwareintern": 1792564104.4963624,
+"lilasciences|coopaidrivenequationdiscovery": 1793395683.5814261,
 "lilasciences|coopainucleicaciddesign": 1793108025.3854196,
 "linkedin|softwareengineerintern": 1792564105.075877,
 "linkedin|softwareengineerinternfirstplay": 1793230163.4697945,
+"littelfuse|workingstudentaiwmd": 1793395805.680816,
 "mabanaft|workingstudentmwdplatformengineerdataintegrationplatforms": 1793127524.1853158,
 "maki|aiimplementationintern": 1793042713.0332835,
 "marvell|aidatascienceintern": 1792438936.6935744,
@@ -49239,6 +49415,7 @@
 "nationallaboratoryofrockies|graduateinternagenticaidrivencomputationalsynthesisofpgmfreefuelcellcatalysts": 1793360750.1423583,
 "nationallaboratoryofrockies|graduateinternpowerdataanalysisforaidatacenters": 1793360750.142329,
 "newyorktimes|aiinitiativesfellow": 1792498048.0323136,
+"newyorktimes|backendengineeringinternwirecutter": 1793395685.0014539,
 "nianticspatial|softwareengineeringinternnativesdkmobileplatforms": 1793056357.3827162,
 "nike|converseaienablementgraduateintern": 1792963745.6256182,
 "nissanglobal|aiautonomousdrivingverificationvalidationinternsantaclaraca": 1792546592.5119908,
@@ -49331,6 +49508,7 @@
 "sherwinwilliams|rddatasciencecoop": 1793230163.470145,
 "shieldai|datascienceinternr6324": 1792546249.2262428,
 "shieldai|softwareengineerintern": 1793172505.8413358,
+"sierranevada|firmwareengineeringintern": 1793395946.0236623,
 "sierraspace|flightsoftwareengineerintern": 1792615057.1891966,
 "simberobotics|computervisionappliedaiintern": 1792796813.144736,
 "simberobotics|dataanalyticsdatascienceintern": 1792796813.1447477,
@@ -49363,6 +49541,7 @@
 "tmobile|softwareengineercloudsecurityintern": 1792963397.87576,
 "tmobile|softwareengineerintern": 1793230163.4698994,
 "toro|cloudsoftwaredeveloperintern": 1792451178.512045,
+"toyotaresearchinstitute|machinelearningagenticaiintern": 1793395683.5965896,
 "toyotaresearchinstitute|roboticsinternworldfoundationmodels": 1793056356.4954455,
 "toyota|datascienceintern": 1792564105.075927,
 "tpgcareerspage|yanalyticsdataanalyticsandreportingresearchassistantintern": 1793042713.0979135,
@@ -49384,6 +49563,11 @@
 "vertexpharmaceuticals|coophumanaiworkandorganizationdesign": 1792712088.463207,
 "visa|datascienceinterndataandaiteam": 1793108164.9467227,
 "visa|softwareengineerintern": 1793127369.817251,
+"visa|softwareengineerinternashburnva": 1793395910.7280746,
+"visa|softwareengineerinternfostercity": 1793395910.7280865,
+"visa|sophomoreinternsoftwareengineerinternashburn": 1793395910.7280035,
+"visa|sophomoreinternsoftwareengineerinternbellevue": 1793395910.7280467,
+"visa|sophomoreinternsoftwareengineerinternfostercity": 1793395910.728061,
 "vspvision|internsoftwareengineer": 1793172370.0448864,
 "vspvision|softwareengineerinterntechnologyinnovation": 1793172505.8414128,
 "wabtec|softwareengineeringcoop": 1793172505.8414571,
