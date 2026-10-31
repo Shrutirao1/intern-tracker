@@ -3109,6 +3109,13 @@
 "title": "Internship within Aerodynamic Machine Learning (d/f/m)",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Internship-within-Aerodynamic-Machine-Learning--d-f-m-_JR10441101"
 },
+"Airbus:/job/Hamburg-Area/Working-Student--d-f-m--Data-Engineering--AI---Digital-Dashboards_JR10450746": {
+"company": "Airbus",
+"first_seen": "2026-10-31T23:40:21+00:00",
+"posted": 1793317446.0000126,
+"title": "Working Student (d/f/m) Data Engineering, AI & Digital Dashboards",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Working-Student--d-f-m--Data-Engineering--AI---Digital-Dashboards_JR10450746"
+},
 "Airbus:/job/Mnchen-Area/Working-Student--d-f-m---Composite-Manufacturing---AI-Driven-Data-Analytics--d-f-m-_JR10449441-1": {
 "company": "Airbus",
 "first_seen": "2026-10-16T06:24:42+00:00",
@@ -3221,10 +3228,24 @@
 "title": "Summer Intern - Firmware Engineer",
 "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1"
 },
+"Allegion:/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1": {
+"company": "Allegion",
+"first_seen": "2026-10-31T23:40:21+00:00",
+"posted": 1793231108.0066528,
+"title": "Summer Intern \u2013 Software Engineering \u2013 Quality Assurance",
+"url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1"
+},
 "Allegion:/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Summer Intern - Software Engineering",
 "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1"
+},
+"Allegion:/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1": {
+"company": "Allegion",
+"first_seen": "2026-10-31T23:40:21+00:00",
+"posted": 1793231107.455813,
+"title": "Summer Intern - Software Systems Engineering",
+"url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1"
 },
 "Allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1": {
 "company": "Allegion",
@@ -15755,6 +15776,13 @@
 "title": "Product Development Engineering Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1"
 },
+"KLA Corporation:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1": {
+"company": "KLA Corporation",
+"first_seen": "2026-10-31T23:40:21+00:00",
+"posted": 1793317384.6727512,
+"title": "Software Engineer Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
+},
 "KLA Corporation:/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1": {
 "company": "KLA Corporation",
 "first_seen": "2026-10-23T16:41:17+00:00",
@@ -15787,6 +15815,13 @@
 "posted": 1792774052.4421144,
 "title": "Software Engineering Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
+},
+"KLA Corporation:/job/Milpitas-CA/Software-Intern_2642700-1": {
+"company": "KLA Corporation",
+"first_seen": "2026-10-31T23:40:21+00:00",
+"posted": 1793317384.67202,
+"title": "Software Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Intern_2642700-1"
 },
 "KLA Corporation:/job/Shanghai-China/Software-Engineering-Intern_2641426": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -16913,6 +16948,13 @@
 "posted": 0,
 "title": "Software Engineering Level 6 Degree Apprenticeship 2027",
 "url": "https://mbda.wd3.myworkdayjobs.com/en-US/MBDA-UK/job/Bristol/Software-Engineering-Level-6-Degree-Apprenticeship-2027_R39416"
+},
+"MBDA:/job/Bristol/Software-Modelling-Level-6-Degree-Apprenticeship-2026_R38730": {
+"company": "MBDA",
+"first_seen": "2026-10-31T23:40:21+00:00",
+"posted": 0,
+"title": "Software Modelling Level 6 Degree Apprenticeship 2027",
+"url": "https://mbda.wd3.myworkdayjobs.com/en-US/MBDA-UK/job/Bristol/Software-Modelling-Level-6-Degree-Apprenticeship-2026_R38730"
 },
 "MBDA:/job/Stevenage/Software-Engineering-Level-6-Degree-Apprenticeship-2027_R39395": {
 "company": "MBDA",
@@ -49503,6 +49545,9 @@
 "aerospace|embeddedsoftwareengineeringundergradintern": 1792651288.7517283,
 "aerovironment|machinelearningengineeringintern": 1792805573.631921,
 "aidash|softwareengineeringinternbackend": 1792438814.268113,
+"airbus|workingstudentdfmdataengineeringaidigitaldashboards": 1793490298.8516212,
+"allegion|internsoftwareengineeringqualityassurance": 1793490339.3919532,
+"allegion|internsoftwaresystemsengineering": 1793490339.3919313,
 "alleninstituteforai|researchinternaiforscience": 1792451178.5119598,
 "allstate|dataanalyticsengineerintern": 1792712100.4209223,
 "allstate|datascienceinterncoretelematics": 1792712100.4209406,
@@ -49716,10 +49761,6 @@
 "leidos|aimlintern": 1792712100.4210925,
 "leidos|dataengineerintern": 1793360487.4470909,
 "leidos|softwaredeveloperintern": 1793319313.5351243,
-"leonardo|industrialplacementfirmwareengineer": 1792279827.2981455,
-"leonardo|industrialplacementsoftwareengineer": 1792273579.8216035,
-"leonardo|industrialplacementtestsoftwareengineer": 1792279827.298093,
-"leonardo|softwareengineeringdegreeapprentice": 1792279827.298169,
 "lifefitness|embeddedsoftwareintern": 1792564104.4963624,
 "lilasciences|coopaidrivenequationdiscovery": 1793395683.5814261,
 "lilasciences|coopainucleicaciddesign": 1793108025.3854196,
@@ -49762,7 +49803,6 @@
 "nissanglobal|aiautonomousdrivingverificationvalidationinternsantaclaraca": 1792546592.5119908,
 "nissanglobal|appliedaibusinessinnovationinternfranklintn": 1792546592.511965,
 "nissanglobal|physicalaimanufacturingintern": 1793140955.532605,
-"nissanglobal|roboticsprogrammerinternsmyrnatn": 1792273543.3780935,
 "nissan|aiintern": 1793127369.817374,
 "northropgrumman|cybersoftwareengineerintern": 1792712100.4206607,
 "northropgrumman|datascientistinternproductsupport": 1793467973.8272405,
@@ -49773,7 +49813,6 @@
 "nvidia|compilersoftwareengineerintern": 1793319313.5348418,
 "nvidia|systemssoftwareinternaerialphy": 1792564205.4849994,
 "nvidia|vlsicadtiminginternappliedai": 1793319313.5349088,
-"nxpsemiconductors|internsoftwareengineermfdjavapythontoolsdevelopmentfortrustprovisioning": 1792273533.6290953,
 "nxpsemiconductors|internstaagentdeveloperintern": 1792546627.7591,
 "nxpsemiconductors|mastersinternprojectinformationawaresignalprocessingforsoftwaredefinedeis": 1793479330.9605658,
 "nxpsemiconductors|workingstudentfmdembeddednetworksoftwareengineerautomotiveethernet": 1793479330.960598,
