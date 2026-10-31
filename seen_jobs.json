@@ -30858,6 +30858,13 @@
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003"
 },
+"src:simplify:02243e49-7e4c-44aa-9dd1-0ba4a235d93d": {
+"company": "NVIDIA",
+"first_seen": "2026-10-31T06:32:02+00:00",
+"posted": 1787097600.0,
+"title": "Developer and Performance Technology Intern",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
+},
 "src:simplify:025cdbd3-053c-4ae7-a9b6-7b812684f7ce": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Co-op",
@@ -43670,6 +43677,13 @@
 "title": "Data Engineering & Analytics Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00194635"
 },
+"src:simplify:b2f1fe9d-fc42-40d8-9d37-4d7457195c8d": {
+"company": "Divergent Technologies",
+"first_seen": "2026-10-31T06:32:02+00:00",
+"posted": 1793400143.0,
+"title": "Business Intelligence Intern",
+"url": "https://job-boards.greenhouse.io/divergent/jobs/5393519008"
+},
 "src:simplify:b31743bd-7fcf-42a4-aca1-0e6146dfb105": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Software Engineer Intern",
@@ -49594,7 +49608,6 @@
 "rtx|securesoftwareintern": 1793127369.8174036,
 "rtx|softwareengineercoopjanuary": 1793196688.7804744,
 "rtx|softwareengineerintern": 1793319313.534544,
-"ryan|softwareengineerintern": 1792207077.5898376,
 "salesforce|airesearchintern": 1792537972.0790896,
 "salesforce|forwarddeployedengineerinternglobalpublicsector": 1793140955.532626,
 "salesforce|softwareengineerintern": 1792451178.5120132,
