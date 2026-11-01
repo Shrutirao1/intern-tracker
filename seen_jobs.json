@@ -16210,6 +16210,13 @@
 "title": "Software Engineer Intern (Remote)",
 "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002"
 },
+"KnowBe4:8919280002": {
+"company": "KnowBe4",
+"first_seen": "2026-11-01T20:35:43+00:00",
+"posted": 1793561101.0,
+"title": "Software Engineer Summer Internship",
+"url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
+},
 "Kodiak Robotics:4396622009": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Winter 2027 Intern, Data Engineering",
@@ -49931,6 +49938,7 @@
 "kla|softwareengineerintern": 1793339356.1092231,
 "kla|softwareengineerinternclinux": 1792773833.9104252,
 "kla|softwareintern": 1793339356.1092017,
+"knowbe4|softwareengineerintern": 1793565347.5470326,
 "labcorp|internbioinformatics": 1792885732.8076112,
 "lakemichigancreditunion|businessintelligenceintern": 1792564142.1754858,
 "leidos|aimlintern": 1792712100.4210925,
