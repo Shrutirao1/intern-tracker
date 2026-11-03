@@ -36544,6 +36544,13 @@
 "title": "AI Engineer Co-op - Global Equities",
 "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1"
 },
+"src:simplify:46fd3fa6-a273-49da-b7ac-7cb7fcf894a9": {
+"company": "NVIDIA",
+"first_seen": "2026-11-03T09:35:10+00:00",
+"posted": 1793577600.0,
+"title": "AI Compiler and Kernel Intern",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
+},
 "src:simplify:46feb1be-8c27-4695-b879-9eaddca4b9ea": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "AI/ML Engineer Intern - Platform Integration & AI/Data",
@@ -48274,6 +48281,13 @@
 "title": "Technology Developer Apprentice",
 "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447"
 },
+"src:simplify:e3da5b7c-56c9-4040-b6c6-b563a93f1664": {
+"company": "Shield AI",
+"first_seen": "2026-11-03T09:35:10+00:00",
+"posted": 1793577600.0,
+"title": "Embedded Firmware Intern",
+"url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29/application?embed=true"
+},
 "src:simplify:e3dc5e7f-9828-4121-8b6f-6d45091a92a4": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Research Intern - PhD",
@@ -49165,6 +49179,13 @@
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Quantitative Researcher Intern",
 "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178"
+},
+"src:simplify:ef31b232-5a78-40fe-9d4a-b2cca861468f": {
+"company": "Paccar",
+"first_seen": "2026-11-03T09:35:10+00:00",
+"posted": 1793692077.0,
+"title": "Software Developer Intern",
+"url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
 },
 "src:simplify:ef40c957-572d-4f46-9bab-b7378678804d": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -50550,7 +50571,6 @@
 "boozallen|softwaredeveloperinternuniversitygames": 1793056522.9161475,
 "bostonscientific|aisolutionsengineeringintern": 1793264061.5896127,
 "bostonscientific|rdsoftwaredesignintern": 1793241588.482802,
-"bostonscientific|rdsoftwareengineerintern": 1792478372.1675863,
 "braze|internsoftwareengineering": 1793042713.054899,
 "burnsengineering|softwareengineerintern": 1793288482.1199923,
 "bytedance|researchscientistinternvideoandedgemultimedialab": 1793408319.0783021,
@@ -50614,7 +50634,6 @@
 "floridaatlanticuniversity|dataanalystintern": 1793360516.590069,
 "formlabs|manufacturingtestsoftwareintern": 1792701352.7647254,
 "freseniusmedicalcare|softwareengineeringcoop": 1792564134.344216,
-"freudenberg|workingstudentfmdpurchasingaitools": 1792478292.8655884,
 "fussballclubcincinnati|dataanalystintern": 1793380213.011581,
 "futo|softwareengineerintern": 1793151839.5320418,
 "gardacapitalpartners|infrastructureengineerintern": 1793395685.7197096,
@@ -50720,7 +50739,6 @@
 "micron|internproductyieldsoftwareengineer": 1793360452.8599615,
 "micron|internsmaiprobeaiengineer": 1792527006.2185757,
 "micron|internssdfirmware": 1792527006.2186074,
-"mmc|oliverwymandataanalyticsapprenticeshipnewcastle": 1792478343.3703375,
 "mongodb|softwareengineeringinternamer": 1792773684.4154336,
 "motorolasolutions|softwareengineercybersecurityservicesintern": 1793672277.9793823,
 "msasafety|aiengineercoop": 1792796813.1447027,
@@ -50743,6 +50761,7 @@
 "northropgrumman|softwaretestengineeringinternroyut": 1793360664.1039207,
 "northropgrumman|systemsengineeringinternaiexperience": 1792712100.4206395,
 "nvent|businessintelligencedataanalyticsintern1year": 1792625710.931335,
+"nvidia|aicompilerandkernelintern": 1793698643.0091474,
 "nvidia|aisystemssoftwareengineerintern": 1793319313.5348747,
 "nvidia|compilersoftwareengineerintern": 1793319313.5348418,
 "nvidia|systemssoftwareinternaerialphy": 1792564205.4849994,
@@ -50762,6 +50781,7 @@
 "paccar|applicationdeveloperintern": 1793151839.5322149,
 "paccar|dataengineerintern": 1793151839.531726,
 "paccar|fieldservicedataanalystintern": 1792537972.0791478,
+"paccar|softwaredeveloperintern": 1793698643.0092232,
 "pacificnorthwestnationallaboratory|nsipmastersinternartificialintelligencedataanalyticssweconference": 1793672277.9795895,
 "palantir|forwarddeployedsoftwareengineerinternwarpspeed": 1792711979.5230331,
 "parallelsystems|softwareengineeringinternembeddedbackendfullstack": 1793056357.564065,
@@ -50832,6 +50852,7 @@
 "sedgwickclaimsmanagementservices|dataanalystintern": 1793140902.5144103,
 "sherwinwilliams|rddatasciencecoop": 1793230163.470145,
 "shieldai|datascienceinternr6324": 1792546249.2262428,
+"shieldai|embeddedfirmwareintern": 1793698643.0091174,
 "shieldai|internembeddedfirmware5810": 1793672131.3697312,
 "shieldai|softwareengineerintern": 1793172505.8413358,
 "sierranevada|datascienceintern": 1793650419.1978543,
@@ -50890,8 +50911,6 @@
 "ursamajor|softwaredevelopmentintern": 1792712100.4208896,
 "usafacts|aisoftwareengineeringintern": 1793263917.9409823,
 "valmont|aianddataengineeringintern": 1793230163.4699638,
-"verizoncommunications|baskingridgenjvteamerforadayverizonconsumergroupdatascienceintern": 1792478448.503991,
-"verizoncommunications|verizonconsumergroupdatascienceintern": 1792478448.5040188,
 "vertexpharmaceuticals|coophumanaiworkandorganizationdesign": 1792712088.463207,
 "visa|datascienceinterndataandaiteam": 1793108164.9467227,
 "visa|softwareengineerintern": 1793127369.817251,
