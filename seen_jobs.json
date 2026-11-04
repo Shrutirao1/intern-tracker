@@ -1850,6 +1850,7 @@
 "Uline",
 "Ultra Intelligence and Communications",
 "Ultra Maritime",
+"Umiami",
 "Uncountable",
 "Underwriters Laboratories",
 "Unify",
@@ -2411,6 +2412,20 @@
 "posted": 1788034097.9801946,
 "title": "Security Intern",
 "url": "https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/West-Conshohocken-PA/Security-Intern_R100121611"
+},
+"ASML:/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567": {
+"company": "ASML",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793832541.4104402,
+"title": "Internship -  Machine Learning and image-based EUV system setup",
+"url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567"
+},
+"ASML:/job/San-Diego-CA-USA/Internship--Business-Systems-AI_J-00355737": {
+"company": "ASML",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793746141.8496075,
+"title": "Internship- Business Systems AI",
+"url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Business-Systems-AI_J-00355737"
 },
 "ASML:/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459": {
 "company": "ASML",
@@ -16994,6 +17009,13 @@
 "title": "Performance Enablement AI/ML Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656"
 },
+"Leidos:/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220": {
+"company": "Leidos",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793832325.1905577,
+"title": "Software Engineering & AI Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220"
+},
 "Leidos:/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448": {
 "company": "Leidos",
 "first_seen": "2026-09-30T08:44:22+00:00",
@@ -17028,6 +17050,13 @@
 "posted": 1791304425.5921807,
 "title": "Software Engineer Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933"
+},
+"Leidos:/job/Arlington-VA/Software-Engineering-Intern_R-00195980": {
+"company": "Leidos",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793659525.1901102,
+"title": "Software Engineering Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980"
 },
 "Leidos:/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152": {
 "company": "Leidos",
@@ -18605,6 +18634,13 @@
 "posted": 1789761865.5582504,
 "title": "Intern - TSE KEG Engineer",
 "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283"
+},
+"Micron Technology:/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161": {
+"company": "Micron Technology",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793659527.2876296,
+"title": "Intern - Front End Materials Category Supplier Manager (CSM)",
+"url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161"
 },
 "Micron Technology:/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542": {
 "company": "Micron Technology",
@@ -20828,10 +20864,24 @@
 "title": "Software Engineering Intern, Summer 2027",
 "url": "https://job-boards.greenhouse.io/northmarq/jobs/5414475008"
 },
+"Northrop Grumman:/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793659534.1785035,
+"title": "2027 Engineering Intern (Software/Mission Assurance/Quality) - Chandler AZ",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848"
+},
 "Northrop Grumman:/job/United-States-Arizona-Mesa/XMLNAME-2027-Engineering-Intern---Mesa-AZ_R10252874": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "2027 Engineering Intern - Mesa AZ",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Mesa/XMLNAME-2027-Engineering-Intern---Mesa-AZ_R10252874"
+},
+"Northrop Grumman:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793745929.1014428,
+"title": "2027 Flight Software Engineer Intern - Redondo Beach CA",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032"
 },
 "Northrop Grumman:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207": {
 "company": "Northrop Grumman",
@@ -20839,6 +20889,27 @@
 "posted": 1791526590.9563913,
 "title": "2027 Software Engineer Intern \u2013 McClellan CA",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207"
+},
+"Northrop Grumman:/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793832324.2551427,
+"title": "2027 Spring Co-op Software Engineer Intern \u2013 McClellan CA",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329"
+},
+"Northrop Grumman:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793745929.101222,
+"title": "2027 Ground Software Engineer Intern - Redondo Beach CA",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"
+},
+"Northrop Grumman:/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793659534.9939048,
+"title": "Engineering Software and Analysis Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772"
 },
 "Northrop Grumman:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -20932,6 +21003,13 @@
 "title": "2027 Software Engineer Intern - Rolling Meadows IL",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
 },
+"Northrop Grumman:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793745932.7028933,
+"title": "2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965"
+},
 "Northrop Grumman:/job/United-States-Maryland-Elkton/XMLNAME-2027-Engineering-Intern---Elkton-MD-or-Palm-Beach-Gardens-FL-or-Ronkonkoma-NY_R10252405": {
 "company": "Northrop Grumman",
 "first_seen": "2026-09-26T12:04:31+00:00",
@@ -20974,10 +21052,24 @@
 "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
 },
+"Northrop Grumman:/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793832326.933429,
+"title": "2027 Cybersecurity Software Engineering Intern - Roy UT",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
+},
 "Northrop Grumman:/job/United-States-Utah-Corinne/XMLNAME-2027-Quality-Engineering-Intern---Utah_R10252909": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "2027 Quality Engineering Intern - Utah",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Quality-Engineering-Intern---Utah_R10252909"
+},
+"Northrop Grumman:/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793832326.9333882,
+"title": "2027 DevOps Software Engineering Intern - Roy UT",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"
 },
 "Northrop Grumman:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007": {
 "company": "Northrop Grumman",
@@ -20999,6 +21091,20 @@
 "posted": 1792633793.3268785,
 "title": "2027 Software Engineering Intern - Roy UT",
 "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
+},
+"Northrop Grumman:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793832326.9333072,
+"title": "2027 Software Engineering Intern - Roy UT",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181"
+},
+"Northrop Grumman:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179": {
+"company": "Northrop Grumman",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793832326.933348,
+"title": "2027 Software Test Engineering Intern - Roy UT",
+"url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179"
 },
 "Northrop Grumman:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1": {
 "company": "Northrop Grumman",
@@ -27874,6 +27980,13 @@
 "title": "Software Engineering Intern",
 "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0"
 },
+"Terranova:b6ce03c4-07b6-45e1-94e9-24b3ec17d942": {
+"company": "Terranova",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793688792.665,
+"title": "AI Intern ",
+"url": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942"
+},
 "Tessera Labs:892bb150-8c98-47f4-a8b6-93633ecb2ea7": {
 "company": "Tessera Labs",
 "first_seen": "2026-10-15T05:16:48+00:00",
@@ -28976,10 +29089,31 @@
 "title": "Robotics Research Intern - Post-Training",
 "url": "https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0"
 },
+"Toyota Research Institute:62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
+"company": "Toyota Research Institute",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1762230574.994,
+"title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+"url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4"
+},
 "Toyota Research Institute:6433edb6-76be-409f-9a73-9b9d9c207f9f": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Human-Centered AI Research Intern, Causal Reasoning Models",
 "url": "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f"
+},
+"Toyota Research Institute:d4184c04-b963-489a-9a0b-91bc57d6267e": {
+"company": "Toyota Research Institute",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793829592.091,
+"title": "Human-Centered AI Research Intern, Human Language Models",
+"url": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e"
+},
+"Toyota Research Institute:e7cc38d2-2b08-4349-b322-4d56cac9fb1b": {
+"company": "Toyota Research Institute",
+"first_seen": "2026-11-04T22:45:18+00:00",
+"posted": 1793820671.262,
+"title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+"url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b"
 },
 "Toyota Research Institute:f8c9ed26-4574-4ad2-954b-b7f5ec365495": {
 "company": "Toyota Research Institute",
@@ -51264,8 +51398,10 @@
 "archcapital|dataanalyticsintern": 1793288356.8051708,
 "arrowstreetcapital|softwareengineerintern": 1793726435.3828764,
 "asml|internapplicationsoftwareqaengineer": 1792797083.2436137,
+"asml|internbusinesssystemsai": 1793832573.5861998,
 "asml|interncoopdataengineer": 1793360643.3966272,
 "asml|internfrontenddeveloper": 1793360643.3966653,
+"asml|internmachinelearningandimagebasedeuvsystemsetup": 1793832573.5861795,
 "asml|internsoftwaredevelopmentengineerintest": 1793360643.3966484,
 "asml|internsoftwareengineerintestmod": 1792797083.2436445,
 "asml|internsoftwarequalityassurance": 1792797083.2436302,
@@ -51442,6 +51578,7 @@
 "leidos|dataengineerintern": 1793360487.4470909,
 "leidos|datascienceintern": 1793672277.9794183,
 "leidos|softwaredeveloperintern": 1793319313.5351243,
+"leidos|softwareengineeringaiintern": 1793832384.8856382,
 "leidos|softwareengineerintern": 1793672277.9794023,
 "lilasciences|coopaidrivenequationdiscovery": 1793395683.5814261,
 "lilasciences|coopainucleicaciddesign": 1793108025.3854196,
@@ -51463,6 +51600,7 @@
 "mercor|researchengineerinternenvironmentsdataandposttraining": 1793151711.314866,
 "metalenz|camerasoftwareintern": 1793042712.9811282,
 "micron|interndatascience": 1793360452.859916,
+"micron|internfrontendmaterialscategorysuppliermanagercsm": 1793832356.4940357,
 "micron|internhbmdatascientist": 1793360452.8599422,
 "micron|internproductyieldsoftwareengineer": 1793360452.8599615,
 "microsoft|softwareengineerintern": 1793759328.274727,
@@ -51481,9 +51619,14 @@
 "nike|converseaienablementgraduateintern": 1792963745.6256182,
 "nissanglobal|physicalaimanufacturingintern": 1793140955.532605,
 "nissan|aiintern": 1793127369.817374,
+"northropgrumman|coopsoftwareengineerinternmcclellanca": 1793832389.5422838,
+"northropgrumman|cybersecuritysoftwareengineeringinternroyut": 1793832389.5423555,
 "northropgrumman|cybersoftwareengineerintern": 1792712100.4206607,
 "northropgrumman|datascientistinternproductsupport": 1793467973.8272405,
+"northropgrumman|devopssoftwareengineeringinternroyut": 1793832389.5423393,
+"northropgrumman|engineeringinternsoftwaremissionassurancequalitychandleraz": 1793832389.5424228,
 "northropgrumman|engineeringsoftwareandanalysisintern": 1793672277.9799933,
+"northropgrumman|engineeringsoftwaretooldevelopmentinternfieldengineeringbaltimoremd": 1793832389.5424027,
 "northropgrumman|flightsoftwareengineerintern": 1793759328.2747576,
 "northropgrumman|groundsoftwareengineerintern": 1793759328.2747722,
 "northropgrumman|softwareembeddedengineeringintern": 1793785070.085876,
@@ -51589,7 +51732,6 @@
 "sierranevada|datascienceintern": 1793650419.1978543,
 "sierranevada|firmwareengineeringintern": 1793395946.0236623,
 "sierranevada|softwareengineerintern": 1793672277.9794884,
-"sierraspace|flightsoftwareengineerintern": 1792615057.1891966,
 "signetjewelers|dataanalyticsintern": 1793744691.9446902,
 "simberobotics|computervisionappliedaiintern": 1792796813.144736,
 "simberobotics|dataanalyticsdatascienceintern": 1792796813.1447477,
@@ -51600,7 +51742,6 @@
 "smithnephew|interncomputervisionsoftwareengineering": 1792651215.3476229,
 "sonos|softwareengineerintern": 1793151839.5317686,
 "sonos|softwareengineerinternpartnerengineering": 1793288482.1200106,
-"sony|researchengineerinternethicalcreativeandprotectiveailab": 1792614935.9392803,
 "sony|researchinternselfevolvingmultimodalfoundationmodels": 1792773989.85277,
 "standtogether|dataanalystinternopenthebooks": 1792712100.420727,
 "staples|softwareengineerinternmarketplaceplatform": 1793672277.979338,
@@ -51612,6 +51753,7 @@
 "symbotic|machinelearningopscoop": 1792712100.4208329,
 "syngenta|datascientistintern": 1793288482.119748,
 "systemsplanningandanalysis|dataengineerintern": 1793451668.8712637,
+"terranova|aiintern": 1793832319.3894486,
 "tesla|dataengineerinternenergy": 1793288482.1195338,
 "thales|internagenticaitosupportwebuiandapitesting": 1793451807.1526387,
 "thehartford|techdatadataengineerinterncharlotte": 1792805517.9063437,
@@ -51628,6 +51770,8 @@
 "toshibaglobalcommerce|aidatasciencebusinessanalyticsintern": 1793650220.1156566,
 "toshibaglobalcommerce|aisoftwareengineeringintern": 1793744421.952173,
 "toshibaglobalcommerce|softwareengineeringintern": 1793650220.1156712,
+"toyotaresearchinstitute|automateddrivingadvanceddevelopmentinternmachinelearningresearch": 1793832318.940536,
+"toyotaresearchinstitute|humancenteredairesearchinternhumanlanguagemodels": 1793832318.9405656,
 "toyotaresearchinstitute|machinelearningagenticaiintern": 1793395683.5965896,
 "toyotaresearchinstitute|roboticsinternworldfoundationmodels": 1793056356.4954455,
 "tpgcareerspage|yanalyticsdataanalyticsandreportingresearchassistantintern": 1793042713.0979135,
@@ -51981,6 +52125,7 @@
 "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521": "Milpitas, CA; Ann Arbor, MI",
 "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1": "Milpitas, CA; Ann Arbor, MI",
 "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615": "USA  - WI - Milwaukee - 3727 W Wisconsin Avenue; Remote_United States",
+"https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220": "6314 Remote/Teleworker US; Odenton, MD; Shiloh, IL",
 "https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Amsterdam/AI---Classic-search-expert-Intern_366402": "Amsterdam; Eindhoven",
 "https://lplfinancial.wd1.myworkdayjobs.com/en-US/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914": "",
 "https://lplfinancial.wd1.myworkdayjobs.com/en-US/university/job/Fort-MillCharlotte/Summer-Intern-2027--Platform-Engineer_R-052920-1": "Fort Mill/Charlotte; Austin, TX",
