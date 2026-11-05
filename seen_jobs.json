@@ -1865,6 +1865,7 @@
 "University of British Columbia",
 "University of Chicago",
 "University of Maryland - College Park",
+"University of Miami",
 "University of Nevada, Reno",
 "University of Ottawa",
 "University of Rochester",
@@ -3205,6 +3206,13 @@
 "title": "Working Student (d/f/m) Data Engineering, AI & Digital Dashboards",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Working-Student--d-f-m--Data-Engineering--AI---Digital-Dashboards_JR10450746"
 },
+"Airbus:/job/Manching/Working-Student--d-f-m--in-the-area-of-Mass-Properties_JR10446403": {
+"company": "Airbus",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793746697.3811262,
+"title": "Working Student (d/f/m) - Software Development in the area of Mass Properties",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Working-Student--d-f-m--in-the-area-of-Mass-Properties_JR10446403"
+},
 "Airbus:/job/Mnchen-Area/Working-Student--d-f-m---Composite-Manufacturing---AI-Driven-Data-Analytics--d-f-m-_JR10449441-1": {
 "company": "Airbus",
 "first_seen": "2026-10-16T06:24:42+00:00",
@@ -4220,6 +4228,27 @@
 "posted": 1790705649.0,
 "title": "Engineering Intern",
 "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5435361008"
+},
+"Apex:2d5ad921-241f-4e7a-b9ff-9d01763da88c": {
+"company": "Apex",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793905063.62,
+"title": "Ground Software Engineering Internship (Spring or Summer 2027)",
+"url": "https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c"
+},
+"Apex:4203604c-2330-4c89-8432-37af718a6bda": {
+"company": "Apex",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793901980.454,
+"title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
+"url": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda"
+},
+"Apex:692bb497-59ba-44df-bacf-fffd2f7c6344": {
+"company": "Apex",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793905041.763,
+"title": "Software Engineering Internship, Test & Automation (Summer 2027)",
+"url": "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344"
 },
 "Apex:aea24b77-7673-4478-83af-4f16f5337673": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -16293,6 +16322,20 @@
 "title": "Software Engineering Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821"
 },
+"KLA Corporation:/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1": {
+"company": "KLA Corporation",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793660212.0166273,
+"title": "Software Engineer (AI/ML) Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1"
+},
+"KLA Corporation:/job/Austin-TX/Software-Engineering-Intern_2642004-1": {
+"company": "KLA Corporation",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793660212.0150151,
+"title": "Software Engineering Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineering-Intern_2642004-1"
+},
 "KLA Corporation:/job/DEU-Saxony-Dresden-City-Center/Working-Student--gn--for-Data-Analysis_2638365": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Working Student for Data Analysis (m/f/d)",
@@ -22033,6 +22076,13 @@
 "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
 "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
 },
+"Palantir:cd64bcd4-50bb-4aeb-a135-4e0487ffd312": {
+"company": "Palantir",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793903375.363,
+"title": "Software Engineer, Internship - Sovereign AI Systems",
+"url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"
+},
 "Palantir:cf5f44ff-1b0b-4752-bcd4-2dc88798f25b": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
@@ -22185,6 +22235,13 @@
 "title": "Roadway Engineering Intern - Summer 2027",
 "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IN-Indianapolis/Roadway-Engineering-Intern---Summer-2027_R184488"
 },
+"Parsons:/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299": {
+"company": "Parsons",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 0,
+"title": "Summer Embedded Developer Intern",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299"
+},
 "Parsons:/job/US---NY-New-York/Bridge-Engineering-Intern---Summer-2027_R184234": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Bridge Engineering Intern - Summer 2027",
@@ -22199,6 +22256,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Roadway Engineering Intern - Summer 2027",
 "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---SC-Columbia/Roadway-Engineering-Intern---Summer-2027_R185688"
+},
+"Parsons:/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194": {
+"company": "Parsons",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 0,
+"title": "AI/ML Engineering Intern Summer 2027",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194"
 },
 "Parsons:/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -29326,6 +29390,13 @@
 "title": "Member of Technical Staff - Intern",
 "url": "https://jobs.ashbyhq.com/trajectory/00cd9b1a-5d48-4ecb-8c53-cd27727448c5"
 },
+"Trajectory:a3fd075c-2480-4567-9bec-e587f2208ac8": {
+"company": "Trajectory",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793906069.217,
+"title": "Member of Technical Staff - Research Intern",
+"url": "https://jobs.ashbyhq.com/trajectory/a3fd075c-2480-4567-9bec-e587f2208ac8"
+},
 "Tranetechnologies:/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1": {
 "company": "Tranetechnologies",
 "first_seen": "2026-10-02T21:57:26+00:00",
@@ -29618,6 +29689,34 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Research Assistant (Pre-Doc Intern)",
 "url": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Research-Assistant--Pre-Doc-Intern-_JR26112"
+},
+"University of Miami:/job/Miami-FL/Data-Science---AI-Intern_R100102144": {
+"company": "University of Miami",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793400889.745079,
+"title": "Data Science & AI Intern",
+"url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144"
+},
+"University of Miami:/job/Miami-FL/Data-Science---AI-Intern_R100102542": {
+"company": "University of Miami",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793400889.7451582,
+"title": "Data Science & AI Intern",
+"url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102542"
+},
+"University of Miami:/job/Miami-FL/Data-Science---AI-Intern_R100102549": {
+"company": "University of Miami",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793400889.744997,
+"title": "Data Science & AI Intern",
+"url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549"
+},
+"University of Miami:/job/Miami-FL/Data-Science---AI-Intern_R100102550": {
+"company": "University of Miami",
+"first_seen": "2026-11-05T22:52:23+00:00",
+"posted": 1793400889.7452357,
+"title": "Data Science & AI Intern",
+"url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102550"
 },
 "University of Nevada, Reno:/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Student-Researcher--SAGE_R0153041": {
 "company": "University of Nevada, Reno",
@@ -51770,7 +51869,6 @@
 "title_keys": {
 "1password|developerinterncredentialbrokering": 1792773678.8078058,
 "1password|developerinterndeveloperinterfaces": 1792773678.8078377,
-"1password|developerinternextensionexcellence": 1792701349.4626565,
 "42dot|internfoundationmodels": 1793650225.1838727,
 "accenture|aidatadatasciencemlengineeringthesisintern": 1793813666.384468,
 "accenture|cloudinfrastructuredevopsinternheshethey": 1793216277.4319432,
@@ -51786,6 +51884,7 @@
 "aerospace|softwareengineeringundergradintern": 1793900888.637229,
 "aerovironment|machinelearningengineeringintern": 1792805573.631921,
 "airbus|workingstudentdfmdataengineeringaidigitaldashboards": 1793490298.8516212,
+"airbus|workingstudentdfmsoftwaredevelopmentintheareaofmassproperties": 1793919546.5623472,
 "alaskaair|softwareengineerintern": 1793872640.2070453,
 "allegion|internsoftwareengineeringqualityassurance": 1793490339.3919532,
 "allegion|internsoftwaresystemsengineering": 1793490339.3919313,
@@ -51809,6 +51908,9 @@
 "amperesand|aimlengineeringintern": 1792796629.7368677,
 "analogdevices|devopscoop": 1793066913.306098,
 "apacheindustrial|aiimplementationintern": 1793759328.2743666,
+"apex|groundsoftwareengineeringinternor": 1793919145.415005,
+"apex|softwareengineeringinternembeddedsystemsor": 1793919145.414908,
+"apex|softwareengineeringinterntestautomation": 1793919145.4149623,
 "appliedmaterials|businessintelligenceanalystintern": 1793230163.469831,
 "appliedmaterials|datascienceintern": 1793230163.4698136,
 "appliedmaterials|datascientistcoop": 1793056522.9160213,
@@ -51920,7 +52022,6 @@
 "flagshippioneering|profoundtherapeuticsbioinformaticsdataengineeringcoop": 1792785889.7258308,
 "floridaatlanticuniversity|dataanalystintern": 1793360516.590069,
 "formfactor|electricaldesignautomationinternaiedaautomation": 1793785076.1263459,
-"formlabs|manufacturingtestsoftwareintern": 1792701352.7647254,
 "fussballclubcincinnati|dataanalystintern": 1793380213.011581,
 "futo|softwareengineerintern": 1793151839.5320418,
 "gardacapitalpartners|infrastructureengineerintern": 1793395685.7197096,
@@ -52081,9 +52182,11 @@
 "paccar|softwaredeveloperintern": 1793698643.0092232,
 "pacificnorthwestnationallaboratory|nsipmastersinternartificialintelligencedataanalyticssweconference": 1793672277.9795895,
 "palantir|forwarddeployedsoftwareengineerinternwarpspeed": 1792711979.5230331,
+"palantir|softwareengineerinternsovereignaisystems": 1793919152.8115056,
 "parallelsystems|softwareengineeringinternembeddedbackendfullstack": 1793056357.564065,
 "paretohealth|softwareengineeringintern": 1793650224.8760884,
 "parsons|aimlengineerintern": 1793813515.5145864,
+"parsons|embeddeddeveloperintern": 1793919189.7722194,
 "pathrobotics|machinelearningroboticsintern": 1793319313.534658,
 "pattern|aiautomationengineerintern": 1792712100.420578,
 "pattern|aiinfrastructureengineerintern": 1792712100.4206152,
@@ -52168,7 +52271,6 @@
 "simberobotics|robotsoftwareengineerintern": 1792796813.1447575,
 "skydio|autonomyengineerinterndeeplearningcomputervision": 1792996062.8245444,
 "skydio|autonomyengineerinternreinforcementlearninghq": 1793042709.376628,
-"skydio|frontendsoftwareengineerintern": 1792701348.8512213,
 "sonos|dataengineeringinternseattle": 1793872758.8277614,
 "sonos|softwareengineerintern": 1793151839.5317686,
 "sonos|softwareengineerinternpartnerengineering": 1793288482.1200106,
@@ -52210,12 +52312,14 @@
 "trace3|dataanalyticsintern": 1793042713.0264804,
 "trace3|workplaceaiintern": 1793650224.8762,
 "trace|roboticsengineeringinternhardwaresoftware": 1793042713.003857,
+"trajectory|memberoftechnicalstaffresearchintern": 1793919148.9735355,
 "trimble|aideveloperintern": 1793726458.7141473,
 "trimble|peopledevelopmentaidigitallearningintern": 1792712040.009257,
 "trustage|innovationaitechnologyintern": 1793759328.2747428,
 "twitch|undergradsoftwareengineeringinterngradyear": 1793042713.0980203,
 "twosix|systemssoftwareengineeringintern": 1793288327.5404572,
 "uline|softwaredevelopmentintern": 1792712177.5050397,
+"universityofmiami|datascienceaiintern": 1793919339.6523738,
 "ursamajor|softwaredevelopmentintern": 1792712100.4208896,
 "usafacts|aiproductintern": 1793744425.4967039,
 "usafacts|aisoftwareengineeringintern": 1793263917.9409823,
@@ -52558,6 +52662,7 @@
 "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1": "",
 "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125": "Austin, TX; Milpitas, CA",
 "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521": "Milpitas, CA; Ann Arbor, MI",
+"https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1": "Austin, TX; Milpitas, CA",
 "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1": "Milpitas, CA; Ann Arbor, MI",
 "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615": "USA  - WI - Milwaukee - 3727 W Wisconsin Avenue; Remote_United States",
 "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220": "6314 Remote/Teleworker US; Odenton, MD; Shiloh, IL",
