@@ -12866,6 +12866,13 @@
 "title": "AI/ML Systems Engineering Intern (Summer 2027)",
 "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051"
 },
+"Globus Medical:/job/Methuen-MA/Software-COOP_JR108063": {
+"company": "Globus Medical",
+"first_seen": "2026-11-07T14:23:36+00:00",
+"posted": 1793975325.4225874,
+"title": "Software COOP",
+"url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063"
+},
 "GoMaterials:be3fb0e8-54a1-43de-b998-99dd071eed19": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Data Quality Intern - Winter 2027",
@@ -18022,6 +18029,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Continuous Improvement Engineering Intern",
 "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Chicago-IL/Engineering-Intern_JR0000045242-4"
+},
+"Marmon Holdings:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903": {
+"company": "Marmon Holdings",
+"first_seen": "2026-11-07T14:23:36+00:00",
+"posted": 1793975347.7425418,
+"title": "Intern - AI Technology Solutions",
+"url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903"
 },
 "Marmon Holdings:/job/Hesse-DE/Automation---Continuous-Improvement-Engineering-Intern_JR0000044955": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -39814,6 +39828,13 @@
 "title": "Software Development Intern",
 "url": "https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false"
 },
+"src:simplify:60fd1301-4412-4891-b853-6eec26f242df": {
+"company": "Tesla",
+"first_seen": "2026-11-07T14:23:36+00:00",
+"posted": 1794049799.0,
+"title": "Software Engineer Intern - SI Reinforcement Learning",
+"url": "https://www.tesla.com/careers/search/job/289241"
+},
 "src:simplify:60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Hardware Verification Intern",
@@ -51799,6 +51820,13 @@
 "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
 "url": "https://higher.gs.com/roles/171548?type=students"
 },
+"src:simplify:f6b7f447-ad5a-434e-bf7f-b120f36843eb": {
+"company": "Northwood Space",
+"first_seen": "2026-11-07T14:23:36+00:00",
+"posted": 1787964321.0,
+"title": "Supply Chain Data & Analytics Intern",
+"url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true"
+},
 "src:simplify:f6bf553d-9f2a-46c8-a6e7-693d5ca48d14": {
 "company": "Nissan Global",
 "first_seen": "2026-10-15T00:45:32+00:00",
@@ -52661,6 +52689,7 @@
 "genmd|memberoftechnicalstaffinternappliedai": 1793672130.5828,
 "gevernova|softwareengineeringintern": 1793395708.347389,
 "glean|softwareengineerintern": 1793056359.503402,
+"globusmedical|softwarecoop": 1794061740.7527094,
 "gmfinancial|dataengineerintern": 1793319313.534575,
 "goldenanalytics|softwareengineerintern": 1793319313.5346,
 "greatamericaninsurance|businessintelligencepowerbiintern": 1793813432.3146334,
@@ -52734,6 +52763,7 @@
 "lumbermens|softwaredeveloperintern": 1793933744.3588989,
 "mabanaft|workingstudentmwdplatformengineerdataintegrationplatforms": 1793127524.1853158,
 "maki|aiimplementationintern": 1793042713.0332835,
+"marmon|internaitechnologysolutions": 1794061764.8162344,
 "marvell|datascienceintern": 1793230163.4699993,
 "matteprojects|creativeaiinternonsite": 1793650224.9808998,
 "mayoclinic|graduateengineerinternsoftwaredevelopment": 1793127369.8172255,
