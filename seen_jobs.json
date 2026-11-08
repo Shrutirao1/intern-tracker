@@ -1886,6 +1886,7 @@
 "VF",
 "VSP Vision",
 "Valeo",
+"Valmont",
 "Valon",
 "Valstad",
 "Vanderlande Industries",
@@ -15950,6 +15951,13 @@
 "title": "Operations Engineering Intern, Spring 2027 - Scottsville, KY",
 "url": "https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Scottsville-KY/Operations-Engineering-Intern--Spring-2027---Scottsville--KY_115475-1"
 },
+"J.M. Smucker:/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118": {
+"company": "J.M. Smucker",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793905569.2164168,
+"title": "Data Science Intern, Summer 2027",
+"url": "https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118"
+},
 "JM Family:/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095": {
 "company": "JM Family",
 "first_seen": "2026-11-04T17:28:08+00:00",
@@ -18084,6 +18092,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Intern-LSSU Students Only",
 "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Sault-Ste-Marie-MI/Engineering-Intern-LSSU-Students-Only_JR0000045217"
+},
+"Mars:/job/NLD-North-Brabant-Veghel/Thesis-Internship-Driving-Process-Excellence-through-AI_R171492-1": {
+"company": "Mars",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793819236.7674673,
+"title": "Thesis Internship Driving Process Excellence through AI",
+"url": "https://mars.wd3.myworkdayjobs.com/en-US/external/job/NLD-North-Brabant-Veghel/Thesis-Internship-Driving-Process-Excellence-through-AI_R171492-1"
 },
 "Marsh:/job/Amsterdam---Strawinskylaan-381/Oliver-Wyman---Data---Analytics-Intern-Analyst----Amsterdam_R_364450-2": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -27062,6 +27077,13 @@
 "title": "Manufacturing Software Engineer Intern - Winter 2027",
 "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
 },
+"Smith+Nephew:/job/Andover-MA/Intern-AI-Engineer-R-D_R92966": {
+"company": "Smith+Nephew",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793819256.5522213,
+"title": "Intern AI Engineer R&D",
+"url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-AI-Engineer-R-D_R92966"
+},
 "Smith+Nephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953": {
 "company": "Smith+Nephew",
 "first_seen": "2026-10-21T06:25:39+00:00",
@@ -27082,6 +27104,20 @@
 "posted": 1792564206.4036462,
 "title": "Intern Embedded Software Engineering",
 "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952"
+},
+"Smith+Nephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1": {
+"company": "Smith+Nephew",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793819255.928697,
+"title": "Intern AI Center of Excellence Data Science",
+"url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"
+},
+"Smith+Nephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482": {
+"company": "Smith+Nephew",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793819256.5520947,
+"title": "Intern Robotics Software Engineering",
+"url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
 },
 "Snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -27820,12 +27856,96 @@
 "title": "Summer 2027 Software Engineer \u2013 Cloud Security Summer Internship",
 "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190"
 },
+"T-Mobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793905515.1559248,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650"
+},
+"T-Mobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793732715.1554747,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652"
+},
+"T-Mobile:/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.15611,
+"title": "Summer 2027 AI Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765"
+},
+"T-Mobile:/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.156254,
+"title": "Summer 2027 AI Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194"
+},
+"T-Mobile:/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.7987986,
+"title": "Summer 2027 AI Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198"
+},
+"T-Mobile:/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.7989302,
+"title": "Summer 2027 AI Strategist Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279"
+},
 "T-Mobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": {
 "company": "T-Mobile",
 "first_seen": "2026-10-15T23:53:26+00:00",
 "posted": 1792108413.074852,
 "title": "Summer 2027 Software Engineering Intern",
 "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+},
+"T-Mobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.7985754,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757"
+},
+"T-Mobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.7988644,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768"
+},
+"T-Mobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.7987318,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917"
+},
+"T-Mobile:/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.156173,
+"title": "Summer 2027 Data Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754"
+},
+"T-Mobile:/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.798663,
+"title": "Summer 2027 Data Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755"
+},
+"T-Mobile:/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793646315.1551998,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886"
 },
 "T-Mobile:/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484": {
 "company": "T-Mobile",
@@ -27847,6 +27967,34 @@
 "posted": 1793177520.2292676,
 "title": "Summer 2027 Software Engineering Internship",
 "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441"
+},
+"T-Mobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.1559868,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
+},
+"T-Mobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793991915.156048,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"
+},
+"T-Mobile:/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793646315.155274,
+"title": "Summer 2027 Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
+},
+"T-Mobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234": {
+"company": "T-Mobile",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793732715.7991266,
+"title": "Summer 2027 T-Ads Software Engineering Internship",
+"url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
 },
 "T. Rowe Price:/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -29470,6 +29618,13 @@
 "title": "IT Systems Operations Summer 2027 Intern",
 "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/IT-Systems-Operations-Summer-2027-Intern_R26-01499"
 },
+"Tokyo Electron:/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311": {
+"company": "Tokyo Electron",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793819312.2063143,
+"title": "Research Scientist - ATG Optical Sensor Development Intern (Summer 2027)",
+"url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311"
+},
 "Tokyo Electron:/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Decision Analysis & AI Summer 2027 Intern",
@@ -29840,6 +29995,13 @@
 "title": "AI Product Intern",
 "url": "https://job-boards.greenhouse.io/usafacts/jobs/4478239009"
 },
+"Uhaul:/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909": {
+"company": "Uhaul",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793992040.1916964,
+"title": "Data Analyst Spring Internship",
+"url": "https://uhaul.wd1.myworkdayjobs.com/en-US/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909"
+},
 "Uline:/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Development Internship - Summer 2027",
@@ -30143,6 +30305,20 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Warranty Engineering Co-Op",
 "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026080235"
+},
+"Valmont:/job/Omaha-NE/AI---Data-Engineering-Intern_R29310": {
+"company": "Valmont",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793214422.4490328,
+"title": "AI & Data Engineering Intern",
+"url": "https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310"
+},
+"Valmont:/job/Valley-NE/Operations-Data-Analyst-Intern_R29224": {
+"company": "Valmont",
+"first_seen": "2026-11-08T19:05:07+00:00",
+"posted": 1793041622.448966,
+"title": "Operations Data Analyst Intern",
+"url": "https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/Operations-Data-Analyst-Intern_R29224"
 },
 "Valon:b5a62c0c-823c-42dd-8cb5-e4b1455bcc64": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -52612,7 +52788,6 @@
 "42dot|internfoundationmodels": 1793650225.1838727,
 "accenture|aidatadatasciencemlengineeringthesisintern": 1793813666.384468,
 "accenture|cloudinfrastructuredevopsinternheshethey": 1793216277.4319432,
-"accenture|interndataaitechasoffebruary": 1792944747.4416742,
 "accenture|interndigitalcorearchitectcloudasoffebruary": 1793216277.4319704,
 "accenture|linuxadministratorinternshehethey": 1793813666.3844302,
 "accenture|softwareengineerintern": 1793216277.4318945,
@@ -52817,6 +52992,7 @@
 "mabanaft|workingstudentmwdplatformengineerdataintegrationplatforms": 1793127524.1853158,
 "maki|aiimplementationintern": 1793042713.0332835,
 "marmon|internaitechnologysolutions": 1794061764.8162344,
+"mars|thesisinterndrivingprocessexcellencethroughai": 1794164856.689347,
 "marvell|datascienceintern": 1793230163.4699993,
 "matteprojects|creativeaiinternonsite": 1793650224.9808998,
 "mayoclinic|graduateengineerinternsoftwaredevelopment": 1793127369.8172255,
@@ -52970,6 +53146,7 @@
 "signetjewelers|dataanalyticsintern": 1793744691.9446902,
 "skydio|autonomyengineerinterndeeplearningcomputervision": 1792996062.8245444,
 "skydio|autonomyengineerinternreinforcementlearninghq": 1793042709.376628,
+"smithnephew|internaiengineerrd": 1794164874.4228127,
 "sonos|dataengineeringinternseattle": 1793872758.8277614,
 "sonos|softwareengineerintern": 1793151839.5317686,
 "sonos|softwareengineerinternpartnerengineering": 1793288482.1200106,
@@ -53029,6 +53206,7 @@
 "usafacts|aiproductintern": 1793744425.4967039,
 "usafacts|aisoftwareengineeringintern": 1793263917.9409823,
 "valmont|aianddataengineeringintern": 1793230163.4699638,
+"valmont|operationsdataanalystintern": 1794164831.915994,
 "vardaspace|sitereliabilityintern": 1794016063.6366615,
 "varian|embeddedsoftwaredevelopercoop": 1794148876.1183457,
 "vaticinvestments|airesearchintern": 1793759328.2744174,
@@ -53558,6 +53736,8 @@
 "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114": "Hartford, CT; Charlotte, NC; Chicago, IL",
 "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Chicago-IL-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Business-Intelligence_R261000134": "Chicago, IL, USA; New York, NY, USA",
 "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190": "Atlanta, Georgia; Frisco, Texas",
+"https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754": "Frisco, Texas; Atlanta, Georgia",
+"https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755": "Frisco, Texas; Atlanta, Georgia",
 "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492": "Overland Park, Kansas; Frisco, Texas",
 "https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1": "Davidson, North Carolina; Minneapolis, Minnesota",
 "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305": "CT - Hartford; MN - St. Paul",
