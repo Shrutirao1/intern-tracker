@@ -15500,6 +15500,13 @@
 "title": "Packaging Technology Development Graduate Intern",
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080"
 },
+"Intel:/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529": {
+"company": "Intel",
+"first_seen": "2026-11-08T14:37:03+00:00",
+"posted": 1793889429.2417247,
+"title": "GPU Architecture Graduate Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529"
+},
 "Intel:/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533": {
 "company": "Intel",
 "first_seen": "2026-10-24T17:30:05+00:00",
@@ -29680,6 +29687,13 @@
 "title": "Software Engineering Intern",
 "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
 },
+"Trimble:/job/US---OH-Dayton/AI-Automation-Intern_R58148": {
+"company": "Trimble",
+"first_seen": "2026-11-08T14:37:03+00:00",
+"posted": 1793976007.0527668,
+"title": "AI Automation Intern",
+"url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148"
+},
 "Trimble:/job/US---OH-Dayton/AI-Developer-Intern_R58195": {
 "company": "Trimble",
 "first_seen": "2026-11-03T17:17:39+00:00",
@@ -30257,6 +30271,13 @@
 "posted": 1792161071.5850635,
 "title": "Billing Data Analyst Intern",
 "url": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/OAV-N/Billing-Data-Analyst-Intern_R-31164"
+},
+"Varian:/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948": {
+"company": "Varian",
+"first_seen": "2026-11-08T14:37:03+00:00",
+"posted": 1793976046.166996,
+"title": "Embedded Software Developer Co-op",
+"url": "https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948"
 },
 "Varian:/job/YOW-B/Software-Quality-Assurance-Specialist-Co-op_R-31551": {
 "company": "Varian",
@@ -52762,6 +52783,7 @@
 "infleqtion|quantumsoftwareinternquantumsoftware": 1793216096.014177,
 "ingredion|workingstudentautomationaimfd": 1794124684.8344562,
 "insomniacgames|engineandtoolsprogramminginternundergraduate": 1793042713.0919025,
+"intel|gpuarchitecturegraduateintern": 1794148667.4486198,
 "intuitivesurgical|aimlengineerintern": 1793672277.9797447,
 "ixianrobotics|softwareintern": 1793650224.9321625,
 "jmfamily|aicenterofexcellencedeliveryteamintern": 1793759328.2745895,
@@ -52997,6 +53019,7 @@
 "trace3|workplaceaiintern": 1793650224.8762,
 "trace|roboticsengineeringinternhardwaresoftware": 1793042713.003857,
 "trajectory|memberoftechnicalstaffresearchintern": 1793919148.9735355,
+"trimble|aiautomationintern": 1794148834.786062,
 "trimble|aideveloperintern": 1793726458.7141473,
 "trustage|innovationaitechnologyintern": 1793759328.2747428,
 "twitch|undergradsoftwareengineeringinterngradyear": 1793042713.0980203,
@@ -53007,6 +53030,7 @@
 "usafacts|aisoftwareengineeringintern": 1793263917.9409823,
 "valmont|aianddataengineeringintern": 1793230163.4699638,
 "vardaspace|sitereliabilityintern": 1794016063.6366615,
+"varian|embeddedsoftwaredevelopercoop": 1794148876.1183457,
 "vaticinvestments|airesearchintern": 1793759328.2744174,
 "viasat|softwareengineerintern": 1793872640.2070632,
 "visa|datascienceinterndataandaiteam": 1793108164.9467227,
@@ -53543,6 +53567,7 @@
 "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194": "US - CO, Westminster; US - OH, Dayton",
 "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1": "US - CO, Westminster; US - OR, Lake Oswego; US - NH, Portsmouth",
 "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676": "US - CO, Westminster; US - GA, Atlanta; US - NH, Portsmouth; US - TN, Knoxville; US - CA, Sunnyvale; US - OH, Dayton; US - OR, Lake Oswego",
+"https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148": "US - OH, Dayton; US - CO, Westminster",
 "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195": "US - OH, Dayton; US - CO, Westminster",
 "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677": "Baltimore, MD; Owings Mills, MD",
 "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684": "Pleasant Prairie, WI; Milwaukee, WI; Waukegan, IL; Glenview, IL; Kenosha, WI",
