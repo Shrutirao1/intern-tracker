@@ -6788,6 +6788,20 @@
 "title": "Software/Network Engineering Intern - Summer 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
 },
+"CACI:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1": {
+"company": "CACI",
+"first_seen": "2026-11-08T07:54:36+00:00",
+"posted": 1794038083.1656058,
+"title": "AI/ML Engineering Co-op - Spring 2027",
+"url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1"
+},
+"CACI:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665": {
+"company": "CACI",
+"first_seen": "2026-11-08T07:54:36+00:00",
+"posted": 1794038083.165676,
+"title": "Software Engineering Co-op - Spring 2027",
+"url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"
+},
 "CACI:/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineering Intern \u2013 Summer 2027",
@@ -15084,6 +15098,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Intern",
 "url": "https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/South-Sioux-City-NE/Engineering-Intern_Req-40339-1"
+},
+"Ingredion:/job/Wesenberg/Working-Student-Automation---AI--m-f-d-_Req-40842": {
+"company": "Ingredion",
+"first_seen": "2026-11-08T07:54:36+00:00",
+"posted": 1794038283.6168032,
+"title": "Working Student Automation & AI (m/f/d)",
+"url": "https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Wesenberg/Working-Student-Automation---AI--m-f-d-_Req-40842"
 },
 "Ingredion:/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -30892,6 +30913,13 @@
 "posted": 1792626011.6152065,
 "title": "2026 Intern Conversion: 2027 FT Software Engineer II - Bentonville",
 "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Bentonville_R-2630128"
+},
+"Walmart:/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828": {
+"company": "Walmart",
+"first_seen": "2026-11-08T07:54:36+00:00",
+"posted": 1793951838.9660475,
+"title": "(USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data\u00a0Science\u00a0Intern",
+"url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828"
 },
 "Walrus:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5": {
 "company": "Walrus",
@@ -52599,7 +52627,6 @@
 "asml|internfrontenddeveloper": 1793360643.3966653,
 "asml|internmachinelearningandimagebasedeuvsystemsetup": 1793832573.5861795,
 "asml|internsoftwaredevelopmentengineerintest": 1793360643.3966484,
-"asml|platformsoftwareengineerintestintern": 1792892984.794483,
 "assurant|aianddatascienceintern": 1793151839.5318272,
 "astranis|embeddedsoftwaredevelopernetworkpayloadintern": 1794016064.0471854,
 "astrazeneca|manufacturingdigitalandaiintern": 1793933744.358936,
@@ -52733,6 +52760,7 @@
 "hp|softwaresystemsinterniq": 1793241588.482466,
 "humblerobotics|embeddedsoftwareengineerintern": 1793042713.2054715,
 "infleqtion|quantumsoftwareinternquantumsoftware": 1793216096.014177,
+"ingredion|workingstudentautomationaimfd": 1794124684.8344562,
 "insomniacgames|engineandtoolsprogramminginternundergraduate": 1793042713.0919025,
 "intuitivesurgical|aimlengineerintern": 1793672277.9797447,
 "ixianrobotics|softwareintern": 1793650224.9321625,
@@ -52993,6 +53021,7 @@
 "vspvision|softwareengineerinterntechnologyinnovation": 1793172505.8414128,
 "wabtec|firmwareengineeringcoop": 1793759328.2746823,
 "wabtec|softwareengineeringcoop": 1793172505.8414571,
+"walmart|usacorporateinternlastmiledeliverydatascienceintern": 1794124718.4277356,
 "walrus|fullstackdeveloperintern": 1793042713.0356426,
 "webfx|webdeveloperintern": 1793650225.1337645,
 "wellmark|softwareengineerinternaiplatformteam": 1793672277.980171,
