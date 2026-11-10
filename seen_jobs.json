@@ -983,6 +983,7 @@
 "Internship",
 "Intrinsic",
 "Intropic",
+"Intuitive",
 "Inversion",
 "Invesco",
 "IonQ",
@@ -1263,6 +1264,7 @@
 "Newsela",
 "Newton Research",
 "Nex",
+"Nexstar",
 "NextGen Federal Systems",
 "Nextech Systems",
 "NiSource",
@@ -4151,6 +4153,13 @@
 "title": "DevOps Co-Op",
 "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/DevOps-Co-Op_R267690"
 },
+"Analog Devices:/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371": {
+"company": "Analog Devices",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794264059.3130116,
+"title": "Machine Learning for Computational Sensing Research Intern",
+"url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371"
+},
 "Analog Devices:/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Process Sustaining Engineering Intern",
@@ -6498,6 +6507,20 @@
 "title": "Audio Machine Learning Intern/Co-op",
 "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277"
 },
+"Bose:/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370": {
+"company": "Bose",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1793832082.8694417,
+"title": "DSP/ML Research Engineer Co-op | Spring 2027",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370"
+},
+"Bose:/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371": {
+"company": "Bose",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1793832082.4273002,
+"title": "DSP/ML Research Engineer Intern | Summer 2027",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371"
+},
 "Bose:/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271": {
 "company": "Bose",
 "first_seen": "2026-10-10T08:15:37+00:00",
@@ -6525,6 +6548,13 @@
 "posted": 1791360954.3051593,
 "title": "Embedded Software Engineer Co-op  - Audio Tech",
 "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278"
+},
+"Bose:/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369": {
+"company": "Bose",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1793745682.8693724,
+"title": "Software/DSP Research Engineer Co-op",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369"
 },
 "Bot Auto:5289440008": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -7970,6 +8000,13 @@
 "posted": 1790696889.752,
 "title": "Software Engineering Intern ",
 "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa"
+},
+"Clera:1c3eb725-b3e0-414b-9a88-5fb6d6d785c7": {
+"company": "Clera",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794344518.454,
+"title": "ML Intern",
+"url": "https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7"
 },
 "Clera:335d1ca9-1fda-45d3-9756-122324acbabb": {
 "company": "Clera",
@@ -16528,6 +16565,13 @@
 "title": "Implementation Analytics Fall Intern - Claims Monitoring & Automation (Part Time)",
 "url": "https://job-boards.greenhouse.io/judihealth/jobs/5429077008"
 },
+"Judi Health:5477146008": {
+"company": "Judi Health",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794340580.0,
+"title": "AI Solutions Intern",
+"url": "https://job-boards.greenhouse.io/judihealth/jobs/5477146008"
+},
 "Juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a": {
 "company": "Juicebox",
 "first_seen": "2026-09-29T23:40:59+00:00",
@@ -17721,6 +17765,20 @@
 "posted": 1791872902.2152274,
 "title": "Embedded Software Intern",
 "url": "https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276"
+},
+"Life Fitness:/job/Schaumburg-IL/Android-Software-Intern_JR-025277": {
+"company": "Life Fitness",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1791844776.4685693,
+"title": "Android Software Intern",
+"url": "https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Schaumburg-IL/Android-Software-Intern_JR-025277"
+},
+"Life Fitness:/job/Schaumburg-IL/Embedded-Software-Intern_JR-025276": {
+"company": "Life Fitness",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1791844776.468704,
+"title": "Embedded Software Intern",
+"url": "https://lifefitness.wd1.myworkdayjobs.com/en-US/searchLFN/job/Schaumburg-IL/Embedded-Software-Intern_JR-025276"
 },
 "Lila Sciences:4280811009": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -19531,6 +19589,13 @@
 "title": "Capital Project Engineering Co-op/Intern - Spring 2027",
 "url": "https://mosaic.wd5.myworkdayjobs.com/en-US/mosaic/job/US---Tampa-FL-Lithia-area/Capital-Project-Engineering-Co-op-Intern---Spring-2027_64392"
 },
+"Motorola:/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511": {
+"company": "Motorola",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794350182.3420246,
+"title": "Software System Technologist Intern (Summer 2027 Internship)",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511"
+},
 "Motorola:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Android Applications Developer Intern - Summer 2027",
@@ -19594,6 +19659,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Test Engineering Internship 2027",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059"
+},
+"Motorola:/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228": {
+"company": "Motorola",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794004582.341937,
+"title": "Software Presales Enablement Intern - Summer Internship 2027",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228"
 },
 "Motorola:/job/Krakow-Poland/Intern-Software-Developer---Java_R68799": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -20126,6 +20198,13 @@
 "title": "CPU Compiler Intern - 2027",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
 },
+"NVIDIA:/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548": {
+"company": "NVIDIA",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1793831789.222123,
+"title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548"
+},
 "NVIDIA:/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958": {
 "company": "NVIDIA",
 "first_seen": "2026-10-06T08:09:18+00:00",
@@ -20283,6 +20362,13 @@
 "posted": 1793392631.810544,
 "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799"
+},
+"NVIDIA:/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1": {
+"company": "NVIDIA",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1793658989.2225041,
+"title": "AI Compiler and Kernel Intern \u2013 Summer 2027",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
 },
 "NVIDIA:/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170": {
 "company": "NVIDIA",
@@ -20989,6 +21075,13 @@
 "posted": 1793728513.0,
 "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
 "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008"
+},
+"Nexstar:/job/FL-Tampa/Unpaid-Programming-Intern_REQ-43464": {
+"company": "Nexstar",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1793054381.1098897,
+"title": "Unpaid Programming Intern",
+"url": "https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/FL-Tampa/Unpaid-Programming-Intern_REQ-43464"
 },
 "NiSource:/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -26512,6 +26605,13 @@
 "title": "Summer 2027 Intern - Forward Deployed Engineer \u2013 Global Public Sector",
 "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
 },
+"Salesforce:/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655": {
+"company": "Salesforce",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794350180.6398423,
+"title": "Summer 2027 Intern - AI Research Incubator",
+"url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655"
+},
 "Salesforce:/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1": {
 "company": "Salesforce",
 "first_seen": "2026-10-21T23:34:08+00:00",
@@ -27411,10 +27511,24 @@
 "title": "Mobile Software Engineer Intern - Summer 2027",
 "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52"
 },
+"Skydio:add7fd86-78e6-483e-98cd-cdfc1029fded": {
+"company": "Skydio",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794333820.976,
+"title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
+"url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded"
+},
 "Skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
 "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
+},
+"Skydio:c85af510-9fe4-4167-a914-c3ab344bef03": {
+"company": "Skydio",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794347058.297,
+"title": "Middleware Software Engineer Intern - Summer 2027",
+"url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03"
 },
 "Skydio:d79ccbaa-2901-4303-bd90-675db7802366": {
 "company": "Skydio",
@@ -30136,6 +30250,13 @@
 "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
 "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415"
 },
+"Toyota Research Institute:be41a03c-460e-4ff7-b817-f012aa1c4b37": {
+"company": "Toyota Research Institute",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1794336210.435,
+"title": "Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)",
+"url": "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37"
+},
 "Toyota Research Institute:d4184c04-b963-489a-9a0b-91bc57d6267e": {
 "company": "Toyota Research Institute",
 "first_seen": "2026-11-04T22:45:18+00:00",
@@ -30285,6 +30406,13 @@
 "posted": 1793726448.9332702,
 "title": "AI Developer Intern",
 "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195"
+},
+"TruStage:/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293": {
+"company": "TruStage",
+"first_seen": "2026-11-10T22:36:13+00:00",
+"posted": 1793745500.7385907,
+"title": "IT - Innovation & AI Technology Internship (Hybrid)",
+"url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293"
 },
 "Truveta:5659745004": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -53641,6 +53769,7 @@
 "amd|mastersaitrainingsoftwareperformancecoop": 1793230163.4700186,
 "americanexpress|campusundergraduateinternsoftwareengineerenterprisetechnologyservices": 1793726425.0184348,
 "americanexpress|cybersecurityaiengineerinternenterprisetechnologyservices": 1793759328.2744043,
+"analogdevices|machinelearningforcomputationalsensingresearchintern": 1794350493.7314925,
 "apacheindustrial|aiimplementationintern": 1793759328.2743666,
 "apex|groundsoftwareengineeringinternor": 1793919145.415005,
 "apex|softwareengineeringinternembeddedsystemsor": 1793919145.414908,
@@ -53663,7 +53792,6 @@
 "astrazeneca|manufacturingdigitalandaiintern": 1793933744.358936,
 "astrazeneca|networkplanningdataanalyticsintern": 1794278160.6256433,
 "astromechanica|softwareengineerintern": 1793672277.9796064,
-"atoms|airesearchinternbsms": 1793127207.0009456,
 "atriumhospitality|aiautomationintern": 1794278186.811804,
 "autodesk|internsoftwareengineercnet12months": 1793288478.4911516,
 "autodesk|internsoftwareengineerjavascript12months": 1793288478.491114,
@@ -53687,7 +53815,6 @@
 "caci|aimlengineeringcoop": 1793985164.636425,
 "caci|softwareengineeringcoop": 1793985164.6364121,
 "caci|softwareengineeringcoopintern": 1793288482.119604,
-"caci|softwareengineeringintern": 1793140864.9453225,
 "cams|apmpredictiveanalyticsengineerintern": 1793650224.9782352,
 "caresource|aiintern": 1793319313.5350623,
 "caresource|datascienceintern": 1793759328.2745264,
@@ -53703,8 +53830,8 @@
 "cisco|softwareengineerfullstackbackendiinternunitedstates": 1794278233.1528919,
 "cleanharbors|softwarefieldtechnologyinternis": 1793230163.4697132,
 "clera|computervisionroboticsintern": 1793306003.3506422,
+"clera|mlintern": 1794350177.4218512,
 "cmu|fullstacksoftwaredevelopmentintern": 1793587746.2904756,
-"commonwealthfusionsystems|internscientificsoftwareengineer": 1793127211.8146381,
 "commonwealthfusionsystems|internsoftwareengineer": 1793744427.042141,
 "constellationbrands|internaienablement": 1793216095.236167,
 "constellationbrands|internfullstackengineer": 1793813511.1333468,
@@ -53712,7 +53839,6 @@
 "copart|softwareengineeringintern": 1793196673.3257146,
 "costar|datascienceintern": 1793650419.197833,
 "costco|cdsinternpowerappsdeveloperecmdigitalworkflow": 1793672277.979954,
-"csaainsurance|datascienceintern": 1793140955.532551,
 "ctgt|aievaluationresearchintern": 1794277983.175051,
 "danaher|internapplicationintegrationdeveloper": 1793614025.3628063,
 "deezee|softwaredevelopmentintern": 1793339292.6459324,
@@ -53735,7 +53861,6 @@
 "enovationcontrols|manufacturingsoftwareengineerintern": 1794016170.7647288,
 "entrust|aideveloperintern": 1793900848.341132,
 "epicgames|aiprogrammerintern": 1794277984.9973536,
-"eqt|aiintern": 1793127209.5486045,
 "etchedai|iaresearchengineerkernelsintern": 1793784890.607043,
 "federalreservesystem|datascienceintern": 1794278160.6254861,
 "firework|dataengineerintern": 1793650224.9921117,
@@ -53807,7 +53932,7 @@
 "jmsmucker|datascienceintern": 1793933744.3587542,
 "johnshopkinsappliedphysicslaboratory|artificialintelligenceinterninformationfusion": 1794278160.625522,
 "jomboymedia|businessintelligenceintern": 1793744426.194383,
-"jpmorganchase|machinelearningcenterofexcellenceassociateinterntimeseriesandreinforcementlearningtsrl": 1793140955.532585,
+"judihealth|aisolutionsintern": 1794350178.5069249,
 "kla|softwareengineeraimlintern": 1793785088.9196308,
 "kla|softwareengineerintern": 1793339356.1092231,
 "kla|softwareintern": 1793339356.1092017,
@@ -53827,14 +53952,11 @@
 "littelfuse|workingstudentaiwmd": 1793395805.680816,
 "llbean|softwaredeveloperintern": 1794016170.7648299,
 "lumbermens|softwaredeveloperintern": 1793933744.3588989,
-"mabanaft|workingstudentmwdplatformengineerdataintegrationplatforms": 1793127524.1853158,
 "marmon|internaitechnologysolutions": 1794061764.8162344,
 "mars|thesisinterndrivingprocessexcellencethroughai": 1794164856.689347,
 "marvell|datascienceintern": 1793230163.4699993,
 "matteprojects|creativeaiinternonsite": 1793650224.9808998,
 "maxinsights|machinelearningengineerinternvideofoundationmodelsagenticai": 1794277983.8897798,
-"mayoclinic|graduateengineerinternsoftwaredevelopment": 1793127369.8172255,
-"mbda|softwaremodellinglevel6degreeapprenticeship": 1793127393.2664902,
 "merck|internmasterstatisticsbioinformaticsglobalstatisticsanddatamanagement": 1793813487.9306998,
 "mercor|researchengineerinternbenchmarking": 1793151711.3148985,
 "mercor|researchengineerinternenvironmentsdataandposttraining": 1793151711.314866,
@@ -53847,6 +53969,8 @@
 "molinahealthcare|dataanalyticsintern": 1793985164.6362529,
 "mosaic|artificialintelligencecoopintern": 1793726425.01839,
 "motorolasolutions|softwareengineercybersecurityservicesintern": 1793672277.9793823,
+"motorola|softwarepresalesenablementinternintern": 1794350214.4114635,
+"motorola|softwaresystemtechnologistinternintern": 1794350214.4115016,
 "myhrabc|dataanalyticsintern": 1793264087.80361,
 "nationallaboratoryofrockies|graduateinternagenticaidrivencomputationalsynthesisofpgmfreefuelcellcatalysts": 1793360750.1423583,
 "nationallaboratoryofrockies|graduateinternpowerdataanalysisforaidatacenters": 1793360750.142329,
@@ -53859,9 +53983,8 @@
 "newyorktimes|fullstackengineeringintern": 1794002634.5602274,
 "newyorktimes|iosengineeringintern": 1794002634.560243,
 "newyorktimes|mlscientistintern": 1794277983.2636967,
+"nexstar|unpaidprogrammingintern": 1794350395.647595,
 "nex|softwareengineerinternsportsfitnessgamedevelopment": 1793759328.2745743,
-"nissanglobal|physicalaimanufacturingintern": 1793140955.532605,
-"nissan|aiintern": 1793127369.817374,
 "niural|aiproductoperatorintern": 1794277985.7698674,
 "noblis|datascienceandinnovationintern": 1793872640.207811,
 "nooks|softwareengineerintern": 1794277985.8900993,
@@ -53951,7 +54074,6 @@
 "roche|interndataanalyticsspecialist": 1793613931.6589386,
 "roche|interngenerativeaidesignerasofjanuaryfor12monthsinrotkreuz": 1793613931.6589942,
 "roche|internsoftwareanddataengineerfor12monthsinrotkreuz": 1793151992.4789803,
-"rockwellautomation|coopembeddedsoftwareengineer": 1793127477.409994,
 "roku|aiengineeringintern": 1793813304.9743733,
 "roku|softwareengineeringintern": 1793813304.9744012,
 "roku|softwareengineerinternaiengineering": 1793613836.6114888,
@@ -53959,16 +54081,14 @@
 "rosaiclabs|aiacceleratordesignverificationengineerintern": 1793650224.7811236,
 "rosaiclabs|softwareengineeringintern": 1793650224.781236,
 "rtx|controldiagnosticsoftwareintern": 1793785070.0859199,
-"rtx|embeddedsoftwareengineerintern": 1793127369.81742,
 "rtx|parttimesoftwareplatformengineercoopremote": 1793196688.7805562,
 "rtx|receiverprocessingarchitecturesoftwareengineerinternexciter": 1793172505.841126,
-"rtx|securesoftwareintern": 1793127369.8174036,
 "rtx|softwareengineercoopjanuary": 1793196688.7804744,
 "rtx|softwareengineeringintern": 1793744453.5538418,
 "rtx|softwareengineerintern": 1793319313.534544,
 "ryan|internsoftwareengineering": 1793500699.8657572,
 "salesforce|ailabsinternemergingtalent": 1793479053.7951376,
-"salesforce|forwarddeployedengineerinternglobalpublicsector": 1793140955.532626,
+"salesforce|internairesearchincubator": 1794350220.2538886,
 "salliemae|datascienceandengineeringintern": 1793288482.1195538,
 "samsara|softwareengineeringinternsanfrancisco": 1793985014.5594118,
 "samsungresearchamerica|healthaischolarinterndigitalhealthalgorithmsteam": 1793288482.119513,
@@ -53977,7 +54097,6 @@
 "sas|datascientistintern": 1793985164.6363535,
 "schonfeld|enterpriseaiintern": 1793215888.9189322,
 "scoutai|aiengineerinternfuryteam": 1793151839.5323024,
-"sedgwickclaimsmanagementservices|dataanalystintern": 1793140902.5144103,
 "sharkninja|aisharksappliedaianalyticscoopjanuarytojune": 1794002632.1700683,
 "sherwinwilliams|rddatasciencecoop": 1793230163.470145,
 "shieldai|embeddedfirmwareintern": 1793698643.0091174,
@@ -53991,6 +54110,8 @@
 "sierranevada|firmwareengineerintern": 1793933744.358829,
 "sierranevada|softwareengineerintern": 1793672277.9794884,
 "signetjewelers|dataanalyticsintern": 1793744691.9446902,
+"skydio|hardwareinloophilsoftwareengineerintern": 1794350175.5436068,
+"skydio|middlewaresoftwareengineerintern": 1794350175.5436575,
 "smithnephew|internaiengineerrd": 1794164874.4228127,
 "sonos|dataengineeringinternseattle": 1793872758.8277614,
 "sonos|softwareengineerintern": 1793151839.5317686,
@@ -54034,6 +54155,7 @@
 "toshibaglobalcommerce|aisoftwareengineeringintern": 1793744421.952173,
 "toshibaglobalcommerce|softwareengineeringintern": 1793650220.1156712,
 "toyotaresearchinstitute|automateddrivingadvanceddevelopmentinternmachinelearningresearch": 1793832318.940536,
+"toyotaresearchinstitute|humancenteredairesearchinterncausalreasoningmodels": 1794350174.1302772,
 "toyotaresearchinstitute|humancenteredairesearchinternhumanlanguagemodels": 1793832318.9405656,
 "toyotaresearchinstitute|machinelearningagenticaiintern": 1793395683.5965896,
 "trace3|workplaceaiintern": 1793650224.8762,
@@ -54056,7 +54178,6 @@
 "varian|embeddedsoftwaredevelopercoop": 1794148876.1183457,
 "vaticinvestments|airesearchintern": 1793759328.2744174,
 "viasat|softwareengineerintern": 1793872640.2070632,
-"visa|softwareengineerintern": 1793127369.817251,
 "visa|softwareengineerinternashburnva": 1793395910.7280746,
 "visa|softwareengineerinternfostercity": 1793395910.7280865,
 "visa|sophomoreinternsoftwareengineerinternashburn": 1793395910.7280035,
@@ -54288,6 +54409,7 @@
 "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1": "Jacksonville; Norwich; Vandalia; Saint George UT US 1",
 "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1": "Jacksonville; Norwich; Vandalia; Saint George UT US 1",
 "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097": "Jacksonville; Norwich; Vandalia; Saint George UT US 1",
+"https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613": "Krakow; Bengaluru",
 "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001": "Waukesha, WI - USA; Pewaukee, WI - USA",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696": "GM Automation - Sunnyvale - GM Automation - Sunnyvale; Warren, Michigan, United States of America",
 "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353": "Markham, Ontario, Canada; Oshawa, Ontario, Canada",
@@ -54478,8 +54600,11 @@
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966": "China, Shanghai; China, Beijing",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546": "China, Shanghai; China, Beijing",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171": "China, Shanghai; China, Beijing",
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1": "China, Shanghai; China, Beijing; China, Shenzhen",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": "China, Shanghai; China, Beijing; China, Shenzhen",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": "China, Shanghai; China, Shenzhen",
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": "China, Shenzhen; China, Shanghai; China, Beijing",
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172": "China, Shenzhen; China, Shanghai",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497": "Germany, Munich; UK, Bristol",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708": "Germany, Munich; France, Courbevoie; UK, Bristol; Switzerland, Zurich; Germany, Wuerselen; Germany, Berlin",
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": "Germany, Munich; France, Courbevoie; Germany, Wuerselen",
@@ -54560,6 +54685,7 @@
 "https://ryan.wd1.myworkdayjobs.com/en-US/Students-Graduates/job/London/AI-Enabled-Business-Solutions-Intern_R0020589-1": "London; Media City",
 "https://ryancompanies.wd5.myworkdayjobs.com/en-US/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961": "",
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1": "Arkansas - Remote; Ohio - Remote",
+"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655": "California - Palo Alto; California - San Francisco",
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248": "California - San Francisco; Washington - Seattle",
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1": "California - San Francisco; Washington - Bellevue",
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1": "California - San Francisco; California - Palo Alto; New York - New York; Washington - Seattle; Massachusetts - Burlington; Washington - Bellevue; Georgia - Atlanta; Indiana - Indianapolis",
