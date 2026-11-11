@@ -129,6 +129,7 @@
 "Anterior",
 "Anthelion Capital",
 "Anthropic",
+"Apache Industrial",
 "Apera AI",
 "Apex",
 "Apex Companies",
@@ -1560,6 +1561,7 @@
 "Roguefitness",
 "Roku",
 "Rolls-Royce",
+"Rollsroyce",
 "Root Access",
 "RosaicLabs",
 "Royal Bank of Canada",
@@ -3324,12 +3326,26 @@
 "title": "Intern System Integration Developer",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063"
 },
+"Airbus:/job/Gdansk/Site-Reliability-Intern_JR10456730": {
+"company": "Airbus",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794244911.5315528,
+"title": "Site Reliability Intern",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Gdansk/Site-Reliability-Intern_JR10456730"
+},
 "Airbus:/job/Getafe-Area/XMLNAME--Discover-II-2026-2027---AI-models-Internship_JR10410822": {
 "company": "Airbus",
 "first_seen": "2026-09-30T08:44:22+00:00",
 "posted": 1790671785.538819,
 "title": "#Discover II 2026-2027 / AI models Internship",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/XMLNAME--Discover-II-2026-2027---AI-models-Internship_JR10410822"
+},
+"Airbus:/job/Getafe/XMLNAME--Discover-I-2027-2028-Trainer-Programme-Operations---Data-Analytics--Internship-_JR10456314": {
+"company": "Airbus",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794331306.2735333,
+"title": "#Discover I 2027-2028 Trainer Programme Operations & Data Analytics (Internship)",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Trainer-Programme-Operations---Data-Analytics--Internship-_JR10456314"
 },
 "Airbus:/job/Hamburg-Area/Internship-within-Aerodynamic-Machine-Learning--d-f-m-_JR10441101": {
 "company": "Airbus",
@@ -3344,6 +3360,13 @@
 "posted": 1793317446.0000126,
 "title": "Working Student (d/f/m) Data Engineering, AI & Digital Dashboards",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Working-Student--d-f-m--Data-Engineering--AI---Digital-Dashboards_JR10450746"
+},
+"Airbus:/job/Manching/Working-Student--d-f-m--Simulation-Control-UI-Software-Infrastructure_JR10434146": {
+"company": "Airbus",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794417697.6208003,
+"title": "Working Student (d/f/m) Simulation Control UI Software Infrastructure",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Working-Student--d-f-m--Simulation-Control-UI-Software-Infrastructure_JR10434146"
 },
 "Airbus:/job/Manching/Working-Student--d-f-m--in-the-area-of-Mass-Properties_JR10446403": {
 "company": "Airbus",
@@ -3372,6 +3395,13 @@
 "posted": 1791160151.3581774,
 "title": "Software Engineering Degree Apprenticeship",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575"
+},
+"Airbus:/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-AI-Repair-Solutions_JR10455556": {
+"company": "Airbus",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794331302.3564966,
+"title": "#Discover I 2027-2028 AI Repair Solutions Internship",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-AI-Repair-Solutions_JR10455556"
 },
 "Airbus:/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360": {
 "company": "Airbus",
@@ -4354,6 +4384,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Quant Developer / Quant Research Intern - 2026/2027",
 "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96"
+},
+"Apache Industrial:/job/Houston-Headquarters/AI-Implementation-Intern_R115510": {
+"company": "Apache Industrial",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794244724.728457,
+"title": "AI Implementation Intern",
+"url": "https://apacheip.wd1.myworkdayjobs.com/en-US/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115510"
 },
 "Apera AI:5239394007": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -6667,6 +6704,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/brevium/jobs/4713683006"
+},
+"Brex:8936403002": {
+"company": "Brex",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794414205.0,
+"title": "Software Engineer, Intern  (Summer 2027)",
+"url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
 },
 "Brightstar.AI:a72ffc7e-38ba-4d7c-8d08-cac6b9974024": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -11575,6 +11619,13 @@
 "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
 "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004"
 },
+"Formlabs:8374598": {
+"company": "Formlabs",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794411636.0,
+"title": "2027 (Summer) - Manufacturing - Manufacturing Test Software Intern",
+"url": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598"
+},
 "Forus:82e10191-232e-4e8d-9c5e-cb82940cdfc7": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Intern  (Fall '26 & Spring/Summer '27)",
@@ -12165,6 +12216,13 @@
 "posted": 1790886628.0,
 "title": "Software Engineering Intern",
 "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247622"
+},
+"Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935": {
+"company": "Gdit",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794331102.720811,
+"title": "GDIT Summer Internship Program \u2013 Summer 2027 AI/ML Business Intelligence Development Internship",
+"url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935"
 },
 "Gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936": {
 "company": "Gdit",
@@ -22730,6 +22788,13 @@
 "title": "Engineering Intern (UAE National)",
 "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/AE---Dubai/Engineering-Intern--UAE-National-_R171287"
 },
+"Parsons:/job/SA---Riyadh/IT-Programmer-Intern---Tamheer-Program--Saudi-National-_R188376": {
+"company": "Parsons",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 0,
+"title": "IT Programmer Intern - Tamheer Program (Saudi National)",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/IT-Programmer-Intern---Tamheer-Program--Saudi-National-_R188376"
+},
 "Parsons:/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299": {
 "company": "Parsons",
 "first_seen": "2026-10-15T00:45:32+00:00",
@@ -26144,6 +26209,13 @@
 "posted": 1791274775.914279,
 "title": "Intern, Firmware and Software Test Development",
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568"
+},
+"Rockwell Automation:/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1": {
+"company": "Rockwell Automation",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794417715.1120985,
+"title": "Intern, Software Developer/Engineering",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1"
 },
 "Rockwell Automation:/job/Milwaukee-Wisconsin-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473": {
 "company": "Rockwell Automation",
@@ -30645,6 +30717,13 @@
 "title": "Full-Stack Intern",
 "url": "https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae"
 },
+"Unisys:/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421": {
+"company": "Unisys",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794417677.2351384,
+"title": "Software Engineer Intern",
+"url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421"
+},
 "United Parcel Service (UPS):/job/CO---UNITED-PARCEL-SERVICE-CO-COOTA/Engineering-Intern_R26027339": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Intern",
@@ -33085,12 +33164,33 @@
 "title": "Summer Intern \u2013 Pharmacogenomics Data Science & Genomic Prediction (VMRD)",
 "url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Summer-Intern---Pharmacogenomics-Data-Science---Genomic-Prediction--VMRD-_JR00021759-2"
 },
+"Zoetis:/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1": {
+"company": "Zoetis",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794244702.1109943,
+"title": "AI Assistant Development Intern",
+"url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1"
+},
 "Zoetis:/job/US-CO-Remote/Research-Intern---Computational-Biology-Intern_JR00021812-2": {
 "company": "Zoetis",
 "first_seen": "2026-10-21T12:06:34+00:00",
 "posted": 1792152479.2419362,
 "title": "Research Intern - Computational Biology Intern",
 "url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-CO-Remote/Research-Intern---Computational-Biology-Intern_JR00021812-2"
+},
+"Zoetis:/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2": {
+"company": "Zoetis",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794244702.1110387,
+"title": "AI Acceleration Intern - AI Development Lifecycle",
+"url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2"
+},
+"Zoetis:/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016": {
+"company": "Zoetis",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794244702.1107655,
+"title": "AI CAPABILITIES INTERN \u2013 AI ARCHITECTURE, ENABLEMENT & TOOLS",
+"url": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016"
 },
 "Zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
 "company": "Zoox",
@@ -35614,6 +35714,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Manufacturing Data & Analytics Co-op",
 "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700"
+},
+"src:simplify:1d01d27b-150d-4d65-b8f7-8790841f3d77": {
+"company": "Ribbon",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794355200.0,
+"title": "AI Engineer Co-op",
+"url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083"
 },
 "src:simplify:1d106df7-acfd-4514-9ccd-c00e9d70d3d9": {
 "first_seen": "2026-09-25T17:50:14+00:00",
@@ -43274,6 +43381,13 @@
 "posted": 1791504000.0,
 "title": "Machine Learning Engineer Intern",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"
+},
+"src:simplify:7d2a848f-d9c6-45db-a088-0907f39e6c61": {
+"company": "ChukMedia",
+"first_seen": "2026-11-11T17:16:26+00:00",
+"posted": 1794407666.0,
+"title": "Data Analytics Resident",
+"url": "https://chukmedia.com/careers/?gh_jid=8191173"
 },
 "src:simplify:7d4480fb-523b-4c24-90d8-5b242a7ec976": {
 "company": "HP Inc.",
@@ -54054,7 +54168,11 @@
 "agoda|interndataplatforminterndevops": 1794277986.39725,
 "agoda|internfullstackinternbkk": 1794277986.3972895,
 "agoda|internsupplyfullstackinternbkk": 1794277986.397342,
+"airbus|discoveriairepairsolutionsintern": 1794417775.7976837,
+"airbus|discoveritrainerprogrammeoperationsdataanalyticsintern": 1794417775.7977042,
+"airbus|sitereliabilityintern": 1794417775.7977185,
 "airbus|workingstudentdfmdataengineeringaidigitaldashboards": 1793490298.8516212,
+"airbus|workingstudentdfmsimulationcontroluisoftwareinfrastructure": 1794417775.7976608,
 "airbus|workingstudentdfmsoftwaredevelopmentintheareaofmassproperties": 1793919546.5623472,
 "alaskaair|softwareengineerintern": 1793872640.2070453,
 "allegion|internsoftwareengineeringqualityassurance": 1793490339.3919532,
@@ -54110,6 +54228,7 @@
 "bostonscientific|aisolutionsengineeringintern": 1793264061.5896127,
 "bostonscientific|rdsoftwaredesignintern": 1793241588.482802,
 "bostonscientific|urologyrdsoftwareengineeringcoop": 1793872640.206785,
+"brex|softwareengineerintern": 1794417394.4406471,
 "burnsengineering|softwareengineerintern": 1793288482.1199923,
 "bytedance|researchscientistinternvideoandedgemultimedialab": 1793408319.0783021,
 "caci|aimlengineeringcoop": 1793985164.636425,
@@ -54127,6 +54246,7 @@
 "centene|aiengineerintern": 1793319313.534804,
 "cesiumastro|embeddedsoftwareengineerintern": 1794254565.790089,
 "chubb|businessintelligenceintern": 1793847127.6171107,
+"chukmedia|dataanalyticsresident": 1794417526.364283,
 "cisco|softwareengineerfullstackbackendiinternunitedstates": 1794278233.1528919,
 "cleanharbors|softwarefieldtechnologyinternis": 1793230163.4697132,
 "clera|computervisionroboticsintern": 1793306003.3506422,
@@ -54135,8 +54255,6 @@
 "commonwealthfusionsystems|internsoftwareengineer": 1793744427.042141,
 "constellationbrands|internaienablement": 1793216095.236167,
 "constellationbrands|internfullstackengineer": 1793813511.1333468,
-"copart|sdetintern": 1793196673.3256903,
-"copart|softwareengineeringintern": 1793196673.3257146,
 "costar|datascienceintern": 1793650419.197833,
 "costco|cdsinternpowerappsdeveloperecmdigitalworkflow": 1793672277.979954,
 "ctgt|aievaluationresearchintern": 1794277983.175051,
@@ -54170,6 +54288,7 @@
 "firstcitizensbancshares|internaiinnovation": 1793451668.8706598,
 "floridaatlanticuniversity|dataanalystintern": 1793360516.590069,
 "formfactor|electricaldesignautomationinternaiedaautomation": 1793785076.1263459,
+"formlabs|manufacturingmanufacturingtestsoftwareintern": 1794417392.4634683,
 "formularyfinancial|softwareengineerintern": 1794388988.08242,
 "freseniusmedicalcare|embeddedsoftwarecoop": 1793959404.6467032,
 "fussballclubcincinnati|dataanalystintern": 1793380213.011581,
@@ -54197,11 +54316,8 @@
 "greatamericaninsurance|extremeprogrammingengineerintern": 1793319313.5349724,
 "greatamericaninsurance|platformoperationsdeveloperintern": 1793216219.9046085,
 "haskell|aiengineeringdesigninternforfacilitydesign": 1794254565.789985,
-"hcsc|earlycareersproductengineeringdeveloperassociateintern": 1793196896.0528603,
-"hcsc|earlycareersproductengineeringdeveloperintern": 1793196896.0528784,
 "hearst|editorialaidevelopmentintern": 1793759328.274539,
 "hearst|softwareengineeringintern": 1794277985.8753066,
-"hewlettpackard|cloudengineeringinternhpiq": 1793196722.8974245,
 "hewlettpackard|softwareengineeringinternaimlplatformhpiq": 1793744538.445691,
 "hewlettpackard|softwareengineeringinternproductdeveloperproductivityhpiq": 1793744538.4456627,
 "highmarkhealth|aiservicesandplatformssoftwareengineergraduateintern": 1793847290.792306,
@@ -54329,6 +54445,7 @@
 "paretohealth|softwareengineeringintern": 1793650224.8760884,
 "parsons|aimlengineerintern": 1793813515.5145864,
 "parsons|embeddeddeveloperintern": 1793919189.7722194,
+"parsons|itprogrammerinterntamheersaudinational": 1794417449.021329,
 "parspec|appliedaiengineerintern": 1794016065.650271,
 "pathrobotics|machinelearningroboticsintern": 1793319313.534658,
 "paypal|datascientistintern": 1793872632.148106,
@@ -54367,6 +54484,7 @@
 "revantagecorporateservices|insurancetechnologyaianalyticsintern": 1793230163.469758,
 "revvity|fullstackaideveloperintern": 1793526097.3249285,
 "rgare|interndataanalyst": 1793872634.2392578,
+"ribbon|aiengineercoop": 1794417526.3643062,
 "riotgames|dataengineerintern": 1794388988.082463,
 "riversideresearch|softwareapplicationsintern": 1793933744.35868,
 "roboforce|machinelearningengineerinternairobotics": 1793759194.8819222,
@@ -54374,6 +54492,7 @@
 "roche|interncsiassaybioinformatics": 1794333557.2140872,
 "roche|interndataanalyticsspecialist": 1793613931.6589386,
 "roche|interngenerativeaidesignerasofjanuaryfor12monthsinrotkreuz": 1793613931.6589942,
+"rockwellautomation|internsoftwaredeveloperengineering": 1794417721.0685942,
 "roku|aiengineeringintern": 1793813304.9743733,
 "roku|softwareengineeringintern": 1793813304.9744012,
 "roku|softwareengineerinternaiengineering": 1793613836.6114888,
@@ -54381,8 +54500,6 @@
 "rosaiclabs|aiacceleratordesignverificationengineerintern": 1793650224.7811236,
 "rosaiclabs|softwareengineeringintern": 1793650224.781236,
 "rtx|controldiagnosticsoftwareintern": 1793785070.0859199,
-"rtx|parttimesoftwareplatformengineercoopremote": 1793196688.7805562,
-"rtx|softwareengineercoopjanuary": 1793196688.7804744,
 "rtx|softwareengineeringintern": 1793744453.5538418,
 "rtx|softwareengineerintern": 1793319313.534544,
 "ryan|internsoftwareengineering": 1793500699.8657572,
@@ -54468,6 +54585,7 @@
 "uhaul|softwaredevelopmentintern": 1794278160.6255012,
 "uipath|aiengineerintern": 1794254333.6620085,
 "uipath|softwareengineerintern": 1794254333.662033,
+"unisys|softwareengineerintern": 1794417695.7745798,
 "universityofmiami|datascienceaiintern": 1793919339.6523738,
 "usafacts|aiproductintern": 1793744425.4967039,
 "usafacts|aisoftwareengineeringintern": 1793263917.9409823,
@@ -54499,7 +54617,9 @@
 "zebra|softwareengineerintern": 1793759328.274383,
 "zebra|softwareengineerinternaifeaturesproductconvergence": 1793813515.5144382,
 "zebra|softwareengineerinternus": 1793672277.979657,
-"zeiss|interninaimachinelearningfmx": 1793196718.1804929,
+"zoetis|aiaccelerationinternaidevelopmentlifecycle": 1794417505.9754395,
+"zoetis|aiassistantdevelopmentintern": 1794417505.9754207,
+"zoetis|aicapabilitiesinternaiarchitectureenablementtools": 1794417505.9754012,
 "zoox|aiworkflowssafetydecisionmakingintern": 1794037773.771656,
 "zoox|datascienceintern": 1794016063.794719,
 "zoox|softwareengineerinternautonomysoftware": 1793933624.9628954,
@@ -55047,6 +55167,7 @@
 "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Monticello-MN-55362/Computer-Information-Systems-Intern---MN_JR116038": "Monticello, MN, 55362; Welch, MN, 55089",
 "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/St-Paul-MN-55109/DER-Interconnection-Engineering-Intern---MN--CO_JR115709-1": "St Paul, MN, 55109; Denver, CO, 80223; Lubbock, TX, 79407",
 "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Mnchen/Working-Student-Frontend-Development--m-f-x-_JR_1050400": "M\u00fcnchen; Jena",
-"https://zekelman.wd12.myworkdayjobs.com/en-US/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769": "Troy, MI; Austin, TX"
+"https://zekelman.wd12.myworkdayjobs.com/en-US/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769": "Troy, MI; Austin, TX",
+"https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016": ""
 }
 }
