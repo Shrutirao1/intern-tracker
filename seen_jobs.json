@@ -3306,6 +3306,20 @@
 "title": "Working Student (d/f/m) as Software Development Assistant",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Buxtehude/Working-Student--d-f-m--as-Software-Development-Assistant_JR10445193"
 },
+"Airbus:/job/Donauwrth/Internship--d-f-m--Embedded-Software-Engineering-for-Weapon-Systems_JR10442671-2": {
+"company": "Airbus",
+"first_seen": "2026-11-14T14:55:24+00:00",
+"posted": 1794581865.6689074,
+"title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/Internship--d-f-m--Embedded-Software-Engineering-for-Weapon-Systems_JR10442671-2"
+},
+"Airbus:/job/Donauwrth/Internship--d-f-m--within-the-mission-software-department_JR10434978": {
+"company": "Airbus",
+"first_seen": "2026-11-14T14:55:24+00:00",
+"posted": 1794581865.6687276,
+"title": "Internship (d/f/m) within the mission software department",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/Internship--d-f-m--within-the-mission-software-department_JR10434978"
+},
 "Airbus:/job/Gdansk/Intern-Backend-Developer_JR10451110": {
 "company": "Airbus",
 "first_seen": "2026-10-16T15:32:16+00:00",
@@ -3347,6 +3361,13 @@
 "posted": 1790671785.538819,
 "title": "#Discover II 2026-2027 / AI models Internship",
 "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/XMLNAME--Discover-II-2026-2027---AI-models-Internship_JR10410822"
+},
+"Airbus:/job/Getafe/XMLNAME--Discover-I-2027-2028-Generation-and-Management-of-AC-ICDs-using-AI-Technology-Intern_JR10457169": {
+"company": "Airbus",
+"first_seen": "2026-11-14T14:55:24+00:00",
+"posted": 1794581865.668819,
+"title": "#Discover I 2027-2028 Generation and Management of AC ICDs using AI Technology Intern",
+"url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Generation-and-Management-of-AC-ICDs-using-AI-Technology-Intern_JR10457169"
 },
 "Airbus:/job/Getafe/XMLNAME--Discover-I-2027-2028-Software-Engineering-DevOps--Test-Automation---AI-Agents-Intern_JR10457634": {
 "company": "Airbus",
@@ -38030,6 +38051,13 @@
 "title": "Firmware Engineer Intern - Weapons",
 "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606"
 },
+"src:simplify:331732d6-2320-4e49-9426-29401912aba0": {
+"company": "Carnegie Mellon University",
+"first_seen": "2026-11-14T14:55:24+00:00",
+"posted": 1794528000.0,
+"title": "Cyber AI Engineer Intern",
+"url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"
+},
 "src:simplify:3336f385-0b66-4e71-af69-42c243613d83": {
 "company": "Brain Co.",
 "first_seen": "2026-10-31T00:56:38+00:00",
@@ -55103,9 +55131,12 @@
 "agoda|internfullstackinternbkk": 1794277986.3972895,
 "agoda|internsupplyfullstackinternbkk": 1794277986.397342,
 "airbus|discoveriairepairsolutionsintern": 1794417775.7976837,
+"airbus|discoverigenerationandmanagementofacicdsusingaitechnologyintern": 1794668327.4477947,
 "airbus|discoverihealthmanagementandpredictiveanalyticsengineerintern": 1794556408.074064,
 "airbus|discoverisoftwareengineeringdevopstestautomationaiagentsintern": 1794556408.074088,
 "airbus|discoveritrainerprogrammeoperationsdataanalyticsintern": 1794417775.7977042,
+"airbus|interndfmembeddedsoftwareengineeringforweaponsystems": 1794668327.447815,
+"airbus|interndfmwithinthemissionsoftwaredepartment": 1794668327.4477687,
 "airbus|sitereliabilityintern": 1794417775.7977185,
 "airbus|workingstudentdfmdataengineeringaidigitaldashboards": 1793490298.8516212,
 "airbus|workingstudentdfmsimulationcontroluisoftwareinfrastructure": 1794417775.7976608,
@@ -55142,7 +55173,6 @@
 "astromechanica|softwareengineerintern": 1793672277.9796064,
 "atriumhospitality|aiautomationintern": 1794278186.811804,
 "aurorainnovation|softwareengineerinternvehicleplatforms": 1794556064.0153623,
-"axa|underwritingdataanalyticsintern": 1793451668.8716705,
 "axiommath|memberoftechnicalstaffintern": 1793650224.9040556,
 "axiscapital|aisupportengineercoop": 1794486517.6738706,
 "axiscapital|dataengineercoop": 1794486517.6747003,
@@ -55210,8 +55240,6 @@
 "federalreservesystem|datascienceintern": 1794278160.6254861,
 "firework|dataengineerintern": 1793650224.9921117,
 "firstcitizensbancshares|appliedaiintern": 1793759328.2744331,
-"firstcitizensbancshares|dataanalystinternenterprisedataanalystdataproducts": 1793451668.8706207,
-"firstcitizensbancshares|internaiinnovation": 1793451668.8706598,
 "formfactor|electricaldesignautomationinternaiedaautomation": 1793785076.1263459,
 "formlabs|manufacturingmanufacturingtestsoftwareintern": 1794417392.4634683,
 "formularyfinancial|softwareengineerintern": 1794388988.08242,
@@ -55436,13 +55464,11 @@
 "stateofwisconsininvestmentboard|dataanalyticsengineeringintern": 1794456245.4540067,
 "stratolaunch|businessintelligencesystemsanalystintern": 1794532024.4956481,
 "subtotal|softwareengineeringintern": 1793650224.9258726,
-"systemsplanningandanalysis|dataengineerintern": 1793451668.8712637,
 "terranova|aiintern": 1793832319.3894486,
 "tesla|mobileapplicationdeveloperintern": 1794333436.0694385,
 "tesla|softwaredeveloperinternitapps": 1794388988.0823624,
 "tesla|softwareengineerinternenergyengineering": 1794556207.4872408,
 "tesla|softwareengineerinternsireinforcementlearning": 1794016170.764706,
-"thales|internagenticaitosupportwebuiandapitesting": 1793451807.1526387,
 "thomsonreuters|researchscientistintern": 1793959337.0503128,
 "tiktok|machinelearningengineerintern": 1793759328.2743504,
 "tiktok|machinelearningscientistinternlocalservices": 1794584795.5095017,
