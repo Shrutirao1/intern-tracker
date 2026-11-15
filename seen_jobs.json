@@ -2689,6 +2689,13 @@
 "title": "AI & Data \u2013 Data Science/ML Engineering Thesis Internship",
 "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686"
 },
+"Accenture:/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331": {
+"company": "Accenture",
+"first_seen": "2026-11-15T02:47:59+00:00",
+"posted": 1794451831.9658637,
+"title": "Cloud Transformation Internship",
+"url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331"
+},
 "Accenture:/job/Athens-Arcadias/Global-S-C-Networks-Internship-Program---Athens_R00284676": {
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Data & AI Intern - Accenture Internship Program -Athens",
@@ -10274,6 +10281,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Engineering Internship, Summer 2027",
 "url": "https://edwards.wd5.myworkdayjobs.com/en-US/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530"
+},
+"Eight Sleep:8da94996-2820-4964-b2b8-0ed151dd4f1b": {
+"company": "Eight Sleep",
+"first_seen": "2026-11-15T02:47:59+00:00",
+"posted": 1794699330.058,
+"title": "Short-Term Firmware Intern",
+"url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b"
 },
 "Elanco:/job/Clinton-IN/Engineering-Intern---Clinton--Indiana--Summer-2027-_R0026868": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -22805,6 +22819,13 @@
 "posted": 1790791294.2231493,
 "title": "Software Developer Intern - Summer 2027",
 "url": "https://poet.wd1.myworkdayjobs.com/en-US/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
+},
+"PTC:/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926": {
+"company": "PTC",
+"first_seen": "2026-11-15T02:47:59+00:00",
+"posted": 1794538128.3221192,
+"title": "Onshape Site Reliability Engineering Intern (Summer 2027)",
+"url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926"
 },
 "PTC:/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943": {
 "company": "PTC",
@@ -55126,6 +55147,13 @@
 "title": "AI Scientist Intern",
 "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536"
 },
+"src:simplify:ff08a4e1-a35e-4faa-b08f-aed1a3fcf7e7": {
+"company": "RTX",
+"first_seen": "2026-11-15T02:47:59+00:00",
+"posted": 1794528000.0,
+"title": "Software Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404"
+},
 "src:simplify:ff0f5d2c-a6b2-48b7-8fbf-76e568641b0b": {
 "first_seen": "2026-09-25T17:50:14+00:00",
 "title": "Data-Driven Sustainability Intern",
@@ -55226,6 +55254,7 @@
 "42dot|internfoundationmodels": 1793650225.1838727,
 "7eleven|dataengineerintern": 1794278160.6254683,
 "accenture|aidatadatasciencemlengineeringthesisintern": 1793813666.384468,
+"accenture|cloudtransformationintern": 1794711109.8738785,
 "accenture|linuxadministratorinternshehethey": 1793813666.3844302,
 "addepar|aiengineerintern": 1794363289.680313,
 "addepar|dataengineerintern": 1794363289.680349,
@@ -55251,12 +55280,9 @@
 "airbus|interndfmembeddedsoftwareengineeringforweaponsystems": 1794668327.447815,
 "airbus|interndfmwithinthemissionsoftwaredepartment": 1794668327.4477687,
 "airbus|sitereliabilityintern": 1794417775.7977185,
-"airbus|workingstudentdfmdataengineeringaidigitaldashboards": 1793490298.8516212,
 "airbus|workingstudentdfmsimulationcontroluisoftwareinfrastructure": 1794417775.7976608,
 "airbus|workingstudentdfmsoftwaredevelopmentintheareaofmassproperties": 1793919546.5623472,
 "alaskaair|softwareengineerintern": 1793872640.2070453,
-"allegion|internsoftwareengineeringqualityassurance": 1793490339.3919532,
-"allegion|internsoftwaresystemsengineering": 1793490339.3919313,
 "alleninstituteforartificialintelligence|researchinternaiforneuroscience": 1794620606.7958827,
 "alticeusa|operationsdataanalystintern": 1794363289.6802166,
 "alticeusa|softwaredevelopmentintern": 1794363289.6801836,
@@ -55345,6 +55371,7 @@
 "dwyeromega|softwareengineerintern": 1793933744.3586311,
 "dxc|hybridcloudmigrationservicesintern": 1794514570.950048,
 "echogloballogistics|softwareengineerintern": 1794363289.6804476,
+"eightsleep|shorttermfirmwareintern": 1794710881.0953062,
 "engramme|backendsoftwareengineercoopextendedintern": 1794277985.73973,
 "engramme|fullstacksoftwareengineercoopextendedintern": 1794277985.7398858,
 "engramme|machinelearningengineercoopextendedintern": 1794277985.7399642,
@@ -55510,6 +55537,7 @@
 "pricewaterhousecoopers|dataanalyticsintern": 1794486690.8526907,
 "prologis|aiandautomationitintern": 1793900714.7128928,
 "protagonist|softwareengineeringintern": 1793650224.9783475,
+"ptc|onshapesitereliabilityengineeringintern": 1794710933.8685985,
 "quadric|aikernelengineerintern": 1793650225.000277,
 "quadric|deeplearningcompilerintern": 1793650225.0008357,
 "radiance|softwareengineerintern": 1794278160.625552,
@@ -55550,7 +55578,6 @@
 "rtx|softwareengineeringintern": 1793744453.5538418,
 "rtx|softwareengineeringinternisetin2": 1794684940.5128868,
 "rtx|softwareengineerintern": 1794556207.4871922,
-"ryan|internsoftwareengineering": 1793500699.8657572,
 "salesforce|internairesearchincubator": 1794350220.2538886,
 "samsara|softwareengineeringinternsanfrancisco": 1793985014.5594118,
 "samsungresearchamerica|internagenticaisolutions": 1793744421.564151,
@@ -55652,7 +55679,6 @@
 "warnerbros|softwareengineercoop": 1794278160.625436,
 "webfx|webdeveloperintern": 1793650225.1337645,
 "wellmark|softwareengineerinternaiplatformteam": 1793672277.980171,
-"wex|softwareengineerintern": 1793500654.8745801,
 "zebra|datascientistintern": 1793672277.9796395,
 "zebra|internai": 1793672277.9796228,
 "zebra|softwareaiengineerinternhandheldmobilecomputers": 1793672277.979677,
