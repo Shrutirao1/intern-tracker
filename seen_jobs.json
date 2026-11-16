@@ -4969,12 +4969,26 @@
 "title": "Software Engineering Intern \u2013 Distributed Simulation Systems",
 "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066"
 },
+"AstraZeneca:/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1": {
+"company": "AstraZeneca",
+"first_seen": "2026-11-16T01:07:25+00:00",
+"posted": 1794532413.8066947,
+"title": "Summer 2027 Innovation and AI Transformation Intern",
+"url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1"
+},
 "AstraZeneca:/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647": {
 "company": "AstraZeneca",
 "first_seen": "2026-11-06T22:03:51+00:00",
 "posted": 1793916414.6176243,
 "title": "Manufacturing Digital and AI Intern",
 "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647"
+},
+"AstraZeneca:/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845": {
+"company": "AstraZeneca",
+"first_seen": "2026-11-16T01:07:25+00:00",
+"posted": 1794273216.9127827,
+"title": "Network Planning & Data Analytics Intern",
+"url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845"
 },
 "Astranis:4704335006": {
 "company": "Astranis",
@@ -12441,6 +12455,13 @@
 "first_seen": "2026-09-25T20:15:47+00:00",
 "title": "Business Analytics Intern",
 "url": "https://gables.wd5.myworkdayjobs.com/en-US/Gables_Careers/job/Atlanta-Corporate---Atlanta-GA/Business-Analytics-Intern_2026-11903"
+},
+"Gaig:/job/Lakeland-FL-USA/Data-Scientist-Intern-2027_R9852": {
+"company": "Gaig",
+"first_seen": "2026-11-16T01:07:25+00:00",
+"posted": 1794186618.5980577,
+"title": "Data Scientist Intern 2027",
+"url": "https://gaig.wd1.myworkdayjobs.com/en-US/Summit_External/job/Lakeland-FL-USA/Data-Scientist-Intern-2027_R9852"
 },
 "Gallup:4393731009": {
 "first_seen": "2026-09-25T20:15:47+00:00",
@@ -55519,6 +55540,7 @@
 "formlabs|manufacturingmanufacturingtestsoftwareintern": 1794417392.4634683,
 "formularyfinancial|softwareengineerintern": 1794388988.08242,
 "freseniusmedicalcare|embeddedsoftwarecoop": 1793959404.6467032,
+"gaig|datascientistintern": 1794791421.079572,
 "gdit|professionalprogrammerintern": 1794556173.9859648,
 "geaerospace|artificialintelligenceintern": 1793785222.999885,
 "gendigital|backendengineeringworkingstudent": 1794277983.7028692,
