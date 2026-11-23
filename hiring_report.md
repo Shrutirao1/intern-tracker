@@ -1,2280 +1,2313 @@
 # Companies hiring SWE / ML / AI / DS roles - last 90 days
 
-Generated 2026-11-16 21:27. Each company appears once, in the window of its most recent matching post.
+Generated 2026-11-23 23:09. Each company appears once, in the window of its most recent matching post.
 
 | Hub | Last 7 days | 8-30 days ago | 31-60 days ago | 61-90 days ago | Date unknown (still open) | Total |
 |---|---|---|---|---|---|---|
-| SF Bay Area | 310 | 374 | 202 | 108 | 0 | 994 |
-| Seattle | 92 | 67 | 34 | 16 | 0 | 209 |
-| New York City | 183 | 224 | 156 | 120 | 0 | 683 |
-| Chicago | 40 | 46 | 38 | 23 | 0 | 147 |
-| Texas | 79 | 125 | 61 | 35 | 0 | 300 |
-| Boston | 69 | 80 | 45 | 31 | 0 | 225 |
-| Los Angeles | 46 | 54 | 30 | 15 | 0 | 145 |
-| San Diego | 28 | 21 | 5 | 4 | 0 | 58 |
-| Washington DC | 79 | 57 | 23 | 26 | 0 | 185 |
-| Denver / Boulder | 28 | 33 | 10 | 11 | 0 | 82 |
-| Atlanta | 21 | 27 | 22 | 11 | 0 | 81 |
-| Raleigh-Durham | 19 | 30 | 11 | 7 | 0 | 67 |
-| Pittsburgh | 16 | 14 | 8 | 6 | 0 | 44 |
-| Salt Lake City | 11 | 11 | 9 | 1 | 0 | 32 |
-| Portland | 4 | 6 | 4 | 3 | 0 | 17 |
-| Phoenix | 13 | 27 | 6 | 4 | 0 | 50 |
-| Minneapolis | 8 | 12 | 2 | 8 | 0 | 30 |
-| Philadelphia | 2 | 6 | 3 | 6 | 0 | 17 |
-| Miami | 10 | 15 | 10 | 3 | 0 | 38 |
-| Detroit / Ann Arbor | 20 | 7 | 5 | 4 | 0 | 36 |
-| Columbus | 8 | 8 | 2 | 5 | 0 | 23 |
-| Nashville | 9 | 9 | 4 | 1 | 0 | 23 |
-| Other US | 534 | 736 | 390 | 279 | 0 | 1939 |
+| SF Bay Area | 296 | 372 | 209 | 116 | 0 | 993 |
+| Seattle | 88 | 69 | 34 | 14 | 0 | 205 |
+| New York City | 188 | 226 | 148 | 112 | 0 | 674 |
+| Chicago | 38 | 49 | 32 | 24 | 0 | 143 |
+| Texas | 101 | 109 | 58 | 40 | 0 | 308 |
+| Boston | 74 | 74 | 47 | 27 | 0 | 222 |
+| Los Angeles | 50 | 43 | 38 | 17 | 0 | 148 |
+| San Diego | 26 | 24 | 8 | 3 | 0 | 61 |
+| Washington DC | 82 | 67 | 20 | 16 | 0 | 185 |
+| Denver / Boulder | 34 | 31 | 10 | 9 | 0 | 84 |
+| Atlanta | 20 | 32 | 19 | 12 | 0 | 83 |
+| Raleigh-Durham | 27 | 24 | 12 | 8 | 0 | 71 |
+| Pittsburgh | 14 | 16 | 7 | 5 | 0 | 42 |
+| Salt Lake City | 9 | 15 | 6 | 4 | 0 | 34 |
+| Portland | 8 | 8 | 5 | 2 | 0 | 23 |
+| Phoenix | 17 | 27 | 5 | 3 | 0 | 52 |
+| Minneapolis | 6 | 10 | 6 | 7 | 0 | 29 |
+| Philadelphia | 7 | 3 | 2 | 3 | 0 | 15 |
+| Miami | 12 | 11 | 9 | 3 | 0 | 35 |
+| Detroit / Ann Arbor | 16 | 10 | 5 | 5 | 0 | 36 |
+| Columbus | 11 | 6 | 4 | 4 | 0 | 25 |
+| Nashville | 8 | 9 | 3 | 1 | 0 | 21 |
+| Other US | 534 | 774 | 393 | 288 | 0 | 1989 |
 
-## Last 7 days (877 companies)
+## Last 7 days (869 companies)
 
-### SF Bay Area (310)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **SpaceX** - 228 role(s), latest 2026-11-16 - _Aerospace Software Engineer (Starfall)_
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Tesla** - 134 role(s), 134 intern, latest 2026-11-13 - _Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027_
-- **Openai** - 129 role(s), 1 intern, latest 2026-11-16 - _Control Systems Software Engineer, Robotics_
-- **TikTok** - 122 role(s), 122 intern, latest 2026-11-13 - _Machine Learning MLOps Intern - Global Site Reliability Engineering_
-- **Meta** - 111 role(s), 110 intern, latest 2026-11-13 - _Research Scientist Intern - Multiple Teams_
-- **Roblox** - 105 role(s), 2 intern, latest 2026-11-14 - _[2027] Applied Scientist - PhD Intern_
-- **Anthropic** - 89 role(s), latest 2026-11-13 - _AI Outcomes Manager, Enterprise Tech_
-- **Waymo** - 80 role(s), 49 intern, latest 2026-11-13 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
-- **Snowflake** - 75 role(s), 3 intern, latest 2026-11-16 - _Staff Software Engineer - Compiler & Spark Runtime _
-- **Zoox** - 61 role(s), 17 intern, latest 2026-11-13 - _Automation Engineer - Compute Software Performance_
-- **Coinbase** - 58 role(s), 10 intern, latest 2026-11-16 - _Analytics Engineer Intern_
-- **ByteDance** - 56 role(s), 56 intern, latest 2026-11-10 - _Immigration Data Analyst Intern - Hrops_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **Stripe** - 49 role(s), 6 intern, latest 2026-11-13 - _AI Engineer_
-- **Microsoft** - 48 role(s), 47 intern, latest 2026-11-13 - _AI Software Engineer Intern_
-- **Reddit** - 47 role(s), latest 2026-11-12 - _Analytics Engineer_
-- **Applied** - 46 role(s), latest 2026-11-16 - _Software Engineer - Low Speed Motion Planning & Control_
-- **Crusoe** - 45 role(s), 2 intern, latest 2026-11-13 - _Staff Software Engineer, Developer Experience_
-- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Zscaler** - 45 role(s), latest 2026-11-12 - _AI Enablement Architect _
-- **Clera** - 44 role(s), 1 intern, latest 2026-11-16 - _Founding Forward Deployed Engineer_
-- **DoorDash USA** - 44 role(s), 4 intern, latest 2026-11-12 - _Autonomy Platform Engineer_
-- **Skydio** - 44 role(s), 31 intern, latest 2026-11-10 - _Senior Software Engineer, AI Infrastructure Development Platform_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
-- **Zipline ** - 39 role(s), 18 intern, latest 2026-11-13 - _Aircraft Software Integration Intern (Summer 2027)_
-- **Affirm** - 36 role(s), 3 intern, latest 2026-11-12 - _Analyst, Early Career (Full Stack)_
-- **PlayStation Global** - 36 role(s), latest 2026-11-13 - _Animation Tools Programmer_
-- **Wayve** - 36 role(s), latest 2026-11-13 - _Staff / Senior Machine Learning Engineer, Reinforcement Learning_
-- **SpaceXSI** - 35 role(s), 2 intern, latest 2026-11-16 - _AI Tutor, Amharic - Temporary_
-- **Pinterest** - 34 role(s), 5 intern, latest 2026-11-10 - _Director, Machine Learning Engineering, Ads Measurement_
-- **Micron Technology** - 33 role(s), 33 intern, latest 2026-11-16 - _Technical Customer Management Intern - AI_
-- **Sprinter Health** - 33 role(s), latest 2026-11-10 - _Data Analyst - Billing Systems_
-- **Verkada** - 32 role(s), 6 intern, latest 2026-11-09 - _Backend Software Engineering Intern 2027_
+### SF Bay Area (296)
+- **SpaceX** - 220 role(s), latest 2026-11-20 - _Aerospace Software Engineer (Starfall)_
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **Tesla** - 134 role(s), 134 intern, latest 2026-11-20 - _AI Hardware Physical Design Engineer Intern - AI Hardware_
+- **Openai** - 133 role(s), 1 intern, latest 2026-11-22 - _Data Scientist, Integrity_
+- **Meta** - 116 role(s), 115 intern, latest 2026-11-19 - _Research Scientist Intern - Robotics_
+- **TikTok** - 112 role(s), 112 intern, latest 2026-11-23 - _AI Infrastructure Engineer Intern - Recommendation & LLM_
+- **Roblox** - 103 role(s), 2 intern, latest 2026-11-23 - _[2027] Applied Scientist - PhD Intern_
+- **Anthropic** - 84 role(s), latest 2026-11-23 - _AI Outcomes Manager, Enterprise Tech_
+- **Waymo** - 82 role(s), 49 intern, latest 2026-11-21 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
+- **Snowflake** - 76 role(s), 9 intern, latest 2026-11-23 - _Staff Software Engineer - Compiler & Spark Runtime _
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Zoox** - 61 role(s), 17 intern, latest 2026-11-18 - _Automation Engineer - Compute Software Performance_
+- **Clera** - 58 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Engineer_
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **Walmart** - 56 role(s), 14 intern, latest 2026-11-23 - _(USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern_
+- **KLA Corporation** - 54 role(s), 54 intern, latest 2026-11-18 - _Software Engineering Intern - C++ - Unix_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Coinbase** - 51 role(s), 10 intern, latest 2026-11-16 - _Analytics Engineer Intern_
+- **Zscaler** - 50 role(s), latest 2026-11-20 - _AI Enablement Architect _
+- **Signalfire** - 48 role(s), latest 2026-11-17 - _Staff Full Stack Software Engineer - VC Backed Startups_
+- **Crusoe** - 46 role(s), 4 intern, latest 2026-11-23 - _Staff Software Engineer, Developer Experience_
+- **Braze** - 45 role(s), 2 intern, latest 2026-11-20 - _AI Architect_
+- **Applied** - 43 role(s), latest 2026-11-20 - _Software Engineer - Low Speed Motion Planning & Control_
+- **Reddit** - 43 role(s), latest 2026-11-23 - _Analytics Engineer_
+- **Skydio** - 43 role(s), 30 intern, latest 2026-11-16 - _Senior Software Engineer, AI Infrastructure Development Platform_
+- **DoorDash USA** - 42 role(s), 4 intern, latest 2026-11-18 - _Autonomy Platform Engineer_
+- **Lucid Motors** - 42 role(s), 15 intern, latest 2026-11-20 - _CMM Programmer_
+- **SpaceXSI** - 42 role(s), 2 intern, latest 2026-11-18 - _AI Tutor, Amharic - Temporary_
+- **Mercor** - 38 role(s), 9 intern, latest 2026-11-21 - _Software Engineer, Enterprise Applied AI_
+- **Pinterest** - 38 role(s), 5 intern, latest 2026-11-19 - _ Data Analytics Engineer II_
+- **Stripe** - 37 role(s), 6 intern, latest 2026-11-23 - _AI Engineer_
+- **Databricks** - 36 role(s), 3 intern, latest 2026-11-21 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
+- **PlayStation Global** - 36 role(s), latest 2026-11-18 - _Animation Tools Programmer_
+- **Wayve** - 36 role(s), latest 2026-11-19 - _Staff / Senior Machine Learning Engineer, Reinforcement Learning_
+- **Affirm** - 35 role(s), 3 intern, latest 2026-11-21 - _Analyst, Early Career (Full Stack)_
+- **Micron Technology** - 34 role(s), 34 intern, latest 2026-11-23 - _Technical Customer Management Intern - AI_
+- **Nvidia** - 34 role(s), 34 intern, latest 2026-11-23 - _Software Engineering Intern_
+- **Rivian** - 34 role(s), 34 intern, latest 2026-11-20 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **Astera Labs** - 32 role(s), 23 intern, latest 2026-11-20 - _Firmware Engineer_
+- **ATOMS Careers page** - 31 role(s), 3 intern, latest 2026-11-19 - _AI Research Intern  (BS/MS)_
 - **CHAOS Industries** - 31 role(s), 1 intern, latest 2026-11-16 - _Applied AI Engineer_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Nokia** - 31 role(s), 31 intern, latest 2026-11-09 - _Software Engineer Co-op - Deepfield_
-- **Robinhood** - 30 role(s), 5 intern, latest 2026-11-16 - _Android Engineer, Social_
-- **ATOMS Careers page** - 29 role(s), 4 intern, latest 2026-11-12 - _AI Research Intern  (BS/MS)_
-- **Lila Sciences** - 29 role(s), 5 intern, latest 2026-11-10 - _Associate Director/Director, Frontier and AI Product Counsel_
-- **Mercor** - 29 role(s), 10 intern, latest 2026-11-14 - _Infrastructure Software Engineer _
-- **Perplexity** - 29 role(s), latest 2026-11-16 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
-- **Klaviyo** - 28 role(s), 9 intern, latest 2026-11-12 - _Engineering Manager, Amplify Engineering & AI Agents_
-- **Samsara** - 28 role(s), 3 intern, latest 2026-11-14 - _Data Engineer_
-- **Natera** - 27 role(s), 1 intern, latest 2026-11-13 - _Director of Bioinformatics and Machine Learning_
-- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
-- **Figma** - 26 role(s), 15 intern, latest 2026-11-09 - _AI Engineer, Internal Tools_
-- **Harvey** - 26 role(s), 2 intern, latest 2026-11-16 - _Staff Software Engineer, Backend Platform_
-- **Lucid Motors** - 26 role(s), latest 2026-11-14 - _CMM Programmer_
-- **Muon Space** - 25 role(s), 8 intern, latest 2026-11-12 - _Flight Software Engineering Intern (Summer 2027)_
-- **Ramp** - 25 role(s), 9 intern, latest 2026-11-13 - _Senior Engineer, Backend, Vendor Management_
-- **Astranis** - 24 role(s), 15 intern, latest 2026-11-11 - _Embedded Software Developer, Network/Payload Intern (Summer 2027)_
-- **Roku** - 24 role(s), 3 intern, latest 2026-11-16 - _AI Engineering Internship Program (Summer 2027)_
-- **Commure** - 23 role(s), 1 intern, latest 2026-11-12 - _Staff Software Engineer, Claims & AI Billing_
-- **Nuro** - 23 role(s), latest 2026-11-13 - _Director of AI Data Operations_
-- **Latchbio** - 21 role(s), latest 2026-11-16 - _AI Biologist - Proteomics_
-- **Siftstack** - 21 role(s), latest 2026-11-11 - _Software Engineer, Frontend_
-- **Airwallex** - 20 role(s), latest 2026-11-16 - _Senior Software Engineer, Machine Learning Platform_
-- **Notion** - 20 role(s), 12 intern, latest 2026-11-09 - _Software Engineer, AI Connections (Developer Platform)_
-- **Walmart** - 20 role(s), 16 intern, latest 2026-11-13 - _Summer 2027 Intern:: Software Engineer II_
-- **ASML** - 19 role(s), 19 intern, latest 2026-11-13 - _Frontend Developer Intern_
-- **Bedrock Robotics** - 19 role(s), 12 intern, latest 2026-11-13 - _Software Engineer, Fleet Platform_
-- **Brex** - 19 role(s), 2 intern, latest 2026-11-12 - _Data Scientist II, Applied ML_
-- **Cisco** - 19 role(s), 19 intern, latest 2026-11-11 - _Machine Learning Engineer 2 Intern_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Twitch** - 19 role(s), 4 intern, latest 2026-11-13 - _Applied Scientist_
-- **Hadrian Automation** - 18 role(s), 2 intern, latest 2026-11-12 - _All Levels:  Frontend Software Engineer_
-- **Handshake** - 18 role(s), latest 2026-11-10 - _Forward Deployed Engineer, Enterprise AI_
-- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
-- **Trm Labs** - 18 role(s), latest 2026-11-13 - _Software Engineer, Backend_
-- **Lyft** - 17 role(s), 8 intern, latest 2026-11-09 - _Applied Scientist Intern, PhD (Summer 2027)_
-- **Revel** - 17 role(s), 12 intern, latest 2026-11-13 - _Forward Deployed Engineer_
-- **Salesforce** - 17 role(s), 10 intern, latest 2026-11-16 - _Senior Staff Software Engineer, Android_
-- **Supabase** - 17 role(s), latest 2026-11-11 - _Developer Relations Engineer _
-- **Cohere** - 16 role(s), latest 2026-11-16 - _Senior Full-Stack Engineer, Annotation Platform _
-- **Elevenlabs** - 16 role(s), latest 2026-11-09 - _Full-Stack Engineer (Backend Leaning)_
-- **Etched** - 16 role(s), 4 intern, latest 2026-11-12 - _Chip Simulation Software Engineer_
-- **Hinge Health** - 16 role(s), latest 2026-11-09 - _Senior Software Engineer, Full Stack_
-- **Woven By Toyota** - 16 role(s), latest 2026-11-13 - _AI プラットフォームエンジニア (MLOps/LLMOps)_
-- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
-- **Agility Robotics** - 15 role(s), latest 2026-11-13 - _AI Research Engineer III_
-- **Coupang** - 15 role(s), latest 2026-11-13 - _Director, Back-end Engineering_
-- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
-- **Life360** - 15 role(s), latest 2026-11-16 - _Director, AI Platforms_
-- **Reliable Robotics** - 15 role(s), 3 intern, latest 2026-11-13 - _Sr. Embedded Software Engineer, Radar_
-- **Applied Materials** - 14 role(s), 14 intern, latest 2026-11-10 - _Data Analyst Intern - Global Technical Learning Center_
-- **Baseten** - 14 role(s), latest 2026-11-14 - _Forward Deployed Engineer (Training)_
-- **Beaconai** - 14 role(s), latest 2026-11-09 - _Staff Software Engineer, Frontend/Web App_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Lambda** - 14 role(s), latest 2026-11-13 - _Staff Software Engineer - Infrastructure Storage_
-- **Box** - 13 role(s), latest 2026-11-11 - _Machine Learning Engineer III, Shield_
-- **Chime Financial, Inc** - 13 role(s), latest 2026-11-13 - _Director, Data Engineering_
-- **Illumio** - 13 role(s), 2 intern, latest 2026-11-09 - _Sr. Engineering Manager - Full Stack_
-- **Maxinsights** - 13 role(s), 2 intern, latest 2026-11-09 - _Machine Learning Engineer Intern - Video Foundation Models & Agentic AI_
-- **Primeintellect** - 13 role(s), latest 2026-11-12 - _Member of Technical Staff - Sandbox Platform_
-- **Reflectionai** - 13 role(s), latest 2026-11-16 - _Member of Technical Staff - Safety_
-- **Samsung** - 13 role(s), 13 intern, latest 2026-11-13 - _Power-Thermal Simulation Software Engineer Intern_
-- **Scout Motors** - 13 role(s), latest 2026-11-12 - _AI Workflow Engineer_
-- **Snorkel AI** - 13 role(s), 1 intern, latest 2026-11-13 - _Director, GTM Systems & AI Transformation_
-- **Tenstorrent** - 13 role(s), 6 intern, latest 2026-11-12 - _Datacenter & Agentic AI Workload Performance Analysis Engineer_
-- **Tessera Labs** - 13 role(s), 2 intern, latest 2026-11-13 - _Forward-Deployed Engineer_
-- **Tri** - 13 role(s), 10 intern, latest 2026-11-16 - _Accelerated Science Intern, Machine Learning/Agentic AI_
-- **Faire** - 12 role(s), 2 intern, latest 2026-11-13 - _Applied AI/ML Scientist, Intern - Winter 2027_
-- **Hark** - 12 role(s), latest 2026-11-10 - _Embedded AI Engineer_
-- **Patreon** - 12 role(s), 6 intern, latest 2026-11-13 - _Staff Software Engineer, Backend Platform_
-- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-13 - _Software Engineer, Developer Experience (Full-Stack)_
-- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
-- **Wex** - 12 role(s), 12 intern, latest 2026-11-09 - _Artificial Intelligence Intern - AI/ML/NLP Engineer_
-- **42Dot** - 11 role(s), 3 intern, latest 2026-11-13 - _Machine Learning & Data Engineer, Vehicle Modeling_
-- **Aerovect** - 11 role(s), latest 2026-11-16 - _Senior Software Engineer, Behavior Planning_
-- **C3 AI** - 11 role(s), 5 intern, latest 2026-11-12 - _Associate Site Reliability Engineer/Site Reliability Engineer_
-- **DigiCert** - 11 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Docker** - 11 role(s), latest 2026-11-10 - _Senior Software Engineer, Tooling (West Coast Preferred)_
-- **Replit** - 11 role(s), 2 intern, latest 2026-11-16 - _Senior Software Engineer, Compute Platform_
-- **Rhoda Ai** - 11 role(s), 6 intern, latest 2026-11-11 - _Research Member of Technical Staff- Training Systems_
-- **Swarmaero** - 11 role(s), latest 2026-11-12 - _Software Engineer, Real-Time Generalist_
-- **D Matrix** - 10 role(s), latest 2026-11-11 - _Staff Systems and Platforms Software Engineer_
-- **GlobalFoundries** - 10 role(s), 10 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Gusto, Inc.** - 10 role(s), latest 2026-11-10 - _Lead CX Business Intelligence Analyst_
-- **Hippocratic%20Ai** - 10 role(s), latest 2026-11-12 - _AI Engineer (Senior, Staff, Senior Staff, Principal)_
-- **Robert Bosch Venture Capital** - 10 role(s), 10 intern, latest 2026-11-16 - _Calibration Process Data Science Intern - 8 months/40 hours per week_
-- **Toyota Research Institute** - 10 role(s), 10 intern, latest 2026-11-11 - _Human-Centered AI Research Intern - Causal Reasoning Models_
-- **Unitytech** - 10 role(s), latest 2026-11-15 - _Senior Machine Learning Engineer, Unity AI_
-- **Zocdoc** - 10 role(s), latest 2026-11-11 - _Data Scientist_
-- **Apple** - 9 role(s), 9 intern, latest 2026-11-12 - _SoC Machine Learning Software Engineer Intern_
-- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
-- **Crunchyroll, LLC** - 9 role(s), latest 2026-11-16 - _Forward Deployed Engineer, AI Enablement_
-- **Cursor** - 9 role(s), latest 2026-11-11 - _Forward Deployed Engineer_
-- **Deepgram** - 9 role(s), latest 2026-11-15 - _Research Staff, Voice AI Foundations_
-- **Fireworks** - 9 role(s), latest 2026-11-10 - _AI Deployment Strategist_
-- **Gatik AI** - 9 role(s), latest 2026-11-13 - _Embedded Software Engineer, Drive-By-Wire _
-- **Navan** - 9 role(s), latest 2026-11-16 - _AI Architect_
-- **Plaud** - 9 role(s), latest 2026-11-15 - _Backend Engineer - Palo Alto_
-- **Samsung Research America** - 9 role(s), 3 intern, latest 2026-11-11 - _Android Systems Security Engineer _
-- **Sentry** - 9 role(s), latest 2026-11-09 - _Staff Software Engineer, AI Platform_
-- **Simspace Corporation** - 9 role(s), latest 2026-11-13 - _Senior Software Engineer, Backend_
-- **Socure** - 9 role(s), latest 2026-11-13 - _Staff Backend Graph Engineer_
+- **Cisco** - 31 role(s), 22 intern, latest 2026-11-23 - _Software Technical Leader (Remote)_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Latchbio** - 30 role(s), latest 2026-11-17 - _AI Biologist - Proteomics_
+- **Zipline ** - 30 role(s), 10 intern, latest 2026-11-23 - _AI Tooling Software Engineer - Data Platform, Autonomy_
+- **Intel** - 29 role(s), 29 intern, latest 2026-11-18 - _Software Engineering - PhD Intern_
+- **Lila Sciences** - 29 role(s), 5 intern, latest 2026-11-19 - _Associate Director/Director, Frontier and AI Product Counsel_
+- **Robinhood** - 29 role(s), 5 intern, latest 2026-11-16 - _Android Engineer, Social_
+- **Harvey** - 28 role(s), 2 intern, latest 2026-11-21 - _Staff Software Engineer, Backend Platform_
+- **Ramp** - 28 role(s), 9 intern, latest 2026-11-23 - _Senior Engineer, Backend, Vendor Management_
+- **Perplexity** - 27 role(s), latest 2026-11-19 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
+- **Verkada** - 27 role(s), latest 2026-11-20 - _Backend Engineer - Connectivity_
+- **DigitalOcean** - 26 role(s), latest 2026-11-20 - _Director of Research, Agentic AI_
+- **Natera** - 26 role(s), 1 intern, latest 2026-11-23 - _Director of Bioinformatics and Machine Learning_
+- **Astranis** - 25 role(s), 15 intern, latest 2026-11-20 - _AI Enablement & Learning and Development Partner_
+- **DocuSign** - 25 role(s), 25 intern, latest 2026-11-19 - _Software Engineer Intern - Self-Service Directory Diagnostics_
+- **Roku** - 25 role(s), 3 intern, latest 2026-11-20 - _AI Engineering Internship Program (Summer 2027)_
+- **Asml** - 24 role(s), 21 intern, latest 2026-11-23 - _Internship-Data & AI, Controls_
+- **Hewlett Packard Enterprise** - 24 role(s), 24 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Nuro** - 24 role(s), latest 2026-11-16 - _Director of AI Data Operations_
+- **Airwallex** - 23 role(s), latest 2026-11-23 - _Senior Software Engineer, Machine Learning Platform_
+- **Plaid** - 23 role(s), latest 2026-11-20 - _Senior Analytics Engineer_
+- **Sierra** - 23 role(s), 3 intern, latest 2026-11-19 - _Research Engineer, Applied Research_
+- **Commure** - 22 role(s), 1 intern, latest 2026-11-23 - _Staff Software Engineer, Claims & AI Billing_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Symbotic** - 22 role(s), 9 intern, latest 2026-11-20 - _Intern- Software Engineer, Front-End_
+- **Samsara** - 21 role(s), 3 intern, latest 2026-11-17 - _Data Engineer_
+- **Airbnb** - 20 role(s), 2 intern, latest 2026-11-23 - _Data Engineer Tech Foundations_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Thinkingmachines** - 19 role(s), latest 2026-11-17 - _Software Engineer, Sandboxing_
+- **Cohere** - 18 role(s), latest 2026-11-17 - _Senior Full-Stack Engineer, Annotation Platform _
+- **Handshake** - 18 role(s), latest 2026-11-20 - _Forward Deployed Engineer, Enterprise AI_
+- **Notion** - 18 role(s), 10 intern, latest 2026-11-19 - _Software Engineer, User Database Infrastructure_
+- **Trm Labs** - 18 role(s), latest 2026-11-17 - _Software Engineer, Backend_
+- **Hinge Health** - 17 role(s), latest 2026-11-20 - _Senior Software Engineer, Full Stack_
+- **Reliable Robotics** - 17 role(s), 5 intern, latest 2026-11-19 - _Sr. Embedded Software Engineer, Radar_
+- **Samsung** - 17 role(s), 17 intern, latest 2026-11-18 - _Power-Thermal Simulation Software Engineer Intern_
+- **Scout Motors** - 17 role(s), latest 2026-11-20 - _AI Infrastructure Engineer_
+- **Twitch** - 17 role(s), 4 intern, latest 2026-11-18 - _Applied Scientist_
+- **Woven By Toyota** - 17 role(s), latest 2026-11-20 - _AI プラットフォームエンジニア (MLOps/LLMOps)_
+- **Elevenlabs** - 16 role(s), latest 2026-11-17 - _Full-Stack Engineer (Backend Leaning)_
+- **Marvell** - 16 role(s), 16 intern, latest 2026-11-17 - _Firmware Engineer Intern_
+- **Coupang** - 15 role(s), latest 2026-11-21 - _Director, Back-end Engineering_
+- **Graphcore** - 15 role(s), 4 intern, latest 2026-11-18 - _AI Platform Architect_
+- **Gusto, Inc.** - 15 role(s), latest 2026-11-23 - _AI Control Lead_
+- **Higgsfieldai** - 15 role(s), latest 2026-11-23 - _AI Engineer_
+- **Illumio** - 15 role(s), 2 intern, latest 2026-11-21 - _Sr. Engineering Manager, Analytics and Applied AI_
+- **Lambda** - 15 role(s), latest 2026-11-19 - _Staff Software Engineer - Infrastructure Storage_
+- **Life360** - 15 role(s), latest 2026-11-19 - _Director, AI Platforms_
+- **Lyft** - 15 role(s), 8 intern, latest 2026-11-20 - _Applied Scientist Intern, PhD (Summer 2027)_
+- **Simspace Corporation** - 15 role(s), latest 2026-11-18 - _Senior Software Engineer, Backend_
+- **Baseten** - 14 role(s), latest 2026-11-20 - _Data Scientist_
+- **Beaconai** - 14 role(s), latest 2026-11-18 - _Senior Software Engineer, iOS/Mobile_
+- **C3 AI** - 14 role(s), 4 intern, latest 2026-11-19 - _Associate Site Reliability Engineer/Site Reliability Engineer_
+- **Earlywarning** - 14 role(s), latest 2026-11-20 - _Staff Engineer - Platform Engineering_
+- **OneTrust** - 14 role(s), latest 2026-11-18 - _AI Systems Engineer_
+- **Strava** - 14 role(s), 12 intern, latest 2026-11-21 - _Senior Data Engineer_
+- **Tri** - 14 role(s), 11 intern, latest 2026-11-18 - _Accelerated Science Intern, Machine Learning/Agentic AI_
+- **42Dot** - 13 role(s), 3 intern, latest 2026-11-19 - _Machine Learning & Data Engineer, Vehicle Modeling_
+- **Maintainx** - 13 role(s), latest 2026-11-19 - _Full-Stack Developer - IAM_
+- **Tenstorrent** - 13 role(s), 6 intern, latest 2026-11-20 - _Datacenter & Agentic AI Workload Performance Optimization Engineer_
+- **The Trade Desk** - 13 role(s), latest 2026-11-23 - _Front-End Engineer II - Reporting_
+- **Vercel** - 13 role(s), 2 intern, latest 2026-11-19 - _Machine Learning Engineer, Trust & Safety_
+- **Benchling** - 12 role(s), 3 intern, latest 2026-11-23 - _Software Engineer, Agents_
+- **BILL** - 12 role(s), latest 2026-11-23 - _Senior Product Data Analyst - AP & Network Analytics_
+- **Faire** - 12 role(s), 2 intern, latest 2026-11-23 - _Applied AI/ML Scientist, Intern - Winter 2027_
+- **Gallatin** - 12 role(s), latest 2026-11-20 - _Machine Learning Operations (MLOps) Engineer_
+- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-20 - _Software Engineer, Full-Stack - Growth Platform_
+- **Swarmaero** - 12 role(s), latest 2026-11-16 - _Software Engineer, Real-Time Generalist_
+- **Toyota Research Institute** - 12 role(s), 12 intern, latest 2026-11-19 - _Human-Centered AI Research Intern - Causal Reasoning Models_
+- **Vailexa ** - 12 role(s), latest 2026-11-21 - _AI Customer Assurance Engineer / AI Product Support Engineer_
+- ** ALO** - 11 role(s), latest 2026-11-17 - _Buying & Merchandising AI Analyst_
+- **Docker** - 11 role(s), latest 2026-11-19 - _Senior Software Engineer, Tooling (West Coast Preferred)_
+- **Expedia** - 11 role(s), latest 2026-11-20 - _Principal Data & AI Engineer, Reporting and Insights_
+- **GlobalFoundries** - 11 role(s), 11 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Hadrian Automation** - 11 role(s), 2 intern, latest 2026-11-18 - _All Levels:  Frontend Software Engineer_
+- **Navan** - 11 role(s), latest 2026-11-18 - _AI Architect_
+- **Reflectionai** - 11 role(s), latest 2026-11-16 - _Member of Technical Staff - Safety_
+- **Robert Bosch Venture Capital** - 11 role(s), 11 intern, latest 2026-11-17 - _Calibration Process Data Science Intern - 8 months/40 hours per week_
+- **Suno** - 11 role(s), latest 2026-11-20 - _Senior / Staff Software Engineer, AI Leverage_
+- **Texas Instruments** - 11 role(s), 11 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Apple** - 10 role(s), 10 intern, latest 2026-11-20 - _SoC Machine Learning Software Engineer Intern_
+- **Cadence Design Systems** - 10 role(s), 10 intern, latest 2026-11-19 - _Software Engineering Intern_
+- **Edison%20Scientific** - 10 role(s), latest 2026-11-17 - _Member of Technical Staff, Principal AI Infrastructure Engineer_
+- **Maxinsights** - 10 role(s), 2 intern, latest 2026-11-21 - _Machine Learning Engineer Intern - Video Foundation Models & Agentic AI_
+- **Plaud** - 10 role(s), latest 2026-11-16 - _Backend Engineer - Palo Alto_
+- **Replit** - 10 role(s), 1 intern, latest 2026-11-18 - _Senior Software Engineer, Compute Platform_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Together AI** - 10 role(s), 4 intern, latest 2026-11-23 - _Forward Deployed Engineer (Applied AI)_
+- **Aerovect** - 9 role(s), latest 2026-11-18 - _Staff Software Engineer, Localization_
+- **Box** - 9 role(s), latest 2026-11-19 - _Machine Learning Engineer III, Shield_
+- **Code Metal** - 9 role(s), latest 2026-11-19 - _Lead Backend Engineer (Modeling & Simulation)_
+- **Deepgram** - 9 role(s), latest 2026-11-18 - _Senior Data Scientist, Audio_
+- **Discord** - 9 role(s), latest 2026-11-20 - _Engineering Manager, Machine Learning - Safety_
+- **First Resonance** - 9 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Software Engineer (San Francisco)_
+- **Matx** - 9 role(s), latest 2026-11-20 - _Software Engineer - Kernels_
+- **Peregrine Technologies** - 9 role(s), latest 2026-11-19 - _Applied AI Engineering Lead_
+- **Socure** - 9 role(s), latest 2026-11-18 - _Staff Backend Engineer_
+- **Trustly** - 9 role(s), latest 2026-11-20 - _Staff Software Engineer, Payment Gateway_
+- **ŌURA** - 9 role(s), latest 2026-11-17 - _AI Security Engineer, Detection and Response_
+- **Abridge** - 8 role(s), 4 intern, latest 2026-11-18 - _Member of Technical Staff, Machine Learning_
+- **Bosch Home Comfort** - 8 role(s), 8 intern, latest 2026-11-18 - _Software Engineer Intern - 8 months/40hrs per week_
+- **Fal Ai** - 8 role(s), latest 2026-11-20 - _Machine Learning Engineer, Safety_
 - **Headway** - 8 role(s), latest 2026-11-16 - _Senior Data Engineer_
-- **Latitude AI** - 8 role(s), latest 2026-11-16 - _Operations Data Analyst II (Contractor)_
-- **onsemi** - 8 role(s), 8 intern, latest 2026-11-10 - _Manufacturing AI Engineering Intern_
-- **Pika** - 8 role(s), 2 intern, latest 2026-11-10 - _Research Scientist, Post-Training — Video Generation_
-- **Radai** - 8 role(s), latest 2026-11-10 - _Senior Data Engineer_
-- **Typesafe Ai** - 8 role(s), latest 2026-11-13 - _Developer Advocate_
-- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
-- **Valon** - 8 role(s), 3 intern, latest 2026-11-16 - _Senior Cloud Infrastructure Engineer_
-- **ŌURA** - 8 role(s), latest 2026-11-10 - _AI Security Engineer, Detection and Response_
-- **Aircall.io, Inc.** - 7 role(s), latest 2026-11-13 - _Data Scientist, Product Analytics_
-- **Altana ** - 7 role(s), latest 2026-11-09 - _Principal Platform Engineer_
-- **Ddn** - 7 role(s), latest 2026-11-11 - _Senior Salesforce Developer_
-- **Exiger** - 7 role(s), latest 2026-11-09 - _AI Product Builder _
-- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
-- **IonQ** - 7 role(s), latest 2026-11-16 - _Senior Front End Engineer_
-- **Lightmatter** - 7 role(s), 5 intern, latest 2026-11-12 - _Data & AI Platform, Intern - Summer 2027_
-- **Mirendil** - 7 role(s), latest 2026-11-08 - _Member of Technical Staff, Kernels_
-- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
-- **Pantograph** - 7 role(s), latest 2026-11-11 - _Member of Technical Staff, Robotics Software Engineer_
-- **Redwood Materials** - 7 role(s), latest 2026-11-09 - _Battery Software & Controls Integration Engineer, Energy Storage_
-- **Robots and Pencils** - 7 role(s), latest 2026-11-12 - _ Principal Applied Scientist _
-- **Triumph Arcade** - 7 role(s), latest 2026-11-13 - _Senior Software Engineer, Rips (Web)_
-- **Voleon** - 7 role(s), latest 2026-11-13 - _Senior/Staff Software Engineer, Data Engineering_
-- **Afterquery** - 6 role(s), 3 intern, latest 2026-11-09 - _AI/ML Research Intern_
-- **Arena** - 6 role(s), latest 2026-11-14 - _Software Engineer - Full Stack_
-- **AssemblyAI** - 6 role(s), latest 2026-11-09 - _Applied AI Engineer_
-- **Bloom Energy** - 6 role(s), 6 intern, latest 2026-11-12 - _Data Science Intern_
-- **Discord** - 6 role(s), latest 2026-11-12 - _Engineering Manager, Machine Learning (Safety)_
-- **Fal Ai** - 6 role(s), latest 2026-11-13 - _Machine Learning Engineer, Safety_
-- **Heartflow** - 6 role(s), latest 2026-11-16 - _Principal Clinical Engineer – AI Performance & Investigations_
-- **InMobi ** - 6 role(s), latest 2026-11-12 - _AI Engineer_
-- **itD Tech** - 6 role(s), latest 2026-11-13 - _Data Analyst V (6347)_
-- **Liquid Ai** - 6 role(s), latest 2026-11-11 - _Member of Technical Staff - Applied ML, RecSys_
-- **Nectar Social** - 6 role(s), latest 2026-11-10 - _Member of Technical Staff_
-- **Nourish** - 6 role(s), latest 2026-11-10 - _Analytics Engineering Lead_
-- **Peregrine Technologies** - 6 role(s), latest 2026-11-13 - _Staff Software Engineer, Applied AI_
-- **Profound** - 6 role(s), latest 2026-11-10 - _Member of Technical Staff, Researcher/Economist_
-- **Quindar** - 6 role(s), latest 2026-11-14 - _Forward Deployed Engineer_
-- **RoboForce** - 6 role(s), 1 intern, latest 2026-11-10 - _AI Resident_
-- **SK hynix memory solutions America Inc.** - 6 role(s), 4 intern, latest 2026-11-12 - _Embedded Software Engineer Intern_
-- **Unconventional, Inc.** - 6 role(s), latest 2026-11-12 - _AI Silicon, Analog CAD Engineer_
-- **Virtahealth** - 6 role(s), latest 2026-11-13 - _Senior Software Engineer - Client Lifecycle_
-- **Xero** - 6 role(s), latest 2026-11-15 - _Staff/Lead Software Engineer, Payments_
-- **Zip** - 6 role(s), 1 intern, latest 2026-11-12 - _Software Engineer, Frontend (All Levels)_
-- **Astera** - 5 role(s), latest 2026-11-13 - _Principal AI Scientist (Polytope Bio)_
-- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
-- **Clockwork.io** - 5 role(s), 1 intern, latest 2026-11-10 - _Senior HPC Developer - RDMA Networking _
-- **Ellipsis Health** - 5 role(s), latest 2026-11-09 - _Senior Backend Engineer, Core Services_
-- **Factory** - 5 role(s), latest 2026-11-10 - _Developer Relations_
-- **Fieldguide** - 5 role(s), latest 2026-11-09 - _Senior Software Engineer, Agents (Foundation Agents)_
-- **Footprint** - 5 role(s), latest 2026-11-11 - _Member of Technical Staff (Security)_
-- **Genentech** - 5 role(s), 5 intern, latest 2026-11-13 - _Machine Learning Intern - OpRegen Machine Learning_
-- **Lockheed Martin** - 5 role(s), 5 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Motive** - 5 role(s), latest 2026-11-13 - _Business Intelligence Analyst II_
-- **NetApp** - 5 role(s), 5 intern, latest 2026-11-14 - _Software Engineer Intern_
-- **Netic** - 5 role(s), latest 2026-11-15 - _Forward Deployed Engineer_
-- **Orbit** - 5 role(s), latest 2026-11-09 - _Senior Cloud & Backend Software Engineer_
-- **Parallel** - 5 role(s), latest 2026-11-11 - _AI Commercial Counsel, GTM_
-- **Qualified Health Pbc** - 5 role(s), latest 2026-11-13 - _Principal Backend Engineer_
-- **Rivet** - 5 role(s), 1 intern, latest 2026-11-10 - _Senior Software Engineer, SLAM/VIO_
-- **Seagate Technology** - 5 role(s), 5 intern, latest 2026-11-14 - _Software and Data Analytics Development Intern, AFM_
-- **Thumbtack** - 5 role(s), latest 2026-11-09 - _Senior Software Engineer, Developer Experience_
-- **X Development** - 5 role(s), latest 2026-11-09 - _PhD Resident - Earth Scientist AI Resident - Early Stage Project_
-- **Xona Space** - 5 role(s), latest 2026-11-10 - _Sr. Software Engineer - Build & Release_
-- **Abridge** - 4 role(s), 3 intern, latest 2026-11-13 - _Member of Product Staff, Foundation Models & Post-Training_
-- **Adaption** - 4 role(s), latest 2026-11-10 - _Research Scientist_
-- **Airbyte** - 4 role(s), latest 2026-11-14 - _Senior Backend Engineer, Agent Infrastructure_
-- **Analog Devices** - 4 role(s), 4 intern, latest 2026-11-09 - _AI/ML Engineer Intern_
-- **AXS** - 4 role(s), latest 2026-11-12 - _Lead Software Engineer - Fullstack _
-- **Brigade Health** - 4 role(s), latest 2026-11-13 - _Mobile Phlebotomist & Medical Assistant_
+- **Heartflow** - 8 role(s), 2 intern, latest 2026-11-19 - _Platform Engineering Intern (Summer 2027)_
+- **LinkedIn** - 8 role(s), 8 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Pantograph** - 8 role(s), latest 2026-11-21 - _Member of Technical Staff, Robotics Software Engineer_
+- **Centific** - 7 role(s), 1 intern, latest 2026-11-21 - _Principal, Applied AI Research Engineer, Vision_
+- **Cursor** - 7 role(s), latest 2026-11-18 - _Forward Deployed Engineer_
+- **Ddn** - 7 role(s), latest 2026-11-17 - _Senior Software Engineering Manager – KV Cache Platform_
+- **E2B** - 7 role(s), latest 2026-11-23 - _Software Engineer, Infrastructure_
+- **Fin** - 7 role(s), latest 2026-11-20 - _Forward Deployed Engineer_
+- **G2** - 7 role(s), 1 intern, latest 2026-11-20 - _Software Engineering Director, Agentic Evaluations_
+- **Latitude AI** - 7 role(s), latest 2026-11-17 - _Operations Data Analyst II (Contractor)_
+- **Liquid Ai** - 7 role(s), latest 2026-11-19 - _Member of Technical Staff - Applied ML, RecSys_
+- **Motive** - 7 role(s), latest 2026-11-19 - _Business Intelligence Analyst II_
+- **Ntt Data Aivista** - 7 role(s), latest 2026-11-22 - _Member of Technical Staff - Applied Scientist I                                           _
+- **Parallel** - 7 role(s), latest 2026-11-20 - _GTM Leader, AI Native_
+- **Physicalintelligence** - 7 role(s), latest 2026-11-16 - _ML Infra Engineer, Data Systems_
+- **Profound** - 7 role(s), latest 2026-11-23 - _Member of Technical Staff, Researcher/Economist_
+- **Quindar** - 7 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Rivet** - 7 role(s), 1 intern, latest 2026-11-17 - _Senior Software Engineer, SLAM/VIO_
+- **Samsung Semiconductor** - 7 role(s), 7 intern, latest 2026-11-18 - _Systems Software Engineering Intern_
+- **Smartsheet** - 7 role(s), latest 2026-11-23 - _Employee Data Analyst (Hybrid Eligible - Costa Rica)_
+- **Taskrabbit** - 7 role(s), latest 2026-11-17 - _Senior Full Stack Engineer - AI Innovation_
+- **Valon** - 7 role(s), 2 intern, latest 2026-11-16 - _Senior Cloud Infrastructure Engineer_
+- **Xdof** - 7 role(s), latest 2026-11-22 - _Member of Technical Staff, Robotics Data_
+- **Xero** - 7 role(s), latest 2026-11-23 - _Senior Backend Engineer, Payments Platform_
+- **Zip** - 7 role(s), 1 intern, latest 2026-11-17 - _Software Engineer, Frontend (All Levels)_
+- **Air** - 6 role(s), latest 2026-11-23 - _AI Engineer, Internal Enablement & Productivity_
+- **Analog Devices** - 6 role(s), 6 intern, latest 2026-11-17 - _AI/ML Engineer Intern_
+- **Ellipsis Health** - 6 role(s), latest 2026-11-17 - _Senior Data Platform Engineer_
+- **Fieldguide** - 6 role(s), latest 2026-11-17 - _Senior Software Engineer, Agents (Foundation Agents)_
+- **Intuitive Surgical** - 6 role(s), 6 intern, latest 2026-11-20 - _AI Research Intern_
+- **itD Tech** - 6 role(s), latest 2026-11-19 - _Data Analyst V (6347)_
+- **Kira** - 6 role(s), 1 intern, latest 2026-11-20 - _Senior Software Engineer (Backend, Infrastructure Focus)_
+- **Kodiak** - 6 role(s), latest 2026-11-23 - _Data Scientist_
+- **Lavendo** - 6 role(s), latest 2026-11-20 - _Sr. Associate - New Verticals, Agentic AI (NY)_
+- **Lockheed Martin** - 6 role(s), 6 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Quince** - 6 role(s), latest 2026-11-16 - _Infrastructure & DevOps Engineer III_
+- **Robots and Pencils** - 6 role(s), latest 2026-11-18 - _ Principal Applied Scientist _
+- **Virtahealth** - 6 role(s), latest 2026-11-20 - _Senior Software Engineer - Client Lifecycle_
+- **Voleon** - 6 role(s), latest 2026-11-18 - _Senior/Staff Software Engineer, Data Engineering_
+- **Astera** - 5 role(s), latest 2026-11-16 - _Principal AI Scientist (Polytope Bio)_
+- **Attain** - 5 role(s), latest 2026-11-19 - _Senior Machine Learning Engineer_
+- **Elorian Ai Inc** - 5 role(s), latest 2026-11-18 - _Software Engineer - Core Platform_
+- **Five9** - 5 role(s), latest 2026-11-20 - _Senior Director, GTM Data Engineering _
+- **Genentech** - 5 role(s), 5 intern, latest 2026-11-19 - _Applied GenAI Scientist Intern - GenAI Applications_
+- **Grow Therapy** - 5 role(s), 2 intern, latest 2026-11-19 - _Senior Data Analyst, Coverage & Payments_
+- **Hyperbolic** - 5 role(s), latest 2026-11-23 - _Senior Data Engineer_
+- **IonQ** - 5 role(s), latest 2026-11-16 - _Senior Front End Engineer_
+- **Lightfield** - 5 role(s), latest 2026-11-18 - _Research Scientist (Staff+)_
+- **Namespace** - 5 role(s), latest 2026-11-20 - _Infrastructure Software Engineer_
+- **Netic** - 5 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Netskope** - 5 role(s), latest 2026-11-17 - _Cloud Systems Engineer_
+- **OKX** - 5 role(s), latest 2026-11-19 - _Software Engineer, Card_
+- **Pear Vc** - 5 role(s), latest 2026-11-17 - _MassHealth Enrollment Specialist & AI Operations_
+- **Plenful** - 5 role(s), latest 2026-11-19 - _Senior Full-Stack Engineer_
+- **Samsung Research America Internship** - 5 role(s), 4 intern, latest 2026-11-23 - _2027 Health AI Scholar, Digital Health Algorithms Team_
+- **ServiceNow** - 5 role(s), 5 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Shield** - 5 role(s), 5 intern, latest 2026-11-23 - _Embedded Firmware Intern_
+- **Western Digital** - 5 role(s), 5 intern, latest 2026-11-18 - _Recording Electronics Data Analytics & Optimization Co-op_
+- **Abby Care** - 4 role(s), latest 2026-11-17 - _Applied AI, Tech Lead Manager_
+- **Brigade Health** - 4 role(s), latest 2026-11-17 - _Geriatric Primary Care NP/PA (Mobile Practice)_
+- **Cadence** - 4 role(s), 4 intern, latest 2026-11-20 - _Intern: Software Engineering Jasper R&D_
 - **Checkr** - 4 role(s), latest 2026-11-16 - _Senior Machine Learning Engineer_
-- **Descript** - 4 role(s), latest 2026-11-09 - _AI Growth Specialist (BDR)_
+- **Delinea** - 4 role(s), latest 2026-11-19 - _Senior Software Engineer, Oracle/NetSuite_
+- **Depthfirst** - 4 role(s), latest 2026-11-19 - _Senior Software Engineer, Corporate Security_
+- **Disney** - 4 role(s), 4 intern, latest 2026-11-17 - _Product & Technology Software Engineering Intern_
+- **Ema** - 4 role(s), 1 intern, latest 2026-11-18 - _Software Engineer, Full-Stack _
+- **Granica** - 4 role(s), latest 2026-11-18 - _Research Scientist – Diffusion Models_
 - **Kikoff** - 4 role(s), latest 2026-11-16 - _Senior Data Scientist_
-- **Kodiak** - 4 role(s), latest 2026-11-10 - _Embedded Software Manager_
-- **Netskope** - 4 role(s), latest 2026-11-12 - _Director, Engineering, Agentic AI_
-- **Nox Metals** - 4 role(s), latest 2026-11-10 - _Machine Learning Engineer_
-- **Pivotal** - 4 role(s), 1 intern, latest 2026-11-11 - _Data Engineer - Flight Data (contract)_
-- **Plenful** - 4 role(s), latest 2026-11-12 - _Senior Full-Stack Engineer_
-- **Preference Model** - 4 role(s), latest 2026-11-11 - _Member of Technical Staff - ML Platform Engineer_
+- **LG Electronics** - 4 role(s), latest 2026-11-23 - _Business Data Analyst_
+- **Litellm** - 4 role(s), latest 2026-11-20 - _Senior Backend Engineer_
+- **Micron** - 4 role(s), latest 2026-11-23 - _Staff Semiconductor Applied AI Engineer_
+- **Pacific Fusion** - 4 role(s), 4 intern, latest 2026-11-16 - _Summer 2027 HPC/DevOps Engineering Intern_
+- **Pebl** - 4 role(s), latest 2026-11-18 - _Senior Software Engineer_
+- **Pinecone** - 4 role(s), latest 2026-11-19 - _Staff Developer Advocate _
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **Samsung Semiconductor** - 4 role(s), 4 intern, latest 2026-11-13 - _Systems Software Engineering Intern_
-- **ServiceNow** - 4 role(s), 4 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Sieve** - 4 role(s), latest 2026-11-12 - _Member of Technical Staff, Security_
-- **TextNow, Inc.** - 4 role(s), latest 2026-11-13 - _Data Scientist_
-- **Traba** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer (AI Agents)_
-- **Wafer** - 4 role(s), latest 2026-11-10 - _Member of Technical Staff, Security_
-- **Witnessai** - 4 role(s), latest 2026-11-13 - _Head of DevOps_
-- **Antithesis** - 3 role(s), latest 2026-11-11 - _Applied AI Software Engineer_
-- **Archer** - 3 role(s), latest 2026-11-13 - _Senior AI Research Engineer - (SJ2026NZ)_
-- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
+- **Retell Ai** - 4 role(s), 1 intern, latest 2026-11-17 - _Applied AI Engineer (Customer Facing), Spanish speaking_
+- **Ricursive%20Intelligence** - 4 role(s), latest 2026-11-19 - _DevOps Engineer, Infrastructure & Platforms _
+- **Ripple ** - 4 role(s), latest 2026-11-20 - _Senior Staff, Developer Relations_
+- **Telnyx** - 4 role(s), latest 2026-11-20 - _Developer Advocate, Edge & IoT_
+- **Xona Space** - 4 role(s), latest 2026-11-19 - _Sr. Software Engineer - Build & Release_
+- **Ambrook** - 3 role(s), 1 intern, latest 2026-11-23 - _Software Engineer, Product_
+- **Arcadia Science** - 3 role(s), latest 2026-11-21 - _Member of Technical Staff, Biochemist_
 - **Aureliussystems** - 3 role(s), latest 2026-11-16 - _Principal Robotic Software Engineer_
-- **Claylabs** - 3 role(s), latest 2026-11-14 - _Software Engineer, GTM Ops_
-- **David Ai** - 3 role(s), latest 2026-11-10 - _Research Engineer_
+- **Betterup** - 3 role(s), latest 2026-11-19 - _Senior Analytics Engineer_
+- **Blackline** - 3 role(s), latest 2026-11-20 - _Staff I Data Engineer_
+- **Column** - 3 role(s), latest 2026-11-17 - _Software Engineer_
 - **Doss** - 3 role(s), latest 2026-11-16 - _Staff Frontend Engineer_
-- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Site Reliability Engineering_
+- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Automation Site Reliability Engineering_
 - **Goaly** - 3 role(s), latest 2026-11-16 - _Founding Senior Applied AI Engineer_
-- **Granica** - 3 role(s), latest 2026-11-11 - _Research Scientist – Diffusion Models_
-- **Odysseyml** - 3 role(s), latest 2026-11-12 - _Member of Technical Staff, Infrastructure Engineer_
-- **OKX** - 3 role(s), latest 2026-11-14 - _Sr. Software Engineer, Machine Learning & Data Infrastructure_
-- **Overjet** - 3 role(s), latest 2026-11-14 - _Forward Deployed Engineer_
-- **Pacific Fusion** - 3 role(s), 3 intern, latest 2026-11-16 - _Summer 2027 Internship- Software Engineering _
-- **PsiQuantum** - 3 role(s), latest 2026-11-10 - _Staff Firmware Engineer_
-- **Retell Ai** - 3 role(s), 1 intern, latest 2026-11-11 - _Staff Frontend Engineer_
-- **Runway Ml** - 3 role(s), latest 2026-11-12 - _AI Engagement Manager_
-- **Sekai** - 3 role(s), latest 2026-11-10 - _Senior Android Engineer_
-- **Simple Ai** - 3 role(s), latest 2026-11-12 - _Software Engineer_
-- **SK hynix** - 3 role(s), 3 intern, latest 2026-11-12 - _SSD Firmware Development Engineer Intern_
-- **SK hynix America** - 3 role(s), latest 2026-11-12 - _AI Solution Architecture and Pathfinding Director_
-- **The Trade Desk** - 3 role(s), latest 2026-11-12 - _Oracle ERP Technical Developer_
-- **Vynca** - 3 role(s), latest 2026-11-09 - _ Senior Full Stack Engineer _
-- **Western Digital** - 3 role(s), 3 intern, latest 2026-11-10 - _Recording Electronics Data Analytics & Optimization Co-op_
-- **Architect** - 2 role(s), latest 2026-11-14 - _Member of Technical Staff - Physical Design_
-- **Betterup** - 2 role(s), latest 2026-11-13 - _Senior Analytics Engineer_
-- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
-- **Cockroach Labs** - 2 role(s), latest 2026-11-10 - _Member of Technical Staff (Migrations) _
-- **Coframe** - 2 role(s), latest 2026-11-10 - _Backend System Architect_
-- **Cognition** - 2 role(s), latest 2026-11-10 - _Research Engineer, Safety & Alignment_
-- **Conviva** - 2 role(s), latest 2026-11-11 - _AI/ML Engineer_
-- **Cosmic Robotics** - 2 role(s), latest 2026-11-10 - _Forward Deployed Engineer_
-- **Ditto** - 2 role(s), latest 2026-11-12 - _Senior Forward Deployed Engineer - Platform _
-- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
-- **Eliseai** - 2 role(s), latest 2026-11-09 - _AI Deployments PM - Future Platforms_
-- **Envoy** - 2 role(s), latest 2026-11-11 - _Member of Technical Staff, Admin Experiences_
-- **GoFundMe** - 2 role(s), latest 2026-11-09 - _Manager, Machine Learning Engineering_
-- **Ivo Inc** - 2 role(s), latest 2026-11-12 - _Senior AI Researcher_
-- **Labelbox** - 2 role(s), latest 2026-11-13 - _Forward Deployed Engineer, Enterprise Accounts_
-- **Litellm** - 2 role(s), latest 2026-11-11 - _Staff Engineer, AI_
-- **Mettler Toledo** - 2 role(s), 2 intern, latest 2026-11-09 - _Embedded Software Engineering Intern_
-- **Octant Bio** - 2 role(s), 2 intern, latest 2026-11-12 - _Software Engineering Intern_
-- **Operio** - 2 role(s), 2 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **Pivotal Aero** - 2 role(s), 2 intern, latest 2026-11-09 - _Software Engineering Intern_
-- **Pragmatike** - 2 role(s), latest 2026-11-12 - _Research Engineer, Synthetic Data (Pacific Time)_
-- **Rox Data Corp** - 2 role(s), latest 2026-11-12 - _Software Engineer (Onsite San Francisco)_
-- **Salient** - 2 role(s), latest 2026-11-11 - _Cloud Infrastructure Engineer_
-- **Scopely** - 2 role(s), latest 2026-11-09 - _Full Stack Engineer_
-- **Superdial** - 2 role(s), latest 2026-11-08 - _Tech Lead, Software Engineering_
-- **Volta** - 2 role(s), latest 2026-11-10 - _Software Engineer_
-- **Withpulley** - 2 role(s), latest 2026-11-10 - _Applied AI Engineer_
-- **Workwhilejobs** - 2 role(s), latest 2026-11-10 - _Software Engineer, Fullstack_
-- **Amyris, Inc.** - 1 role(s), latest 2026-11-09 - _Manager, DevOps Enterprise Architect_
-- **Bland** - 1 role(s), latest 2026-11-13 - _Internal Platform Engineer_
-- **CTGT** - 1 role(s), 1 intern, latest 2026-11-10 - _AI Evaluation Research Intern_
-- **Delinea** - 1 role(s), latest 2026-11-09 - _Senior Cloud Engineer - Governance_
-- **Diffuse Bio** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **Elas** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Science Intern_
-- **Georgian** - 1 role(s), latest 2026-11-11 - _AI Tech Lead - Physical AI & Robotics_
-- **Integrated Biosciences, Inc.** - 1 role(s), latest 2026-11-14 - _Software Engineer, Robotics_
-- **Joulent** - 1 role(s), latest 2026-11-13 - _Joulent_
-- **Kineticsystems** - 1 role(s), latest 2026-11-13 - _Clinical AI Research Fellowship_
-- **Mantlebio** - 1 role(s), 1 intern, latest 2026-11-10 - _Computational Biology Research Engineer Intern_
-- **Maven Robotics** - 1 role(s), latest 2026-11-13 - _Robotics AI Research Engineer - CoRL_
-- **Merge** - 1 role(s), latest 2026-11-13 - _Analytics Engineer_
-- **Meshy** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer, API_
-- **Native** - 1 role(s), latest 2026-11-12 - _Native_
-- **New Product** - 1 role(s), latest 2026-11-15 - _New Product_
-- **Openclaw Foundation Inc** - 1 role(s), latest 2026-11-13 - _Mobile Engineer (Member of Technical Staff)_
-- **Polymath** - 1 role(s), latest 2026-11-09 - _Polymath_
-- **Postman** - 1 role(s), 1 intern, latest 2026-11-13 - _AI Engineer Intern_
-- **Pylon** - 1 role(s), latest 2026-11-09 - _Generalist Software Engineer(s)_
-- **Rambus** - 1 role(s), 1 intern, latest 2026-11-10 - _Forward Deployed Engineer Intern - AI & Enterprise Systems_
-- **RetailReady** - 1 role(s), 1 intern, latest 2026-11-10 - _Full Stack Intern_
-- **Rillet** - 1 role(s), latest 2026-11-12 - _Staff Software Engineer, Revenue & Billing_
-- **Roche** - 1 role(s), 1 intern, latest 2026-11-09 - _Assay Bioinformatics Intern, CSI_
-- **Rodriguez Services** - 1 role(s), 1 intern, latest 2026-11-15 - _Software Engineer Intern_
-- **SigIQ.ai** - 1 role(s), 1 intern, latest 2026-11-10 - _Machine Learning Intern/Resident_
-- **Spring Fertility** - 1 role(s), latest 2026-11-11 - _Director of AI Transformation & Digital Patient Experience_
-- **Stealth Health-Tech Startup** - 1 role(s), latest 2026-11-09 - _Stealth Health-Tech Startup_
-- **Substrate** - 1 role(s), 1 intern, latest 2026-11-10 - _Systems Software Engineer Intern_
-- **Verne%20Robotics** - 1 role(s), latest 2026-11-09 - _Founding Research Scientist_
-- **Vooma** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
+- **Intuitive** - 3 role(s), 3 intern, latest 2026-11-20 - _Data Science Intern_
+- **Lightning AI** - 3 role(s), latest 2026-11-20 - _Engineering Manager, Infrastructure Software_
+- **Lovable** - 3 role(s), latest 2026-11-17 - _Staff Software Engineer, Enterprise_
+- **Lumentum** - 3 role(s), 3 intern, latest 2026-11-17 - _Internship - Data Science & Analytics_
+- **Opusclip** - 3 role(s), 1 intern, latest 2026-11-20 - _AI Research Intern_
+- **Poshmark** - 3 role(s), latest 2026-11-18 - _Software Engineer II, Cloud Platform_
+- **Renesas Electronics** - 3 role(s), 3 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Rhombus Power, Inc.** - 3 role(s), latest 2026-11-20 - _Data Engineer, Palo Alto_
+- **Speak** - 3 role(s), latest 2026-11-23 - _Full-Stack Engineer - Enterprise_
+- **Stuut Ai** - 3 role(s), latest 2026-11-19 - _Member of the Technical Staff — Applied AI, Fullstack_
+- **Substack** - 3 role(s), latest 2026-11-19 - _Full Stack Software Engineer - Payments_
+- **Tatari** - 3 role(s), latest 2026-11-20 - _Staff Backend Engineer_
+- **Trener Robotics** - 3 role(s), latest 2026-11-19 - _Senior Cloud Infrastructure Engineer - Product_
+- **2K** - 2 role(s), latest 2026-11-18 - _Senior AI Tools Engineer_
+- **Akasa** - 2 role(s), latest 2026-11-19 - _Software Engineer, Applied AI_
+- **Biohub** - 2 role(s), 1 intern, latest 2026-11-20 - _AI Research Scientist Intern_
+- **Bmo** - 2 role(s), 1 intern, latest 2026-11-23 - _Software Engineer, Winter 2027 (Co-op/Internship) -4 months_
+- **Cartesia** - 2 role(s), latest 2026-11-19 - _Research Engineer, Text Data_
+- **Chalk** - 2 role(s), latest 2026-11-23 - _Senior/Lead Developer Relations _
+- **Corcept Therapeutics** - 2 role(s), latest 2026-11-19 - _Associate Director, AWS Cloud Engineering_
+- **Creatoriq** - 2 role(s), latest 2026-11-20 - _Director of Engineering, Agentic AI and Architecture_
+- **Dyna Robotics** - 2 role(s), latest 2026-11-17 - _Senior Firmware / Embedded Engineer_
+- **Everops** - 2 role(s), latest 2026-11-17 - _Senior Infrastructure Engineer (Network Infrastructure)_
+- **Highnote** - 2 role(s), latest 2026-11-18 - _Data Analyst _
+- **Infinitus** - 2 role(s), latest 2026-11-19 - _Data Analyst_
+- **Ironcladhq** - 2 role(s), latest 2026-11-19 - _Senior Staff Software Engineer, Developer Productivity_
+- **Kira Learning** - 2 role(s), 2 intern, latest 2026-11-18 - _Software Engineer Intern_
+- **NeuroSpark** - 2 role(s), 2 intern, latest 2026-11-16 - _AI Inference & Training Framework Engineer Intern_
+- **Phylo** - 2 role(s), latest 2026-11-17 - _Member of Technical Staff – Product Engineering_
+- **Simile** - 2 role(s), latest 2026-11-19 - _Data Products - Member of Technical Staff_
+- **Snapmagic** - 2 role(s), latest 2026-11-21 - _Software Engineer, Electronics Design_
+- **Standinsurance** - 2 role(s), latest 2026-11-17 - _Applied Science DevOps Lead_
+- **Titan Msp** - 2 role(s), latest 2026-11-17 - _Software Engineer - Applied AI_
+- **Warp Sciences** - 2 role(s), 2 intern, latest 2026-11-17 - _Robot Learning Intern - Robotics Learning_
+- **Ansa Biotechnologies** - 1 role(s), latest 2026-11-18 - _Lab Systems Software Engineer_
+- **Artafinance** - 1 role(s), latest 2026-11-20 - _Senior Platform Engineer_
+- **Atlas** - 1 role(s), latest 2026-11-18 - _Software Engineer _
+- **BillionToOne** - 1 role(s), latest 2026-11-21 - _Bioinformatics Associate, Prenatal_
+- **Brainbaselabs** - 1 role(s), latest 2026-11-17 - _Senior Member of Technical Staff_
+- **Capella Space** - 1 role(s), latest 2026-11-20 - _Senior Flight Software Engineer_
+- **Comfy Org** - 1 role(s), latest 2026-11-19 - _Senior Software Engineer, Frontend_
+- **CrowdStrike** - 1 role(s), 1 intern, latest 2026-11-17 - _AI Research Launch Intern_
+- **Doximity** - 1 role(s), latest 2026-11-20 - _Senior Software Engineer, Data Platform_
+- **Elementfleet** - 1 role(s), latest 2026-11-18 - _Senior Backend Integration Engineer_
+- **Ello** - 1 role(s), latest 2026-11-20 - _Lead AI Learning Designer (ELL)_
+- **Forterra** - 1 role(s), 1 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Foundational%20Industries** - 1 role(s), latest 2026-11-20 - _Senior Data Engineer, Telemetry Data_
+- **Gravity** - 1 role(s), latest 2026-11-19 - _Senior Ads ML Engineer_
+- **Greptile** - 1 role(s), latest 2026-11-16 - _Founding Data Scientist_
+- **Hammerhead Ai** - 1 role(s), latest 2026-11-20 - _Data Scientist_
+- **Interdigital** - 1 role(s), 1 intern, latest 2026-11-17 - _PhD Research Intern - AI Lab_
+- **Koahlabs** - 1 role(s), latest 2026-11-18 - _Developer Growth_
+- **Lilly** - 1 role(s), latest 2026-11-23 - _AI Engineer_
+- **Linqapp** - 1 role(s), latest 2026-11-18 - _Forward Deployed Engineer_
+- **Momentus Space LLC** - 1 role(s), latest 2026-11-19 - _Software Engineering Manager _
+- **Newlantern** - 1 role(s), latest 2026-11-16 - _Infrastructure / Platform Engineer_
+- **Petual** - 1 role(s), latest 2026-11-19 - _Software Engineer _
+- **Resolution** - 1 role(s), latest 2026-11-17 - _Research Engineer_
+- **Span** - 1 role(s), latest 2026-11-20 - _Embedded Linux Software Engineer, XFRA_
+- **Usekernel** - 1 role(s), latest 2026-11-19 - _Security Software Engineer_
+- **Valeriehealth** - 1 role(s), latest 2026-11-19 - _AI Operations Specialist_
 
-### Seattle (92)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **SpaceX** - 228 role(s), latest 2026-11-16 - _Aerospace Software Engineer (Starfall)_
-- **Tesla** - 134 role(s), 134 intern, latest 2026-11-13 - _Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027_
-- **Openai** - 129 role(s), 1 intern, latest 2026-11-16 - _Control Systems Software Engineer, Robotics_
-- **TikTok** - 122 role(s), 122 intern, latest 2026-11-13 - _Machine Learning MLOps Intern - Global Site Reliability Engineering_
-- **Meta** - 111 role(s), 110 intern, latest 2026-11-13 - _Research Scientist Intern - Multiple Teams_
-- **Anthropic** - 89 role(s), latest 2026-11-13 - _AI Outcomes Manager, Enterprise Tech_
-- **Waymo** - 80 role(s), 49 intern, latest 2026-11-13 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
-- **Snowflake** - 75 role(s), 3 intern, latest 2026-11-16 - _Staff Software Engineer - Compiler & Spark Runtime _
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Zoox** - 61 role(s), 17 intern, latest 2026-11-13 - _Automation Engineer - Compute Software Performance_
-- **ByteDance** - 56 role(s), 56 intern, latest 2026-11-10 - _Immigration Data Analyst Intern - Hrops_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Stripe** - 49 role(s), 6 intern, latest 2026-11-13 - _AI Engineer_
-- **Microsoft** - 48 role(s), 47 intern, latest 2026-11-13 - _AI Software Engineer Intern_
-- **Epic Games** - 46 role(s), 16 intern, latest 2026-11-12 - _AI Programmer Intern_
-- **Crusoe** - 45 role(s), 2 intern, latest 2026-11-13 - _Staff Software Engineer, Developer Experience_
-- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Zscaler** - 45 role(s), latest 2026-11-12 - _AI Enablement Architect _
-- **DoorDash USA** - 44 role(s), 4 intern, latest 2026-11-12 - _Autonomy Platform Engineer_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
-- **T-Mobile** - 38 role(s), 38 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **SpaceXSI** - 35 role(s), 2 intern, latest 2026-11-16 - _AI Tutor, Amharic - Temporary_
-- **Pinterest** - 34 role(s), 5 intern, latest 2026-11-10 - _Director, Machine Learning Engineering, Ads Measurement_
-- **Sprinter Health** - 33 role(s), latest 2026-11-10 - _Data Analyst - Billing Systems_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Robinhood** - 30 role(s), 5 intern, latest 2026-11-16 - _Android Engineer, Social_
-- **ATOMS Careers page** - 29 role(s), 4 intern, latest 2026-11-12 - _AI Research Intern  (BS/MS)_
-- **Perplexity** - 29 role(s), latest 2026-11-16 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
-- **Samsara** - 28 role(s), 3 intern, latest 2026-11-14 - _Data Engineer_
-- **Paccar** - 24 role(s), 24 intern, latest 2026-11-14 - _Software Developer Intern_
-- **Axon** - 22 role(s), 4 intern, latest 2026-11-11 - _CMM Programmer (Onsite)_
-- **Airwallex** - 20 role(s), latest 2026-11-16 - _Senior Software Engineer, Machine Learning Platform_
-- **Walmart** - 20 role(s), 16 intern, latest 2026-11-13 - _Summer 2027 Intern:: Software Engineer II_
-- **Brex** - 19 role(s), 2 intern, latest 2026-11-12 - _Data Scientist II, Applied ML_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Twitch** - 19 role(s), 4 intern, latest 2026-11-13 - _Applied Scientist_
-- **Hadrian Automation** - 18 role(s), 2 intern, latest 2026-11-12 - _All Levels:  Frontend Software Engineer_
-- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
-- **Lyft** - 17 role(s), 8 intern, latest 2026-11-09 - _Applied Scientist Intern, PhD (Summer 2027)_
-- **Salesforce** - 17 role(s), 10 intern, latest 2026-11-16 - _Senior Staff Software Engineer, Android_
-- **Cohere** - 16 role(s), latest 2026-11-16 - _Senior Full-Stack Engineer, Annotation Platform _
-- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
-- **Coupang** - 15 role(s), latest 2026-11-13 - _Director, Back-end Engineering_
-- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
-- **Reliable Robotics** - 15 role(s), 3 intern, latest 2026-11-13 - _Sr. Embedded Software Engineer, Radar_
-- **Baseten** - 14 role(s), latest 2026-11-14 - _Forward Deployed Engineer (Training)_
-- **Lambda** - 14 role(s), latest 2026-11-13 - _Staff Software Engineer - Infrastructure Storage_
-- **Red Cell Partners** - 13 role(s), latest 2026-11-10 - _Deputy General Manager, Agentic AI _
-- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-13 - _Software Engineer, Developer Experience (Full-Stack)_
-- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
-- **Wex** - 12 role(s), 12 intern, latest 2026-11-09 - _Artificial Intelligence Intern - AI/ML/NLP Engineer_
-- **Aerovect** - 11 role(s), latest 2026-11-16 - _Senior Software Engineer, Behavior Planning_
-- **Docker** - 11 role(s), latest 2026-11-10 - _Senior Software Engineer, Tooling (West Coast Preferred)_
-- **D Matrix** - 10 role(s), latest 2026-11-11 - _Staff Systems and Platforms Software Engineer_
-- **Hippocratic%20Ai** - 10 role(s), latest 2026-11-12 - _AI Engineer (Senior, Staff, Senior Staff, Principal)_
-- **Unitytech** - 10 role(s), latest 2026-11-15 - _Senior Machine Learning Engineer, Unity AI_
-- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
-- **Impact.Com** - 9 role(s), latest 2026-11-13 - _Associate Data Platform Engineer_
-- **K2 Space ** - 9 role(s), 2 intern, latest 2026-11-10 - _Data Engineer_
-- **Plaud** - 9 role(s), latest 2026-11-15 - _Backend Engineer - Palo Alto_
-- **Socure** - 9 role(s), latest 2026-11-13 - _Staff Backend Graph Engineer_
-- **Uipath** - 9 role(s), 4 intern, latest 2026-11-16 - _Principal Software Engineer - Document Understanding_
-- **Echodyne Corp** - 8 role(s), latest 2026-11-12 - _Federal Emerging Partner Business Developer (BD)_
+### Seattle (88)
+- **SpaceX** - 220 role(s), latest 2026-11-20 - _Aerospace Software Engineer (Starfall)_
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **Tesla** - 134 role(s), 134 intern, latest 2026-11-20 - _AI Hardware Physical Design Engineer Intern - AI Hardware_
+- **Openai** - 133 role(s), 1 intern, latest 2026-11-22 - _Data Scientist, Integrity_
+- **Meta** - 116 role(s), 115 intern, latest 2026-11-19 - _Research Scientist Intern - Robotics_
+- **TikTok** - 112 role(s), 112 intern, latest 2026-11-23 - _AI Infrastructure Engineer Intern - Recommendation & LLM_
+- **Anthropic** - 84 role(s), latest 2026-11-23 - _AI Outcomes Manager, Enterprise Tech_
+- **Waymo** - 82 role(s), 49 intern, latest 2026-11-21 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
+- **Snowflake** - 76 role(s), 9 intern, latest 2026-11-23 - _Staff Software Engineer - Compiler & Spark Runtime _
+- **Zoox** - 61 role(s), 17 intern, latest 2026-11-18 - _Automation Engineer - Compute Software Performance_
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **Walmart** - 56 role(s), 14 intern, latest 2026-11-23 - _(USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Zscaler** - 50 role(s), latest 2026-11-20 - _AI Enablement Architect _
+- **Crusoe** - 46 role(s), 4 intern, latest 2026-11-23 - _Staff Software Engineer, Developer Experience_
+- **DoorDash USA** - 42 role(s), 4 intern, latest 2026-11-18 - _Autonomy Platform Engineer_
+- **SpaceXSI** - 42 role(s), 2 intern, latest 2026-11-18 - _AI Tutor, Amharic - Temporary_
+- **T-Mobile** - 39 role(s), 39 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Pinterest** - 38 role(s), 5 intern, latest 2026-11-19 - _ Data Analytics Engineer II_
+- **Stripe** - 37 role(s), 6 intern, latest 2026-11-23 - _AI Engineer_
+- **Databricks** - 36 role(s), 3 intern, latest 2026-11-21 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
+- **Nvidia** - 34 role(s), 34 intern, latest 2026-11-23 - _Software Engineering Intern_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **ATOMS Careers page** - 31 role(s), 3 intern, latest 2026-11-19 - _AI Research Intern  (BS/MS)_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Robinhood** - 29 role(s), 5 intern, latest 2026-11-16 - _Android Engineer, Social_
+- **Perplexity** - 27 role(s), latest 2026-11-19 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
+- **DigitalOcean** - 26 role(s), latest 2026-11-20 - _Director of Research, Agentic AI_
+- **Paccar** - 26 role(s), 26 intern, latest 2026-11-17 - _Software Developer Intern_
+- **DocuSign** - 25 role(s), 25 intern, latest 2026-11-19 - _Software Engineer Intern - Self-Service Directory Diagnostics_
+- **Airwallex** - 23 role(s), latest 2026-11-23 - _Senior Software Engineer, Machine Learning Platform_
+- **Plaid** - 23 role(s), latest 2026-11-20 - _Senior Analytics Engineer_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Samsara** - 21 role(s), 3 intern, latest 2026-11-17 - _Data Engineer_
+- **Axon** - 20 role(s), 4 intern, latest 2026-11-20 - _CMM Programmer (Onsite)_
+- **Nintendo** - 20 role(s), 20 intern, latest 2026-11-23 - _Software Engineer Intern - Platform Security_
+- **Cohere** - 18 role(s), latest 2026-11-17 - _Senior Full-Stack Engineer, Annotation Platform _
+- **Reliable Robotics** - 17 role(s), 5 intern, latest 2026-11-19 - _Sr. Embedded Software Engineer, Radar_
+- **Twitch** - 17 role(s), 4 intern, latest 2026-11-18 - _Applied Scientist_
+- **Apex Technology Inc** - 15 role(s), 4 intern, latest 2026-11-20 - _Senior Flight Software Engineer_
+- **Coupang** - 15 role(s), latest 2026-11-21 - _Director, Back-end Engineering_
+- **Gusto, Inc.** - 15 role(s), latest 2026-11-23 - _AI Control Lead_
+- **Lambda** - 15 role(s), latest 2026-11-19 - _Staff Software Engineer - Infrastructure Storage_
+- **Lyft** - 15 role(s), 8 intern, latest 2026-11-20 - _Applied Scientist Intern, PhD (Summer 2027)_
+- **Baseten** - 14 role(s), latest 2026-11-20 - _Data Scientist_
+- **Maintainx** - 13 role(s), latest 2026-11-19 - _Full-Stack Developer - IAM_
+- **The Trade Desk** - 13 role(s), latest 2026-11-23 - _Front-End Engineer II - Reporting_
+- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-20 - _Software Engineer, Full-Stack - Growth Platform_
+- **Vailexa ** - 12 role(s), latest 2026-11-21 - _AI Customer Assurance Engineer / AI Product Support Engineer_
+- **Docker** - 11 role(s), latest 2026-11-19 - _Senior Software Engineer, Tooling (West Coast Preferred)_
+- **Expedia** - 11 role(s), latest 2026-11-20 - _Principal Data & AI Engineer, Reporting and Insights_
+- **Hadrian Automation** - 11 role(s), 2 intern, latest 2026-11-18 - _All Levels:  Frontend Software Engineer_
+- **Impact.Com** - 10 role(s), latest 2026-11-17 - _Associate Data Platform Engineer_
+- **Plaud** - 10 role(s), latest 2026-11-16 - _Backend Engineer - Palo Alto_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Aerovect** - 9 role(s), latest 2026-11-18 - _Staff Software Engineer, Localization_
+- **Socure** - 9 role(s), latest 2026-11-18 - _Staff Backend Engineer_
+- **Uipath** - 9 role(s), 3 intern, latest 2026-11-20 - _Senior Applied Scientist _
+- **Echodyne Corp** - 8 role(s), latest 2026-11-16 - _Federal Emerging Partner Business Developer (BD)_
 - **Headway** - 8 role(s), latest 2026-11-16 - _Senior Data Engineer_
-- **Metropolis** - 8 role(s), latest 2026-11-16 - _Senior Software Engineer, AI Agentic Platform_
-- **Designworkstalent** - 7 role(s), latest 2026-11-10 - _Applied Researcher – AI Expert_
-- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
-- **IonQ** - 7 role(s), latest 2026-11-16 - _Senior Front End Engineer_
-- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
-- **Robots and Pencils** - 7 role(s), latest 2026-11-12 - _ Principal Applied Scientist _
-- **itD Tech** - 6 role(s), latest 2026-11-13 - _Data Analyst V (6347)_
-- **Quindar** - 6 role(s), latest 2026-11-14 - _Forward Deployed Engineer_
-- **The Allen Institute for Artificial Intelligence** - 6 role(s), 2 intern, latest 2026-11-13 - _Research Engineer, Climate Modeling _
-- **Virtahealth** - 6 role(s), latest 2026-11-13 - _Senior Software Engineer - Client Lifecycle_
-- **Motive** - 5 role(s), latest 2026-11-13 - _Business Intelligence Analyst II_
-- **Rivet** - 5 role(s), 1 intern, latest 2026-11-10 - _Senior Software Engineer, SLAM/VIO_
-- **Impinj** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer_
-- **Nexxen** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer - AdTech Bidding Platform / Traffic Shaping Specialist_
+- **LendingTree** - 8 role(s), latest 2026-11-20 - _Manager, Data Science_
+- **Metropolis** - 8 role(s), latest 2026-11-16 - _Senior Manager, Software Engineering_
+- **Centific** - 7 role(s), 1 intern, latest 2026-11-21 - _Principal, Applied AI Research Engineer, Vision_
+- **Motive** - 7 role(s), latest 2026-11-19 - _Business Intelligence Analyst II_
+- **Ntt Data Aivista** - 7 role(s), latest 2026-11-22 - _Member of Technical Staff - Applied Scientist I                                           _
+- **Quindar** - 7 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Rivet** - 7 role(s), 1 intern, latest 2026-11-17 - _Senior Software Engineer, SLAM/VIO_
+- **Smartsheet** - 7 role(s), latest 2026-11-23 - _Employee Data Analyst (Hybrid Eligible - Costa Rica)_
+- **itD Tech** - 6 role(s), latest 2026-11-19 - _Data Analyst V (6347)_
+- **Truveta** - 6 role(s), 1 intern, latest 2026-11-23 - _Real World Data Analyst_
+- **Virtahealth** - 6 role(s), latest 2026-11-20 - _Senior Software Engineer - Client Lifecycle_
+- **Blink Health** - 5 role(s), latest 2026-11-19 - _Senior Instructional Designer, AI & Simulation Enablement_
+- **Grow Therapy** - 5 role(s), 2 intern, latest 2026-11-19 - _Senior Data Analyst, Coverage & Payments_
+- **IonQ** - 5 role(s), latest 2026-11-16 - _Senior Front End Engineer_
+- **onX** - 5 role(s), latest 2026-11-20 - _Backend Engineer  III - Identity & Access Management_
+- **Plenful** - 5 role(s), latest 2026-11-19 - _Senior Full-Stack Engineer_
+- **ServiceNow** - 5 role(s), 5 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **BlackSky** - 4 role(s), latest 2026-11-17 - _Senior Engineer - Embedded/Flight Software_
+- **Carnival Corporation** - 4 role(s), 4 intern, latest 2026-11-19 - _Data & AI Solutions Intern_
+- **iSpot** - 4 role(s), latest 2026-11-22 - _Associate Data Analyst_
 - **PitchBook Data** - 4 role(s), latest 2026-11-16 - _Lead Software Development Engineer, Full Stack_
-- **Plenful** - 4 role(s), latest 2026-11-12 - _Senior Full-Stack Engineer_
-- **ServiceNow** - 4 role(s), 4 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **The Pokémon Company International** - 4 role(s), latest 2026-11-12 - _Software Development Engineer in Test_
-- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
-- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Site Reliability Engineering_
-- **Runway Ml** - 3 role(s), latest 2026-11-12 - _AI Engagement Manager_
-- **The Trade Desk** - 3 role(s), latest 2026-11-12 - _Oracle ERP Technical Developer_
-- **Withpulley** - 2 role(s), latest 2026-11-10 - _Applied AI Engineer_
-- **LevelTen Energy** - 1 role(s), latest 2026-11-12 - _Cloud Infrastructure Engineering Manager_
-- **Symmetry** - 1 role(s), latest 2026-11-13 - _Applied AI Engineer_
+- **Armada** - 3 role(s), latest 2026-11-23 - _Field CTO, AI Factory_
+- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Automation Site Reliability Engineering_
+- **Lightning AI** - 3 role(s), latest 2026-11-20 - _Engineering Manager, Infrastructure Software_
+- **Read Ai** - 3 role(s), latest 2026-11-18 - _Senior Software Engineer - Mobile _
+- **Amperity** - 2 role(s), 2 intern, latest 2026-11-19 - _Intern - Software Development Engineer _
+- **CodeAI** - 1 role(s), latest 2026-11-18 - _Software Engineer, Teacher Experience_
+- **Usekernel** - 1 role(s), latest 2026-11-19 - _Security Software Engineer_
 
-### New York City (183)
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Openai** - 129 role(s), 1 intern, latest 2026-11-16 - _Control Systems Software Engineer, Robotics_
-- **Meta** - 111 role(s), 110 intern, latest 2026-11-13 - _Research Scientist Intern - Multiple Teams_
-- **Anthropic** - 89 role(s), latest 2026-11-13 - _AI Outcomes Manager, Enterprise Tech_
-- **Waymo** - 80 role(s), 49 intern, latest 2026-11-13 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
-- **Snowflake** - 75 role(s), 3 intern, latest 2026-11-16 - _Staff Software Engineer - Compiler & Spark Runtime _
-- **Coinbase** - 58 role(s), 10 intern, latest 2026-11-16 - _Analytics Engineer Intern_
-- **ByteDance** - 56 role(s), 56 intern, latest 2026-11-10 - _Immigration Data Analyst Intern - Hrops_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Stripe** - 49 role(s), 6 intern, latest 2026-11-13 - _AI Engineer_
-- **Microsoft** - 48 role(s), 47 intern, latest 2026-11-13 - _AI Software Engineer Intern_
-- **Reddit** - 47 role(s), latest 2026-11-12 - _Analytics Engineer_
-- **Crusoe** - 45 role(s), 2 intern, latest 2026-11-13 - _Staff Software Engineer, Developer Experience_
-- **Clera** - 44 role(s), 1 intern, latest 2026-11-16 - _Founding Forward Deployed Engineer_
-- **DoorDash USA** - 44 role(s), 4 intern, latest 2026-11-12 - _Autonomy Platform Engineer_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **T-Mobile** - 38 role(s), 38 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Affirm** - 36 role(s), 3 intern, latest 2026-11-12 - _Analyst, Early Career (Full Stack)_
-- **SpaceXSI** - 35 role(s), 2 intern, latest 2026-11-16 - _AI Tutor, Amharic - Temporary_
-- **Pinterest** - 34 role(s), 5 intern, latest 2026-11-10 - _Director, Machine Learning Engineering, Ads Measurement_
-- **Sprinter Health** - 33 role(s), latest 2026-11-10 - _Data Analyst - Billing Systems_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Robinhood** - 30 role(s), 5 intern, latest 2026-11-16 - _Android Engineer, Social_
-- **ATOMS Careers page** - 29 role(s), 4 intern, latest 2026-11-12 - _AI Research Intern  (BS/MS)_
-- **Mercor** - 29 role(s), 10 intern, latest 2026-11-14 - _Infrastructure Software Engineer _
-- **Perplexity** - 29 role(s), latest 2026-11-16 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
-- **Figma** - 26 role(s), 15 intern, latest 2026-11-09 - _AI Engineer, Internal Tools_
-- **Harvey** - 26 role(s), 2 intern, latest 2026-11-16 - _Staff Software Engineer, Backend Platform_
-- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
-- **Ramp** - 25 role(s), 9 intern, latest 2026-11-13 - _Senior Engineer, Backend, Vendor Management_
-- **Roku** - 24 role(s), 3 intern, latest 2026-11-16 - _AI Engineering Internship Program (Summer 2027)_
-- **The New York Times** - 24 role(s), 17 intern, latest 2026-11-09 - _Android Engineering Intern_
-- **Commure** - 23 role(s), 1 intern, latest 2026-11-12 - _Staff Software Engineer, Claims & AI Billing_
-- **Axon** - 22 role(s), 4 intern, latest 2026-11-11 - _CMM Programmer (Onsite)_
-- **Notion** - 20 role(s), 12 intern, latest 2026-11-09 - _Software Engineer, AI Connections (Developer Platform)_
-- **Bedrock Robotics** - 19 role(s), 12 intern, latest 2026-11-13 - _Software Engineer, Fleet Platform_
-- **Brex** - 19 role(s), 2 intern, latest 2026-11-12 - _Data Scientist II, Applied ML_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Twitch** - 19 role(s), 4 intern, latest 2026-11-13 - _Applied Scientist_
-- **Handshake** - 18 role(s), latest 2026-11-10 - _Forward Deployed Engineer, Enterprise AI_
-- **iCapital** - 18 role(s), latest 2026-11-16 - _ AI Engineer- Assistant Vice President_
-- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
-- **Lyft** - 17 role(s), 8 intern, latest 2026-11-09 - _Applied Scientist Intern, PhD (Summer 2027)_
-- **SharkNinja** - 17 role(s), 5 intern, latest 2026-11-12 - _Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)_
-- **Supabase** - 17 role(s), latest 2026-11-11 - _Developer Relations Engineer _
-- **Cohere** - 16 role(s), latest 2026-11-16 - _Senior Full-Stack Engineer, Annotation Platform _
-- **Elevenlabs** - 16 role(s), latest 2026-11-09 - _Full-Stack Engineer (Backend Leaning)_
-- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
-- **Legora** - 16 role(s), latest 2026-11-11 - _Software Engineer - Platform Team _
-- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
-- **Addepar** - 15 role(s), 6 intern, latest 2026-11-10 - _AI Engineer - AI Platform_
-- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
-- **Baseten** - 14 role(s), latest 2026-11-14 - _Forward Deployed Engineer (Training)_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Turing** - 14 role(s), latest 2026-11-11 - _Account Director, Enterprise AI - Consumer Packaged Goods_
-- **Twenty** - 14 role(s), latest 2026-11-09 - _Applied AI Engineer_
-- **Chime Financial, Inc** - 13 role(s), latest 2026-11-13 - _Director, Data Engineering_
-- **Justworks** - 13 role(s), latest 2026-11-12 - _Senior AI Enablement Engineer, People_
-- **Point72 ** - 13 role(s), 9 intern, latest 2026-11-12 - _2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research_
-- **Primeintellect** - 13 role(s), latest 2026-11-12 - _Member of Technical Staff - Sandbox Platform_
-- **Reflectionai** - 13 role(s), latest 2026-11-16 - _Member of Technical Staff - Safety_
-- **Snorkel AI** - 13 role(s), 1 intern, latest 2026-11-13 - _Director, GTM Systems & AI Transformation_
-- **Tessera Labs** - 13 role(s), 2 intern, latest 2026-11-13 - _Forward-Deployed Engineer_
-- **Faire** - 12 role(s), 2 intern, latest 2026-11-13 - _Applied AI/ML Scientist, Intern - Winter 2027_
-- **FanDuel** - 12 role(s), latest 2026-11-12 - _Analytics Engineer_
-- **Patreon** - 12 role(s), 6 intern, latest 2026-11-13 - _Staff Software Engineer, Backend Platform_
-- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-13 - _Software Engineer, Developer Experience (Full-Stack)_
-- **Aerovect** - 11 role(s), latest 2026-11-16 - _Senior Software Engineer, Behavior Planning_
-- **EvolutionIQ** - 11 role(s), latest 2026-11-13 - _AI Engineer (CCC Auto / Agentic)_
-- **Garner Health** - 10 role(s), 1 intern, latest 2026-11-16 - _Associate Applied Scientist_
-- **Generalintuition Medal** - 10 role(s), latest 2026-11-10 - _Senior/Staff Software Engineer – Backend_
-- **Gusto, Inc.** - 10 role(s), latest 2026-11-10 - _Lead CX Business Intelligence Analyst_
-- **Zocdoc** - 10 role(s), latest 2026-11-11 - _Data Scientist_
-- **Cursor** - 9 role(s), latest 2026-11-11 - _Forward Deployed Engineer_
-- **Deepgram** - 9 role(s), latest 2026-11-15 - _Research Staff, Voice AI Foundations_
-- **Fireworks** - 9 role(s), latest 2026-11-10 - _AI Deployment Strategist_
-- **Gecko Robotics** - 9 role(s), 7 intern, latest 2026-11-12 - _AI/Machine Learning Engineering Intern_
-- **Impact.Com** - 9 role(s), latest 2026-11-13 - _Associate Data Platform Engineer_
-- **Navan** - 9 role(s), latest 2026-11-16 - _AI Architect_
-- **Socure** - 9 role(s), latest 2026-11-13 - _Staff Backend Graph Engineer_
-- **CLEAR - Corporate** - 8 role(s), latest 2026-11-13 - _Director of Product, Mobile_
+### New York City (188)
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **Openai** - 133 role(s), 1 intern, latest 2026-11-22 - _Data Scientist, Integrity_
+- **Meta** - 116 role(s), 115 intern, latest 2026-11-19 - _Research Scientist Intern - Robotics_
+- **Anthropic** - 84 role(s), latest 2026-11-23 - _AI Outcomes Manager, Enterprise Tech_
+- **Waymo** - 82 role(s), 49 intern, latest 2026-11-21 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
+- **Clera** - 58 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Engineer_
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **Walmart** - 56 role(s), 14 intern, latest 2026-11-23 - _(USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Coinbase** - 51 role(s), 10 intern, latest 2026-11-16 - _Analytics Engineer Intern_
+- **Signalfire** - 48 role(s), latest 2026-11-17 - _Staff Full Stack Software Engineer - VC Backed Startups_
+- **Crusoe** - 46 role(s), 4 intern, latest 2026-11-23 - _Staff Software Engineer, Developer Experience_
+- **Braze** - 45 role(s), 2 intern, latest 2026-11-20 - _AI Architect_
+- **Reddit** - 43 role(s), latest 2026-11-23 - _Analytics Engineer_
+- **DoorDash USA** - 42 role(s), 4 intern, latest 2026-11-18 - _Autonomy Platform Engineer_
+- **SpaceXSI** - 42 role(s), 2 intern, latest 2026-11-18 - _AI Tutor, Amharic - Temporary_
+- **T-Mobile** - 39 role(s), 39 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Mercor** - 38 role(s), 9 intern, latest 2026-11-21 - _Software Engineer, Enterprise Applied AI_
+- **Pinterest** - 38 role(s), 5 intern, latest 2026-11-19 - _ Data Analytics Engineer II_
+- **Stripe** - 37 role(s), 6 intern, latest 2026-11-23 - _AI Engineer_
+- **Databricks** - 36 role(s), 3 intern, latest 2026-11-21 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
+- **Affirm** - 35 role(s), 3 intern, latest 2026-11-21 - _Analyst, Early Career (Full Stack)_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **ATOMS Careers page** - 31 role(s), 3 intern, latest 2026-11-19 - _AI Research Intern  (BS/MS)_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Comcast** - 29 role(s), latest 2026-11-23 - _Senior Manager, Software Engineering ( Chicago - Hybrid) - FreeWheel_
+- **Robinhood** - 29 role(s), 5 intern, latest 2026-11-16 - _Android Engineer, Social_
+- **Harvey** - 28 role(s), 2 intern, latest 2026-11-21 - _Staff Software Engineer, Backend Platform_
+- **Ramp** - 28 role(s), 9 intern, latest 2026-11-23 - _Senior Engineer, Backend, Vendor Management_
+- **Perplexity** - 27 role(s), latest 2026-11-19 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
+- **Roku** - 25 role(s), 3 intern, latest 2026-11-20 - _AI Engineering Internship Program (Summer 2027)_
+- **Plaid** - 23 role(s), latest 2026-11-20 - _Senior Analytics Engineer_
+- **Sierra** - 23 role(s), 3 intern, latest 2026-11-19 - _Research Engineer, Applied Research_
+- **Commure** - 22 role(s), 1 intern, latest 2026-11-23 - _Staff Software Engineer, Claims & AI Billing_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Axon** - 20 role(s), 4 intern, latest 2026-11-20 - _CMM Programmer (Onsite)_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Ghr** - 20 role(s), latest 2026-11-23 - _Infrastructure Engineer Lead_
+- **SharkNinja** - 19 role(s), 5 intern, latest 2026-11-19 - _Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)_
+- **Thinkingmachines** - 19 role(s), latest 2026-11-17 - _Software Engineer, Sandboxing_
+- **Cohere** - 18 role(s), latest 2026-11-17 - _Senior Full-Stack Engineer, Annotation Platform _
+- **Handshake** - 18 role(s), latest 2026-11-20 - _Forward Deployed Engineer, Enterprise AI_
+- **Notion** - 18 role(s), 10 intern, latest 2026-11-19 - _Software Engineer, User Database Infrastructure_
+- **Twenty** - 18 role(s), latest 2026-11-19 - _Applied AI Engineer_
+- **Twitch** - 17 role(s), 4 intern, latest 2026-11-18 - _Applied Scientist_
+- **Barclays** - 16 role(s), 2 intern, latest 2026-11-23 - _Lead Platform Engineer_
+- **Elevenlabs** - 16 role(s), latest 2026-11-17 - _Full-Stack Engineer (Backend Leaning)_
+- **iCapital** - 16 role(s), latest 2026-11-16 - _ AI Engineer- Assistant Vice President_
+- **Legora** - 16 role(s), latest 2026-11-23 - _Software Engineer - Platform Team _
+- **Gusto, Inc.** - 15 role(s), latest 2026-11-23 - _AI Control Lead_
+- **Lyft** - 15 role(s), 8 intern, latest 2026-11-20 - _Applied Scientist Intern, PhD (Summer 2027)_
+- **Baseten** - 14 role(s), latest 2026-11-20 - _Data Scientist_
+- **C3 AI** - 14 role(s), 4 intern, latest 2026-11-19 - _Associate Site Reliability Engineer/Site Reliability Engineer_
+- **Oscar Health** - 14 role(s), 2 intern, latest 2026-11-23 - _Director, Analytics Engineering_
+- **Maintainx** - 13 role(s), latest 2026-11-19 - _Full-Stack Developer - IAM_
+- **Schonfeld ** - 13 role(s), 7 intern, latest 2026-11-16 - _2027 Platform Engineering Intern_
+- **TEGNA Inc.** - 13 role(s), latest 2026-11-17 - _Cloud Team Lead_
+- **The Trade Desk** - 13 role(s), latest 2026-11-23 - _Front-End Engineer II - Reporting_
+- **Vercel** - 13 role(s), 2 intern, latest 2026-11-19 - _Machine Learning Engineer, Trust & Safety_
+- **Faire** - 12 role(s), 2 intern, latest 2026-11-23 - _Applied AI/ML Scientist, Intern - Winter 2027_
+- **Gallatin** - 12 role(s), latest 2026-11-20 - _Machine Learning Operations (MLOps) Engineer_
+- **LinkedIn Job Wrapping** - 12 role(s), 2 intern, latest 2026-11-23 - _AI Adoption Intern_
+- **Point72 ** - 12 role(s), 8 intern, latest 2026-11-17 - _2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research_
+- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-20 - _Software Engineer, Full-Stack - Growth Platform_
+- **Verra Mobility** - 12 role(s), latest 2026-11-17 - _DevOps Engineer_
+- **Garner Health** - 11 role(s), 1 intern, latest 2026-11-18 - _Associate Applied Scientist_
+- **GlobalFoundries** - 11 role(s), 11 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Navan** - 11 role(s), latest 2026-11-18 - _AI Architect_
+- **Reflectionai** - 11 role(s), latest 2026-11-16 - _Member of Technical Staff - Safety_
+- **Suno** - 11 role(s), latest 2026-11-20 - _Senior / Staff Software Engineer, AI Leverage_
+- **BETA Technologies** - 10 role(s), latest 2026-11-23 - _AI / ML Engineer, Advanced Concepts_
+- **Edison%20Scientific** - 10 role(s), latest 2026-11-17 - _Member of Technical Staff, Principal AI Infrastructure Engineer_
+- **Hudson River Trading** - 10 role(s), 4 intern, latest 2026-11-19 - _AI Research Engineer_
+- **Impact.Com** - 10 role(s), latest 2026-11-17 - _Associate Data Platform Engineer_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Aerovect** - 9 role(s), latest 2026-11-18 - _Staff Software Engineer, Localization_
+- **Deepgram** - 9 role(s), latest 2026-11-18 - _Senior Data Scientist, Audio_
+- **Discord** - 9 role(s), latest 2026-11-20 - _Engineering Manager, Machine Learning - Safety_
+- **PathAI** - 9 role(s), 1 intern, latest 2026-11-23 - _Associate Director, MLOps Engineering_
+- **Peregrine Technologies** - 9 role(s), latest 2026-11-19 - _Applied AI Engineering Lead_
+- **Socure** - 9 role(s), latest 2026-11-18 - _Staff Backend Engineer_
+- **Trustly** - 9 role(s), latest 2026-11-20 - _Staff Software Engineer, Payment Gateway_
+- **ŌURA** - 9 role(s), latest 2026-11-17 - _AI Security Engineer, Detection and Response_
 - **Headway** - 8 role(s), latest 2026-11-16 - _Senior Data Engineer_
-- **Judi Health** - 8 role(s), 3 intern, latest 2026-11-12 - _AI Solutions Intern_
-- **Metropolis** - 8 role(s), latest 2026-11-16 - _Senior Software Engineer, AI Agentic Platform_
-- **Mirage** - 8 role(s), latest 2026-11-14 - _Data Scientist, Product_
-- **Valon** - 8 role(s), 3 intern, latest 2026-11-16 - _Senior Cloud Infrastructure Engineer_
-- **Aircall.io, Inc.** - 7 role(s), latest 2026-11-13 - _Data Scientist, Product Analytics_
-- **Altana ** - 7 role(s), latest 2026-11-09 - _Principal Platform Engineer_
-- **Cox** - 7 role(s), 5 intern, latest 2026-11-16 - _Entry Level Software Engineer - Atlanta, GA_
-- **Current** - 7 role(s), latest 2026-11-10 - _Data Analyst, Payments _
-- **Ddn** - 7 role(s), latest 2026-11-11 - _Senior Salesforce Developer_
-- **Exiger** - 7 role(s), latest 2026-11-09 - _AI Product Builder _
-- **PathAI** - 7 role(s), 1 intern, latest 2026-11-09 - _Associate Director, MLOps Engineering_
-- **Robots and Pencils** - 7 role(s), latest 2026-11-12 - _ Principal Applied Scientist _
-- **Spotify** - 7 role(s), latest 2026-11-09 - _Data Scientist - Music Promotion_
-- **Voleon** - 7 role(s), latest 2026-11-13 - _Senior/Staff Software Engineer, Data Engineering_
-- **Arcesium LLC** - 6 role(s), 5 intern, latest 2026-11-11 - _AI Transformation Intern_
-- **AssemblyAI** - 6 role(s), latest 2026-11-09 - _Applied AI Engineer_
-- **Kaizenlabs** - 6 role(s), latest 2026-11-12 - _Senior Cleared Software Engineer (TS/SCI)_
-- **Liquid Ai** - 6 role(s), latest 2026-11-11 - _Member of Technical Staff - Applied ML, RecSys_
-- **NBCUniversal** - 6 role(s), 6 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Nectar Social** - 6 role(s), latest 2026-11-10 - _Member of Technical Staff_
-- **Nourish** - 6 role(s), latest 2026-11-10 - _Analytics Engineering Lead_
-- **Percepta** - 6 role(s), latest 2026-11-09 - _Research Scientist – Reinforcement Learning (RL)_
-- **Peregrine Technologies** - 6 role(s), latest 2026-11-13 - _Staff Software Engineer, Applied AI_
-- **Profound** - 6 role(s), latest 2026-11-10 - _Member of Technical Staff, Researcher/Economist_
-- **Rain Technologies** - 6 role(s), latest 2026-11-12 - _Senior Backend Engineer_
-- **Virtahealth** - 6 role(s), latest 2026-11-13 - _Senior Software Engineer - Client Lifecycle_
-- **Wonder** - 6 role(s), latest 2026-11-13 - _Infrastructure Engineer, Enterprise AI_
-- **Attentive** - 5 role(s), latest 2026-11-16 - _Director of Engineer, AI Developer Experience_
-- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
-- **DreamWorks Animation** - 5 role(s), 5 intern, latest 2026-11-09 - _Software Engineer Intern_
-- **Ellipsis Health** - 5 role(s), latest 2026-11-09 - _Senior Backend Engineer, Core Services_
-- **Footprint** - 5 role(s), latest 2026-11-11 - _Member of Technical Staff (Security)_
-- **Motive** - 5 role(s), latest 2026-11-13 - _Business Intelligence Analyst II_
-- **mthree Recruiting Portal** - 5 role(s), latest 2026-11-12 - _DevOps Engineer/ Production Support Analyst_
-- **Parallel** - 5 role(s), latest 2026-11-11 - _AI Commercial Counsel, GTM_
+- **Hopper** - 8 role(s), latest 2026-11-19 - _Senior Data Scientist- Travel Tech _
+- **Megazone** - 8 role(s), 1 intern, latest 2026-11-23 - _Sr. Data Engineer_
+- **Metropolis** - 8 role(s), latest 2026-11-16 - _Senior Manager, Software Engineering_
+- **Current** - 7 role(s), latest 2026-11-23 - _Data Analyst, Payments _
+- **Cursor** - 7 role(s), latest 2026-11-18 - _Forward Deployed Engineer_
+- **Fin** - 7 role(s), latest 2026-11-20 - _Forward Deployed Engineer_
+- **Judi Health** - 7 role(s), 2 intern, latest 2026-11-17 - _AI Solutions Contractor_
+- **Liquid Ai** - 7 role(s), latest 2026-11-19 - _Member of Technical Staff - Applied ML, RecSys_
+- **Parallel** - 7 role(s), latest 2026-11-20 - _GTM Leader, AI Native_
+- **Profound** - 7 role(s), latest 2026-11-23 - _Member of Technical Staff, Researcher/Economist_
+- **Taskrabbit** - 7 role(s), latest 2026-11-17 - _Senior Full Stack Engineer - AI Innovation_
+- **Valon** - 7 role(s), 2 intern, latest 2026-11-16 - _Senior Cloud Infrastructure Engineer_
+- **Attentive** - 6 role(s), latest 2026-11-23 - _Director, AI Developer Experience_
+- **Distributed Spectrum** - 6 role(s), latest 2026-11-18 - _Technical Lead, Backend Systems_
+- **Ellipsis Health** - 6 role(s), latest 2026-11-17 - _Senior Data Platform Engineer_
+- **Kira** - 6 role(s), 1 intern, latest 2026-11-20 - _Senior Software Engineer (Backend, Infrastructure Focus)_
+- **Lavendo** - 6 role(s), latest 2026-11-20 - _Sr. Associate - New Verticals, Agentic AI (NY)_
+- **Nebius** - 6 role(s), 1 intern, latest 2026-11-18 - _Senior Customer AI Engineer - Token Factory_
+- **Rain Technologies** - 6 role(s), latest 2026-11-23 - _Senior Backend Engineer_
+- **Robots and Pencils** - 6 role(s), latest 2026-11-18 - _ Principal Applied Scientist _
+- **Truelogic** - 6 role(s), latest 2026-11-23 - _Senior Frontend Engineer - Fintech_
+- **Virtahealth** - 6 role(s), latest 2026-11-20 - _Senior Software Engineer - Client Lifecycle_
+- **Voleon** - 6 role(s), latest 2026-11-18 - _Senior/Staff Software Engineer, Data Engineering_
+- **Artefact** - 5 role(s), 3 intern, latest 2026-11-23 - _Manager, AI Applied Engineer (Forward Deployed)_
+- **Attain** - 5 role(s), latest 2026-11-19 - _Senior Machine Learning Engineer_
+- **Blink Health** - 5 role(s), latest 2026-11-19 - _Senior Instructional Designer, AI & Simulation Enablement_
+- **Epiqsystems** - 5 role(s), latest 2026-11-23 - _Software Engineer, Backend_
+- **Gamechanger** - 5 role(s), latest 2026-11-18 - _Principal Software Engineer_
+- **Genentech** - 5 role(s), 5 intern, latest 2026-11-19 - _Applied GenAI Scientist Intern - GenAI Applications_
+- **Grow Therapy** - 5 role(s), 2 intern, latest 2026-11-19 - _Senior Data Analyst, Coverage & Payments_
+- **Namespace** - 5 role(s), latest 2026-11-20 - _Infrastructure Software Engineer_
+- **Netic** - 5 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Pear Vc** - 5 role(s), latest 2026-11-17 - _MassHealth Enrollment Specialist & AI Operations_
+- **Phizenix** - 5 role(s), latest 2026-11-17 - _Agile Coach (AI-Native / Agentic Ways of Working) _
+- **Plenful** - 5 role(s), latest 2026-11-19 - _Senior Full-Stack Engineer_
+- **Richemont** - 5 role(s), latest 2026-11-23 - _.Net Software Engineer_
 - **Starbridge** - 5 role(s), latest 2026-11-16 - _Senior Security & Infrastructure Engineer_
-- **Adaption** - 4 role(s), latest 2026-11-10 - _Research Scientist_
-- **Freshfields** - 4 role(s), latest 2026-11-11 - _DevOps/Infrastructure Engineer_
-- **Newtonx** - 4 role(s), latest 2026-11-09 - _Project Lead, AI Model Training_
-- **Nexxen** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer - AdTech Bidding Platform / Traffic Shaping Specialist_
-- **Plenful** - 4 role(s), latest 2026-11-12 - _Senior Full-Stack Engineer_
-- **Pointone** - 4 role(s), latest 2026-11-09 - _Software Engineer_
+- **Citizen** - 4 role(s), latest 2026-11-19 - _Senior iOS Engineer_
+- **Depthfirst** - 4 role(s), latest 2026-11-19 - _Senior Software Engineer, Corporate Security_
+- **Disney** - 4 role(s), 4 intern, latest 2026-11-17 - _Product & Technology Software Engineering Intern_
+- **Morgan & Morgan, P.A.** - 4 role(s), latest 2026-11-20 - _Case Developer _
+- **Pendo** - 4 role(s), latest 2026-11-18 - _Software Engineer (AI)_
+- **Pinecone** - 4 role(s), latest 2026-11-19 - _Staff Developer Advocate _
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **St Labs** - 4 role(s), latest 2026-11-10 - _Forward Deployed Engineer _
-- **Tabs** - 4 role(s), latest 2026-11-12 - _Senior Software Engineer, Merchant Onboarding_
-- **Traba** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer (AI Agents)_
-- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
-- **Cboe Global Markets** - 3 role(s), 3 intern, latest 2026-11-12 - _Software Engineer Intern, C++_
-- **Claylabs** - 3 role(s), latest 2026-11-14 - _Software Engineer, GTM Ops_
-- **David Ai** - 3 role(s), latest 2026-11-10 - _Research Engineer_
-- **Gamechanger** - 3 role(s), latest 2026-11-13 - _Staff Software Engineer, Ads_
-- **Kira** - 3 role(s), latest 2026-11-13 - _Senior Software Engineer (Backend, Infrastructure Focus)_
-- **Morgan & Morgan, P.A.** - 3 role(s), latest 2026-11-13 - _Data Scientist_
-- **Nory Co** - 3 role(s), latest 2026-11-11 - _School Break Day Camp Coding Lead Teacher (Manhattan, Brooklyn)_
+- **Qube Research & Technologies** - 4 role(s), latest 2026-11-23 - _C++ Software Engineer - Core Trading Technology_
+- **Ripple ** - 4 role(s), latest 2026-11-20 - _Senior Staff, Developer Relations_
+- **Ambrook** - 3 role(s), 1 intern, latest 2026-11-23 - _Software Engineer, Product_
+- **Betterup** - 3 role(s), latest 2026-11-19 - _Senior Analytics Engineer_
+- **Blackline** - 3 role(s), latest 2026-11-20 - _Staff I Data Engineer_
+- **CME Group** - 3 role(s), 2 intern, latest 2026-11-18 - _Software Engineering Intern - Summer 2027_
+- **Condenast** - 3 role(s), latest 2026-11-16 - _Software Engineer 3, Verso_
+- **Gorbel** - 3 role(s), 3 intern, latest 2026-11-20 - _Front-End Web Developer Co-Op_
+- **January** - 3 role(s), latest 2026-11-17 - _Senior Analytics Engineer_
+- **Lightning AI** - 3 role(s), latest 2026-11-20 - _Engineering Manager, Infrastructure Software_
+- **Lovable** - 3 role(s), latest 2026-11-17 - _Staff Software Engineer, Enterprise_
 - **Octaura** - 3 role(s), 2 intern, latest 2026-11-16 - _AI/ML Software Engineer_
-- **Runway Ml** - 3 role(s), latest 2026-11-12 - _AI Engagement Manager_
-- **Talkiatry** - 3 role(s), latest 2026-11-13 - _Analytics Engineer_
-- **The Trade Desk** - 3 role(s), latest 2026-11-12 - _Oracle ERP Technical Developer_
-- **Verisk** - 3 role(s), 3 intern, latest 2026-11-13 - _AI Intern - Summer Internship Program_
-- **Betterup** - 2 role(s), latest 2026-11-13 - _Senior Analytics Engineer_
-- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
+- **Prior Labs** - 3 role(s), latest 2026-11-19 - _Infrastructure Engineer, GPU Clusters_
+- **S&P Global** - 3 role(s), 3 intern, latest 2026-11-18 - _Software Engineer Intern - Summer 2027_
+- **Stuut Ai** - 3 role(s), latest 2026-11-19 - _Member of the Technical Staff — Applied AI, Fullstack_
+- **Substack** - 3 role(s), latest 2026-11-19 - _Full Stack Software Engineer - Payments_
+- **Tatari** - 3 role(s), latest 2026-11-20 - _Staff Backend Engineer_
+- **Warp** - 3 role(s), latest 2026-11-23 - _Software Engineer, Product_
+- **Akasa** - 2 role(s), latest 2026-11-19 - _Software Engineer, Applied AI_
+- **Biohub** - 2 role(s), 1 intern, latest 2026-11-20 - _AI Research Scientist Intern_
+- **Bridge to Enter Advanced Mathematics (BEAM)** - 2 role(s), latest 2026-11-18 - _Saturday Enrichment Faculty - Programming (Part Time - BEAM Gateway)_
 - **Chambercardio** - 2 role(s), latest 2026-11-16 - _Staff Data Engineer_
-- **Clair** - 2 role(s), latest 2026-11-13 - _Senior Fullstack Engineer, Core Products_
-- **Cockroach Labs** - 2 role(s), latest 2026-11-10 - _Member of Technical Staff (Migrations) _
-- **Cognition** - 2 role(s), latest 2026-11-10 - _Research Engineer, Safety & Alignment_
-- **Conduct** - 2 role(s), latest 2026-11-13 - _ABAP AI Developer_
-- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
-- **Eliseai** - 2 role(s), latest 2026-11-09 - _AI Deployments PM - Future Platforms_
-- **Garage** - 2 role(s), latest 2026-11-08 - _Software Engineer, Growth_
-- **Jobs Valence** - 2 role(s), latest 2026-11-09 - _Senior DevOps Engineer_
-- **Lorikeet** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer_
-- **Orbital** - 2 role(s), latest 2026-11-13 - _AI Ops Engineer (GTM) _
-- **Outtake** - 2 role(s), latest 2026-11-13 - _Software Engineer, Platform_
+- **Cloaked** - 2 role(s), latest 2026-11-18 - _Staff Software Engineer (Full Stack & Backend)_
+- **Creatoriq** - 2 role(s), latest 2026-11-20 - _Director of Engineering, Agentic AI and Architecture_
+- **Doppel** - 2 role(s), latest 2026-11-17 - _Software Engineer, Email_
+- **Heliux** - 2 role(s), latest 2026-11-20 - _Software Engineer, Transformation Platform (All Levels)_
+- **Moxxi Digital** - 2 role(s), latest 2026-11-20 - _Analytics Engineer_
+- **Nevis** - 2 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Omnea** - 2 role(s), latest 2026-11-20 - _AI Deployment Lead_
 - **Propel** - 2 role(s), latest 2026-11-16 - _Senior Full Stack Engineer, Healthcare_
-- **Rox Data Corp** - 2 role(s), latest 2026-11-12 - _Software Engineer (Onsite San Francisco)_
+- **Savvy** - 2 role(s), latest 2026-11-20 - _Senior Developer Experience Engineer_
 - **Squarespace** - 2 role(s), latest 2026-11-16 - _Senior Manager, Data Science and Machine Learning_
-- **Tetrix** - 2 role(s), latest 2026-11-11 - _Senior Full Stack Engineer (Python + JavaScript)_
-- **Workwhilejobs** - 2 role(s), latest 2026-11-10 - _Software Engineer, Fullstack_
-- **WTW** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Analyst Intern_
-- ***Confidential Healthcare AI Startup** - 1 role(s), latest 2026-11-13 - _*Confidential Healthcare AI Startup_
+- **Tapestry** - 2 role(s), latest 2026-11-18 - _Sr. Manager, Software Engineering - Infrastructure_
+- **The National Football League** - 2 role(s), latest 2026-11-17 - _Application Developer_
+- **Thought Machine** - 2 role(s), latest 2026-11-23 - _Forward Deployed Engineer - Infrastructure_
+- **Titan Msp** - 2 role(s), latest 2026-11-17 - _Software Engineer - Applied AI_
+- **Adaptive Innovations** - 1 role(s), latest 2026-11-19 - _Software Engineer, Agents_
+- **Arca** - 1 role(s), latest 2026-11-17 - _Member of Technical Staff, Corporate Engineer (IT)_
 - **Ataraxis Ai** - 1 role(s), latest 2026-11-16 - _Software Engineer_
-- **Bonfire Analytics** - 1 role(s), latest 2026-11-13 - _Bonfire Analytics_
-- **Business Insider** - 1 role(s), latest 2026-11-13 - _Programmer, Streaming & Video Operations_
-- **ChukMedia** - 1 role(s), latest 2026-11-11 - _Data Analytics Resident_
-- **Dirac, Inc.** - 1 role(s), latest 2026-11-13 - _Software Engineer_
-- **Elm AI** - 1 role(s), latest 2026-11-13 - _Elm AI_
-- **Fora** - 1 role(s), latest 2026-11-11 - _Data Scientist_
-- **Govdash** - 1 role(s), latest 2026-11-13 - _Software Engineer _
-- **Grey State Apparel** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Analyst Intern_
-- **Headstarter** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern, Agents & FE_
-- **Jellyfishcareers** - 1 role(s), latest 2026-11-12 - _SFMC Developer_
-- **Joinpogo** - 1 role(s), latest 2026-11-11 - _Full Stack Engineer_
-- **Kroo** - 1 role(s), latest 2026-11-11 - _Kroo_
-- **Mason** - 1 role(s), 1 intern, latest 2026-11-10 - _AI Engineer Intern_
-- **Morgan Stanley** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Co-op, Parametric_
-- **Oxman** - 1 role(s), latest 2026-11-13 - _Senior Full-Stack Software Engineer_
-- **Podium Automation** - 1 role(s), latest 2026-11-12 - _Senior Software Engineer_
-- **Rallyuxr** - 1 role(s), latest 2026-11-09 - _Senior Platform Engineer_
-- **Rectangle Health** - 1 role(s), latest 2026-11-11 - _Junior Power BI Developer_
-- **Savvy** - 1 role(s), latest 2026-11-13 - _Senior Developer Experience Engineer_
-- **Zingage** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Co-op_
+- **Atlas** - 1 role(s), latest 2026-11-18 - _Software Engineer _
+- **Barry's** - 1 role(s), 1 intern, latest 2026-11-19 - _Undergraduate Summer Scholar Intern - Data Analyst_
+- **CAIS** - 1 role(s), latest 2026-11-19 - _Applied AI Engineer_
+- **Clark** - 1 role(s), latest 2026-11-23 - _Forward Deployed Engineer_
+- **Forbes** - 1 role(s), latest 2026-11-19 - _Director, Programming_
+- **Glide** - 1 role(s), latest 2026-11-23 - _Senior Software Engineer - Fullstack_
+- **Hanover Park** - 1 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Harry's** - 1 role(s), latest 2026-11-18 - _Senior Software Engineer, DTC_
+- **Human** - 1 role(s), latest 2026-11-19 - _Senior Research Scientist, Detection Automation_
+- **Industrious** - 1 role(s), latest 2026-11-18 - _Senior Backend Engineer_
+- **KBRA** - 1 role(s), latest 2026-11-18 - _Senior Director of AI (NY)_
+- **Koahlabs** - 1 role(s), latest 2026-11-18 - _Developer Growth_
+- **Linqapp** - 1 role(s), latest 2026-11-18 - _Forward Deployed Engineer_
+- **Public** - 1 role(s), latest 2026-11-17 - _Sr Analytics Engineer_
+- **River** - 1 role(s), latest 2026-11-17 - _Staff Platform Engineer_
+- **Stepful** - 1 role(s), latest 2026-11-17 - _Curriculum Developer (Practical Nursing Program, Ohio)_
+- **System** - 1 role(s), latest 2026-11-18 - _Senior Research Engineer, AI Evaluation_
+- **Triple Whale** - 1 role(s), latest 2026-11-16 - _Senior Cloud/Backend Engineer_
+- **Usekernel** - 1 role(s), latest 2026-11-19 - _Security Software Engineer_
+- **VanEck** - 1 role(s), 1 intern, latest 2026-11-20 - _Business Intelligence Intern_
+- **WITHIN** - 1 role(s), latest 2026-11-17 - _AI Search (AEO & GEO) Associate Director_
 
-### Chicago (40)
-- **Stripe** - 49 role(s), 6 intern, latest 2026-11-13 - _AI Engineer_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Samsara** - 28 role(s), 3 intern, latest 2026-11-14 - _Data Engineer_
-- **Ramp** - 25 role(s), 9 intern, latest 2026-11-13 - _Senior Engineer, Backend, Vendor Management_
-- **Roku** - 24 role(s), 3 intern, latest 2026-11-16 - _AI Engineering Internship Program (Summer 2027)_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Motorola** - 16 role(s), 16 intern, latest 2026-11-11 - _Android Application Developer Intern - Summer 2027_
-- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Chime Financial, Inc** - 13 role(s), latest 2026-11-13 - _Director, Data Engineering_
-- **Wex** - 12 role(s), 12 intern, latest 2026-11-09 - _Artificial Intelligence Intern - AI/ML/NLP Engineer_
-- **EvolutionIQ** - 11 role(s), latest 2026-11-13 - _AI Engineer (CCC Auto / Agentic)_
-- **Compeer Financial** - 8 role(s), 2 intern, latest 2026-11-10 - _Principal AI Platform Engineer_
-- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
-- **The Federal Reserve System** - 7 role(s), 7 intern, latest 2026-11-09 - _Computer Science and Software Engineering Intern_
-- **Assurant** - 6 role(s), 5 intern, latest 2026-11-13 - _Senior Insights Analyst - Data Analytics_
-- **Livekit** - 6 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
-- **Opengov** - 6 role(s), 3 intern, latest 2026-11-12 - _Sr Software Engineer - Full Stack_
-- **Wonder** - 6 role(s), latest 2026-11-13 - _Infrastructure Engineer, Enterprise AI_
-- **84.51° ** - 5 role(s), latest 2026-11-13 - _Lead AI/ML Engineer (P4363)_
-- **Camping World** - 5 role(s), 5 intern, latest 2026-11-13 - _Software Engineer Intern_
-- **Dev Technology** - 5 role(s), latest 2026-11-16 - _Mid-Level .NET/Azure Application Developer_
-- **McDonald's** - 5 role(s), 5 intern, latest 2026-11-10 - _Software Development Engineer Intern_
-- **Motorola Solutions** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineering Co-op_
-- **New Leaf Energy, Inc.** - 5 role(s), latest 2026-11-12 - _Associate Project Developer, Mid-Atlantic_
-- **Rb** - 5 role(s), 3 intern, latest 2026-11-13 - _Summer 2027 Intern-Data Science and Business Analytics_
-- **Plenful** - 4 role(s), latest 2026-11-12 - _Senior Full-Stack Engineer_
-- **Cboe Global Markets** - 3 role(s), 3 intern, latest 2026-11-12 - _Software Engineer Intern, C++_
-- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Site Reliability Engineering_
-- **The Trade Desk** - 3 role(s), latest 2026-11-12 - _Oracle ERP Technical Developer_
-- **HUB International** - 2 role(s), 2 intern, latest 2026-11-11 - _AI Engineer Intern_
-- **Spoton** - 2 role(s), latest 2026-11-10 - _Platform Engineering Manager_
-- **Chowbus** - 1 role(s), latest 2026-11-10 - _Full Stack Engineer, GTM Systems (Built with and powered by AI)_
-- **Echo** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **Epsilon** - 1 role(s), latest 2026-11-10 - _Epsilon |Hybrid (Chicago, IL)_
-- **Optimal Market Technologies, LLC** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer_
-- **Project44** - 1 role(s), latest 2026-11-16 - _Senior Forward Deployed Engineer- LSP_
-- **Rewards Network** - 1 role(s), latest 2026-11-11 - _Front End Engineer (Hybrid)_
-- **SemiAnalysis** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Engineer Intern_
+### Chicago (38)
+- **Braze** - 45 role(s), 2 intern, latest 2026-11-20 - _AI Architect_
+- **Stripe** - 37 role(s), 6 intern, latest 2026-11-23 - _AI Engineer_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Comcast** - 29 role(s), latest 2026-11-23 - _Senior Manager, Software Engineering ( Chicago - Hybrid) - FreeWheel_
+- **Ramp** - 28 role(s), 9 intern, latest 2026-11-23 - _Senior Engineer, Backend, Vendor Management_
+- **DocuSign** - 25 role(s), 25 intern, latest 2026-11-19 - _Software Engineer Intern - Self-Service Directory Diagnostics_
+- **Roku** - 25 role(s), 3 intern, latest 2026-11-20 - _AI Engineering Internship Program (Summer 2027)_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **C3 AI** - 14 role(s), 4 intern, latest 2026-11-19 - _Associate Site Reliability Engineer/Site Reliability Engineer_
+- **The Trade Desk** - 13 role(s), latest 2026-11-23 - _Front-End Engineer II - Reporting_
+- **Constellation Brands** - 11 role(s), 11 intern, latest 2026-11-20 - _AI Enablement Intern_
+- **Expedia** - 11 role(s), latest 2026-11-20 - _Principal Data & AI Engineer, Reporting and Insights_
+- **Constellation Energy** - 10 role(s), 10 intern, latest 2026-11-20 - _Information Technology Software Development Intern_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Fin** - 7 role(s), latest 2026-11-20 - _Forward Deployed Engineer_
+- **Motorola Solutions** - 7 role(s), 7 intern, latest 2026-11-23 - _Software Engineering Co-op_
+- **Publicis Groupe** - 7 role(s), 7 intern, latest 2026-11-17 - _Software Engineer Intern_
+- **84.51° ** - 6 role(s), latest 2026-11-18 - _Lead AI/ML Engineer (P4363)_
+- **Camping World** - 6 role(s), 6 intern, latest 2026-11-18 - _Software Engineer Intern_
+- **Attain** - 5 role(s), latest 2026-11-19 - _Senior Machine Learning Engineer_
+- **HERE Technologies** - 5 role(s), 5 intern, latest 2026-11-19 - _Data Science Intern_
+- **Plenful** - 5 role(s), latest 2026-11-19 - _Senior Full-Stack Engineer_
+- **Calamos Investments** - 4 role(s), 4 intern, latest 2026-11-21 - _Data Engineer Intern_
+- **Dev Technology** - 4 role(s), latest 2026-11-16 - _Mid-Level .NET/Azure Application Developer_
+- **Fictiv** - 4 role(s), latest 2026-11-17 - _Senior AI Growth Engineer _
+- **Qube Research & Technologies** - 4 role(s), latest 2026-11-23 - _C++ Software Engineer - Core Trading Technology_
+- **ARCO Companies** - 3 role(s), latest 2026-11-18 - _AI Solutions Analyst _
+- **CME Group** - 3 role(s), 2 intern, latest 2026-11-18 - _Software Engineering Intern - Summer 2027_
+- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Automation Site Reliability Engineering_
+- **Mars** - 3 role(s), latest 2026-11-23 - _Sr Manager Growth AI Transformation_
+- **Mesirow** - 3 role(s), 3 intern, latest 2026-11-21 - _Software Developer Intern - IT_
+- **Motorolasolutions** - 3 role(s), 3 intern, latest 2026-11-17 - _Software Presales Enablement Intern - Summer Internship 2027_
+- **FeverUp** - 2 role(s), latest 2026-11-17 - _AI Search Innovation Lead - Madrid based_
+- **TransUnion** - 2 role(s), 2 intern, latest 2026-11-20 - _Data Science and Analytics Intern_
+- **FourKites** - 1 role(s), latest 2026-11-23 - _Cloud Alliances Manager_
+- **Project44** - 1 role(s), latest 2026-11-23 - _Senior Forward Deployed Engineer_
 
-### Texas (79)
-- **SpaceX** - 228 role(s), latest 2026-11-16 - _Aerospace Software Engineer (Starfall)_
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Accenture Federal Services** - 185 role(s), latest 2026-11-16 - _AI Advisor _
-- **Tesla** - 134 role(s), 134 intern, latest 2026-11-13 - _Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027_
-- **L3Harris Technologies** - 110 role(s), 110 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Cloudflare** - 62 role(s), 6 intern, latest 2026-11-16 - _Customer Engineer AI/ Start Up's_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Zscaler** - 45 role(s), latest 2026-11-12 - _AI Enablement Architect _
-- **CACI** - 40 role(s), 40 intern, latest 2026-11-12 - _Software Developer/Data Scientist Intern - Summer 2027_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
-- **T-Mobile** - 38 role(s), 38 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **PlayStation Global** - 36 role(s), latest 2026-11-13 - _Animation Tools Programmer_
-- **SpaceXSI** - 35 role(s), 2 intern, latest 2026-11-16 - _AI Tutor, Amharic - Temporary_
-- **Micron Technology** - 33 role(s), 33 intern, latest 2026-11-16 - _Technical Customer Management Intern - AI_
-- **Sprinter Health** - 33 role(s), latest 2026-11-10 - _Data Analyst - Billing Systems_
-- **Perplexity** - 29 role(s), latest 2026-11-16 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
-- **Samsara** - 28 role(s), 3 intern, latest 2026-11-14 - _Data Engineer_
-- **Natera** - 27 role(s), 1 intern, latest 2026-11-13 - _Director of Bioinformatics and Machine Learning_
-- **Lucid Motors** - 26 role(s), latest 2026-11-14 - _CMM Programmer_
-- **Roku** - 24 role(s), 3 intern, latest 2026-11-16 - _AI Engineering Internship Program (Summer 2027)_
-- **1Password** - 23 role(s), 15 intern, latest 2026-11-11 - _Senior Staff Cloud Platform Engineer_
-- **Base Power** - 20 role(s), 3 intern, latest 2026-11-16 - _Embedded Software Engineer_
-- **Anavationllc** - 19 role(s), 2 intern, latest 2026-11-09 - _AI Engineer SME_
-- **ASML** - 19 role(s), 19 intern, latest 2026-11-13 - _Frontend Developer Intern_
-- **Cisco** - 19 role(s), 19 intern, latest 2026-11-11 - _Machine Learning Engineer 2 Intern_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
-- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
-- **Applied Materials** - 14 role(s), 14 intern, latest 2026-11-10 - _Data Analyst Intern - Global Technical Learning Center_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Turing** - 14 role(s), latest 2026-11-11 - _Account Director, Enterprise AI - Consumer Packaged Goods_
-- **Defense Unicorns** - 13 role(s), latest 2026-11-10 - _Data & AI Engineer (Agentic Systems)_
-- **Samsung** - 13 role(s), 13 intern, latest 2026-11-13 - _Power-Thermal Simulation Software Engineer Intern_
-- **Tenstorrent** - 13 role(s), 6 intern, latest 2026-11-12 - _Datacenter & Agentic AI Workload Performance Analysis Engineer_
-- **Trace3** - 13 role(s), 3 intern, latest 2026-11-14 - _Architect_
-- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
-- **Wex** - 12 role(s), 12 intern, latest 2026-11-09 - _Artificial Intelligence Intern - AI/ML/NLP Engineer_
-- **GlobalFoundries** - 10 role(s), 10 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Samsung Research America** - 9 role(s), 3 intern, latest 2026-11-11 - _Android Systems Security Engineer _
-- **Tamus** - 9 role(s), latest 2026-11-11 - _Assistant Professor of Petroleum Engineering (Artificial Intelligence)_
-- **Bot Auto** - 8 role(s), 1 intern, latest 2026-11-10 - _Onboard Infrastructure Engineer_
-- **CLEAR - Corporate** - 8 role(s), latest 2026-11-13 - _Director of Product, Mobile_
-- **Cox** - 7 role(s), 5 intern, latest 2026-11-16 - _Entry Level Software Engineer - Atlanta, GA_
-- **Harmattan Ai** - 7 role(s), latest 2026-11-10 - _Deployment Lead - Software Platform Morocco_
-- **Jabil** - 7 role(s), 7 intern, latest 2026-11-12 - _Supply Chain Data Analyst Intern_
-- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
-- **The Federal Reserve System** - 7 role(s), 7 intern, latest 2026-11-09 - _Computer Science and Software Engineering Intern_
-- **Usaa** - 7 role(s), 2 intern, latest 2026-11-13 - _Senior IT Change Coordinator - Cloud and DevOps_
-- **Webai** - 7 role(s), latest 2026-11-10 - _Director of Applied AI_
-- **7-Eleven** - 6 role(s), 6 intern, latest 2026-11-09 - _AI Engineer Intern_
-- **CesiumAstro** - 6 role(s), 6 intern, latest 2026-11-09 - _Software Engineering Intern - Advanced Projects Group_
-- **Livekit** - 6 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
-- **Motive** - 5 role(s), latest 2026-11-13 - _Business Intelligence Analyst II_
+### Texas (101)
+- **SpaceX** - 220 role(s), latest 2026-11-20 - _Aerospace Software Engineer (Starfall)_
+- **Accenture Federal Services** - 193 role(s), latest 2026-11-23 - _AI Advisor _
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **Tesla** - 134 role(s), 134 intern, latest 2026-11-20 - _AI Hardware Physical Design Engineer Intern - AI Hardware_
+- **Cloudflare** - 70 role(s), 5 intern, latest 2026-11-23 - _Customer Engineer AI/ Start Up's_
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **KLA Corporation** - 54 role(s), 54 intern, latest 2026-11-18 - _Software Engineering Intern - C++ - Unix_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Zscaler** - 50 role(s), latest 2026-11-20 - _AI Enablement Architect _
+- **Caci** - 47 role(s), 41 intern, latest 2026-11-23 - _Full-Stack Web Applications Developer_
+- **Braze** - 45 role(s), 2 intern, latest 2026-11-20 - _AI Architect_
+- **Lucid Motors** - 42 role(s), 15 intern, latest 2026-11-20 - _CMM Programmer_
+- **SpaceXSI** - 42 role(s), 2 intern, latest 2026-11-18 - _AI Tutor, Amharic - Temporary_
+- **T-Mobile** - 39 role(s), 39 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **PlayStation Global** - 36 role(s), latest 2026-11-18 - _Animation Tools Programmer_
+- **Micron Technology** - 34 role(s), 34 intern, latest 2026-11-23 - _Technical Customer Management Intern - AI_
+- **Nvidia** - 34 role(s), 34 intern, latest 2026-11-23 - _Software Engineering Intern_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **Cisco** - 31 role(s), 22 intern, latest 2026-11-23 - _Software Technical Leader (Remote)_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Intel** - 29 role(s), 29 intern, latest 2026-11-18 - _Software Engineering - PhD Intern_
+- **Perplexity** - 27 role(s), latest 2026-11-19 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
+- **DigitalOcean** - 26 role(s), latest 2026-11-20 - _Director of Research, Agentic AI_
+- **Natera** - 26 role(s), 1 intern, latest 2026-11-23 - _Director of Bioinformatics and Machine Learning_
+- **Toshiba Global Commerce Solutions - External** - 26 role(s), 1 intern, latest 2026-11-18 - _AI Data Science & Business Analytics Intern_
+- **Roku** - 25 role(s), 3 intern, latest 2026-11-20 - _AI Engineering Internship Program (Summer 2027)_
+- **1Password** - 24 role(s), 15 intern, latest 2026-11-19 - _Senior Staff Cloud Platform Engineer_
+- **Asml** - 24 role(s), 21 intern, latest 2026-11-23 - _Internship-Data & AI, Controls_
+- **Emerson Electric** - 24 role(s), 24 intern, latest 2026-11-17 - _Data Analytics Intern_
+- **Plaid** - 23 role(s), latest 2026-11-20 - _Senior Analytics Engineer_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Symbotic** - 22 role(s), 9 intern, latest 2026-11-20 - _Intern- Software Engineer, Front-End_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Ghr** - 20 role(s), latest 2026-11-23 - _Infrastructure Engineer Lead_
+- **Samsung** - 17 role(s), 17 intern, latest 2026-11-18 - _Power-Thermal Simulation Software Engineer Intern_
+- **Marvell** - 16 role(s), 16 intern, latest 2026-11-17 - _Firmware Engineer Intern_
+- **Graphcore** - 15 role(s), 4 intern, latest 2026-11-18 - _AI Platform Architect_
+- **Saronic** - 15 role(s), 6 intern, latest 2026-11-20 - _Full Stack Engineer_
+- **Two Six Technologies** - 15 role(s), 2 intern, latest 2026-11-20 - _Lead DevOps Engineer_
+- **Defense Unicorns** - 14 role(s), latest 2026-11-16 - _Agentic AI Engineer_
+- **GM financial** - 13 role(s), 13 intern, latest 2026-11-17 - _Data Science Intern_
+- **Lutron** - 13 role(s), 13 intern, latest 2026-11-19 - _Embedded Firmware Engineering Intern_
+- **Maintainx** - 13 role(s), latest 2026-11-19 - _Full-Stack Developer - IAM_
+- **Schonfeld ** - 13 role(s), 7 intern, latest 2026-11-16 - _2027 Platform Engineering Intern_
+- **TEGNA Inc.** - 13 role(s), latest 2026-11-17 - _Cloud Team Lead_
+- **Tenstorrent** - 13 role(s), 6 intern, latest 2026-11-20 - _Datacenter & Agentic AI Workload Performance Optimization Engineer_
+- **Base Power** - 12 role(s), 2 intern, latest 2026-11-23 - _Embedded Software Engineering Intern_
+- **Gallatin** - 12 role(s), latest 2026-11-20 - _Machine Learning Operations (MLOps) Engineer_
+- **Jabil** - 12 role(s), 10 intern, latest 2026-11-23 - _IT Programmer Analyst Intern_
+- **Trace3** - 12 role(s), 3 intern, latest 2026-11-23 - _Architect_
+- **Expedia** - 11 role(s), latest 2026-11-20 - _Principal Data & AI Engineer, Reporting and Insights_
+- **GlobalFoundries** - 11 role(s), 11 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Texas Instruments** - 11 role(s), 11 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Tripledot Studios** - 11 role(s), latest 2026-11-23 - _AI Game Creator (R&D)_
+- **Cadence Design Systems** - 10 role(s), 10 intern, latest 2026-11-19 - _Software Engineering Intern_
+- **Constellation Energy** - 10 role(s), 10 intern, latest 2026-11-20 - _Information Technology Software Development Intern_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Torc Robotics** - 10 role(s), latest 2026-11-19 - _Autonomy Software Integration Engineer II_
+- **Bot Auto** - 9 role(s), 1 intern, latest 2026-11-21 - _Onboard Infrastructure Engineer_
+- **Integra FEC** - 9 role(s), 8 intern, latest 2026-11-18 - _Junior Data Scientist_
+- **Hopper** - 8 role(s), latest 2026-11-19 - _Senior Data Scientist- Travel Tech _
+- **Megazone** - 8 role(s), 1 intern, latest 2026-11-23 - _Sr. Data Engineer_
+- **CesiumAstro** - 7 role(s), 7 intern, latest 2026-11-23 - _Software Engineering Intern - Advanced Projects Group_
+- **G2** - 7 role(s), 1 intern, latest 2026-11-20 - _Software Engineering Director, Agentic Evaluations_
+- **Publicis Groupe** - 7 role(s), 7 intern, latest 2026-11-17 - _Software Engineer Intern_
+- **Webai** - 7 role(s), latest 2026-11-23 - _Director of Applied AI_
+- **Lincoln Property Company** - 6 role(s), latest 2026-11-21 - _AI Solutions ANalyst_
+- **Cirrus Logic** - 5 role(s), 5 intern, latest 2026-11-18 - _Embedded Firmware Engineer Intern_
+- **Exowatt** - 5 role(s), 4 intern, latest 2026-11-23 - _Robotics & Physical AI Spring Intern (Miami)_
+- **Five9** - 5 role(s), latest 2026-11-20 - _Senior Director, GTM Data Engineering _
+- **ICON** - 5 role(s), latest 2026-11-23 - _Manager, Robotics Software_
+- **Noda Ai** - 5 role(s), latest 2026-11-17 - _AI/ML Engineer_
+- **onX** - 5 role(s), latest 2026-11-20 - _Backend Engineer  III - Identity & Access Management_
+- **Samsung Research America Internship** - 5 role(s), 4 intern, latest 2026-11-23 - _2027 Health AI Scholar, Digital Health Algorithms Team_
 - **Self Financial** - 5 role(s), latest 2026-11-16 - _Associate Software Engineer_
-- **Apache Industrial** - 4 role(s), 4 intern, latest 2026-11-09 - _AI Implementation Intern_
-- **Cirrus Logic** - 4 role(s), 4 intern, latest 2026-11-09 - _Embedded Firmware Engineer Intern_
-- **Conga** - 4 role(s), latest 2026-11-08 - _Principal Software Engineer_
+- **Shield** - 5 role(s), 5 intern, latest 2026-11-23 - _Embedded Firmware Intern_
+- **Auctane ** - 4 role(s), 1 intern, latest 2026-11-20 - _Associate Software Engineer - internship_
+- **Avride** - 4 role(s), latest 2026-11-20 - _Labeling Backend Software Engineer_
+- **Birdseye Security Solutions** - 4 role(s), 4 intern, latest 2026-11-17 - _AI Systems Intern_
+- **ManTech** - 4 role(s), 4 intern, latest 2026-11-23 - _AI Workflow Intern_
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
-- **Cook Systems** - 3 role(s), latest 2026-11-09 - _Data Analytics - Data Scientist_
-- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Site Reliability Engineering_
-- **Ericsson** - 3 role(s), 3 intern, latest 2026-11-14 - _AI and Automation Engineer Intern_
-- **Persona AI** - 3 role(s), 3 intern, latest 2026-11-09 - _Robotics Software Intern - Manipulation_
-- **Arista Networks** - 2 role(s), 2 intern, latest 2026-11-10 - _Data Analytics Intern_
-- **Betterup** - 2 role(s), latest 2026-11-13 - _Senior Analytics Engineer_
-- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
-- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
-- **FieldPulse** - 2 role(s), 2 intern, latest 2026-11-13 - _AI Intern_
-- **Hunt Oil Company** - 2 role(s), 2 intern, latest 2026-11-10 - _Application Developer Intern_
-- **Sustainment** - 2 role(s), latest 2026-11-13 - _Software Engineer_
-- **Career Team** - 1 role(s), latest 2026-11-13 - _Job Developer - Youth_
-- **Carmax** - 1 role(s), latest 2026-11-16 - _Principal Engineer, Cloud_
-- **Cigna** - 1 role(s), 1 intern, latest 2026-11-12 - _Software Engineering Intern_
+- **Assetmark** - 3 role(s), latest 2026-11-19 - _Front-End Developer_
+- **Betterup** - 3 role(s), latest 2026-11-19 - _Senior Analytics Engineer_
+- **Cognite - AI for Industry** - 3 role(s), latest 2026-11-18 - _AI Solutions Engineer_
+- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Automation Site Reliability Engineering_
+- **Renesas Electronics** - 3 role(s), 3 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **2K** - 2 role(s), latest 2026-11-18 - _Senior AI Tools Engineer_
+- **Bread Financial** - 2 role(s), 2 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **EP Wealth Advisors** - 2 role(s), 2 intern, latest 2026-11-20 - _Data AI Engineer Intern_
+- **Halcyon** - 2 role(s), latest 2026-11-21 - _Senior Backend Cloud Engineer_
+- **Koddi** - 2 role(s), latest 2026-11-23 - _Associate Platform Engineer_
+- **NOV** - 2 role(s), 2 intern, latest 2026-11-20 - _Software Engineer Intern - Rig Technologies_
+- **OpenTeams** - 2 role(s), latest 2026-11-18 - _Forward Deployed Engineer, AI/ML Infrastructure_
+- **Allied Consultants** - 1 role(s), 1 intern, latest 2026-11-19 - _AI/ML Engineer Intern_
+- **Arva Intelligence** - 1 role(s), latest 2026-11-19 - _Junior DevOps Engineer_
+- **Four Hands** - 1 role(s), latest 2026-11-20 - _Product Developer, Dining_
+- **Invitation Homes** - 1 role(s), 1 intern, latest 2026-11-17 - _Software Engineer Intern_
+- **Semperis** - 1 role(s), latest 2026-11-23 - _Senior DevOps Engineer_
 - **SoFi Tech Solutions** - 1 role(s), latest 2026-11-16 - _Software Technical Analyst_
+- **Terrafirma Inc** - 1 role(s), latest 2026-11-17 - _Full-Stack Software Engineer_
+- **Vibrantz Technologies** - 1 role(s), 1 intern, latest 2026-11-18 - _Applied AI & Automation Intern_
 
-### Boston (69)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Meta** - 111 role(s), 110 intern, latest 2026-11-13 - _Research Scientist Intern - Multiple Teams_
-- **Anthropic** - 89 role(s), latest 2026-11-13 - _AI Outcomes Manager, Enterprise Tech_
-- **Snowflake** - 75 role(s), 3 intern, latest 2026-11-16 - _Staff Software Engineer - Compiler & Spark Runtime _
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Zoox** - 61 role(s), 17 intern, latest 2026-11-13 - _Automation Engineer - Compute Software Performance_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **Microsoft** - 48 role(s), 47 intern, latest 2026-11-13 - _AI Software Engineer Intern_
-- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
+### Boston (74)
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **Meta** - 116 role(s), 115 intern, latest 2026-11-19 - _Research Scientist Intern - Robotics_
+- **Anthropic** - 84 role(s), latest 2026-11-23 - _AI Outcomes Manager, Enterprise Tech_
+- **Zoox** - 61 role(s), 17 intern, latest 2026-11-18 - _Automation Engineer - Compute Software Performance_
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
 - **Boston Scientific** - 39 role(s), 39 intern, latest 2026-11-16 - _Research Data Science Intern - Active Implantable Systems_
-- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
-- **Lila Sciences** - 29 role(s), 5 intern, latest 2026-11-10 - _Associate Director/Director, Frontier and AI Product Counsel_
-- **Klaviyo** - 28 role(s), 9 intern, latest 2026-11-12 - _Engineering Manager, Amplify Engineering & AI Agents_
-- **Ramp** - 25 role(s), 9 intern, latest 2026-11-13 - _Senior Engineer, Backend, Vendor Management_
-- **Roku** - 24 role(s), 3 intern, latest 2026-11-16 - _AI Engineering Internship Program (Summer 2027)_
-- **Wk** - 24 role(s), latest 2026-11-16 - _Clinical AI Strategist - Pharmacist_
-- **Flagship Pioneering, Inc.** - 23 role(s), 10 intern, latest 2026-11-10 - _Director, Health Data Science_
-- **Axon** - 22 role(s), 4 intern, latest 2026-11-11 - _CMM Programmer (Onsite)_
-- **Toast** - 20 role(s), latest 2026-11-14 - _Manager, Software Engineering_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Cohere** - 16 role(s), latest 2026-11-16 - _Senior Full-Stack Engineer, Annotation Platform _
-- **Elevenlabs** - 16 role(s), latest 2026-11-09 - _Full-Stack Engineer (Backend Leaning)_
-- **Kayak** - 16 role(s), latest 2026-11-12 - _Senior JAVA Software Engineer, Ads_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Tenstorrent** - 13 role(s), 6 intern, latest 2026-11-12 - _Datacenter & Agentic AI Workload Performance Analysis Engineer_
-- **Tri** - 13 role(s), 10 intern, latest 2026-11-16 - _Accelerated Science Intern, Machine Learning/Agentic AI_
-- **Formlabs** - 12 role(s), 6 intern, latest 2026-11-11 - _2027 (Summer) - Manufacturing - Manufacturing Test Software Intern_
-- **Wex** - 12 role(s), 12 intern, latest 2026-11-09 - _Artificial Intelligence Intern - AI/ML/NLP Engineer_
-- **Whoop** - 12 role(s), 1 intern, latest 2026-11-16 - _Staff Android Engineer, Connectivity _
-- **Aerovect** - 11 role(s), latest 2026-11-16 - _Senior Software Engineer, Behavior Planning_
-- **Toyota Research Institute** - 10 role(s), 10 intern, latest 2026-11-11 - _Human-Centered AI Research Intern - Causal Reasoning Models_
-- **Apple** - 9 role(s), 9 intern, latest 2026-11-12 - _SoC Machine Learning Software Engineer Intern_
-- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Simspace Corporation** - 9 role(s), latest 2026-11-13 - _Senior Software Engineer, Backend_
-- **Telus Digital** - 8 role(s), 2 intern, latest 2026-11-11 - _Infrastructure DevOps_
-- **Lightmatter** - 7 role(s), 5 intern, latest 2026-11-12 - _Data & AI Platform, Intern - Summer 2027_
-- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
-- **PathAI** - 7 role(s), 1 intern, latest 2026-11-09 - _Associate Director, MLOps Engineering_
-- **Spotify** - 7 role(s), latest 2026-11-09 - _Data Scientist - Music Promotion_
-- **CarGurus** - 6 role(s), 6 intern, latest 2026-11-11 - _Software Development Engineer Intern, Full Stack_
-- **Liquid Ai** - 6 role(s), latest 2026-11-11 - _Member of Technical Staff - Applied ML, RecSys_
-- **Opengov** - 6 role(s), 3 intern, latest 2026-11-12 - _Sr Software Engineer - Full Stack_
-- **Percepta** - 6 role(s), latest 2026-11-09 - _Research Scientist – Reinforcement Learning (RL)_
-- **Ptc** - 6 role(s), 6 intern, latest 2026-11-14 - _Onshape Software Engineer Intern (Summer 2027)_
-- **First Resonance** - 5 role(s), latest 2026-11-16 - _Forward Deployed Software Engineer (New England Area)_
-- **mthree Recruiting Portal** - 5 role(s), latest 2026-11-12 - _DevOps Engineer/ Production Support Analyst_
-- **New Leaf Energy, Inc.** - 5 role(s), latest 2026-11-12 - _Associate Project Developer, Mid-Atlantic_
-- **Analog Devices** - 4 role(s), 4 intern, latest 2026-11-09 - _AI/ML Engineer Intern_
-- **Blitzy** - 4 role(s), latest 2026-11-12 - _Principal Software Engineer_
-- **Conga** - 4 role(s), latest 2026-11-08 - _Principal Software Engineer_
-- **Forward%20Financing** - 4 role(s), latest 2026-11-13 - _Principal Software Engineer_
-- **Manulife Financial** - 4 role(s), 4 intern, latest 2026-11-13 - _Software Engineering Intern_
+- **Nvidia** - 34 role(s), 34 intern, latest 2026-11-23 - _Software Engineering Intern_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Lila Sciences** - 29 role(s), 5 intern, latest 2026-11-19 - _Associate Director/Director, Frontier and AI Product Counsel_
+- **Ramp** - 28 role(s), 9 intern, latest 2026-11-23 - _Senior Engineer, Backend, Vendor Management_
+- **DigitalOcean** - 26 role(s), latest 2026-11-20 - _Director of Research, Agentic AI_
+- **Flagship Pioneering, Inc.** - 25 role(s), 10 intern, latest 2026-11-20 - _Director, Health Data Science_
+- **Roku** - 25 role(s), 3 intern, latest 2026-11-20 - _AI Engineering Internship Program (Summer 2027)_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Novartis** - 21 role(s), 3 intern, latest 2026-11-19 - _Long Term IT Intern, AI & Power Platform_
+- **Axon** - 20 role(s), 4 intern, latest 2026-11-20 - _CMM Programmer (Onsite)_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Toast** - 20 role(s), latest 2026-11-23 - _Data Engineer_
+- **Cohere** - 18 role(s), latest 2026-11-17 - _Senior Full-Stack Engineer, Annotation Platform _
+- **Formlabs** - 17 role(s), 6 intern, latest 2026-11-19 - _Embedded Software Engineer - Entry Level_
+- **Draper** - 16 role(s), 1 intern, latest 2026-11-23 - _Embedded Software Engineer_
+- **Elevenlabs** - 16 role(s), latest 2026-11-17 - _Full-Stack Engineer (Backend Leaning)_
+- **Graphcore** - 15 role(s), 4 intern, latest 2026-11-18 - _AI Platform Architect_
+- **Simspace Corporation** - 15 role(s), latest 2026-11-18 - _Senior Software Engineer, Backend_
+- **Tri** - 14 role(s), 11 intern, latest 2026-11-18 - _Accelerated Science Intern, Machine Learning/Agentic AI_
+- **Lutron** - 13 role(s), 13 intern, latest 2026-11-19 - _Embedded Firmware Engineering Intern_
+- **Tenstorrent** - 13 role(s), 6 intern, latest 2026-11-20 - _Datacenter & Agentic AI Workload Performance Optimization Engineer_
+- **Whoop** - 13 role(s), 1 intern, latest 2026-11-17 - _Software Engineering Manager, Business Systems_
+- **Toyota Research Institute** - 12 role(s), 12 intern, latest 2026-11-19 - _Human-Centered AI Research Intern - Causal Reasoning Models_
+- **Vrtx** - 12 role(s), 2 intern, latest 2026-11-17 - _Summer Intern 2027, OSD Process Data Analytics_
+- **Suno** - 11 role(s), latest 2026-11-20 - _Senior / Staff Software Engineer, AI Leverage_
+- **Apple** - 10 role(s), 10 intern, latest 2026-11-20 - _SoC Machine Learning Software Engineer Intern_
+- **Cadence Design Systems** - 10 role(s), 10 intern, latest 2026-11-19 - _Software Engineering Intern_
+- **Edison%20Scientific** - 10 role(s), latest 2026-11-17 - _Member of Technical Staff, Principal AI Infrastructure Engineer_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Aerovect** - 9 role(s), latest 2026-11-18 - _Staff Software Engineer, Localization_
+- **Athenahealth** - 9 role(s), latest 2026-11-23 - _Lead Data Engineer_
+- **Code Metal** - 9 role(s), latest 2026-11-19 - _Lead Backend Engineer (Modeling & Simulation)_
+- **First Resonance** - 9 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Software Engineer (San Francisco)_
+- **Iambic Therapeutics** - 9 role(s), latest 2026-11-18 - _Machine Learning Scientist – Clinical Prediction_
+- **PathAI** - 9 role(s), 1 intern, latest 2026-11-23 - _Associate Director, MLOps Engineering_
+- **ŌURA** - 9 role(s), latest 2026-11-17 - _AI Security Engineer, Detection and Response_
+- **Cartesian Systems** - 8 role(s), 3 intern, latest 2026-11-20 - _Applied ML/CS PhD Internship (6+ months)_
+- **Hopper** - 8 role(s), latest 2026-11-19 - _Senior Data Scientist- Travel Tech _
+- **QuEra Computing, Inc.** - 8 role(s), 1 intern, latest 2026-11-23 - _Internship - Scientific Software and Compilation_
+- **DraftKings** - 7 role(s), 7 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Kayak** - 7 role(s), latest 2026-11-17 - _Senior JAVA Software Engineer, Ads_
+- **Liquid Ai** - 7 role(s), latest 2026-11-19 - _Member of Technical Staff - Applied ML, RecSys_
+- **Publicis Groupe** - 7 role(s), 7 intern, latest 2026-11-17 - _Software Engineer Intern_
+- **Analog Devices** - 6 role(s), 6 intern, latest 2026-11-17 - _AI/ML Engineer Intern_
+- **Pear Vc** - 5 role(s), latest 2026-11-17 - _MassHealth Enrollment Specialist & AI Operations_
+- **PTC** - 5 role(s), 5 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Cadence** - 4 role(s), 4 intern, latest 2026-11-20 - _Intern: Software Engineering Jasper R&D_
+- **Darktrace** - 4 role(s), latest 2026-11-19 - _Senior Software Engineer - Quality & Reliability_
+- **Manulife** - 4 role(s), 2 intern, latest 2026-11-20 - _Spring Co-op 2027 - Software Engineering, Security & Operations_
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
-- **Psi** - 3 role(s), latest 2026-11-11 - _Member of Technical Staff, AI Research_
-- **Sanofi** - 3 role(s), 3 intern, latest 2026-11-11 - _mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op_
+- **Recorded Future** - 4 role(s), latest 2026-11-19 - _Product Support Solutions Developer_
+- **State Street** - 4 role(s), 4 intern, latest 2026-11-22 - _Full Stack Development Intern_
+- **Lovable** - 3 role(s), latest 2026-11-17 - _Staff Software Engineer, Enterprise_
+- **S&P Global** - 3 role(s), 3 intern, latest 2026-11-18 - _Software Engineer Intern - Summer 2027_
+- **Vestmark, Inc.** - 3 role(s), 2 intern, latest 2026-11-17 - _Senior Software Engineer _
+- **AcuityMD** - 2 role(s), latest 2026-11-19 - _Data Engineer_
+- **Allego** - 2 role(s), latest 2026-11-20 - _Cloud Developer _
+- **Beacon Biosignals** - 2 role(s), latest 2026-11-18 - _Senior Mobile App Engineer (React Native)_
 - **Chambercardio** - 2 role(s), latest 2026-11-16 - _Staff Data Engineer_
-- **CMTelematics** - 2 role(s), latest 2026-11-13 - _Senior Site Reliability Engineer, SecOps_
-- **Layer Health** - 2 role(s), latest 2026-11-09 - _Contract Data Scientist (40 hrs/wk)_
+- **Gsk** - 2 role(s), 1 intern, latest 2026-11-23 - _Senior Principal - AI ML and Cloud Security_
+- **Stantec** - 2 role(s), 2 intern, latest 2026-11-23 - _Data Scientist Intern - Water_
 - **Vectra** - 2 role(s), latest 2026-11-16 - _Customer AI & Automation Engineer_
-- **Vertex Pharmaceuticals** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Analytics Intern - OSD Process Data Analytics_
-- **Wolters Kluwer** - 2 role(s), 2 intern, latest 2026-11-12 - _Product Software Engineer Intern_
-- **Asimov** - 1 role(s), latest 2026-11-10 - _Staff Data Engineer, Lab Data Platform _
-- **Babel Street** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer_
 - **Basecamp Research** - 1 role(s), latest 2026-11-16 - _Software Engineer, Science Platform_
-- **Cbai** - 1 role(s), latest 2026-11-13 - _Research Manager, AI Safety_
-- **Rallyuxr** - 1 role(s), latest 2026-11-09 - _Senior Platform Engineer_
+- **Civilgrid** - 1 role(s), latest 2026-11-23 - _Senior/Staff Machine Learning Engineer_
+- **Hiverge** - 1 role(s), latest 2026-11-23 - _Platform Engineer_
+- **Raptor Maps** - 1 role(s), 1 intern, latest 2026-11-17 - _Software Engineer Intern_
 
-### Los Angeles (46)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **SpaceX** - 228 role(s), latest 2026-11-16 - _Aerospace Software Engineer (Starfall)_
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Accenture Federal Services** - 185 role(s), latest 2026-11-16 - _AI Advisor _
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **DoorDash USA** - 44 role(s), 4 intern, latest 2026-11-12 - _Autonomy Platform Engineer_
-- **Pinterest** - 34 role(s), 5 intern, latest 2026-11-10 - _Director, Machine Learning Engineering, Ads Measurement_
+### Los Angeles (50)
+- **SpaceX** - 220 role(s), latest 2026-11-20 - _Aerospace Software Engineer (Starfall)_
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **Accenture Federal Services** - 193 role(s), latest 2026-11-23 - _AI Advisor _
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **DoorDash USA** - 42 role(s), 4 intern, latest 2026-11-18 - _Autonomy Platform Engineer_
+- **Rocket Lab Corporation** - 40 role(s), 1 intern, latest 2026-11-23 - _Flight Software Engineer II_
+- **Pinterest** - 38 role(s), 5 intern, latest 2026-11-19 - _ Data Analytics Engineer II_
+- **Rivian** - 34 role(s), 34 intern, latest 2026-11-20 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
+- **ATOMS Careers page** - 31 role(s), 3 intern, latest 2026-11-19 - _AI Research Intern  (BS/MS)_
 - **CHAOS Industries** - 31 role(s), 1 intern, latest 2026-11-16 - _Applied AI Engineer_
-- **ATOMS Careers page** - 29 role(s), 4 intern, latest 2026-11-12 - _AI Research Intern  (BS/MS)_
-- **Roku** - 24 role(s), 3 intern, latest 2026-11-16 - _AI Engineering Internship Program (Summer 2027)_
-- **Commure** - 23 role(s), 1 intern, latest 2026-11-12 - _Staff Software Engineer, Claims & AI Billing_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Twitch** - 19 role(s), 4 intern, latest 2026-11-13 - _Applied Scientist_
-- **Hadrian Automation** - 18 role(s), 2 intern, latest 2026-11-12 - _All Levels:  Frontend Software Engineer_
-- **Revel** - 17 role(s), 12 intern, latest 2026-11-13 - _Forward Deployed Engineer_
-- **Apex Technology Inc** - 14 role(s), 4 intern, latest 2026-11-10 - _Senior Flight Software Engineer_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Turing** - 14 role(s), latest 2026-11-11 - _Account Director, Enterprise AI - Consumer Packaged Goods_
-- **ZipRecruiter** - 14 role(s), 2 intern, latest 2026-11-09 - _Business Intelligence Engineer II_
-- **Trace3** - 13 role(s), 3 intern, latest 2026-11-14 - _Architect_
-- **FanDuel** - 12 role(s), latest 2026-11-12 - _Analytics Engineer_
-- **Northwoodspace** - 10 role(s), 1 intern, latest 2026-11-12 - _Senior Software Engineer (Prism)_
-- **Voyager Technologies, Inc.** - 10 role(s), 2 intern, latest 2026-11-13 - _2027 Software Engineering Intern _
-- **Crunchyroll, LLC** - 9 role(s), latest 2026-11-16 - _Forward Deployed Engineer, AI Enablement_
-- **K2 Space ** - 9 role(s), 2 intern, latest 2026-11-10 - _Data Engineer_
-- **Metropolis** - 8 role(s), latest 2026-11-16 - _Senior Software Engineer, AI Agentic Platform_
-- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
-- **Varda Space Industries** - 7 role(s), 4 intern, latest 2026-11-13 - _Flight Software Internship - Summer 2027_
-- **Livekit** - 6 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
-- **Quindar** - 6 role(s), latest 2026-11-14 - _Forward Deployed Engineer_
-- **Vital Lyfe** - 6 role(s), 5 intern, latest 2026-11-12 - _Software Engineer, Backend & Data_
-- **First Resonance** - 5 role(s), latest 2026-11-16 - _Forward Deployed Software Engineer (New England Area)_
-- **Riot Games** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Rivet** - 5 role(s), 1 intern, latest 2026-11-10 - _Senior Software Engineer, SLAM/VIO_
-- **AXS** - 4 role(s), latest 2026-11-12 - _Lead Software Engineer - Fullstack _
-- **Nox Metals** - 4 role(s), latest 2026-11-10 - _Machine Learning Engineer_
+- **Roku** - 25 role(s), 3 intern, latest 2026-11-20 - _AI Engineering Internship Program (Summer 2027)_
+- **Commure** - 22 role(s), 1 intern, latest 2026-11-23 - _Staff Software Engineer, Claims & AI Billing_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Twitch** - 17 role(s), 4 intern, latest 2026-11-18 - _Applied Scientist_
+- **Marvell** - 16 role(s), 16 intern, latest 2026-11-17 - _Firmware Engineer Intern_
+- **Apex Technology Inc** - 15 role(s), 4 intern, latest 2026-11-20 - _Senior Flight Software Engineer_
+- **The Trade Desk** - 13 role(s), latest 2026-11-23 - _Front-End Engineer II - Reporting_
+- **Gallatin** - 12 role(s), latest 2026-11-20 - _Machine Learning Operations (MLOps) Engineer_
+- **Trace3** - 12 role(s), 3 intern, latest 2026-11-23 - _Architect_
+- **Hadrian Automation** - 11 role(s), 2 intern, latest 2026-11-18 - _All Levels:  Frontend Software Engineer_
+- **Northwoodspace** - 11 role(s), 1 intern, latest 2026-11-19 - _Senior Software Engineer (Prism)_
+- **Suno** - 11 role(s), latest 2026-11-20 - _Senior / Staff Software Engineer, AI Leverage_
+- **Voyager Technologies, Inc.** - 11 role(s), 2 intern, latest 2026-11-23 - _2027 Software Engineering Intern _
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **First Resonance** - 9 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Software Engineer (San Francisco)_
+- **ŌURA** - 9 role(s), latest 2026-11-17 - _AI Security Engineer, Detection and Response_
+- **Megazone** - 8 role(s), 1 intern, latest 2026-11-23 - _Sr. Data Engineer_
+- **Metropolis** - 8 role(s), latest 2026-11-16 - _Senior Manager, Software Engineering_
+- **Quindar** - 7 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Rivet** - 7 role(s), 1 intern, latest 2026-11-17 - _Senior Software Engineer, SLAM/VIO_
+- **Varda Space Industries** - 7 role(s), 4 intern, latest 2026-11-20 - _Flight Software Internship - Summer 2027_
+- **Vast** - 6 role(s), latest 2026-11-17 - _CNC Programmer_
+- **AEG Worldwide** - 5 role(s), latest 2026-11-19 - _Data Analyst_
+- **Pear Vc** - 5 role(s), latest 2026-11-17 - _MassHealth Enrollment Specialist & AI Operations_
+- **Western Digital** - 5 role(s), 5 intern, latest 2026-11-18 - _Recording Electronics Data Analytics & Optimization Co-op_
+- **Disney** - 4 role(s), 4 intern, latest 2026-11-17 - _Product & Technology Software Engineering Intern_
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **Rainmaker** - 4 role(s), latest 2026-11-16 - _Software Engineer, Product_
-- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
-- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
-- **The Trade Desk** - 3 role(s), latest 2026-11-12 - _Oracle ERP Technical Developer_
-- **AEG Worldwide** - 2 role(s), latest 2026-11-12 - _Lead Software Engineer - Fullstack _
-- **Pragmatike** - 2 role(s), latest 2026-11-12 - _Research Engineer, Synthetic Data (Pacific Time)_
-- **Usc** - 1 role(s), latest 2026-11-16 - _Research Scientist_
+- **Quantum Space** - 4 role(s), latest 2026-11-17 - _EGSE/Avionics Test Software Engineer_
+- **Rainmaker** - 4 role(s), latest 2026-11-23 - _Software Engineer, Product_
+- **Graymatter Robotics** - 3 role(s), 2 intern, latest 2026-11-22 - _AI Research Intern: Foundation Models - IMMEDIATE START_
+- **Tatari** - 3 role(s), latest 2026-11-20 - _Staff Backend Engineer_
+- **Activision Blizzard** - 2 role(s), 2 intern, latest 2026-11-21 - _Software Engineering Intern_
+- **Blizzard Entertainment** - 2 role(s), 2 intern, latest 2026-11-16 - _Applied Science Intern - PhD_
+- **Bridge to Enter Advanced Mathematics (BEAM)** - 2 role(s), latest 2026-11-18 - _Saturday Enrichment Faculty - Programming (Part Time - BEAM Gateway)_
+- **Creatoriq** - 2 role(s), latest 2026-11-20 - _Director of Engineering, Agentic AI and Architecture_
+- **Radiant Industries** - 2 role(s), latest 2026-11-17 - _Senior Software Engineer, Frontend_
+- **Ruggable** - 1 role(s), latest 2026-11-18 - _ Director of Data Engineering_
 
-### San Diego (28)
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Accenture Federal Services** - 185 role(s), latest 2026-11-16 - _AI Advisor _
-- **TikTok** - 122 role(s), 122 intern, latest 2026-11-13 - _Machine Learning MLOps Intern - Global Site Reliability Engineering_
-- **L3Harris Technologies** - 110 role(s), 110 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Zoox** - 61 role(s), 17 intern, latest 2026-11-13 - _Automation Engineer - Compute Software Performance_
-- **ByteDance** - 56 role(s), 56 intern, latest 2026-11-10 - _Immigration Data Analyst Intern - Hrops_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **Leidos** - 37 role(s), 36 intern, latest 2026-11-12 - _Software Engineer Intern - Artificial Intelligence_
-- **PlayStation Global** - 36 role(s), latest 2026-11-13 - _Animation Tools Programmer_
-- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
-- **ASML** - 19 role(s), 19 intern, latest 2026-11-13 - _Frontend Developer Intern_
-- **Cisco** - 19 role(s), 19 intern, latest 2026-11-11 - _Machine Learning Engineer 2 Intern_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Reliable Robotics** - 15 role(s), 3 intern, latest 2026-11-13 - _Sr. Embedded Software Engineer, Radar_
-- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
-- **Vannevar** - 7 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Art of Problem Solving** - 4 role(s), 4 intern, latest 2026-11-10 - _Software Engineer Intern_
+### San Diego (26)
+- **Accenture Federal Services** - 193 role(s), latest 2026-11-23 - _AI Advisor _
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **TikTok** - 112 role(s), 112 intern, latest 2026-11-23 - _AI Infrastructure Engineer Intern - Recommendation & LLM_
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Zoox** - 61 role(s), 17 intern, latest 2026-11-18 - _Automation Engineer - Compute Software Performance_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Leidos** - 38 role(s), 37 intern, latest 2026-11-18 - _Software Engineer Intern - Artificial Intelligence_
+- **Databricks** - 36 role(s), 3 intern, latest 2026-11-21 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
+- **PlayStation Global** - 36 role(s), latest 2026-11-18 - _Animation Tools Programmer_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **Cisco** - 31 role(s), 22 intern, latest 2026-11-23 - _Software Technical Leader (Remote)_
+- **Asml** - 24 role(s), 21 intern, latest 2026-11-23 - _Internship-Data & AI, Controls_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Reliable Robotics** - 17 role(s), 5 intern, latest 2026-11-19 - _Sr. Embedded Software Engineer, Radar_
+- **Saronic** - 15 role(s), 6 intern, latest 2026-11-20 - _Full Stack Engineer_
+- **Vrtx** - 12 role(s), 2 intern, latest 2026-11-17 - _Summer Intern 2027, OSD Process Data Analytics_
+- **Constellation Energy** - 10 role(s), 10 intern, latest 2026-11-20 - _Information Technology Software Development Intern_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Iambic Therapeutics** - 9 role(s), latest 2026-11-18 - _Machine Learning Scientist – Clinical Prediction_
+- **Vannevar** - 8 role(s), latest 2026-11-16 - _DevOps Engineer_
+- **ServiceNow** - 5 role(s), 5 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Shield** - 5 role(s), 5 intern, latest 2026-11-23 - _Embedded Firmware Intern_
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **ServiceNow** - 4 role(s), 4 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Ditto** - 2 role(s), latest 2026-11-12 - _Senior Forward Deployed Engineer - Platform _
-- **E2 Consulting Engineers** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Analyst Intern_
-- **GoFundMe** - 2 role(s), latest 2026-11-09 - _Manager, Machine Learning Engineering_
-- **StepStone Group** - 2 role(s), 2 intern, latest 2026-11-11 - _AI Quant Summer Analyst Intern_
+- **Noctua Technology** - 2 role(s), latest 2026-11-20 - _DevOps Engineer_
+- **Stantec** - 2 role(s), 2 intern, latest 2026-11-23 - _Data Scientist Intern - Water_
+- **TrellisWare Technologies** - 2 role(s), latest 2026-11-23 - _MAC Software Engineer, Narrowband Waveforms_
 
-### Washington DC (79)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **SpaceX** - 228 role(s), latest 2026-11-16 - _Aerospace Software Engineer (Starfall)_
-- **Accenture Federal Services** - 185 role(s), latest 2026-11-16 - _AI Advisor _
-- **Openai** - 129 role(s), 1 intern, latest 2026-11-16 - _Control Systems Software Engineer, Robotics_
-- **Meta** - 111 role(s), 110 intern, latest 2026-11-13 - _Research Scientist Intern - Multiple Teams_
-- **L3Harris Technologies** - 110 role(s), 110 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Anthropic** - 89 role(s), latest 2026-11-13 - _AI Outcomes Manager, Enterprise Tech_
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Stripe** - 49 role(s), 6 intern, latest 2026-11-13 - _AI Engineer_
-- **Microsoft** - 48 role(s), 47 intern, latest 2026-11-13 - _AI Software Engineer Intern_
-- **Applied** - 46 role(s), latest 2026-11-16 - _Software Engineer - Low Speed Motion Planning & Control_
-- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Rocket Lab Corporation** - 41 role(s), 1 intern, latest 2026-11-16 - _Flight Software Engineer _
-- **CACI** - 40 role(s), 40 intern, latest 2026-11-12 - _Software Developer/Data Scientist Intern - Summer 2027_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **Leidos** - 37 role(s), 36 intern, latest 2026-11-12 - _Software Engineer Intern - Artificial Intelligence_
-- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
-- **SpaceXSI** - 35 role(s), 2 intern, latest 2026-11-16 - _AI Tutor, Amharic - Temporary_
-- **Sprinter Health** - 33 role(s), latest 2026-11-10 - _Data Analyst - Billing Systems_
+### Washington DC (82)
+- **SpaceX** - 220 role(s), latest 2026-11-20 - _Aerospace Software Engineer (Starfall)_
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **Accenture Federal Services** - 193 role(s), latest 2026-11-23 - _AI Advisor _
+- **Openai** - 133 role(s), 1 intern, latest 2026-11-22 - _Data Scientist, Integrity_
+- **Meta** - 116 role(s), 115 intern, latest 2026-11-19 - _Research Scientist Intern - Robotics_
+- **Anthropic** - 84 role(s), latest 2026-11-23 - _AI Outcomes Manager, Enterprise Tech_
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Caci** - 47 role(s), 41 intern, latest 2026-11-23 - _Full-Stack Web Applications Developer_
+- **Applied** - 43 role(s), latest 2026-11-20 - _Software Engineer - Low Speed Motion Planning & Control_
+- **Lucid Motors** - 42 role(s), 15 intern, latest 2026-11-20 - _CMM Programmer_
+- **SpaceXSI** - 42 role(s), 2 intern, latest 2026-11-18 - _AI Tutor, Amharic - Temporary_
+- **Rocket Lab Corporation** - 40 role(s), 1 intern, latest 2026-11-23 - _Flight Software Engineer II_
+- **Leidos** - 38 role(s), 37 intern, latest 2026-11-18 - _Software Engineer Intern - Artificial Intelligence_
+- **Stripe** - 37 role(s), 6 intern, latest 2026-11-23 - _AI Engineer_
+- **Databricks** - 36 role(s), 3 intern, latest 2026-11-21 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
 - **CHAOS Industries** - 31 role(s), 1 intern, latest 2026-11-16 - _Applied AI Engineer_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Lucid Motors** - 26 role(s), latest 2026-11-14 - _CMM Programmer_
-- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
-- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
-- **Axon** - 22 role(s), 4 intern, latest 2026-11-11 - _CMM Programmer (Onsite)_
-- **Anavationllc** - 19 role(s), 2 intern, latest 2026-11-09 - _AI Engineer SME_
-- **Clarity Innovations** - 19 role(s), latest 2026-11-13 - _Chief Engineer; Data Engineering _
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
-- **Trm Labs** - 18 role(s), latest 2026-11-13 - _Software Engineer, Backend_
-- **Cohere** - 16 role(s), latest 2026-11-16 - _Senior Full-Stack Engineer, Annotation Platform _
-- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
-- **Redhorsecorp** - 16 role(s), latest 2026-11-12 - _AI/ML Modeling Team Lead_
-- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Twenty** - 14 role(s), latest 2026-11-09 - _Applied AI Engineer_
-- **Red Cell Partners** - 13 role(s), latest 2026-11-10 - _Deputy General Manager, Agentic AI _
-- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
-- **C3 AI** - 11 role(s), 5 intern, latest 2026-11-12 - _Associate Site Reliability Engineer/Site Reliability Engineer_
-- **DigiCert** - 11 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Axle** - 10 role(s), latest 2026-11-13 - _Bioinformatics / Data Scientist_
-- **Northwoodspace** - 10 role(s), 1 intern, latest 2026-11-12 - _Senior Software Engineer (Prism)_
-- **TEGNA Inc.** - 10 role(s), latest 2026-11-16 - _Cloud Team Lead_
-- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Metron** - 9 role(s), latest 2026-11-09 - _Associate Software Engineer_
-- **Socure** - 9 role(s), latest 2026-11-13 - _Staff Backend Graph Engineer_
-- **Fanniemae** - 8 role(s), latest 2026-11-13 - _Software Engineer - Associate (AWS)_
-- **LIGHTFEATHER IO LLC** - 8 role(s), latest 2026-11-10 - _Azure Cloud Security Engineer_
-- **Altana ** - 7 role(s), latest 2026-11-09 - _Principal Platform Engineer_
-- **Exiger** - 7 role(s), latest 2026-11-09 - _AI Product Builder _
-- **Spotify** - 7 role(s), latest 2026-11-09 - _Data Scientist - Music Promotion_
-- **Vannevar** - 7 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Atalanta** - 6 role(s), 6 intern, latest 2026-11-16 - _Software Engineer Intern_
-- **CoVar** - 6 role(s), 2 intern, latest 2026-11-10 - _General Manager, AI Test & Evaluation Products_
-- **Kaizenlabs** - 6 role(s), latest 2026-11-12 - _Senior Cleared Software Engineer (TS/SCI)_
-- **Peregrine Technologies** - 6 role(s), latest 2026-11-13 - _Staff Software Engineer, Applied AI_
-- **Quindar** - 6 role(s), latest 2026-11-14 - _Forward Deployed Engineer_
-- **Systems Planning and Analysis** - 6 role(s), 6 intern, latest 2026-11-11 - _Data Engineer Intern_
-- **Dev Technology** - 5 role(s), latest 2026-11-16 - _Mid-Level .NET/Azure Application Developer_
-- **Lockheed Martin** - 5 role(s), 5 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Oddball** - 5 role(s), latest 2026-11-10 - _Applied AI/ML Engineer_
-- **Rivet** - 5 role(s), 1 intern, latest 2026-11-10 - _Senior Software Engineer, SLAM/VIO_
-- **Second Front Systems** - 5 role(s), latest 2026-11-09 - _Senior Forward Deployed Engineer_
-- **Air** - 4 role(s), latest 2026-11-12 - _Data Engineer - Analytics _
-- **Lincoln Property Company** - 4 role(s), latest 2026-11-13 - _Mobile Building Engineer_
-- **Spear Ai** - 4 role(s), latest 2026-11-09 - _Meridian: Forward Deployed Infrastructure Engineer (Senior / Suitland, MD / Hybrid) [TS/SC_
-- **Antithesis** - 3 role(s), latest 2026-11-11 - _Applied AI Software Engineer_
-- **Comstock** - 3 role(s), latest 2026-11-12 - _Mobile Patrol Officer Mon-Fri 4AM–8AM_
-- **IDEMIA North America** - 3 role(s), 3 intern, latest 2026-11-13 - _Cloud Software Engineering Intern_
-- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
-- **Betterup** - 2 role(s), latest 2026-11-13 - _Senior Analytics Engineer_
+- **Cisco** - 31 role(s), 22 intern, latest 2026-11-23 - _Software Technical Leader (Remote)_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Comcast** - 29 role(s), latest 2026-11-23 - _Senior Manager, Software Engineering ( Chicago - Hybrid) - FreeWheel_
+- **True Anomaly** - 24 role(s), latest 2026-11-19 - _Chief Engineer, Ground Software_
+- **Sierra** - 23 role(s), 3 intern, latest 2026-11-19 - _Research Engineer, Applied Research_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Axon** - 20 role(s), 4 intern, latest 2026-11-20 - _CMM Programmer (Onsite)_
+- **Clarity Innovations** - 20 role(s), latest 2026-11-19 - _AI Engineer, Architect_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Cohere** - 18 role(s), latest 2026-11-17 - _Senior Full-Stack Engineer, Annotation Platform _
+- **Trm Labs** - 18 role(s), latest 2026-11-17 - _Software Engineer, Backend_
+- **Twenty** - 18 role(s), latest 2026-11-19 - _Applied AI Engineer_
+- **North Point Technology** - 15 role(s), latest 2026-11-20 - _Cloud Engineer - Serverless & Identity (Top Secret/SCI Required)_
+- **Two Six Technologies** - 15 role(s), 2 intern, latest 2026-11-20 - _Lead DevOps Engineer_
+- **C3 AI** - 14 role(s), 4 intern, latest 2026-11-19 - _Associate Site Reliability Engineer/Site Reliability Engineer_
+- **TEGNA Inc.** - 13 role(s), latest 2026-11-17 - _Cloud Team Lead_
+- **Appian Corporation ** - 12 role(s), latest 2026-11-20 - _AI Security Engineer_
+- **Gallatin** - 12 role(s), latest 2026-11-20 - _Machine Learning Operations (MLOps) Engineer_
+- **Northwoodspace** - 11 role(s), 1 intern, latest 2026-11-19 - _Senior Software Engineer (Prism)_
+- **Axle** - 10 role(s), latest 2026-11-23 - _Bioinformatics / Data Scientist_
+- **Oddball** - 10 role(s), latest 2026-11-22 - _Applied AI/ML Engineer_
+- **Pae** - 10 role(s), latest 2026-11-23 - _Jr. Data Engineer_
+- **Blue Sky Innovators** - 9 role(s), latest 2026-11-20 - _AI Engineering Advisor_
+- **Code Metal** - 9 role(s), latest 2026-11-19 - _Lead Backend Engineer (Modeling & Simulation)_
+- **Peregrine Technologies** - 9 role(s), latest 2026-11-19 - _Applied AI Engineering Lead_
+- **Hopper** - 8 role(s), latest 2026-11-19 - _Senior Data Scientist- Travel Tech _
+- **LIGHTFEATHER IO LLC** - 8 role(s), latest 2026-11-20 - _Azure Cloud Security Engineer_
+- **Vannevar** - 8 role(s), latest 2026-11-16 - _DevOps Engineer_
+- **Atalanta** - 7 role(s), 7 intern, latest 2026-11-18 - _Software Engineer Intern_
+- **Cursor** - 7 role(s), latest 2026-11-18 - _Forward Deployed Engineer_
+- **MITRE** - 7 role(s), 7 intern, latest 2026-11-23 - _AI Engineering Intern_
+- **Quindar** - 7 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Rivet** - 7 role(s), 1 intern, latest 2026-11-17 - _Senior Software Engineer, SLAM/VIO_
+- **Air** - 6 role(s), latest 2026-11-23 - _AI Engineer, Internal Enablement & Productivity_
+- **DLH ** - 6 role(s), latest 2026-11-20 - _AI Process Automation Engineer - Security (Job 1534)_
+- **Lincoln Property Company** - 6 role(s), latest 2026-11-21 - _AI Solutions ANalyst_
+- **Lockheed Martin** - 6 role(s), 6 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Icf** - 5 role(s), 3 intern, latest 2026-11-18 - _2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)_
+- **Kudu Dynamics** - 5 role(s), 5 intern, latest 2026-11-23 - _Software Engineering & AI Intern_
+- **Sedaro** - 5 role(s), 5 intern, latest 2026-11-17 - _Compiler Intern - Simulator_
+- **Ardent** - 4 role(s), latest 2026-11-19 - _Cloud Network Engineer_
+- **BlackSky** - 4 role(s), latest 2026-11-17 - _Senior Engineer - Embedded/Flight Software_
+- **Dev Technology** - 4 role(s), latest 2026-11-16 - _Mid-Level .NET/Azure Application Developer_
+- **ManTech** - 4 role(s), 4 intern, latest 2026-11-23 - _AI Workflow Intern_
+- **NPR** - 4 role(s), latest 2026-11-23 - _Cloud Systems Engineer_
+- **Recorded Future** - 4 role(s), latest 2026-11-19 - _Product Support Solutions Developer_
+- **Sallie Mae** - 4 role(s), 4 intern, latest 2026-11-18 - _Data Science and Engineering Intern_
+- **Scout Space** - 4 role(s), 4 intern, latest 2026-11-19 - _Computer Vision Engineer Intern - AI/ML_
+- **Virtru** - 4 role(s), latest 2026-11-18 - _Forward Deployed Engineer - Security Clearance Required_
+- **Attain Partners** - 3 role(s), 1 intern, latest 2026-11-17 - _Migration & Integration Developer (Higher Education / Advancement)_
+- **Betterup** - 3 role(s), latest 2026-11-19 - _Senior Analytics Engineer_
+- **BTI360 Website** - 3 role(s), latest 2026-11-18 - _Backend Python Engineer - Polygraph Required_
+- **Element84** - 3 role(s), latest 2026-11-19 - _Full Stack Software Engineer_
+- **Rhombus Power, Inc.** - 3 role(s), latest 2026-11-20 - _Data Engineer, Palo Alto_
 - **Chambercardio** - 2 role(s), latest 2026-11-16 - _Staff Data Engineer_
-- **Ditto** - 2 role(s), latest 2026-11-12 - _Senior Forward Deployed Engineer - Platform _
-- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
-- **540** - 1 role(s), latest 2026-11-13 - _Senior Platform Engineer_
-- **Babel Street** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer_
-- **ICF** - 1 role(s), 1 intern, latest 2026-11-11 - _Data Analytics Intern_
-- **Obviant** - 1 role(s), latest 2026-11-12 - _Senior Software Engineer_
+- **Obviant** - 2 role(s), latest 2026-11-17 - _Data Scientist_
+- **Quartermaster** - 2 role(s), latest 2026-11-20 - _Applied Machine Learning Engineer_
+- **540** - 1 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **American** - 1 role(s), latest 2026-11-18 - _Quantitative Tutoring & Statistical Software Support (Student)_
+- **Bloomberg Industry Group** - 1 role(s), 1 intern, latest 2026-11-16 - _Data Analyst Intern_
+- **Forterra** - 1 role(s), 1 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Knox Systems** - 1 role(s), latest 2026-11-16 - _Senior Software Engineer_
+- **Strider Technologies** - 1 role(s), latest 2026-11-20 - _Principal Data Engineer _
 
-### Denver / Boulder (28)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Crusoe** - 45 role(s), 2 intern, latest 2026-11-13 - _Staff Software Engineer, Developer Experience_
-- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **CACI** - 40 role(s), 40 intern, latest 2026-11-12 - _Software Developer/Data Scientist Intern - Summer 2027_
-- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
-- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
-- **Muon Space** - 25 role(s), 8 intern, latest 2026-11-12 - _Flight Software Engineering Intern (Summer 2027)_
-- **Ramp** - 25 role(s), 9 intern, latest 2026-11-13 - _Senior Engineer, Backend, Vendor Management_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Trace3** - 13 role(s), 3 intern, latest 2026-11-14 - _Architect_
-- **Gusto, Inc.** - 10 role(s), latest 2026-11-10 - _Lead CX Business Intelligence Analyst_
-- **Ibotta** - 10 role(s), 7 intern, latest 2026-11-10 - _Software Engineer Intern _
-- **Judi Health** - 8 role(s), 3 intern, latest 2026-11-12 - _AI Solutions Intern_
-- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
-- **Biodesix** - 6 role(s), 6 intern, latest 2026-11-09 - _Software Development Intern_
-- **Quindar** - 6 role(s), latest 2026-11-14 - _Forward Deployed Engineer_
+### Denver / Boulder (34)
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Caci** - 47 role(s), 41 intern, latest 2026-11-23 - _Full-Stack Web Applications Developer_
+- **Crusoe** - 46 role(s), 4 intern, latest 2026-11-23 - _Staff Software Engineer, Developer Experience_
+- **Garmin** - 31 role(s), 31 intern, latest 2026-11-23 - _Software Engineer Intern_
+- **Comcast** - 29 role(s), latest 2026-11-23 - _Senior Manager, Software Engineering ( Chicago - Hybrid) - FreeWheel_
+- **Ramp** - 28 role(s), 9 intern, latest 2026-11-23 - _Senior Engineer, Backend, Vendor Management_
+- **DigitalOcean** - 26 role(s), latest 2026-11-20 - _Director of Research, Agentic AI_
+- **Emerson Electric** - 24 role(s), 24 intern, latest 2026-11-17 - _Data Analytics Intern_
+- **True Anomaly** - 24 role(s), latest 2026-11-19 - _Chief Engineer, Ground Software_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Gusto, Inc.** - 15 role(s), latest 2026-11-23 - _AI Control Lead_
+- **North Point Technology** - 15 role(s), latest 2026-11-20 - _Cloud Engineer - Serverless & Identity (Top Secret/SCI Required)_
+- **Maintainx** - 13 role(s), latest 2026-11-19 - _Full-Stack Developer - IAM_
+- **The Trade Desk** - 13 role(s), latest 2026-11-23 - _Front-End Engineer II - Reporting_
+- **Trace3** - 12 role(s), 3 intern, latest 2026-11-23 - _Architect_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **LendingTree** - 8 role(s), latest 2026-11-20 - _Manager, Data Science_
+- **Judi Health** - 7 role(s), 2 intern, latest 2026-11-17 - _AI Solutions Contractor_
+- **Quindar** - 7 role(s), latest 2026-11-19 - _Forward Deployed Engineer_
+- **Modivcare** - 6 role(s), latest 2026-11-19 - _Site Reliability Engineer IV_
+- **Xcimer** - 6 role(s), 1 intern, latest 2026-11-20 - _Control Systems Engineer II - Applied Science_
+- **onX** - 5 role(s), latest 2026-11-20 - _Backend Engineer  III - Identity & Access Management_
 - **Checkr** - 4 role(s), latest 2026-11-16 - _Senior Machine Learning Engineer_
-- **Invitation-charter** - 4 role(s), 4 intern, latest 2026-11-10 - _Data Science Intern_
-- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
-- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Site Reliability Engineering_
-- **The Trade Desk** - 3 role(s), latest 2026-11-12 - _Oracle ERP Technical Developer_
-- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
-- **Strive Health** - 2 role(s), latest 2026-11-12 - _Director, Data Engineering_
-- **Lighttable** - 1 role(s), latest 2026-11-11 - _Staff Software Engineer_
-- **Veolia** - 1 role(s), 1 intern, latest 2026-11-10 - _Manufacturing Software Engineer Intern_
+- **Sierra Space** - 4 role(s), 4 intern, latest 2026-11-20 - _Flight Software Engineer Intern_
+- **Ambrook** - 3 role(s), 1 intern, latest 2026-11-23 - _Software Engineer, Product_
+- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Automation Site Reliability Engineering_
+- **Stantec** - 2 role(s), 2 intern, latest 2026-11-23 - _Data Scientist Intern - Water_
+- **Strive Health** - 2 role(s), latest 2026-11-17 - _Sr. Data Analyst_
+- **Veolia** - 2 role(s), 2 intern, latest 2026-11-19 - _Manufacturing Software Engineer Intern_
+- **Albedo** - 1 role(s), latest 2026-11-19 - _Flight Software Engineer_
+- **Capella Space** - 1 role(s), latest 2026-11-20 - _Senior Flight Software Engineer_
 
-### Atlanta (21)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **Microsoft** - 48 role(s), 47 intern, latest 2026-11-13 - _AI Software Engineer Intern_
-- **T-Mobile** - 38 role(s), 38 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
-- **Bose** - 17 role(s), 17 intern, latest 2026-11-11 - _Data Science Co-op - NLP & GenAI_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **FanDuel** - 12 role(s), latest 2026-11-12 - _Analytics Engineer_
-- **Aerovect** - 11 role(s), latest 2026-11-16 - _Senior Software Engineer, Behavior Planning_
-- **Gordon Food Service** - 10 role(s), 10 intern, latest 2026-11-11 - _Data Science Engineer Intern_
-- **Cox** - 7 role(s), 5 intern, latest 2026-11-16 - _Entry Level Software Engineer - Atlanta, GA_
-- **Elevancehealth** - 7 role(s), latest 2026-11-16 - _Gen AI Engineer III_
-- **Assurant** - 6 role(s), 5 intern, latest 2026-11-13 - _Senior Insights Analyst - Data Analytics_
-- **Opengov** - 6 role(s), 3 intern, latest 2026-11-12 - _Sr Software Engineer - Full Stack_
-- **DLH ** - 5 role(s), latest 2026-11-09 - _CANES SME Course Developer  (Job 1488 )_
-- **Zinnia** - 3 role(s), latest 2026-11-10 - _Senior Software Engineer I_
-- **Nexus Cognitive** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Engineering Intern_
-- **Atrium Hospitality** - 1 role(s), 1 intern, latest 2026-11-09 - _AI & Automation Intern_
-- **Morgan Stanley** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Co-op, Parametric_
-- **NexusOne** - 1 role(s), 1 intern, latest 2026-11-13 - _Data Engineering Intern_
+### Atlanta (20)
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **T-Mobile** - 39 role(s), 39 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Rivian** - 34 role(s), 34 intern, latest 2026-11-20 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **DigitalOcean** - 26 role(s), latest 2026-11-20 - _Director of Research, Agentic AI_
+- **Relx** - 24 role(s), latest 2026-11-20 - _Senior Software Engineer I – Mobile SDK_
+- **Sierra** - 23 role(s), 3 intern, latest 2026-11-19 - _Research Engineer, Applied Research_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Bose** - 19 role(s), 19 intern, latest 2026-11-18 - _Data Science Co-op - NLP & GenAI_
+- **C3 AI** - 14 role(s), 4 intern, latest 2026-11-19 - _Associate Site Reliability Engineer/Site Reliability Engineer_
+- **OneTrust** - 14 role(s), latest 2026-11-18 - _AI Systems Engineer_
+- **Aerovect** - 9 role(s), latest 2026-11-18 - _Staff Software Engineer, Localization_
+- **Publicis Groupe** - 7 role(s), 7 intern, latest 2026-11-17 - _Software Engineer Intern_
+- **DLH ** - 6 role(s), latest 2026-11-20 - _AI Process Automation Engineer - Security (Job 1534)_
+- **Falcomm** - 4 role(s), 4 intern, latest 2026-11-17 - _AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration_
+- **HexArmor** - 4 role(s), 2 intern, latest 2026-11-17 - _Business Intelligence Analyst _
+- **Zinnia** - 4 role(s), latest 2026-11-17 - _Data Engineer III _
+- **Bennett Thrasher** - 2 role(s), 2 intern, latest 2026-11-20 - _IT AI & Automation Intern_
 
-### Raleigh-Durham (19)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **Epic Games** - 46 role(s), 16 intern, latest 2026-11-12 - _AI Programmer Intern_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **General Dynamics Information Technology** - 28 role(s), 28 intern, latest 2026-11-12 - _Data & Analytics Intern_
-- **Cisco** - 19 role(s), 19 intern, latest 2026-11-11 - _Machine Learning Engineer 2 Intern_
-- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
-- **Telus Digital** - 8 role(s), 2 intern, latest 2026-11-11 - _Infrastructure DevOps_
-- **Ddn** - 7 role(s), latest 2026-11-11 - _Senior Salesforce Developer_
-- **SAS** - 7 role(s), 7 intern, latest 2026-11-14 - _Software Development and Testing Intern_
-- **CoVar** - 6 role(s), 2 intern, latest 2026-11-10 - _General Manager, AI Test & Evaluation Products_
-- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
-- **NetApp** - 5 role(s), 5 intern, latest 2026-11-14 - _Software Engineer Intern_
-- **Analog Devices** - 4 role(s), 4 intern, latest 2026-11-09 - _AI/ML Engineer Intern_
-- **Freshfields** - 4 role(s), latest 2026-11-11 - _DevOps/Infrastructure Engineer_
-- **Martin Marietta** - 4 role(s), 4 intern, latest 2026-11-13 - _Software Data Integration Engineer Intern_
+### Raleigh-Durham (27)
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Cisco** - 31 role(s), 22 intern, latest 2026-11-23 - _Software Technical Leader (Remote)_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Garmin** - 31 role(s), 31 intern, latest 2026-11-23 - _Software Engineer Intern_
+- **General Dynamics Information Technology** - 29 role(s), 29 intern, latest 2026-11-20 - _Data & Analytics Intern_
+- **Toshiba Global Commerce Solutions - External** - 26 role(s), 1 intern, latest 2026-11-18 - _AI Data Science & Business Analytics Intern_
+- **Hewlett Packard Enterprise** - 24 role(s), 24 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Relx** - 24 role(s), latest 2026-11-20 - _Senior Software Engineer I – Mobile SDK_
+- **Marvell** - 16 role(s), 16 intern, latest 2026-11-17 - _Firmware Engineer Intern_
+- **John Deere** - 15 role(s), 11 intern, latest 2026-11-20 - _Data & Analytics Intern_
+- **Maintainx** - 13 role(s), latest 2026-11-19 - _Full-Stack Developer - IAM_
+- **Vailexa ** - 12 role(s), latest 2026-11-21 - _AI Customer Assurance Engineer / AI Product Support Engineer_
+- **BETA Technologies** - 10 role(s), latest 2026-11-23 - _AI / ML Engineer, Advanced Concepts_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **SAS** - 8 role(s), 8 intern, latest 2026-11-16 - _Software Development and Testing Intern_
+- **Ddn** - 7 role(s), latest 2026-11-17 - _Senior Software Engineering Manager – KV Cache Platform_
+- **Analog Devices** - 6 role(s), 6 intern, latest 2026-11-17 - _AI/ML Engineer Intern_
+- **LabCorp** - 6 role(s), 6 intern, latest 2026-11-22 - _Agentic AI Developer Co-op_
+- **Pendo** - 4 role(s), latest 2026-11-18 - _Software Engineer (AI)_
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **JMP Statistical Discovery** - 2 role(s), 2 intern, latest 2026-11-10 - _C++ Software Development Intern_
+- **Sierra Space** - 4 role(s), 4 intern, latest 2026-11-20 - _Flight Software Engineer Intern_
+- **Syngenta Group** - 3 role(s), 3 intern, latest 2026-11-18 - _Data Scientist Intern_
+- **Advance Auto Parts** - 2 role(s), 2 intern, latest 2026-11-21 - _Data Science Intern_
+- **bioMérieux** - 2 role(s), 2 intern, latest 2026-11-16 - _Data Science Co-op_
+- **Prometheus Group** - 2 role(s), 2 intern, latest 2026-11-17 - _Web Development Intern_
+- **Forterra** - 1 role(s), 1 intern, latest 2026-11-16 - _Software Engineer Intern_
 
-### Pittsburgh (16)
-- **Meta** - 111 role(s), 110 intern, latest 2026-11-13 - _Research Scientist Intern - Multiple Teams_
-- **Waymo** - 80 role(s), 49 intern, latest 2026-11-13 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **ATOMS Careers page** - 29 role(s), 4 intern, latest 2026-11-12 - _AI Research Intern  (BS/MS)_
-- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
-- **Agility Robotics** - 15 role(s), latest 2026-11-13 - _AI Research Engineer III_
-- **Robert Bosch Venture Capital** - 10 role(s), 10 intern, latest 2026-11-16 - _Calibration Process Data Science Intern - 8 months/40 hours per week_
-- **Voyager Technologies, Inc.** - 10 role(s), 2 intern, latest 2026-11-13 - _2027 Software Engineering Intern _
-- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
-- **Gecko Robotics** - 9 role(s), 7 intern, latest 2026-11-12 - _AI/Machine Learning Engineering Intern_
-- **Latitude AI** - 8 role(s), latest 2026-11-16 - _Operations Data Analyst II (Contractor)_
-- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
-- **Carnegie Mellon University** - 6 role(s), 6 intern, latest 2026-11-13 - _Full-Stack Software Development Intern_
-- **Air** - 4 role(s), latest 2026-11-12 - _Data Engineer - Analytics _
+### Pittsburgh (14)
+- **Meta** - 116 role(s), 115 intern, latest 2026-11-19 - _Research Scientist Intern - Robotics_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **ATOMS Careers page** - 31 role(s), 3 intern, latest 2026-11-19 - _AI Research Intern  (BS/MS)_
+- **Cmu** - 31 role(s), 7 intern, latest 2026-11-19 - _Full-Stack Software Development Intern_
+- **Robert Bosch Venture Capital** - 11 role(s), 11 intern, latest 2026-11-17 - _Calibration Process Data Science Intern - 8 months/40 hours per week_
+- **Voyager Technologies, Inc.** - 11 role(s), 2 intern, latest 2026-11-23 - _2027 Software Engineering Intern _
+- **Carnegie Mellon University** - 9 role(s), 9 intern, latest 2026-11-16 - _Full-Stack Software Development Intern_
+- **Bosch Home Comfort** - 8 role(s), 8 intern, latest 2026-11-18 - _Software Engineer Intern - 8 months/40hrs per week_
+- **Latitude AI** - 7 role(s), latest 2026-11-17 - _Operations Data Analyst II (Contractor)_
+- **Air** - 6 role(s), latest 2026-11-23 - _AI Engineer, Internal Enablement & Productivity_
+- **Blink Health** - 5 role(s), latest 2026-11-19 - _Senior Instructional Designer, AI & Simulation Enablement_
+- **enGen** - 1 role(s), 1 intern, latest 2026-11-20 - _Data Engineer & Analyst Undergraduate Intern_
 - **Pyramid Healthcare** - 1 role(s), latest 2026-11-16 - _Mobile Maintenance Technician _
+- **Sheetz** - 1 role(s), 1 intern, latest 2026-11-18 - _Business Intelligence Analytics Intern_
 
-### Salt Lake City (11)
-- **L3Harris Technologies** - 110 role(s), 110 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **iCapital** - 18 role(s), latest 2026-11-16 - _ AI Engineer- Assistant Vice President_
-- **DigiCert** - 11 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Ancestry** - 8 role(s), 6 intern, latest 2026-11-16 - _Senior Site Reliability Engineer_
-- **Podium** - 7 role(s), latest 2026-11-11 - _AI Product Support Specialist_
-- **1-800 Contacts** - 5 role(s), latest 2026-11-11 - _Frontend Engineer, AI Prototyping_
-- **Motorola Solutions** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineering Co-op_
-- **Verisk** - 3 role(s), 3 intern, latest 2026-11-13 - _AI Intern - Summer Internship Program_
-- **Leland** - 2 role(s), 1 intern, latest 2026-11-11 - _Software Engineer_
-- **Mindsmith** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
+### Salt Lake City (9)
+- **iCapital** - 16 role(s), latest 2026-11-16 - _ AI Engineer- Assistant Vice President_
+- **BILL** - 12 role(s), latest 2026-11-23 - _Senior Product Data Analyst - AP & Network Analytics_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Motorola Solutions** - 7 role(s), 7 intern, latest 2026-11-23 - _Software Engineering Co-op_
+- **Smule** - 6 role(s), 6 intern, latest 2026-11-20 - _Applied Research Scientist Intern_
+- **onX** - 5 role(s), latest 2026-11-20 - _Backend Engineer  III - Identity & Access Management_
+- **Bread Financial** - 2 role(s), 2 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Weave** - 2 role(s), latest 2026-11-23 - _Sr. Platform Engineer - Data Infrastructure_
+- **Arva Intelligence** - 1 role(s), latest 2026-11-19 - _Junior DevOps Engineer_
 
-### Portland (4)
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Metron** - 9 role(s), latest 2026-11-09 - _Associate Software Engineer_
-- **Daimler Truck** - 4 role(s), 4 intern, latest 2026-11-13 - _Data Science Intern_
-- **Landlord** - 1 role(s), latest 2026-11-12 - _Landlord_
+### Portland (8)
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **Intel** - 29 role(s), 29 intern, latest 2026-11-18 - _Software Engineering - PhD Intern_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Ralliant** - 10 role(s), 10 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **onX** - 5 role(s), latest 2026-11-20 - _Backend Engineer  III - Identity & Access Management_
+- **Activision Blizzard** - 2 role(s), 2 intern, latest 2026-11-21 - _Software Engineering Intern_
+- **Panthalassa ** - 2 role(s), latest 2026-11-20 - _Senior HPC Platform Engineer_
 
-### Phoenix (13)
-- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Lucid Motors** - 26 role(s), latest 2026-11-14 - _CMM Programmer_
-- **Axon** - 22 role(s), 4 intern, latest 2026-11-11 - _CMM Programmer (Onsite)_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **onsemi** - 8 role(s), 8 intern, latest 2026-11-10 - _Manufacturing AI Engineering Intern_
-- **itD Tech** - 6 role(s), latest 2026-11-13 - _Data Analyst V (6347)_
-- **SmartRent** - 5 role(s), latest 2026-11-12 - _Data Engineer_
-- **Cirrus Logic** - 4 role(s), 4 intern, latest 2026-11-09 - _Embedded Firmware Engineer Intern_
-- **Nordsonhcm** - 4 role(s), 1 intern, latest 2026-11-10 - _Software Intern_
+### Phoenix (17)
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Lucid Motors** - 42 role(s), 15 intern, latest 2026-11-20 - _CMM Programmer_
+- **Garmin** - 31 role(s), 31 intern, latest 2026-11-23 - _Software Engineer Intern_
+- **Intel** - 29 role(s), 29 intern, latest 2026-11-18 - _Software Engineering - PhD Intern_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Axon** - 20 role(s), 4 intern, latest 2026-11-20 - _CMM Programmer (Onsite)_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Marvell** - 16 role(s), 16 intern, latest 2026-11-17 - _Firmware Engineer Intern_
+- **TEGNA Inc.** - 13 role(s), latest 2026-11-17 - _Cloud Team Lead_
+- **Connections Health Solutions** - 10 role(s), latest 2026-11-23 - _Case Manager (FT, Back End Days)_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **itD Tech** - 6 role(s), latest 2026-11-19 - _Data Analyst V (6347)_
+- **Cirrus Logic** - 5 role(s), 5 intern, latest 2026-11-18 - _Embedded Firmware Engineer Intern_
+- **Nordsonhcm** - 4 role(s), 1 intern, latest 2026-11-16 - _Intern (Software Engineering)_
 - **Qualcomm** - 4 role(s), 4 intern, latest 2026-11-16 - _GPU Compiler Intern_
-- **Uhaul** - 4 role(s), 4 intern, latest 2026-11-09 - _Data Analyst Intern_
-- **Cognite - AI for Industry** - 1 role(s), latest 2026-11-10 - _Engineering Manager, Atlas AI_
+- **Cognite - AI for Industry** - 3 role(s), latest 2026-11-18 - _AI Solutions Engineer_
+- **Uplinq** - 1 role(s), 1 intern, latest 2026-11-19 - _Software Engineer Intern - ASU_
 
-### Minneapolis (8)
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Graco** - 7 role(s), 5 intern, latest 2026-11-10 - _AI intern_
-- **The Federal Reserve System** - 7 role(s), 7 intern, latest 2026-11-09 - _Computer Science and Software Engineering Intern_
-- **Tranetechnologies** - 6 role(s), latest 2026-11-11 - _Senior Embedded Software Engineer_
-- **Nordsonhcm** - 4 role(s), 1 intern, latest 2026-11-10 - _Software Intern_
-- **Punch Through Design** - 1 role(s), 1 intern, latest 2026-11-12 - _Cloud Software Engineer Intern_
+### Minneapolis (6)
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Graco** - 7 role(s), 4 intern, latest 2026-11-17 - _Software Engineer – ServiceNow_
+- **Blank Metal** - 6 role(s), latest 2026-11-20 - _AI Workflow Engineer_
+- **onX** - 5 role(s), latest 2026-11-20 - _Backend Engineer  III - Identity & Access Management_
+- **Piper Sandler** - 2 role(s), 2 intern, latest 2026-11-19 - _Data Engineering Intern_
 
-### Philadelphia (2)
-- **T-Mobile** - 38 role(s), 38 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
+### Philadelphia (7)
+- **T-Mobile** - 39 role(s), 39 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Comcast** - 29 role(s), latest 2026-11-23 - _Senior Manager, Software Engineering ( Chicago - Hybrid) - FreeWheel_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Lutron** - 13 role(s), 13 intern, latest 2026-11-19 - _Embedded Firmware Engineering Intern_
+- **Verra Mobility** - 12 role(s), latest 2026-11-17 - _DevOps Engineer_
+- **ParetoHealth** - 5 role(s), 2 intern, latest 2026-11-19 - _Lead Data Scientist_
 
-### Miami (10)
-- **Ramp** - 25 role(s), 9 intern, latest 2026-11-13 - _Senior Engineer, Backend, Vendor Management_
-- **SharkNinja** - 17 role(s), 5 intern, latest 2026-11-12 - _Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)_
-- **Socure** - 9 role(s), latest 2026-11-13 - _Staff Backend Graph Engineer_
-- **Dickssportinggoods** - 8 role(s), latest 2026-11-16 - _Team Captain Endzone & Loyalty (Front End)_
-- **Assurant** - 6 role(s), 5 intern, latest 2026-11-13 - _Senior Insights Analyst - Data Analytics_
-- **Livekit** - 6 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
-- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Site Reliability Engineering_
-- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
-- **Carnival Corporation** - 2 role(s), 2 intern, latest 2026-11-16 - _Data & AI Solutions Intern_
-- **Hut 8** - 1 role(s), latest 2026-11-10 - _Principal, Data Engineering (Data Ops)_
+### Miami (12)
+- **Ramp** - 28 role(s), 9 intern, latest 2026-11-23 - _Senior Engineer, Backend, Vendor Management_
+- **Relx** - 24 role(s), latest 2026-11-20 - _Senior Software Engineer I – Mobile SDK_
+- **SharkNinja** - 19 role(s), 5 intern, latest 2026-11-19 - _Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)_
+- **Scribdinc** - 10 role(s), latest 2026-11-23 - _Software Engineer II (Fullstack), Growth Platform_
+- **Socure** - 9 role(s), latest 2026-11-18 - _Staff Backend Engineer_
+- **Hopper** - 8 role(s), latest 2026-11-19 - _Senior Data Scientist- Travel Tech _
+- **Vertiv** - 7 role(s), 7 intern, latest 2026-11-19 - _Firmware Engineer Intern - Summer 2027_
+- **Exowatt** - 5 role(s), 4 intern, latest 2026-11-23 - _Robotics & Physical AI Spring Intern (Miami)_
+- **Carnival Corporation** - 4 role(s), 4 intern, latest 2026-11-19 - _Data & AI Solutions Intern_
+- **G2I** - 4 role(s), latest 2026-11-22 - _Staff Software Engineer (AI Evals)_
+- **Ripple ** - 4 role(s), latest 2026-11-20 - _Senior Staff, Developer Relations_
+- **DriveWealth** - 3 role(s), latest 2026-11-16 - _Manager, Automation Site Reliability Engineering_
 
-### Detroit / Ann Arbor (20)
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Applied** - 46 role(s), latest 2026-11-16 - _Software Engineer - Low Speed Motion Planning & Control_
-- **Zipline ** - 39 role(s), 18 intern, latest 2026-11-13 - _Aircraft Software Integration Intern (Summer 2027)_
-- **Wayve** - 36 role(s), latest 2026-11-13 - _Staff / Senior Machine Learning Engineer, Reinforcement Learning_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Nokia** - 31 role(s), 31 intern, latest 2026-11-09 - _Software Engineer Co-op - Deepfield_
-- **Lucid Motors** - 26 role(s), latest 2026-11-14 - _CMM Programmer_
-- **Woven By Toyota** - 16 role(s), latest 2026-11-13 - _AI プラットフォームエンジニア (MLOps/LLMOps)_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Trace3** - 13 role(s), 3 intern, latest 2026-11-14 - _Architect_
-- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Deepgram** - 9 role(s), latest 2026-11-15 - _Research Staff, Voice AI Foundations_
-- **Torc Robotics** - 9 role(s), latest 2026-11-10 - _Engineer II - Systems and Software Quality_
-- **Latitude AI** - 8 role(s), latest 2026-11-16 - _Operations Data Analyst II (Contractor)_
-- **Nox Metals** - 4 role(s), latest 2026-11-10 - _Machine Learning Engineer_
-- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
-- **Blue Cross Blue Shield of Michigan** - 2 role(s), 2 intern, latest 2026-11-12 - _Data Analytics Intern - HEDIS_
+### Detroit / Ann Arbor (16)
+- **KLA Corporation** - 54 role(s), 54 intern, latest 2026-11-18 - _Software Engineering Intern - C++ - Unix_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Applied** - 43 role(s), latest 2026-11-20 - _Software Engineer - Low Speed Motion Planning & Control_
+- **Lucid Motors** - 42 role(s), 15 intern, latest 2026-11-20 - _CMM Programmer_
+- **Wayve** - 36 role(s), latest 2026-11-19 - _Staff / Senior Machine Learning Engineer, Reinforcement Learning_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Zipline ** - 30 role(s), 10 intern, latest 2026-11-23 - _AI Tooling Software Engineer - Data Platform, Autonomy_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Woven By Toyota** - 17 role(s), latest 2026-11-20 - _AI プラットフォームエンジニア (MLOps/LLMOps)_
+- **Trace3** - 12 role(s), 3 intern, latest 2026-11-23 - _Architect_
+- **Torc Robotics** - 10 role(s), latest 2026-11-19 - _Autonomy Software Integration Engineer II_
+- **Deepgram** - 9 role(s), latest 2026-11-18 - _Senior Data Scientist, Audio_
+- **Latitude AI** - 7 role(s), latest 2026-11-17 - _Operations Data Analyst II (Contractor)_
+- **Blue Cross Blue Shield of Michigan** - 4 role(s), 4 intern, latest 2026-11-19 - _Data Analytics Intern - HEDIS_
 - **StockX** - 2 role(s), latest 2026-11-16 - _Director, AI/ML Engineering_
-- **Rocket Mortgage** - 1 role(s), 1 intern, latest 2026-11-13 - _Data Analyst Intern_
 
-### Columbus (8)
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
-- **Clarity Innovations** - 19 role(s), latest 2026-11-13 - _Chief Engineer; Data Engineering _
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Impact.Com** - 9 role(s), latest 2026-11-13 - _Associate Data Platform Engineer_
-- **Telus Digital** - 8 role(s), 2 intern, latest 2026-11-11 - _Infrastructure DevOps_
-- **Path Robotics** - 7 role(s), 2 intern, latest 2026-11-16 - _Data Engineer_
-- **First Resonance** - 5 role(s), latest 2026-11-16 - _Forward Deployed Software Engineer (New England Area)_
+### Columbus (11)
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Clarity Innovations** - 20 role(s), latest 2026-11-19 - _AI Engineer, Architect_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Impact.Com** - 10 role(s), latest 2026-11-17 - _Associate Data Platform Engineer_
+- **First Resonance** - 9 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Software Engineer (San Francisco)_
+- **Path Robotics** - 8 role(s), 2 intern, latest 2026-11-18 - _Data Engineer_
+- **CAS** - 6 role(s), 6 intern, latest 2026-11-20 - _Business Data Analytics Intern - AI/ML Focus_
+- **Oclc** - 5 role(s), latest 2026-11-17 - _Senior Software Engineer_
+- **Bread Financial** - 2 role(s), 2 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **River** - 1 role(s), latest 2026-11-17 - _Staff Platform Engineer_
+- **Worthington Enterprises** - 1 role(s), 1 intern, latest 2026-11-20 - _AI Intern_
 
-### Nashville (9)
-- **L3Harris Technologies** - 110 role(s), 110 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Trace3** - 13 role(s), 3 intern, latest 2026-11-14 - _Architect_
-- **Motive** - 5 role(s), latest 2026-11-13 - _Business Intelligence Analyst II_
+### Nashville (8)
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Humana** - 45 role(s), latest 2026-11-23 - _Medical Coding Coordinator - Villages (Powell Rd)_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Trace3** - 12 role(s), 3 intern, latest 2026-11-23 - _Architect_
 - **Chambercardio** - 2 role(s), latest 2026-11-16 - _Staff Data Engineer_
-- **Ecmtek** - 1 role(s), 1 intern, latest 2026-11-09 - _Developer Intern, Python Development_
+- **ECM Tek** - 1 role(s), 1 intern, latest 2026-11-17 - _Developer Intern - Python Development_
 - **Mechanical Licensing Collective** - 1 role(s), latest 2026-11-16 - _Engineer, Matching Software_
 
 ### Other US (534)
-- **Anduril Industries** - 246 role(s), 4 intern, latest 2026-11-16 - _2027 Early Career Firmware Engineer_
-- **SpaceX** - 228 role(s), latest 2026-11-16 - _Aerospace Software Engineer (Starfall)_
-- **RTX** - 191 role(s), 190 intern, latest 2026-11-16 - _Software Engineer Intern - Summer 2027_
-- **Accenture Federal Services** - 185 role(s), latest 2026-11-16 - _AI Advisor _
-- **Tesla** - 134 role(s), 134 intern, latest 2026-11-13 - _Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027_
-- **Openai** - 129 role(s), 1 intern, latest 2026-11-16 - _Control Systems Software Engineer, Robotics_
-- **L3Harris Technologies** - 110 role(s), 110 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Roblox** - 105 role(s), 2 intern, latest 2026-11-14 - _[2027] Applied Scientist - PhD Intern_
-- **Anthropic** - 89 role(s), latest 2026-11-13 - _AI Outcomes Manager, Enterprise Tech_
-- **Waymo** - 80 role(s), 49 intern, latest 2026-11-13 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
-- **Snowflake** - 75 role(s), 3 intern, latest 2026-11-16 - _Staff Software Engineer - Compiler & Spark Runtime _
-- **Bjakcareer** - 73 role(s), latest 2026-11-16 - _Backend Developer_
-- **Booz Allen** - 65 role(s), 65 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Cloudflare** - 62 role(s), 6 intern, latest 2026-11-16 - _Customer Engineer AI/ Start Up's_
-- **Coinbase** - 58 role(s), 10 intern, latest 2026-11-16 - _Analytics Engineer Intern_
-- **Amazon** - 52 role(s), 52 intern, latest 2026-11-13 - _Software Development Engineer Intern - Annapurna Labs_
-- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
-- **Stripe** - 49 role(s), 6 intern, latest 2026-11-13 - _AI Engineer_
-- **Microsoft** - 48 role(s), 47 intern, latest 2026-11-13 - _AI Software Engineer Intern_
-- **Reddit** - 47 role(s), latest 2026-11-12 - _Analytics Engineer_
-- **Applied** - 46 role(s), latest 2026-11-16 - _Software Engineer - Low Speed Motion Planning & Control_
-- **Epic Games** - 46 role(s), 16 intern, latest 2026-11-12 - _AI Programmer Intern_
-- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Neura Robotics Gmbh** - 46 role(s), 2 intern, latest 2026-11-16 - _Group Lead Edge AI (human)_
-- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Zscaler** - 45 role(s), latest 2026-11-12 - _AI Enablement Architect _
-- **Clera** - 44 role(s), 1 intern, latest 2026-11-16 - _Founding Forward Deployed Engineer_
-- **DoorDash USA** - 44 role(s), 4 intern, latest 2026-11-12 - _Autonomy Platform Engineer_
-- **Horizon3Ai** - 41 role(s), latest 2026-11-12 - _WebApp Offensive Security Software Engineer_
-- **Rocket Lab Corporation** - 41 role(s), 1 intern, latest 2026-11-16 - _Flight Software Engineer _
-- **CACI** - 40 role(s), 40 intern, latest 2026-11-12 - _Software Developer/Data Scientist Intern - Summer 2027_
+- **Prolific Academic Ltd** - 364 role(s), latest 2026-11-21 - _Addiction Medicine Physician - AI Research Participants - United States (Remote)_
+- **SpaceX** - 220 role(s), latest 2026-11-20 - _Aerospace Software Engineer (Starfall)_
+- **Anduril Industries** - 215 role(s), 5 intern, latest 2026-11-20 - _2027 Early Career Firmware Engineer_
+- **Accenture Federal Services** - 193 role(s), latest 2026-11-23 - _AI Advisor _
+- **RTX** - 182 role(s), 181 intern, latest 2026-11-19 - _Software Engineer Intern - Summer 2027_
+- **Tesla** - 134 role(s), 134 intern, latest 2026-11-20 - _AI Hardware Physical Design Engineer Intern - AI Hardware_
+- **Openai** - 133 role(s), 1 intern, latest 2026-11-22 - _Data Scientist, Integrity_
+- **Roblox** - 103 role(s), 2 intern, latest 2026-11-23 - _[2027] Applied Scientist - PhD Intern_
+- **Anthropic** - 84 role(s), latest 2026-11-23 - _AI Outcomes Manager, Enterprise Tech_
+- **Waymo** - 82 role(s), 49 intern, latest 2026-11-21 - _2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra_
+- **Snowflake** - 76 role(s), 9 intern, latest 2026-11-23 - _Staff Software Engineer - Compiler & Spark Runtime _
+- **Cloudflare** - 70 role(s), 5 intern, latest 2026-11-23 - _Customer Engineer AI/ Start Up's_
+- **Northrop Grumman** - 61 role(s), 61 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Clera** - 58 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Engineer_
+- **Microsoft** - 57 role(s), 57 intern, latest 2026-11-21 - _Software Engineer Intern - AI and ML Projects_
+- **Walmart** - 56 role(s), 14 intern, latest 2026-11-23 - _(USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern_
+- **KLA Corporation** - 54 role(s), 54 intern, latest 2026-11-18 - _Software Engineering Intern - C++ - Unix_
+- **Amazon** - 53 role(s), 53 intern, latest 2026-11-17 - _Software Development Engineer Intern - Annapurna Labs_
+- **Coinbase** - 51 role(s), 10 intern, latest 2026-11-16 - _Analytics Engineer Intern_
+- **Zscaler** - 50 role(s), latest 2026-11-20 - _AI Enablement Architect _
+- **Signalfire** - 48 role(s), latest 2026-11-17 - _Staff Full Stack Software Engineer - VC Backed Startups_
+- **Caci** - 47 role(s), 41 intern, latest 2026-11-23 - _Full-Stack Web Applications Developer_
+- **Humana** - 45 role(s), latest 2026-11-23 - _Medical Coding Coordinator - Villages (Powell Rd)_
+- **Horizon3Ai** - 44 role(s), latest 2026-11-23 - _WebApp Offensive Security Software Engineer_
+- **Applied** - 43 role(s), latest 2026-11-20 - _Software Engineer - Low Speed Motion Planning & Control_
+- **Reddit** - 43 role(s), latest 2026-11-23 - _Analytics Engineer_
+- **Lucid Motors** - 42 role(s), 15 intern, latest 2026-11-20 - _CMM Programmer_
+- **Neura Robotics Gmbh** - 42 role(s), 2 intern, latest 2026-11-23 - _Group Lead Edge AI (human)_
+- **SpaceXSI** - 42 role(s), 2 intern, latest 2026-11-18 - _AI Tutor, Amharic - Temporary_
+- **Rocket Lab Corporation** - 40 role(s), 1 intern, latest 2026-11-23 - _Flight Software Engineer II_
 - **Boston Scientific** - 39 role(s), 39 intern, latest 2026-11-16 - _Research Data Science Intern - Active Implantable Systems_
-- **Databricks** - 39 role(s), 5 intern, latest 2026-11-12 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
-- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
-- **Zipline ** - 39 role(s), 18 intern, latest 2026-11-13 - _Aircraft Software Integration Intern (Summer 2027)_
-- **T-Mobile** - 38 role(s), 38 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Leidos** - 37 role(s), 36 intern, latest 2026-11-12 - _Software Engineer Intern - Artificial Intelligence_
-- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
-- **Affirm** - 36 role(s), 3 intern, latest 2026-11-12 - _Analyst, Early Career (Full Stack)_
-- **PlayStation Global** - 36 role(s), latest 2026-11-13 - _Animation Tools Programmer_
-- **SpaceXSI** - 35 role(s), 2 intern, latest 2026-11-16 - _AI Tutor, Amharic - Temporary_
-- **Micron Technology** - 33 role(s), 33 intern, latest 2026-11-16 - _Technical Customer Management Intern - AI_
-- **Sprinter Health** - 33 role(s), latest 2026-11-10 - _Data Analyst - Billing Systems_
-- **Everpure** - 31 role(s), 1 intern, latest 2026-11-14 - _AI Enablement Engineer_
-- **Nokia** - 31 role(s), 31 intern, latest 2026-11-09 - _Software Engineer Co-op - Deepfield_
-- **ATOMS Careers page** - 29 role(s), 4 intern, latest 2026-11-12 - _AI Research Intern  (BS/MS)_
-- **Perplexity** - 29 role(s), latest 2026-11-16 - _Member of Technical Staff (Software Engineer, Cybersecurity Products)_
-- **Sggovterp** - 29 role(s), latest 2026-11-16 - _Lead Software Engineer / Software Engineering Manager_
-- **General Dynamics Information Technology** - 28 role(s), 28 intern, latest 2026-11-12 - _Data & Analytics Intern_
-- **Samsara** - 28 role(s), 3 intern, latest 2026-11-14 - _Data Engineer_
-- **Natera** - 27 role(s), 1 intern, latest 2026-11-13 - _Director of Bioinformatics and Machine Learning_
-- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
-- **Harvey** - 26 role(s), 2 intern, latest 2026-11-16 - _Staff Software Engineer, Backend Platform_
-- **Lucid Motors** - 26 role(s), latest 2026-11-14 - _CMM Programmer_
-- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
-- **Muon Space** - 25 role(s), 8 intern, latest 2026-11-12 - _Flight Software Engineering Intern (Summer 2027)_
-- **Ramp** - 25 role(s), 9 intern, latest 2026-11-13 - _Senior Engineer, Backend, Vendor Management_
-- **Starfish** - 25 role(s), latest 2026-11-16 - _Software Analyst_
-- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
-- **Esri** - 24 role(s), latest 2026-11-09 - _Backend Software Engineer – TS/SCI_
-- **Paccar** - 24 role(s), 24 intern, latest 2026-11-14 - _Software Developer Intern_
-- **Saabgroup** - 24 role(s), latest 2026-11-13 - _Systemutvecklare inom Computer Vision, AI och bildbehandling_
-- **Wk** - 24 role(s), latest 2026-11-16 - _Clinical AI Strategist - Pharmacist_
-- **1Password** - 23 role(s), 15 intern, latest 2026-11-11 - _Senior Staff Cloud Platform Engineer_
-- **Commure** - 23 role(s), 1 intern, latest 2026-11-12 - _Staff Software Engineer, Claims & AI Billing_
-- **Flagship Pioneering, Inc.** - 23 role(s), 10 intern, latest 2026-11-10 - _Director, Health Data Science_
-- **Johns Hopkins Applied Physics Laboratory** - 23 role(s), 23 intern, latest 2026-11-11 - _Data Scientist Intern - Data Science - System Performance Evaluation_
-- **Axon** - 22 role(s), 4 intern, latest 2026-11-11 - _CMM Programmer (Onsite)_
-- **Siftstack** - 21 role(s), latest 2026-11-11 - _Software Engineer, Frontend_
-- **Airwallex** - 20 role(s), latest 2026-11-16 - _Senior Software Engineer, Machine Learning Platform_
-- **Toast** - 20 role(s), latest 2026-11-14 - _Manager, Software Engineering_
-- **Trimble** - 20 role(s), 20 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **Walmart** - 20 role(s), 16 intern, latest 2026-11-13 - _Summer 2027 Intern:: Software Engineer II_
-- **Anavationllc** - 19 role(s), 2 intern, latest 2026-11-09 - _AI Engineer SME_
-- **ASML** - 19 role(s), 19 intern, latest 2026-11-13 - _Frontend Developer Intern_
-- **Cisco** - 19 role(s), 19 intern, latest 2026-11-11 - _Machine Learning Engineer 2 Intern_
-- **Clarity Innovations** - 19 role(s), latest 2026-11-13 - _Chief Engineer; Data Engineering _
-- **MongoDB** - 19 role(s), 2 intern, latest 2026-11-13 - _2027 - Software Engineering Intern, AMER_
-- **Handshake** - 18 role(s), latest 2026-11-10 - _Forward Deployed Engineer, Enterprise AI_
-- **iCapital** - 18 role(s), latest 2026-11-16 - _ AI Engineer- Assistant Vice President_
-- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
-- **Trm Labs** - 18 role(s), latest 2026-11-13 - _Software Engineer, Backend_
-- **Upstart** - 18 role(s), 2 intern, latest 2026-11-11 - _Applied Scientist_
-- **Bose** - 17 role(s), 17 intern, latest 2026-11-11 - _Data Science Co-op - NLP & GenAI_
-- **Salesforce** - 17 role(s), 10 intern, latest 2026-11-16 - _Senior Staff Software Engineer, Android_
-- **SharkNinja** - 17 role(s), 5 intern, latest 2026-11-12 - _Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)_
-- **Supabase** - 17 role(s), latest 2026-11-11 - _Developer Relations Engineer _
-- **Cohere** - 16 role(s), latest 2026-11-16 - _Senior Full-Stack Engineer, Annotation Platform _
-- **Elevenlabs** - 16 role(s), latest 2026-11-09 - _Full-Stack Engineer (Backend Leaning)_
-- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
-- **Kayak** - 16 role(s), latest 2026-11-12 - _Senior JAVA Software Engineer, Ads_
-- **Legora** - 16 role(s), latest 2026-11-11 - _Software Engineer - Platform Team _
-- **Motorola** - 16 role(s), 16 intern, latest 2026-11-11 - _Android Application Developer Intern - Summer 2027_
-- **Nord Security** - 16 role(s), latest 2026-11-12 - _Application Security Engineer_
-- **Redhorsecorp** - 16 role(s), latest 2026-11-12 - _AI/ML Modeling Team Lead_
-- **Woven By Toyota** - 16 role(s), latest 2026-11-13 - _AI プラットフォームエンジニア (MLOps/LLMOps)_
-- **Addepar** - 15 role(s), 6 intern, latest 2026-11-10 - _AI Engineer - AI Platform_
-- **Agility Robotics** - 15 role(s), latest 2026-11-13 - _AI Research Engineer III_
-- **Iceye** - 15 role(s), latest 2026-11-13 - _Senior Geospatial Software Engineer_
-- **Life360** - 15 role(s), latest 2026-11-16 - _Director, AI Platforms_
-- **Stone - Linkedin** - 15 role(s), latest 2026-11-13 - _[Banking/Boletos] Sênior Software Engineer - Golang_
-- **Anyone Ai** - 14 role(s), latest 2026-11-09 - _Bioinformatics Expert_
-- **Applied Materials** - 14 role(s), 14 intern, latest 2026-11-10 - _Data Analyst Intern - Global Technical Learning Center_
-- **Clickhouse** - 14 role(s), latest 2026-11-13 - _Senior Software Engineer (Typescript / Frontend) - AI/ML_
-- **Turing** - 14 role(s), latest 2026-11-11 - _Account Director, Enterprise AI - Consumer Packaged Goods_
-- **Twenty** - 14 role(s), latest 2026-11-09 - _Applied AI Engineer_
-- **ZipRecruiter** - 14 role(s), 2 intern, latest 2026-11-09 - _Business Intelligence Engineer II_
-- **Box** - 13 role(s), latest 2026-11-11 - _Machine Learning Engineer III, Shield_
-- **Defense Unicorns** - 13 role(s), latest 2026-11-10 - _Data & AI Engineer (Agentic Systems)_
-- **Hims And Hers** - 13 role(s), latest 2026-11-13 - _Sr. Staff Machine Learning Systems Engineer_
-- **Point72 ** - 13 role(s), 9 intern, latest 2026-11-12 - _2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research_
-- **Red Cell Partners** - 13 role(s), latest 2026-11-10 - _Deputy General Manager, Agentic AI _
-- **Reflectionai** - 13 role(s), latest 2026-11-16 - _Member of Technical Staff - Safety_
-- **Rockwell Automation** - 13 role(s), 13 intern, latest 2026-11-11 - _AI Software Engineering Co-op - 6 months - 8 months_
-- **Scout Motors** - 13 role(s), latest 2026-11-12 - _AI Workflow Engineer_
-- **Snorkel AI** - 13 role(s), 1 intern, latest 2026-11-13 - _Director, GTM Systems & AI Transformation_
-- **Tessera Labs** - 13 role(s), 2 intern, latest 2026-11-13 - _Forward-Deployed Engineer_
-- **Trace3** - 13 role(s), 3 intern, latest 2026-11-14 - _Architect_
-- **Alkami** - 12 role(s), latest 2026-11-12 - _Sr. Forward Deployed Engineer_
-- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-13 - _Software Engineer, Developer Experience (Full-Stack)_
-- **Transamerica** - 12 role(s), 2 intern, latest 2026-11-13 - _Intermediate Business Data Analyst_
-- **Uobgroup** - 12 role(s), 1 intern, latest 2026-11-16 - _AI Automation Intern (Dec to June 2027)_
-- **Wex** - 12 role(s), 12 intern, latest 2026-11-09 - _Artificial Intelligence Intern - AI/ML/NLP Engineer_
-- **Aerovect** - 11 role(s), latest 2026-11-16 - _Senior Software Engineer, Behavior Planning_
-- **Bask Health** - 11 role(s), 11 intern, latest 2026-11-12 - _AI Product Intern_
-- **C3 AI** - 11 role(s), 5 intern, latest 2026-11-12 - _Associate Site Reliability Engineer/Site Reliability Engineer_
-- **CareSource** - 11 role(s), 11 intern, latest 2026-11-12 - _AI Intern_
-- **DigiCert** - 11 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Docker** - 11 role(s), latest 2026-11-10 - _Senior Software Engineer, Tooling (West Coast Preferred)_
-- **Rula** - 11 role(s), latest 2026-11-10 - _Staff Software Engineer - Provider Growth & Activation_
-- **Swarmaero** - 11 role(s), latest 2026-11-12 - _Software Engineer, Real-Time Generalist_
-- **Amgen** - 10 role(s), 10 intern, latest 2026-11-13 - _Machine Learning Engineer Intern_
-- **Axle** - 10 role(s), latest 2026-11-13 - _Bioinformatics / Data Scientist_
-- **Betsson Group** - 10 role(s), latest 2026-11-11 - _Backend .NET Software Engineer - Gaming_
-- **Garner Health** - 10 role(s), 1 intern, latest 2026-11-16 - _Associate Applied Scientist_
-- **Gordon Food Service** - 10 role(s), 10 intern, latest 2026-11-11 - _Data Science Engineer Intern_
-- **Grafana Labs** - 10 role(s), latest 2026-11-12 - _Senior Backend Engineer - Databases - Analytics_
-- **Hippocratic%20Ai** - 10 role(s), latest 2026-11-12 - _AI Engineer (Senior, Staff, Senior Staff, Principal)_
-- **National Information Solutions Cooperative (NISC)** - 10 role(s), 3 intern, latest 2026-11-13 - _Database Conversion (ETL) Programmer_
-- **Radiance Technologies** - 10 role(s), 10 intern, latest 2026-11-09 - _Software Engineer Intern_
-- **Robert Bosch Venture Capital** - 10 role(s), 10 intern, latest 2026-11-16 - _Calibration Process Data Science Intern - 8 months/40 hours per week_
-- **Symbotic** - 10 role(s), 6 intern, latest 2026-11-16 - _Intern- Software Engineer_
-- **TEGNA Inc.** - 10 role(s), latest 2026-11-16 - _Cloud Team Lead_
-- **Unitytech** - 10 role(s), latest 2026-11-15 - _Senior Machine Learning Engineer, Unity AI_
-- **Voyager Technologies, Inc.** - 10 role(s), 2 intern, latest 2026-11-13 - _2027 Software Engineering Intern _
-- **Zocdoc** - 10 role(s), latest 2026-11-11 - _Data Scientist_
-- **Adjoe** - 9 role(s), 1 intern, latest 2026-11-16 - _Senior Go Backend Developer (f/m/d)_
-- **Apple** - 9 role(s), 9 intern, latest 2026-11-12 - _SoC Machine Learning Software Engineer Intern_
-- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
-- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **CAI** - 9 role(s), 9 intern, latest 2026-11-09 - _Software Developer Intern_
-- **Cursor** - 9 role(s), latest 2026-11-11 - _Forward Deployed Engineer_
-- **Deepgram** - 9 role(s), latest 2026-11-15 - _Research Staff, Voice AI Foundations_
-- **EquipmentShare** - 9 role(s), 3 intern, latest 2026-11-10 - _Junior eCommerce Web Developer_
-- **iFood** - 9 role(s), latest 2026-11-09 - _Programa de Estágio - GenAI_
-- **Impact.Com** - 9 role(s), latest 2026-11-13 - _Associate Data Platform Engineer_
-- **K2 Space ** - 9 role(s), 2 intern, latest 2026-11-10 - _Data Engineer_
-- **Metasys** - 9 role(s), 9 intern, latest 2026-11-10 - _Data Scientist Intern_
-- **Metron** - 9 role(s), latest 2026-11-09 - _Associate Software Engineer_
-- **Radiancetech** - 9 role(s), latest 2026-11-09 - _Senior Software Architect_
+- **T-Mobile** - 39 role(s), 39 intern, latest 2026-11-16 - _Software Engineer Intern_
+- **Leidos** - 38 role(s), 37 intern, latest 2026-11-18 - _Software Engineer Intern - Artificial Intelligence_
+- **Stripe** - 37 role(s), 6 intern, latest 2026-11-23 - _AI Engineer_
+- **Databricks** - 36 role(s), 3 intern, latest 2026-11-21 - _AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)_
+- **PlayStation Global** - 36 role(s), latest 2026-11-18 - _Animation Tools Programmer_
+- **Affirm** - 35 role(s), 3 intern, latest 2026-11-21 - _Analyst, Early Career (Full Stack)_
+- **Micron Technology** - 34 role(s), 34 intern, latest 2026-11-23 - _Technical Customer Management Intern - AI_
+- **Nvidia** - 34 role(s), 34 intern, latest 2026-11-23 - _Software Engineering Intern_
+- **Rivian** - 34 role(s), 34 intern, latest 2026-11-20 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
+- **Sprinter Health** - 34 role(s), latest 2026-11-18 - _Data Analyst - Billing Systems_
+- **Sggovterp** - 33 role(s), latest 2026-11-23 - _Lead Software Engineer / Software Engineering Manager_
+- **ATOMS Careers page** - 31 role(s), 3 intern, latest 2026-11-19 - _AI Research Intern  (BS/MS)_
+- **Cisco** - 31 role(s), 22 intern, latest 2026-11-23 - _Software Technical Leader (Remote)_
+- **Cmu** - 31 role(s), 7 intern, latest 2026-11-19 - _Full-Stack Software Development Intern_
+- **Everpure** - 31 role(s), 1 intern, latest 2026-11-18 - _AI Enablement Engineer_
+- **Garmin** - 31 role(s), 31 intern, latest 2026-11-23 - _Software Engineer Intern_
+- **Zipline ** - 30 role(s), 10 intern, latest 2026-11-23 - _AI Tooling Software Engineer - Data Platform, Autonomy_
+- **Comcast** - 29 role(s), latest 2026-11-23 - _Senior Manager, Software Engineering ( Chicago - Hybrid) - FreeWheel_
+- **General Dynamics Information Technology** - 29 role(s), 29 intern, latest 2026-11-20 - _Data & Analytics Intern_
+- **Intel** - 29 role(s), 29 intern, latest 2026-11-18 - _Software Engineering - PhD Intern_
+- **Harvey** - 28 role(s), 2 intern, latest 2026-11-21 - _Staff Software Engineer, Backend Platform_
+- **Ramp** - 28 role(s), 9 intern, latest 2026-11-23 - _Senior Engineer, Backend, Vendor Management_
+- **Bjakcareer** - 27 role(s), latest 2026-11-23 - _Full Stack Engineer_
+- **DigitalOcean** - 26 role(s), latest 2026-11-20 - _Director of Research, Agentic AI_
+- **Natera** - 26 role(s), 1 intern, latest 2026-11-23 - _Director of Bioinformatics and Machine Learning_
+- **Paccar** - 26 role(s), 26 intern, latest 2026-11-17 - _Software Developer Intern_
+- **Toshiba Global Commerce Solutions - External** - 26 role(s), 1 intern, latest 2026-11-18 - _AI Data Science & Business Analytics Intern_
+- **Flagship Pioneering, Inc.** - 25 role(s), 10 intern, latest 2026-11-20 - _Director, Health Data Science_
+- **1Password** - 24 role(s), 15 intern, latest 2026-11-19 - _Senior Staff Cloud Platform Engineer_
+- **Asml** - 24 role(s), 21 intern, latest 2026-11-23 - _Internship-Data & AI, Controls_
+- **Emerson Electric** - 24 role(s), 24 intern, latest 2026-11-17 - _Data Analytics Intern_
+- **Hewlett Packard Enterprise** - 24 role(s), 24 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Relx** - 24 role(s), latest 2026-11-20 - _Senior Software Engineer I – Mobile SDK_
+- **True Anomaly** - 24 role(s), latest 2026-11-19 - _Chief Engineer, Ground Software_
+- **Airwallex** - 23 role(s), latest 2026-11-23 - _Senior Software Engineer, Machine Learning Platform_
+- **Commure** - 22 role(s), 1 intern, latest 2026-11-23 - _Staff Software Engineer, Claims & AI Billing_
+- **Esri** - 22 role(s), latest 2026-11-20 - _Backend Software Engineer – TS/SCI_
+- **MongoDB** - 22 role(s), 3 intern, latest 2026-11-23 - _2027 - AI and People Transformation Intern, NYC_
+- **Symbotic** - 22 role(s), 9 intern, latest 2026-11-20 - _Intern- Software Engineer, Front-End_
+- **Novartis** - 21 role(s), 3 intern, latest 2026-11-19 - _Long Term IT Intern, AI & Power Platform_
+- **Samsara** - 21 role(s), 3 intern, latest 2026-11-17 - _Data Engineer_
+- **Airbnb** - 20 role(s), 2 intern, latest 2026-11-23 - _Data Engineer Tech Foundations_
+- **Axon** - 20 role(s), 4 intern, latest 2026-11-20 - _CMM Programmer (Onsite)_
+- **Clarity Innovations** - 20 role(s), latest 2026-11-19 - _AI Engineer, Architect_
+- **Clickhouse** - 20 role(s), latest 2026-11-23 - _Senior Software Engineer (Typescript / Front-end) - AI/ML_
+- **Ghr** - 20 role(s), latest 2026-11-23 - _Infrastructure Engineer Lead_
+- **Mdtkangaroo** - 20 role(s), latest 2026-11-23 - _Senior Software Quality Engineer_
+- **Toast** - 20 role(s), latest 2026-11-23 - _Data Engineer_
+- **Upstart** - 20 role(s), 2 intern, latest 2026-11-19 - _Applied Scientist_
+- **Bose** - 19 role(s), 19 intern, latest 2026-11-18 - _Data Science Co-op - NLP & GenAI_
+- **SharkNinja** - 19 role(s), 5 intern, latest 2026-11-19 - _Applied AI, Analytics & Data Science Intern Summer Opportunities (May-Aug 2027)_
+- **Cohere** - 18 role(s), latest 2026-11-17 - _Senior Full-Stack Engineer, Annotation Platform _
+- **GitLab** - 18 role(s), latest 2026-11-17 - _Backend Engineer, GitLab Orbit_
+- **Handshake** - 18 role(s), latest 2026-11-20 - _Forward Deployed Engineer, Enterprise AI_
+- **Nelnet** - 18 role(s), 10 intern, latest 2026-11-20 - _IT Software Engineer - DBA_
+- **Trm Labs** - 18 role(s), latest 2026-11-17 - _Software Engineer, Backend_
+- **Twenty** - 18 role(s), latest 2026-11-19 - _Applied AI Engineer_
+- **Formlabs** - 17 role(s), 6 intern, latest 2026-11-19 - _Embedded Software Engineer - Entry Level_
+- **Saabgroup** - 17 role(s), latest 2026-11-20 - _Systemutvecklare inom Computer Vision, AI och bildbehandling_
+- **Scout Motors** - 17 role(s), latest 2026-11-20 - _AI Infrastructure Engineer_
+- **Supabase** - 17 role(s), latest 2026-11-23 - _Storage Platform Engineer_
+- **Woven By Toyota** - 17 role(s), latest 2026-11-20 - _AI プラットフォームエンジニア (MLOps/LLMOps)_
+- **Barclays** - 16 role(s), 2 intern, latest 2026-11-23 - _Lead Platform Engineer_
+- **Draper** - 16 role(s), 1 intern, latest 2026-11-23 - _Embedded Software Engineer_
+- **Elevenlabs** - 16 role(s), latest 2026-11-17 - _Full-Stack Engineer (Backend Leaning)_
+- **iCapital** - 16 role(s), latest 2026-11-16 - _ AI Engineer- Assistant Vice President_
+- **Legora** - 16 role(s), latest 2026-11-23 - _Software Engineer - Platform Team _
+- **Marvell** - 16 role(s), 16 intern, latest 2026-11-17 - _Firmware Engineer Intern_
+- **Nord Security** - 16 role(s), latest 2026-11-17 - _Application Security Engineer_
+- **Relativity Space** - 16 role(s), latest 2026-11-19 - _Flight Software Engineer II_
+- **Higgsfieldai** - 15 role(s), latest 2026-11-23 - _AI Engineer_
+- **John Deere** - 15 role(s), 11 intern, latest 2026-11-20 - _Data & Analytics Intern_
+- **Life360** - 15 role(s), latest 2026-11-19 - _Director, AI Platforms_
+- **North Point Technology** - 15 role(s), latest 2026-11-20 - _Cloud Engineer - Serverless & Identity (Top Secret/SCI Required)_
+- **Simspace Corporation** - 15 role(s), latest 2026-11-18 - _Senior Software Engineer, Backend_
+- **Two Six Technologies** - 15 role(s), 2 intern, latest 2026-11-20 - _Lead DevOps Engineer_
+- **C3 AI** - 14 role(s), 4 intern, latest 2026-11-19 - _Associate Site Reliability Engineer/Site Reliability Engineer_
+- **Defense Unicorns** - 14 role(s), latest 2026-11-16 - _Agentic AI Engineer_
+- **Earlywarning** - 14 role(s), latest 2026-11-20 - _Staff Engineer - Platform Engineering_
+- **Ensono** - 14 role(s), latest 2026-11-20 - _Mainframe Systems Programmer - CICS & WAS_
+- **Oscar Health** - 14 role(s), 2 intern, latest 2026-11-23 - _Director, Analytics Engineering_
+- **Rockwell Automation** - 14 role(s), 14 intern, latest 2026-11-21 - _AI Software Engineering Co-op - 6 months - 8 months_
+- **Dentsuaegis** - 13 role(s), 1 intern, latest 2026-11-23 - _Software / Salesforce Developer intern_
+- **GM financial** - 13 role(s), 13 intern, latest 2026-11-17 - _Data Science Intern_
+- **Lutron** - 13 role(s), 13 intern, latest 2026-11-19 - _Embedded Firmware Engineering Intern_
+- **Stone - Linkedin** - 13 role(s), latest 2026-11-23 - _[Bankinkg/Investimentos] Software Engineer Pleno - Golang_
+- **TEGNA Inc.** - 13 role(s), latest 2026-11-17 - _Cloud Team Lead_
+- **Appian Corporation ** - 12 role(s), latest 2026-11-20 - _AI Security Engineer_
+- **BILL** - 12 role(s), latest 2026-11-23 - _Senior Product Data Analyst - AP & Network Analytics_
+- **Iceye** - 12 role(s), latest 2026-11-20 - _Fullstack Engineer, Product Engineering_
+- **Illinois Tool Works** - 12 role(s), 12 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Jabil** - 12 role(s), 10 intern, latest 2026-11-23 - _IT Programmer Analyst Intern_
+- **LinkedIn Job Wrapping** - 12 role(s), 2 intern, latest 2026-11-23 - _AI Adoption Intern_
+- **Point72 ** - 12 role(s), 8 intern, latest 2026-11-17 - _2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research_
+- **Sentilink** - 12 role(s), latest 2026-11-20 - _Senior Software Engineer, Platform/Backend_
+- **Superhuman%20Platform%20Inc** - 12 role(s), latest 2026-11-20 - _Software Engineer, Full-Stack - Growth Platform_
+- **Swarmaero** - 12 role(s), latest 2026-11-16 - _Software Engineer, Real-Time Generalist_
+- **Trace3** - 12 role(s), 3 intern, latest 2026-11-23 - _Architect_
+- **Vailexa ** - 12 role(s), latest 2026-11-21 - _AI Customer Assurance Engineer / AI Product Support Engineer_
+- **Verizon** - 12 role(s), latest 2026-11-23 - _Engineer III - Software Engineer_
+- **Verra Mobility** - 12 role(s), latest 2026-11-17 - _DevOps Engineer_
+- ** ALO** - 11 role(s), latest 2026-11-17 - _Buying & Merchandising AI Analyst_
+- **Alteryx** - 11 role(s), latest 2026-11-19 - _Senior Software Engineer - Orchestration & Job Execution_
+- **Constellation Brands** - 11 role(s), 11 intern, latest 2026-11-20 - _AI Enablement Intern_
+- **Docker** - 11 role(s), latest 2026-11-19 - _Senior Software Engineer, Tooling (West Coast Preferred)_
+- **Expedia** - 11 role(s), latest 2026-11-20 - _Principal Data & AI Engineer, Reporting and Insights_
+- **Garner Health** - 11 role(s), 1 intern, latest 2026-11-18 - _Associate Applied Scientist_
+- **Parallelwireless** - 11 role(s), latest 2026-11-23 - _AI Engineering Team Manager_
+- **Reflectionai** - 11 role(s), latest 2026-11-16 - _Member of Technical Staff - Safety_
+- **Robert Bosch Venture Capital** - 11 role(s), 11 intern, latest 2026-11-17 - _Calibration Process Data Science Intern - 8 months/40 hours per week_
+- **Terac** - 11 role(s), latest 2026-11-19 - _AI Evaluators: Assessing A Shopping Assistant_
+- **Texas Instruments** - 11 role(s), 11 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Tripledot Studios** - 11 role(s), latest 2026-11-23 - _AI Game Creator (R&D)_
+- **Voyager Technologies, Inc.** - 11 role(s), 2 intern, latest 2026-11-23 - _2027 Software Engineering Intern _
+- **Vultr** - 11 role(s), latest 2026-11-23 - _Senior Linux System Administrator_
+- **Apple** - 10 role(s), 10 intern, latest 2026-11-20 - _SoC Machine Learning Software Engineer Intern_
+- **Axle** - 10 role(s), latest 2026-11-23 - _Bioinformatics / Data Scientist_
+- **BETA Technologies** - 10 role(s), latest 2026-11-23 - _AI / ML Engineer, Advanced Concepts_
+- **Cadence Design Systems** - 10 role(s), 10 intern, latest 2026-11-19 - _Software Engineering Intern_
+- **Connections Health Solutions** - 10 role(s), latest 2026-11-23 - _Case Manager (FT, Back End Days)_
+- **Constellation Energy** - 10 role(s), 10 intern, latest 2026-11-20 - _Information Technology Software Development Intern_
+- **Impact.Com** - 10 role(s), latest 2026-11-17 - _Associate Data Platform Engineer_
+- **Oddball** - 10 role(s), latest 2026-11-22 - _Applied AI/ML Engineer_
+- **Pae** - 10 role(s), latest 2026-11-23 - _Jr. Data Engineer_
+- **Torc Robotics** - 10 role(s), latest 2026-11-19 - _Autonomy Software Integration Engineer II_
+- **Aerovect** - 9 role(s), latest 2026-11-18 - _Staff Software Engineer, Localization_
+- **Alkami** - 9 role(s), latest 2026-11-20 - _Sr. Forward Deployed Engineer_
+- **APEX Analytix** - 9 role(s), 9 intern, latest 2026-11-23 - _Data Science Intern_
+- **Athenahealth** - 9 role(s), latest 2026-11-23 - _Lead Data Engineer_
+- **Box** - 9 role(s), latest 2026-11-19 - _Machine Learning Engineer III, Shield_
+- **Code Metal** - 9 role(s), latest 2026-11-19 - _Lead Backend Engineer (Modeling & Simulation)_
+- **Deepgram** - 9 role(s), latest 2026-11-18 - _Senior Data Scientist, Audio_
+- **First Resonance** - 9 role(s), 3 intern, latest 2026-11-23 - _Forward Deployed Software Engineer (San Francisco)_
+- **GuidePoint Security** - 9 role(s), 3 intern, latest 2026-11-20 - _AI Security Engineer - North Central region (Remote in the U.S.)_
+- **iFood** - 9 role(s), latest 2026-11-17 - _Cientista de Dados Especialista - LCM (LLM)_
+- **Instacart** - 9 role(s), latest 2026-11-23 - _Business Intelligence Manager II_
+- **National Information Solutions Cooperative (NISC)** - 9 role(s), 3 intern, latest 2026-11-16 - _Database Conversion (ETL) Programmer_
 - **Sandboxaq** - 9 role(s), latest 2026-11-16 - _AI Engineer_
-- **Sentilink** - 9 role(s), latest 2026-11-16 - _Senior Software Engineer, Platform/Backend_
-- **Simspace Corporation** - 9 role(s), latest 2026-11-13 - _Senior Software Engineer, Backend_
-- **Tamus** - 9 role(s), latest 2026-11-11 - _Assistant Professor of Petroleum Engineering (Artificial Intelligence)_
-- **Torc Robotics** - 9 role(s), latest 2026-11-10 - _Engineer II - Systems and Software Quality_
-- **Uipath** - 9 role(s), 4 intern, latest 2026-11-16 - _Principal Software Engineer - Document Understanding_
-- **Vultr** - 9 role(s), latest 2026-11-11 - _Senior Linux System Administrator_
-- **Ancestry** - 8 role(s), 6 intern, latest 2026-11-16 - _Senior Site Reliability Engineer_
-- **Compeer Financial** - 8 role(s), 2 intern, latest 2026-11-10 - _Principal AI Platform Engineer_
-- **Dickssportinggoods** - 8 role(s), latest 2026-11-16 - _Team Captain Endzone & Loyalty (Front End)_
-- **Echodyne Corp** - 8 role(s), latest 2026-11-12 - _Federal Emerging Partner Business Developer (BD)_
-- **Entegris** - 8 role(s), 8 intern, latest 2026-11-12 - _Power Platform / Copilot Studio Intern – AI - Summer Intern_
-- **Fanniemae** - 8 role(s), latest 2026-11-13 - _Software Engineer - Associate (AWS)_
+- **Space Dynamics Laboratory** - 9 role(s), 8 intern, latest 2026-11-19 - _Web Developer Assistant - Enterprise Application Support Team_
+- **Trustly** - 9 role(s), latest 2026-11-20 - _Staff Software Engineer, Payment Gateway_
+- **Uipath** - 9 role(s), 3 intern, latest 2026-11-20 - _Senior Applied Scientist _
+- **ŌURA** - 9 role(s), latest 2026-11-17 - _AI Security Engineer, Detection and Response_
+- **Alpaca ** - 8 role(s), latest 2026-11-19 - _AI Security Engineer_
+- **Anduril** - 8 role(s), 8 intern, latest 2026-11-17 - _Software Engineer Co-op_
+- **Bosch Home Comfort** - 8 role(s), 8 intern, latest 2026-11-18 - _Software Engineer Intern - 8 months/40hrs per week_
+- **Camunda** - 8 role(s), latest 2026-11-17 - _Full Stack Data Engineer_
+- **Coalition, Inc.** - 8 role(s), latest 2026-11-17 - _Embedded AI Builder_
+- **Echodyne Corp** - 8 role(s), latest 2026-11-16 - _Federal Emerging Partner Business Developer (BD)_
+- **Fal Ai** - 8 role(s), latest 2026-11-20 - _Machine Learning Engineer, Safety_
 - **Headway** - 8 role(s), latest 2026-11-16 - _Senior Data Engineer_
-- **LIGHTFEATHER IO LLC** - 8 role(s), latest 2026-11-10 - _Azure Cloud Security Engineer_
+- **Honeywell Aerospace** - 8 role(s), 8 intern, latest 2026-11-20 - _AI Software Engineer Intern_
+- **Hopper** - 8 role(s), latest 2026-11-19 - _Senior Data Scientist- Travel Tech _
+- **LendingTree** - 8 role(s), latest 2026-11-20 - _Manager, Data Science_
+- **LIGHTFEATHER IO LLC** - 8 role(s), latest 2026-11-20 - _Azure Cloud Security Engineer_
 - **Lyceum** - 8 role(s), latest 2026-11-16 - _Member of Technical Staff – Security_
-- **onsemi** - 8 role(s), 8 intern, latest 2026-11-10 - _Manufacturing AI Engineering Intern_
-- **Pika** - 8 role(s), 2 intern, latest 2026-11-10 - _Research Scientist, Post-Training — Video Generation_
-- **Radai** - 8 role(s), latest 2026-11-10 - _Senior Data Engineer_
-- **Telus Digital** - 8 role(s), 2 intern, latest 2026-11-11 - _Infrastructure DevOps_
-- **Terac** - 8 role(s), latest 2026-11-12 - _AI Evaluators: Assessing A Shopping Assistant_
-- **Typesafe Ai** - 8 role(s), latest 2026-11-13 - _Developer Advocate_
-- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
-- **Valon** - 8 role(s), 3 intern, latest 2026-11-16 - _Senior Cloud Infrastructure Engineer_
-- **ŌURA** - 8 role(s), latest 2026-11-10 - _AI Security Engineer, Detection and Response_
-- **Camunda** - 7 role(s), latest 2026-11-16 - _Full Stack Data Engineer_
-- **Cox** - 7 role(s), 5 intern, latest 2026-11-16 - _Entry Level Software Engineer - Atlanta, GA_
-- **Cresta** - 7 role(s), latest 2026-11-12 - _AI Agent Evaluation Engineer_
-- **Elevancehealth** - 7 role(s), latest 2026-11-16 - _Gen AI Engineer III_
-- **Graco** - 7 role(s), 5 intern, latest 2026-11-10 - _AI intern_
-- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
-- **Harmattan Ai** - 7 role(s), latest 2026-11-10 - _Deployment Lead - Software Platform Morocco_
-- **Instacart** - 7 role(s), latest 2026-11-12 - _Senior Machine Learning Engineer, Fulfillment_
-- **IonQ** - 7 role(s), latest 2026-11-16 - _Senior Front End Engineer_
-- **Jabil** - 7 role(s), 7 intern, latest 2026-11-12 - _Supply Chain Data Analyst Intern_
-- **KION Group** - 7 role(s), 7 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **National Interstate Insurance** - 7 role(s), 7 intern, latest 2026-11-09 - _Data Engineering Intern_
-- **Nshe** - 7 role(s), latest 2026-11-13 - _Postdoctoral Scholar, Machine Learning for Manufacturing and Engineering Design_
-- **Openloophealth** - 7 role(s), latest 2026-11-14 - _Senior Staff Applied AI Engineer _
-- **Penn Interactive** - 7 role(s), latest 2026-11-10 - _Business Intelligence Engineer_
-- **Pwc** - 7 role(s), latest 2026-11-16 - _AI Specialist_
-- **Redwood Materials** - 7 role(s), latest 2026-11-09 - _Battery Software & Controls Integration Engineer, Energy Storage_
-- **Robots and Pencils** - 7 role(s), latest 2026-11-12 - _ Principal Applied Scientist _
-- **Ruby Labs** - 7 role(s), latest 2026-11-13 - _Middle Full-Stack Developer (Next.js)_
-- **SAS** - 7 role(s), 7 intern, latest 2026-11-14 - _Software Development and Testing Intern_
-- **Snhu** - 7 role(s), latest 2026-11-13 - _Director of AI Solutions Partners_
-- **Solvd** - 7 role(s), latest 2026-11-13 - _Senior Data Engineer — Retrieval & RAG Platform _
-- **Triumph Arcade** - 7 role(s), latest 2026-11-13 - _Senior Software Engineer, Rips (Web)_
-- **Vannevar** - 7 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Webai** - 7 role(s), latest 2026-11-10 - _Director of Applied AI_
+- **Minitab ** - 8 role(s), 3 intern, latest 2026-11-18 - _Senior Software Engineer_
+- **National Interstate Insurance** - 8 role(s), 8 intern, latest 2026-11-18 - _Data Engineering Intern_
+- **Neros Technologies** - 8 role(s), 2 intern, latest 2026-11-22 - _Firmware/Embedded Software Engineer Intern - Summer 2027_
+- **Openloophealth** - 8 role(s), latest 2026-11-19 - _Director of AI Experience Design_
+- **SAS** - 8 role(s), 8 intern, latest 2026-11-16 - _Software Development and Testing Intern_
+- **Twilio** - 8 role(s), latest 2026-11-20 - _Developer Evangelist_
+- **Vannevar** - 8 role(s), latest 2026-11-16 - _DevOps Engineer_
+- **Adjoe** - 7 role(s), 1 intern, latest 2026-11-23 - _Senior Go Backend Developer (f/m/d)_
+- **Centific** - 7 role(s), 1 intern, latest 2026-11-21 - _Principal, Applied AI Research Engineer, Vision_
+- **CesiumAstro** - 7 role(s), 7 intern, latest 2026-11-23 - _Software Engineering Intern - Advanced Projects Group_
+- **Chainguard** - 7 role(s), latest 2026-11-19 - _Developer Outreach Lead - Bay Area_
+- **Clarivate** - 7 role(s), latest 2026-11-20 - _Manager, Software Engineering (AI-Assisted Engineering)_
+- **Clickup** - 7 role(s), latest 2026-11-20 - _Principal Frontend Engineer_
+- **Clio** - 7 role(s), latest 2026-11-19 - _Senior Application Security Developer_
+- **Cursor** - 7 role(s), latest 2026-11-18 - _Forward Deployed Engineer_
+- **Ddn** - 7 role(s), latest 2026-11-17 - _Senior Software Engineering Manager – KV Cache Platform_
+- **Dragos** - 7 role(s), latest 2026-11-19 - _Senior AI/ML Engineer_
+- **E2B** - 7 role(s), latest 2026-11-23 - _Software Engineer, Infrastructure_
+- **G2** - 7 role(s), 1 intern, latest 2026-11-20 - _Software Engineering Director, Agentic Evaluations_
+- **Gevernova** - 7 role(s), latest 2026-11-23 - _Développeur(euse) Fullstack Senior_
+- **Graco** - 7 role(s), 4 intern, latest 2026-11-17 - _Software Engineer – ServiceNow_
+- **Kayak** - 7 role(s), latest 2026-11-17 - _Senior JAVA Software Engineer, Ads_
+- **MITRE** - 7 role(s), 7 intern, latest 2026-11-23 - _AI Engineering Intern_
+- **Motive** - 7 role(s), latest 2026-11-19 - _Business Intelligence Analyst II_
+- **Motorola Solutions** - 7 role(s), 7 intern, latest 2026-11-23 - _Software Engineering Co-op_
+- **Oneapp** - 7 role(s), 1 intern, latest 2026-11-19 - _Staff Applied Scientist, Personalization_
+- **Process Street** - 7 role(s), latest 2026-11-17 - _Opus 5.5 AI Video Creator (Remote, Full Time) _
+- **Rackner** - 7 role(s), latest 2026-11-19 - _AI/ML Engineer — Active TS/SCI_
+- **Rivet** - 7 role(s), 1 intern, latest 2026-11-17 - _Senior Software Engineer, SLAM/VIO_
+- **Samsung Semiconductor** - 7 role(s), 7 intern, latest 2026-11-18 - _Systems Software Engineering Intern_
+- **Smartsheet** - 7 role(s), latest 2026-11-23 - _Employee Data Analyst (Hybrid Eligible - Costa Rica)_
+- **TribalScale** - 7 role(s), latest 2026-11-20 - _AI Engineer - Agent Infrastructure & AI Workflow_
+- **Valon** - 7 role(s), 2 intern, latest 2026-11-16 - _Senior Cloud Infrastructure Engineer_
+- **Vanta** - 7 role(s), latest 2026-11-23 - _AI Agent Support Specialist_
+- **Vertiv** - 7 role(s), 7 intern, latest 2026-11-19 - _Firmware Engineer Intern - Summer 2027_
+- **Webai** - 7 role(s), latest 2026-11-23 - _Director of Applied AI_
+- **Wikimedia Foundation** - 7 role(s), 2 intern, latest 2026-11-23 - _Senior Data Scientist, Safety & Security_
+- **Xero** - 7 role(s), latest 2026-11-23 - _Senior Backend Engineer, Payments Platform_
 - **Altice USA** - 6 role(s), 6 intern, latest 2026-11-16 - _Software Development Intern_
-- **AssemblyAI** - 6 role(s), latest 2026-11-09 - _Applied AI Engineer_
-- **Assurant** - 6 role(s), 5 intern, latest 2026-11-13 - _Senior Insights Analyst - Data Analytics_
-- **BetterHelp** - 6 role(s), latest 2026-11-09 - _Data Science Extern_
-- **CesiumAstro** - 6 role(s), 6 intern, latest 2026-11-09 - _Software Engineering Intern - Advanced Projects Group_
-- **Discord** - 6 role(s), latest 2026-11-12 - _Engineering Manager, Machine Learning (Safety)_
-- **DwyerOmega** - 6 role(s), 6 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Fal Ai** - 6 role(s), latest 2026-11-13 - _Machine Learning Engineer, Safety_
-- **Fresenius Medical Care** - 6 role(s), 6 intern, latest 2026-11-12 - _Software Engineering Co-op_
-- **Grupo QuintoAndar** - 6 role(s), latest 2026-11-09 - _Grupo QuintoAndar_
-- **InMobi ** - 6 role(s), latest 2026-11-12 - _AI Engineer_
-- **itD Tech** - 6 role(s), latest 2026-11-13 - _Data Analyst V (6347)_
-- **Livekit** - 6 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
-- **Lowes** - 6 role(s), latest 2026-11-16 - _Software Engineer - Full Stack_
-- **Medpace** - 6 role(s), 6 intern, latest 2026-11-12 - _Junior Business Intelligence Engineer Intern_
-- **Mozilla** - 6 role(s), latest 2026-11-12 - _Software Engineering Manager, Cloud Engineering_
-- **National Laboratory of the Rockies** - 6 role(s), 6 intern, latest 2026-11-12 - _Graduate Geospatial Data Science Modeling and Analysis Intern_
-- **NBCUniversal** - 6 role(s), 6 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Nectar Social** - 6 role(s), latest 2026-11-10 - _Member of Technical Staff_
-- **Nerdwallet** - 6 role(s), latest 2026-11-11 - _Software Engineer, AI & Automation_
-- **North Atlantic Industries** - 6 role(s), 6 intern, latest 2026-11-12 - _Software Engineer Intern_
-- **Nrel** - 6 role(s), 4 intern, latest 2026-11-13 - _Graduate Intern – Power Data Analysis for AI Data Centers_
-- **Rain Technologies** - 6 role(s), latest 2026-11-12 - _Senior Backend Engineer_
-- **Referral Board** - 6 role(s), latest 2026-11-12 - _Director of Data and Analytics, Self Service Cloud_
-- **Tailscale** - 6 role(s), latest 2026-11-13 - _Developer Relations Engineer_
-- **Thinkahead** - 6 role(s), latest 2026-11-10 - _Managed Services - Senior Cloud Engineer_
-- **Tranetechnologies** - 6 role(s), latest 2026-11-11 - _Senior Embedded Software Engineer_
-- **Viavisolutions** - 6 role(s), 1 intern, latest 2026-11-15 - _Early Careers Graduate Rotational Program - R&D Software Development Engineer [Java (Sprin_
-- **Virtahealth** - 6 role(s), latest 2026-11-13 - _Senior Software Engineer - Client Lifecycle_
-- **Vital Lyfe** - 6 role(s), 5 intern, latest 2026-11-12 - _Software Engineer, Backend & Data_
-- **Wonder** - 6 role(s), latest 2026-11-13 - _Infrastructure Engineer, Enterprise AI_
-- **Xero** - 6 role(s), latest 2026-11-15 - _Staff/Lead Software Engineer, Payments_
-- **Abnormal** - 5 role(s), latest 2026-11-13 - _Senior ServiceNow Platform Engineer_
-- **Aptura** - 5 role(s), latest 2026-11-15 - _Radiologist - Chest CT Annotation - AI Project (USA)_
-- **Astera** - 5 role(s), latest 2026-11-13 - _Principal AI Scientist (Polytope Bio)_
-- **Attentive** - 5 role(s), latest 2026-11-16 - _Director of Engineer, AI Developer Experience_
-- **Bask** - 5 role(s), 5 intern, latest 2026-11-13 - _Backend Engineering Intern_
-- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
-- **Dev Technology** - 5 role(s), latest 2026-11-16 - _Mid-Level .NET/Azure Application Developer_
-- **DLH ** - 5 role(s), latest 2026-11-09 - _CANES SME Course Developer  (Job 1488 )_
-- **DreamWorks Animation** - 5 role(s), 5 intern, latest 2026-11-09 - _Software Engineer Intern_
-- **Dropbox** - 5 role(s), 1 intern, latest 2026-11-12 - _Principal Software Engineer, Product Engineering_
-- **EQT Corporation** - 5 role(s), 3 intern, latest 2026-11-09 - _AI Engineer I/II/III_
-- **Factory** - 5 role(s), latest 2026-11-10 - _Developer Relations_
-- **Fieldguide** - 5 role(s), latest 2026-11-09 - _Senior Software Engineer, Agents (Foundation Agents)_
-- **Genentech** - 5 role(s), 5 intern, latest 2026-11-13 - _Machine Learning Intern - OpRegen Machine Learning_
-- **Lockheed Martin** - 5 role(s), 5 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Mark43** - 5 role(s), latest 2026-11-10 - _DevOps Engineer_
-- **Motive** - 5 role(s), latest 2026-11-13 - _Business Intelligence Analyst II_
-- **mthree Recruiting Portal** - 5 role(s), latest 2026-11-12 - _DevOps Engineer/ Production Support Analyst_
-- **NetApp** - 5 role(s), 5 intern, latest 2026-11-14 - _Software Engineer Intern_
-- **Netic** - 5 role(s), latest 2026-11-15 - _Forward Deployed Engineer_
-- **New Leaf Energy, Inc.** - 5 role(s), latest 2026-11-12 - _Associate Project Developer, Mid-Atlantic_
-- **Oddball** - 5 role(s), latest 2026-11-10 - _Applied AI/ML Engineer_
-- **Protective** - 5 role(s), latest 2026-11-13 - _AI/ML Engineering Lead_
-- **Rackner** - 5 role(s), latest 2026-11-09 - _AI/ML Engineer — Active TS/SCI_
-- **Rb** - 5 role(s), 3 intern, latest 2026-11-13 - _Summer 2027 Intern-Data Science and Business Analytics_
-- **Riot Games** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Rivet** - 5 role(s), 1 intern, latest 2026-11-10 - _Senior Software Engineer, SLAM/VIO_
-- **Runpod** - 5 role(s), latest 2026-11-12 - _Senior Full Stack Security Engineer (Application & Product)_
-- **Seagate Technology** - 5 role(s), 5 intern, latest 2026-11-14 - _Software and Data Analytics Development Intern, AFM_
-- **Silver** - 5 role(s), latest 2026-11-10 - _Siena - Fullstack Engineer_
+- **Analog Devices** - 6 role(s), 6 intern, latest 2026-11-17 - _AI/ML Engineer Intern_
+- **Attentive** - 6 role(s), latest 2026-11-23 - _Director, AI Developer Experience_
+- **Backblaze External Website** - 6 role(s), latest 2026-11-19 - _AI Specialist & Executive Program Lead_
+- **Coder** - 6 role(s), latest 2026-11-23 - _Senior Software Engineer (Agentic Engineering, US)_
+- **Cohere Health** - 6 role(s), latest 2026-11-20 - _Lead DevOps Engineer _
+- **Cresta** - 6 role(s), latest 2026-11-18 - _AI Agent Evaluation Engineer_
+- **DLH ** - 6 role(s), latest 2026-11-20 - _AI Process Automation Engineer - Security (Job 1534)_
+- **EQT Corporation** - 6 role(s), 3 intern, latest 2026-11-18 - _AI Engineer I/II/III_
+- **Fieldguide** - 6 role(s), latest 2026-11-17 - _Senior Software Engineer, Agents (Foundation Agents)_
+- **itD Tech** - 6 role(s), latest 2026-11-19 - _Data Analyst V (6347)_
+- **LabCorp** - 6 role(s), 6 intern, latest 2026-11-22 - _Agentic AI Developer Co-op_
+- **Lincoln Property Company** - 6 role(s), latest 2026-11-21 - _AI Solutions ANalyst_
+- **Lockheed Martin** - 6 role(s), 6 intern, latest 2026-11-19 - _Software Engineer Intern_
+- **Lumeris** - 6 role(s), latest 2026-11-18 - _Principal Mobile Software Engineer_
+- **Meridianlink** - 6 role(s), latest 2026-11-23 - _Forward Deployed AI Engineer _
+- **Modivcare** - 6 role(s), latest 2026-11-19 - _Site Reliability Engineer IV_
+- **Nebius** - 6 role(s), 1 intern, latest 2026-11-18 - _Senior Customer AI Engineer - Token Factory_
+- **Northbeam** - 6 role(s), latest 2026-11-20 - _Data Scientist_
+- **Patrianna** - 6 role(s), latest 2026-11-18 - _Data Engineer_
+- **Patronus AI, Inc.** - 6 role(s), latest 2026-11-21 - _Expert: Interactive Coding, Core Banking (Contract, Remote)_
+- **Quince** - 6 role(s), latest 2026-11-16 - _Infrastructure & DevOps Engineer III_
+- **Rain Technologies** - 6 role(s), latest 2026-11-23 - _Senior Backend Engineer_
+- **Robots and Pencils** - 6 role(s), latest 2026-11-18 - _ Principal Applied Scientist _
+- **Silver** - 6 role(s), latest 2026-11-18 - _Siena - Fullstack Engineer_
+- **Southern Farm Bureau Life Insurance** - 6 role(s), 6 intern, latest 2026-11-20 - _Data Analytics Intern_
+- **Truelogic** - 6 role(s), latest 2026-11-23 - _Senior Frontend Engineer - Fintech_
+- **Vast** - 6 role(s), latest 2026-11-17 - _CNC Programmer_
+- **Virtahealth** - 6 role(s), latest 2026-11-20 - _Senior Software Engineer - Client Lifecycle_
+- **Ace** - 5 role(s), latest 2026-11-20 - _Data Scientist 1_
+- **Artefact** - 5 role(s), 3 intern, latest 2026-11-23 - _Manager, AI Applied Engineer (Forward Deployed)_
+- **Astera** - 5 role(s), latest 2026-11-16 - _Principal AI Scientist (Polytope Bio)_
+- **Attain** - 5 role(s), latest 2026-11-19 - _Senior Machine Learning Engineer_
+- **Centene** - 5 role(s), 5 intern, latest 2026-11-20 - _AI Enablement Intern_
+- **Clover Health** - 5 role(s), latest 2026-11-17 - _DRG Inpatient Coding Validator_
+- **CoLab Software** - 5 role(s), latest 2026-11-19 - _Mechanical Forward Deployed Engineer_
+- **Epiqsystems** - 5 role(s), latest 2026-11-23 - _Software Engineer, Backend_
+- **Five9** - 5 role(s), latest 2026-11-20 - _Senior Director, GTM Data Engineering _
+- **Genentech** - 5 role(s), 5 intern, latest 2026-11-19 - _Applied GenAI Scientist Intern - GenAI Applications_
+- **Hyperbolic** - 5 role(s), latest 2026-11-23 - _Senior Data Engineer_
+- **Icf** - 5 role(s), 3 intern, latest 2026-11-18 - _2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)_
+- **ICON** - 5 role(s), latest 2026-11-23 - _Manager, Robotics Software_
+- **IonQ** - 5 role(s), latest 2026-11-16 - _Senior Front End Engineer_
+- **Kudu Dynamics** - 5 role(s), 5 intern, latest 2026-11-23 - _Software Engineering & AI Intern_
+- **Langan Engineering & Environmental Services** - 5 role(s), latest 2026-11-18 - _Data Scientist - SAC_
+- **Netskope** - 5 role(s), latest 2026-11-17 - _Cloud Systems Engineer_
+- **Oclc** - 5 role(s), latest 2026-11-17 - _Senior Software Engineer_
+- **onX** - 5 role(s), latest 2026-11-20 - _Backend Engineer  III - Identity & Access Management_
+- **OpenEye** - 5 role(s), latest 2026-11-19 - _Department Administrator, Software Engineering_
+- **Openrouter** - 5 role(s), latest 2026-11-19 - _Software Engineer, Developer Products_
+- **Owner** - 5 role(s), latest 2026-11-18 - _Staff Software Engineer, Backend (Grader)_
+- **Palmetto Clean Technology** - 5 role(s), latest 2026-11-18 - _Director, Data & AI _
+- **ParetoHealth** - 5 role(s), 2 intern, latest 2026-11-19 - _Lead Data Scientist_
+- **Phizenix** - 5 role(s), latest 2026-11-17 - _Agile Coach (AI-Native / Agentic Ways of Working) _
+- **Preply** - 5 role(s), latest 2026-11-20 - _Senior Platform Software Engineer - R&D Automation_
+- **Reolink** - 5 role(s), latest 2026-11-19 - _Java Programmer (Junior / Senior / Lead)_
+- **Richemont** - 5 role(s), latest 2026-11-23 - _.Net Software Engineer_
+- **Saab** - 5 role(s), 5 intern, latest 2026-11-23 - _Software Engineer Co-op_
+- **Sparksoft Corporation** - 5 role(s), latest 2026-11-20 - _Data Scientist _
 - **Starbridge** - 5 role(s), latest 2026-11-16 - _Senior Security & Infrastructure Engineer_
-- **Tensorwave** - 5 role(s), 2 intern, latest 2026-11-13 - _Software Engineer (Full Stack)_
-- **Tilthq** - 5 role(s), latest 2026-11-13 - _Data Science Manager, LATAM_
-- **Zotec Partners** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineer Intern - Rci_
-- **Analog Devices** - 4 role(s), 4 intern, latest 2026-11-09 - _AI/ML Engineer Intern_
-- **Brigade Health** - 4 role(s), latest 2026-11-13 - _Mobile Phlebotomist & Medical Assistant_
-- **Buzz Solutions** - 4 role(s), latest 2026-11-12 - _Senior Backend Engineer, Data & Integrations_
-- **Clover Health** - 4 role(s), latest 2026-11-11 - _DRG Inpatient Coding Validator_
-- **Constructor** - 4 role(s), latest 2026-11-13 - _Staff Backend Engineer - Search Features & APIs (SABR)_
-- **Crestwood Behavioral Health, Inc.** - 4 role(s), latest 2026-11-12 - _Mobile Crisis LVN_
-- **Daimler Truck** - 4 role(s), 4 intern, latest 2026-11-13 - _Data Science Intern_
-- **Dragos** - 4 role(s), latest 2026-11-13 - _Senior AI/ML Engineer_
-- **Farmers Mutual Hail** - 4 role(s), 4 intern, latest 2026-11-11 - _Software Developer Intern_
-- **Forward%20Financing** - 4 role(s), latest 2026-11-13 - _Principal Software Engineer_
-- **Foundationhealthcareers** - 4 role(s), latest 2026-11-11 - _Principal Software Engineer_
-- **Freshfields** - 4 role(s), latest 2026-11-11 - _DevOps/Infrastructure Engineer_
-- **Genesys** - 4 role(s), latest 2026-11-13 - _Sr. Salesforce Developer_
-- **Invitation-charter** - 4 role(s), 4 intern, latest 2026-11-10 - _Data Science Intern_
-- **Johns Hopkins APL** - 4 role(s), 4 intern, latest 2026-11-10 - _Cybersecurity Software Developer Intern_
-- **Langan Engineering & Environmental Services** - 4 role(s), latest 2026-11-11 - _Data Scientist - SAC_
-- **Lincoln Property Company** - 4 role(s), latest 2026-11-13 - _Mobile Building Engineer_
-- **Maincode** - 4 role(s), 1 intern, latest 2026-11-10 - _Commercial Counsel (AI & Technology)_
-- **Minitab ** - 4 role(s), 1 intern, latest 2026-11-11 - _DevOps Engineer_
-- **Newtonx** - 4 role(s), latest 2026-11-09 - _Project Lead, AI Model Training_
-- **Nextgenfed** - 4 role(s), latest 2026-11-13 - _GIS Data Analyst_
-- **Nordsonhcm** - 4 role(s), 1 intern, latest 2026-11-10 - _Software Intern_
-- **Omada Health** - 4 role(s), latest 2026-11-12 - _Clinical Research Scientist_
-- **onX** - 4 role(s), latest 2026-11-10 - _Backend Engineer  III - Identity & Access Management_
-- **Pierrefabre** - 4 role(s), latest 2026-11-16 - _AI SOLUTIONS ARCHITECT & ENGINEER - M/F- CDI_
+- **Tilthq** - 5 role(s), latest 2026-11-17 - _Senior Data Scientist, Methodologies_
+- **Western Digital** - 5 role(s), 5 intern, latest 2026-11-18 - _Recording Electronics Data Analytics & Optimization Co-op_
+- **Ília** - 5 role(s), latest 2026-11-23 - _PL Desenvolvimento Full Stack (Java e React)_
+- **Ardent** - 4 role(s), latest 2026-11-19 - _Cloud Network Engineer_
+- **Auctane ** - 4 role(s), 1 intern, latest 2026-11-20 - _Associate Software Engineer - internship_
+- **Borgwarner** - 4 role(s), 3 intern, latest 2026-11-17 - _Software Test Intern_
+- **Brigade Health** - 4 role(s), latest 2026-11-17 - _Geriatric Primary Care NP/PA (Mobile Practice)_
+- **Cadence** - 4 role(s), 4 intern, latest 2026-11-20 - _Intern: Software Engineering Jasper R&D_
+- **Counterpart Health** - 4 role(s), latest 2026-11-17 - _Senior Data Scientist_
+- **Darktrace** - 4 role(s), latest 2026-11-19 - _Senior Software Engineer - Quality & Reliability_
+- **Dev Technology** - 4 role(s), latest 2026-11-16 - _Mid-Level .NET/Azure Application Developer_
+- **Disney** - 4 role(s), 4 intern, latest 2026-11-17 - _Product & Technology Software Engineering Intern_
+- **EnergyHub** - 4 role(s), latest 2026-11-18 - _Energy Data Scientist_
+- **Extend** - 4 role(s), latest 2026-11-19 - _Senior AI Software Engineer, AI Enablement_
+- **Fictiv** - 4 role(s), latest 2026-11-17 - _Senior AI Growth Engineer _
+- **G2I** - 4 role(s), latest 2026-11-22 - _Staff Software Engineer (AI Evals)_
+- **GoFasti** - 4 role(s), latest 2026-11-18 - _1192 - Sr. BIM Software Developer_
+- **Halter** - 4 role(s), latest 2026-11-19 - _Lead Machine Learning Engineer_
+- **HexArmor** - 4 role(s), 2 intern, latest 2026-11-17 - _Business Intelligence Analyst _
+- **HubSpot** - 4 role(s), latest 2026-11-20 - _Manager, Analytics Engineering, Data & AI Foundations_
+- **Imagineart** - 4 role(s), latest 2026-11-19 - _Senior Backend Engineer_
+- **Inductive Automation Llc** - 4 role(s), latest 2026-11-23 - _Senior Cloud Engineer I (IT)_
+- **iSpot** - 4 role(s), latest 2026-11-22 - _Associate Data Analyst_
+- **Keycard Labs** - 4 role(s), latest 2026-11-18 - _Software Engineer, SDK_
+- **LG Electronics** - 4 role(s), latest 2026-11-23 - _Business Data Analyst_
+- **ManTech** - 4 role(s), 4 intern, latest 2026-11-23 - _AI Workflow Intern_
+- **Manulife** - 4 role(s), 2 intern, latest 2026-11-20 - _Spring Co-op 2027 - Software Engineering, Security & Operations_
+- **Micron** - 4 role(s), latest 2026-11-23 - _Staff Semiconductor Applied AI Engineer_
+- **Morgan & Morgan, P.A.** - 4 role(s), latest 2026-11-20 - _Case Developer _
+- **Netboxlabs** - 4 role(s), latest 2026-11-20 - _Senior Software Backend Engineer, Foundations_
+- **Nordsonhcm** - 4 role(s), 1 intern, latest 2026-11-16 - _Intern (Software Engineering)_
+- **NPR** - 4 role(s), latest 2026-11-23 - _Cloud Systems Engineer_
+- **Oscilar** - 4 role(s), latest 2026-11-23 - _Staff Data Scientist_
+- **Pacific Fusion** - 4 role(s), 4 intern, latest 2026-11-16 - _Summer 2027 HPC/DevOps Engineering Intern_
+- **Pindrop** - 4 role(s), latest 2026-11-17 - _Research Scientist (Future)_
+- **Pinecone** - 4 role(s), latest 2026-11-19 - _Staff Developer Advocate _
+- **Posthog** - 4 role(s), latest 2026-11-16 - _Site Reliability Engineer (US - Pacific time)_
+- **Quantum Space** - 4 role(s), latest 2026-11-17 - _EGSE/Avionics Test Software Engineer_
+- **Qube Research & Technologies** - 4 role(s), latest 2026-11-23 - _C++ Software Engineer - Core Trading Technology_
 - **Quora** - 4 role(s), latest 2026-11-16 - _Senior Software Engineer - Infrastructure Security (Remote)_
-- **Samsung Semiconductor** - 4 role(s), 4 intern, latest 2026-11-13 - _Systems Software Engineering Intern_
-- **Sewer Ai** - 4 role(s), latest 2026-11-12 - _Senior/Staff Software Engineer_
-- **SimVentions** - 4 role(s), 4 intern, latest 2026-11-11 - _Software Development Intern_
-- **Spear Ai** - 4 role(s), latest 2026-11-09 - _Meridian: Forward Deployed Infrastructure Engineer (Senior / Suitland, MD / Hybrid) [TS/SC_
-- **Td** - 4 role(s), latest 2026-11-16 - _Software Engineer-III (Full Stack/API Integration)_
-- **TextNow, Inc.** - 4 role(s), latest 2026-11-13 - _Data Scientist_
-- **Thndr** - 4 role(s), latest 2026-11-11 - _Senior DevOps/Infrastructure Engineer_
-- **Valar Atomics** - 4 role(s), latest 2026-11-12 - _Principal Software Engineer _
-- **Vertiv** - 4 role(s), 4 intern, latest 2026-11-11 - _Firmware Engineer Intern - Summer 2027_
-- **Witnessai** - 4 role(s), latest 2026-11-13 - _Head of DevOps_
-- ** Bloomerang** - 3 role(s), latest 2026-11-11 - _Software Engineer (PDLC Tooling + Automation)_
-- **Aledade** - 3 role(s), latest 2026-11-12 - _Program Data Analyst, Michigan_
-- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
-- **Banyan Software** - 3 role(s), latest 2026-11-12 - _Forward Deployed Engineer_
-- **Bnl** - 3 role(s), latest 2026-11-10 - _Postdoctoral AI Researcher in Power Systems_
-- **C5MI Insight** - 3 role(s), latest 2026-11-13 - _SAP BTP Integration Developer_
-- **Careers at Eucalyptus** - 3 role(s), latest 2026-11-13 - _AI Production Lead_
-- **Cboe Global Markets** - 3 role(s), 3 intern, latest 2026-11-12 - _Software Engineer Intern, C++_
-- **Cintas** - 3 role(s), 3 intern, latest 2026-11-13 - _IT OT Software Engineer Intern_
-- **Cohere Health** - 3 role(s), latest 2026-11-09 - _Lead DevOps Engineer _
-- **Coherent Solutions** - 3 role(s), latest 2026-11-09 - _ML Engineer_
-- **Cook Systems** - 3 role(s), latest 2026-11-09 - _Data Analytics - Data Scientist_
-- **Counterpart Health** - 3 role(s), latest 2026-11-09 - _Senior Data Scientist_
-- **DEPT®** - 3 role(s), latest 2026-11-13 - _DevOps Engineer_
-- **DistantJob** - 3 role(s), latest 2026-11-13 - _Applied AI Engineer _
-- **Enviva** - 3 role(s), latest 2026-11-09 - _Mobile Equipment Operator_
-- **Figure Lending** - 3 role(s), latest 2026-11-12 - _Senior Applied Scientist, Property Analytics_
-- **FormFactor** - 3 role(s), 3 intern, latest 2026-11-09 - _Electrical Design Automation Intern - AI & EDA Automation_
-- **Haskell** - 3 role(s), 3 intern, latest 2026-11-09 - _AI Engineering Design Intern for Facility Design_
-- **HubSpot** - 3 role(s), latest 2026-11-13 - _Lead Data Analyst_
-- **Human Interest** - 3 role(s), latest 2026-11-11 - _Engineering Manager - Mobile_
-- **IDEMIA North America** - 3 role(s), 3 intern, latest 2026-11-13 - _Cloud Software Engineering Intern_
-- **Imagineart** - 3 role(s), latest 2026-11-11 - _Senior Backend Engineer_
-- **Intermountain Healthcare** - 3 role(s), 3 intern, latest 2026-11-12 - _AI/ML Engineer Intern_
-- **Irissoftwaregroup** - 3 role(s), latest 2026-11-11 - _Software Support Team Lead - Workforce Management_
-- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
-- **Kudu Dynamics** - 3 role(s), 3 intern, latest 2026-11-12 - _Software Engineering & AI Intern_
-- **Lithic** - 3 role(s), latest 2026-11-13 - _Senior Software Engineer, Issuing_
-- **MKS Instruments** - 3 role(s), 3 intern, latest 2026-11-11 - _Business Intelligence/Data Analytics Intern_
-- **Morgan & Morgan, P.A.** - 3 role(s), latest 2026-11-13 - _Data Scientist_
-- **Nava PBC** - 3 role(s), latest 2026-11-10 - _Senior Infrastructure Manager (Cloud Hosting )_
+- **RF-SMART** - 4 role(s), 3 intern, latest 2026-11-18 - _Senior Manager Software Engineering_
+- **Sallie Mae** - 4 role(s), 4 intern, latest 2026-11-18 - _Data Science and Engineering Intern_
+- **Sash** - 4 role(s), latest 2026-11-20 - _Research Engineer / Research Scientist, Zero-Knowledge Verification_
+- **Sourcegraph** - 4 role(s), latest 2026-11-19 - _AI Transformation Architect [IC4]_
+- **StackAdapt** - 4 role(s), latest 2026-11-19 - _Senior Software Engineer, Data Solutions_
+- **State Street** - 4 role(s), 4 intern, latest 2026-11-22 - _Full Stack Development Intern_
+- **Telnyx** - 4 role(s), latest 2026-11-20 - _Developer Advocate, Edge & IoT_
+- **Thndr** - 4 role(s), latest 2026-11-20 - _Senior Backend Engineer - Experience squad_
+- **Universe** - 4 role(s), latest 2026-11-23 - _Data Platform Engineer _
+- **Valar Atomics** - 4 role(s), latest 2026-11-18 - _AI Security Engineer (AppSec, Cloud & On-Premises) _
+- **Virtru** - 4 role(s), latest 2026-11-18 - _Forward Deployed Engineer - Security Clearance Required_
+- **Wurl** - 4 role(s), 4 intern, latest 2026-11-20 - _Data Engineering Intern (Remote)_
+- **ABC Legal Services** - 3 role(s), latest 2026-11-23 - _DevOps Engineer_
+- **AEVEX** - 3 role(s), latest 2026-11-18 - _Lead Software Platform Engineer - Sr. Software Engineer_
+- **Aledade** - 3 role(s), latest 2026-11-19 - _Operations and AI Enablement Manager, Remote_
+- **Alfalaval** - 3 role(s), latest 2026-11-23 - _Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes br_
+- **Applied Research Associates** - 3 role(s), 3 intern, latest 2026-11-21 - _Software Engineer Intern_
+- **ARCO Companies** - 3 role(s), latest 2026-11-18 - _AI Solutions Analyst _
+- **Armada** - 3 role(s), latest 2026-11-23 - _Field CTO, AI Factory_
+- **Assetmark** - 3 role(s), latest 2026-11-19 - _Front-End Developer_
+- **Attain Partners** - 3 role(s), 1 intern, latest 2026-11-17 - _Migration & Integration Developer (Higher Education / Advancement)_
+- **AvidXchange, Inc.** - 3 role(s), latest 2026-11-17 - _Principal Software Engineer_
+- **Bannerhealth** - 3 role(s), latest 2026-11-16 - _Neuropathology Research Scientist Brain and Body Donation Program_
+- **Bdx** - 3 role(s), latest 2026-11-16 - _Software Program Lead_
+- **Cambiumlearning** - 3 role(s), latest 2026-11-20 - _Director, Data & Analytics_
+- **Cell Signaling Technology** - 3 role(s), latest 2026-11-23 - _AI Engineer IV_
+- **Daikin Comfort** - 3 role(s), 3 intern, latest 2026-11-21 - _Data Analyst Intern_
+- **Damen** - 3 role(s), 2 intern, latest 2026-11-20 - _Internship: AI Adoption_
+- **Dave** - 3 role(s), latest 2026-11-23 - _Lead Machine Learning Scientist_
+- **Desjardins** - 3 role(s), latest 2026-11-18 - _Data Engineering Advisor_
+- **Fifththird** - 3 role(s), latest 2026-11-19 - _Director, Software Engineering_
+- **Flox** - 3 role(s), latest 2026-11-17 - _Member of Technical Staff_
+- **Gorbel** - 3 role(s), 3 intern, latest 2026-11-20 - _Front-End Web Developer Co-Op_
+- **Graymatter Robotics** - 3 role(s), 2 intern, latest 2026-11-22 - _AI Research Intern: Foundation Models - IMMEDIATE START_
+- **Gsknch** - 3 role(s), latest 2026-11-19 - _Senior Data Scientist_
+- **Imh** - 3 role(s), latest 2026-11-23 - _Software Engineer-Staff_
+- **Jewelers Mutual Group** - 3 role(s), 3 intern, latest 2026-11-20 - _Data Science Intern_
+- **Lean TECHniques** - 3 role(s), 3 intern, latest 2026-11-17 - _Software Engineer Intern_
+- **LLNL** - 3 role(s), 3 intern, latest 2026-11-20 - _Data Science Institute Undergraduate Intern_
+- **Marias Technology** - 3 role(s), 3 intern, latest 2026-11-20 - _Software Developer Intern_
+- **Mars** - 3 role(s), latest 2026-11-23 - _Sr Manager Growth AI Transformation_
+- **Mom's Meals** - 3 role(s), 3 intern, latest 2026-11-20 - _Data Analytics Intern_
+- **Monster Energy** - 3 role(s), latest 2026-11-19 - _AI Architect_
+- **Motorolasolutions** - 3 role(s), 3 intern, latest 2026-11-17 - _Software Presales Enablement Intern - Summer Internship 2027_
 - **Optimum (Altice USA)** - 3 role(s), 3 intern, latest 2026-11-16 - _DevOps Toolchain Intern_
-- **Pacific Fusion** - 3 role(s), 3 intern, latest 2026-11-16 - _Summer 2027 Internship- Software Engineering _
-- **Patrianna** - 3 role(s), latest 2026-11-16 - _AI IT and Integrations Lead_
-- **REGENT** - 3 role(s), 3 intern, latest 2026-11-10 - _Mission Software Engineering Intern_
-- **Reolink** - 3 role(s), latest 2026-11-13 - _Java Programmer (Junior / Senior / Lead)_
-- **Runway Ml** - 3 role(s), latest 2026-11-12 - _AI Engagement Manager_
-- **Sanofi** - 3 role(s), 3 intern, latest 2026-11-11 - _mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op_
-- **Stanley Black & Decker** - 3 role(s), 3 intern, latest 2026-11-12 - _Embedded Software Engineering Intern_
-- **Talentsafari** - 3 role(s), latest 2026-11-12 - _Machine Learning Specialist_
-- **Talkiatry** - 3 role(s), latest 2026-11-13 - _Analytics Engineer_
-- **Topstep** - 3 role(s), latest 2026-11-09 - _Senior Mobile Engineer_
-- **Viavi Solutions** - 3 role(s), 3 intern, latest 2026-11-15 - _Software Engineer Co-op_
-- **Vynca** - 3 role(s), latest 2026-11-09 - _ Senior Full Stack Engineer _
-- **Western Digital** - 3 role(s), 3 intern, latest 2026-11-10 - _Recording Electronics Data Analytics & Optimization Co-op_
-- **Zoetis Services** - 3 role(s), 3 intern, latest 2026-11-09 - _Chemistry Data Science Intern - Digital CMC Workflows_
-- **Ília** - 3 role(s), latest 2026-11-16 - _PL Desenvolvimento Fullstack (Java e React)_
-- **A Place For Mom** - 2 role(s), latest 2026-11-11 - _Senior Software Engineer - Lead Platform_
-- **AB InBev  | Growth Group** - 2 role(s), latest 2026-11-09 - _AI Engineer _
-- **Acceldata** - 2 role(s), latest 2026-11-11 - _Product Specialist (Cloud Support SME)_
-- **Akeshya Private Limited** - 2 role(s), 2 intern, latest 2026-11-10 - _Full Stack Developer Intern_
-- **AlphaSense** - 2 role(s), latest 2026-11-11 - _Cloud Support Engineer_
-- **Arista Networks** - 2 role(s), 2 intern, latest 2026-11-10 - _Data Analytics Intern_
-- **Ascertain** - 2 role(s), latest 2026-11-16 - _Forward Deployed Engineer_
-- **AstraZeneca** - 2 role(s), 2 intern, latest 2026-11-09 - _Manufacturing Digital and AI Intern_
-- **Augmodo** - 2 role(s), latest 2026-11-13 - _Computer Vision Engineer_
-- **BGBx** - 2 role(s), latest 2026-11-12 - _Senior Associate, AI Transformation_
-- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
-- **Cba** - 2 role(s), latest 2026-11-13 - _Staff Software Engineer_
-- **Clair** - 2 role(s), latest 2026-11-13 - _Senior Fullstack Engineer, Core Products_
-- **Clubhouse** - 2 role(s), latest 2026-11-12 - _🎉 Backend Engineer, Engagement_
+- **Snhu** - 3 role(s), latest 2026-11-19 - _ServiceNow Software Developer I_
+- **SRI International** - 3 role(s), 3 intern, latest 2026-11-17 - _Embedded Software Engineering Co-op_
+- **Surveymonkey** - 3 role(s), latest 2026-11-16 - _Senior Data Engineer_
+- **Syngenta Group** - 3 role(s), 3 intern, latest 2026-11-18 - _Data Scientist Intern_
+- **Testlio** - 3 role(s), latest 2026-11-22 - _Freelance Software Tester (Remote in Martinique)_
+- **UASI** - 3 role(s), latest 2026-11-19 - _Coding and Client Manager_
+- **Vsp** - 3 role(s), latest 2026-11-16 - _Senior SaaS Client Relationship Manager - Vision/Optical/Optometry/Software_
+- **Xylem** - 3 role(s), latest 2026-11-16 - _Senior Embedded Software Engineer (m/w/d) – Günzburg_
+- **Acuity Insurance** - 2 role(s), 2 intern, latest 2026-11-21 - _Data Analytics Intern - Data Science_
+- **AffirmedRx, PBC** - 2 role(s), latest 2026-11-19 - _Data Scientist _
+- **AFL** - 2 role(s), 2 intern, latest 2026-11-20 - _Business Intelligence Co-op_
+- **Akasa** - 2 role(s), latest 2026-11-19 - _Software Engineer, Applied AI_
+- **Alsacstjude** - 2 role(s), latest 2026-11-16 - _Software Engineer III - Salesforce Data Cloud (Memphis or Remote in USA)_
+- **American Institute** - 2 role(s), latest 2026-11-19 - _Medical Billing & Coding Instructor_
+- **Ascertain** - 2 role(s), latest 2026-11-17 - _Forward Deployed Engineer_
+- **Aura** - 2 role(s), latest 2026-11-18 - _Lead Software Engineer, Applied AI_
+- **Bci** - 2 role(s), latest 2026-11-19 - _Platform Engineer (Intune)_
+- **bioMérieux** - 2 role(s), 2 intern, latest 2026-11-16 - _Data Science Co-op_
+- **Bissell** - 2 role(s), 2 intern, latest 2026-11-17 - _AI & Automation Intern_
+- **Bmo** - 2 role(s), 1 intern, latest 2026-11-23 - _Software Engineer, Winter 2027 (Co-op/Internship) -4 months_
+- **Branch** - 2 role(s), latest 2026-11-17 - _Android Engineer_
+- **Canonical** - 2 role(s), latest 2026-11-18 - _Engineering Manager - Developer Tools (Starcraft)_
+- **Capitalhealth** - 2 role(s), latest 2026-11-23 - _IT Network Infrastructure Engineer Lead - Hopewell, NJ - Full-time - Day_
+- **Chorus Innovations** - 2 role(s), latest 2026-11-19 - _Senior Data Engineer_
 - **Codat** - 2 role(s), latest 2026-11-16 - _Senior AI Engineer_
-- **Credible** - 2 role(s), latest 2026-11-09 - _Data Scientist_
-- **CSCI Consulting** - 2 role(s), latest 2026-11-11 - _Python Developer_
-- **Davita** - 2 role(s), latest 2026-11-12 - _DevOps Engineer - FinOps_
-- **Gainsight** - 2 role(s), latest 2026-11-11 - _Cloud Security Operations Engineer_
-- **Holiday World** - 2 role(s), 2 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Immunome, Inc.** - 2 role(s), latest 2026-11-14 - _Principal Statistical Programmer_
-- **Intelura** - 2 role(s), 2 intern, latest 2026-11-10 - _Backend Engineering & Security Intern_
-- **International** - 2 role(s), 2 intern, latest 2026-11-10 - _Artificial Intelligence/Machine Learning Intern_
+- **Compassion International** - 2 role(s), 2 intern, latest 2026-11-19 - _Summer Intern - Data and Software Engineering_
+- **Compunetix** - 2 role(s), 2 intern, latest 2026-11-17 - _Software Engineer Co-op_
+- **Conehealth** - 2 role(s), latest 2026-11-18 - _Analytic Developer Intermediate_
+- **CPI Security** - 2 role(s), latest 2026-11-16 - _Full Stack Software Engineer_
+- **Crestoperations** - 2 role(s), 1 intern, latest 2026-11-18 - _Data Engineer I_
+- **Crowe** - 2 role(s), 1 intern, latest 2026-11-17 - _MSFT AI Business Solutions Technical Intern_
+- **Cwi** - 2 role(s), latest 2026-11-16 - _Coding Auditor & Educator - Facility Coding - Remote_
+- **Epirus** - 2 role(s), latest 2026-11-17 - _Principal  Embedded Software Engineer_
+- **Evolito** - 2 role(s), latest 2026-11-17 - _Senior Software Engineer_
+- **Ewe** - 2 role(s), 1 intern, latest 2026-11-19 - _Working Student (f/m/d) Data Analytics & Software Engineering in Energy Meteorology_
+- **FeverUp** - 2 role(s), latest 2026-11-17 - _AI Search Innovation Lead - Madrid based_
+- **First Bank & Trust** - 2 role(s), 2 intern, latest 2026-11-20 - _Software Development Intern_
+- **Freseniusglobal** - 2 role(s), latest 2026-11-16 - _Product Developer R&D Enteral Nutrition_
+- **Galaxy** - 2 role(s), 1 intern, latest 2026-11-18 - _2027 Site Reliability Engineer Intern-Afton, Texas_
+- **GCI** - 2 role(s), 2 intern, latest 2026-11-20 - _Software Developer Intern_
+- **GEI Consultants** - 2 role(s), 2 intern, latest 2026-11-17 - _Web Developer Intern_
+- **Gsk** - 2 role(s), 1 intern, latest 2026-11-23 - _Senior Principal - AI ML and Cloud Security_
+- **GTI Energy** - 2 role(s), 2 intern, latest 2026-11-20 - _Data Science Intern_
+- **Halcyon** - 2 role(s), latest 2026-11-21 - _Senior Backend Cloud Engineer_
+- **HealthCheck360** - 2 role(s), latest 2026-11-20 - _Data Analyst, Healthcare Analytics_
+- **Honeycomb.io** - 2 role(s), latest 2026-11-17 - _Senior Software Engineer II - Agentic Intelligence_
+- **Honor** - 2 role(s), latest 2026-11-18 - _Staff Data Scientist, Agentic AI_
 - **Iovance Biotherapeutics** - 2 role(s), latest 2026-11-16 - _AI Strategist, Clinical & R&D_
-- **Jobs Valence** - 2 role(s), latest 2026-11-09 - _Senior DevOps Engineer_
-- **Keebo** - 2 role(s), latest 2026-11-10 - _Senior Data Engineer_
-- **Kiewit** - 2 role(s), 2 intern, latest 2026-11-10 - _Machine Learning Intern, Kiewit Data Services_
-- **Kit** - 2 role(s), latest 2026-11-09 - _Senior Infrastructure Engineer II_
-- **M Kopa** - 2 role(s), latest 2026-11-10 - _Senior Backend Engineer - Mobility _
+- **IPConfigure** - 2 role(s), 2 intern, latest 2026-11-17 - _Software Development for Video Surveillance Software Intern_
+- **Kin** - 2 role(s), latest 2026-11-17 - _Software Engineer, Back-End Focus_
 - **M3** - 2 role(s), 1 intern, latest 2026-11-16 - _Director, DevOps Engineering_
 - **M3 USA** - 2 role(s), 2 intern, latest 2026-11-16 - _AI Engineering Intern (Remote)_
-- **Monster Energy** - 2 role(s), latest 2026-11-11 - _AI Architect_
-- **Netlify** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer_
-- **NextEra Energy** - 2 role(s), 2 intern, latest 2026-11-13 - _Software Engineering Intern - Technical_
-- **Odin** - 2 role(s), latest 2026-11-10 - _Odin_
-- **Oldmutual** - 2 role(s), latest 2026-11-13 - _Senior Data Analyst (Cape Town)_
-- **Operio** - 2 role(s), 2 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **Osano** - 2 role(s), latest 2026-11-13 - _Senior AI Engineer_
-- **Panera Bread** - 2 role(s), 2 intern, latest 2026-11-11 - _Data Science & AI Analytics Intern_
-- **Paystand** - 2 role(s), latest 2026-11-09 - _Junior Fullstack Engineer_
-- **Phamily** - 2 role(s), latest 2026-11-10 - _Lead Data Scientist, Causal Inference & Clinical Outcomes Contractor (Bolingbrook, IL)_
-- **Piedmont Airlines** - 2 role(s), 2 intern, latest 2026-11-13 - _Safety Data Analytics Intern_
+- **Mercer Advisors** - 2 role(s), latest 2026-11-18 - _Senior Analytics Engineer _
+- **Milliman** - 2 role(s), 2 intern, latest 2026-11-20 - _Data Analyst Intern_
+- **Molg** - 2 role(s), latest 2026-11-16 - _DevOps Engineer_
+- **Moment Energy** - 2 role(s), 1 intern, latest 2026-11-23 - _Data Scientist Co-op_
+- **Netlify** - 2 role(s), latest 2026-11-18 - _Senior Staff Data Scientist_
+- **NICE** - 2 role(s), latest 2026-11-20 - _Forward Deployed Engineer_
+- **Njit** - 2 role(s), latest 2026-11-23 - _Hourly Data Analyst_
+- **Noctua Technology** - 2 role(s), latest 2026-11-20 - _DevOps Engineer_
+- **Nottingham Spirk** - 2 role(s), 2 intern, latest 2026-11-21 - _Firmware Co-op_
+- **Onebrief** - 2 role(s), latest 2026-11-20 - _Site Reliability Engineering Manager_
+- **Onehealthineers** - 2 role(s), latest 2026-11-18 - _Senior Research Scientist, Automated Planning_
+- **OpenTeams** - 2 role(s), latest 2026-11-18 - _Forward Deployed Engineer, AI/ML Infrastructure_
+- **Park National Bank** - 2 role(s), 2 intern, latest 2026-11-20 - _Data Engineering/Data Science Intern_
+- **Partsbase** - 2 role(s), latest 2026-11-17 - _AI Design Engineer _
+- **Pathlabs** - 2 role(s), 2 intern, latest 2026-11-20 - _Software and AI Engineer Intern_
+- **Per Scholas** - 2 role(s), latest 2026-11-19 - _Director, Product Infrastructure & Cloud_
+- **Polygon Labs** - 2 role(s), latest 2026-11-19 - _AI Platform Engineer_
 - **Propel** - 2 role(s), latest 2026-11-16 - _Senior Full Stack Engineer, Healthcare_
-- **Ribbon** - 2 role(s), 2 intern, latest 2026-11-11 - _AI Engineer Co-op_
-- **Salient** - 2 role(s), latest 2026-11-11 - _Cloud Infrastructure Engineer_
-- **Scandit** - 2 role(s), 1 intern, latest 2026-11-11 - _Senior Backend Engineer - Shelfview_
-- **Scopely** - 2 role(s), latest 2026-11-09 - _Full Stack Engineer_
-- **Second Nature** - 2 role(s), latest 2026-11-12 - _Staff Software Engineer _
-- **Shive-Hattery** - 2 role(s), 2 intern, latest 2026-11-11 - _Software Developer Intern - Software Development_
-- **Shyftlabs** - 2 role(s), latest 2026-11-10 - _Senior Data Engineer - Databricks_
-- **Spoton** - 2 role(s), latest 2026-11-10 - _Platform Engineering Manager_
-- **State of Wisconsin Investment Board** - 2 role(s), 2 intern, latest 2026-11-11 - _Data Analytics Engineering Intern_
-- **Stratolaunch** - 2 role(s), 2 intern, latest 2026-11-12 - _Business Intelligence & Systems Analyst Intern_
-- **Surveymonkey** - 2 role(s), latest 2026-11-16 - _Senior Data Engineer_
-- **Tandemdiabetes** - 2 role(s), latest 2026-11-11 - _Software Test Engineer I (Systems Test)_
-- **Teads** - 2 role(s), latest 2026-11-10 - _Junior Software Engineer - DR Delivery Team_
-- **Technergetics** - 2 role(s), latest 2026-11-16 - _AI/ML Engineer III_
-- **Thehartford** - 2 role(s), 1 intern, latest 2026-11-10 - _Data Science Intern - Summer 2027_
-- **Tonic** - 2 role(s), 2 intern, latest 2026-11-09 - _Forward Deployed Engineer Co-op - Data De-Identification_
-- **Tricentis** - 2 role(s), latest 2026-11-12 - _Senior Cloud Security Engineer_
-- **Trilogy Health Services** - 2 role(s), 2 intern, latest 2026-11-09 - _Information Systems Developer of AI and Automated Solutions Intern_
-- **Unisys** - 2 role(s), 2 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Valeo** - 2 role(s), 2 intern, latest 2026-11-13 - _Software Engineer Intern_
+- **Pureinsurance** - 2 role(s), latest 2026-11-18 - _Senior Platform Engineer_
+- **Quest Analytics** - 2 role(s), 2 intern, latest 2026-11-16 - _Software Engineer Intern - C# - ASP.NET_
+- **Redwoodcu** - 2 role(s), latest 2026-11-16 - _Application Developer (Programmer II)_
+- **REXA** - 2 role(s), 2 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **SecurityMetrics** - 2 role(s), 2 intern, latest 2026-11-17 - _Software Engineer Intern_
+- **Southern Mississippi Trading** - 2 role(s), 2 intern, latest 2026-11-20 - _AI and Business Analytics Intern_
+- **Southwest Power Pool** - 2 role(s), 2 intern, latest 2026-11-20 - _Operations Developer Intern_
+- **Strive Health** - 2 role(s), latest 2026-11-17 - _Sr. Data Analyst_
+- **Tapestry** - 2 role(s), latest 2026-11-18 - _Sr. Manager, Software Engineering - Infrastructure_
+- **TCOM** - 2 role(s), 2 intern, latest 2026-11-20 - _Software Engineer Intern_
+- **Tebra** - 2 role(s), latest 2026-11-18 - _Senior Analytics Engineer_
 - **Vectra** - 2 role(s), latest 2026-11-16 - _Customer AI & Automation Engineer_
-- **Verawholehealth** - 2 role(s), latest 2026-11-16 - _Staff Backend Engineer_
-- **Versaterm** - 2 role(s), latest 2026-11-09 - _AI Native Senior Software Engineer_
-- **Vitvio** - 2 role(s), latest 2026-11-12 - _Full-Stack Software Engineer (Frontend & Mobile Focus)_
-- **Volta** - 2 role(s), latest 2026-11-10 - _Software Engineer_
-- **Warner Bros.** - 2 role(s), 2 intern, latest 2026-11-09 - _Software Engineer Co-op_
-- **Warner Bros. Discovery** - 2 role(s), 2 intern, latest 2026-11-09 - _Software Engineering Co-op, WB Games_
-- **Zoetis** - 2 role(s), 2 intern, latest 2026-11-09 - _AI Assistant Development Intern_
-- **Zone 5 Technologies** - 2 role(s), latest 2026-11-10 - _Software Cybersecurity Engineer V/VI_
-- **Abcfinancial** - 1 role(s), latest 2026-11-09 - _Principal Software Developer_
-- **Actian** - 1 role(s), latest 2026-11-10 - _Director of Platform Engineering [gn] – Data Intelligence Platform_
-- **AetherGrid** - 1 role(s), latest 2026-11-09 - _AetherGrid_
-- **AFL** - 1 role(s), 1 intern, latest 2026-11-10 - _Business Intelligence (BI) Co-op_
-- **Akido** - 1 role(s), latest 2026-11-12 - _Senior Platform Engineer_
-- **Alertus** - 1 role(s), latest 2026-11-13 - _Lead Backend Engineer_
-- **Allegiantair** - 1 role(s), latest 2026-11-09 - _Software Engineer in Test (SET)_
-- **Argonne National Laboratory** - 1 role(s), 1 intern, latest 2026-11-12 - _Business Information Systems Intern, Enterprise Software Solutions_
-- **Auburn University** - 1 role(s), 1 intern, latest 2026-11-12 - _Student Machine Learning Engineer Intern_
-- **Avary.ai** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Scientist Intern_
-- **Bayesianhealth** - 1 role(s), latest 2026-11-11 - _Software Engineer, Data & Analytics Platform_
-- **Bechtel** - 1 role(s), latest 2026-11-13 - _Bechtel_
-- **BETA Technologies Summer 2027** - 1 role(s), 1 intern, latest 2026-11-10 - _Software, Controls & Autonomy Intern_
-- **Blp Digital** - 1 role(s), latest 2026-11-10 - _AI Automation Specialist_
-- **Boulevard** - 1 role(s), latest 2026-11-13 - _Staff Software Engineer, Ecosystem_
-- **Broadway Ventures** - 1 role(s), latest 2026-11-10 - _Application Developer (Java, JavaScript) (Full-Stack)_
-- **Business Web Solutions** - 1 role(s), 1 intern, latest 2026-11-10 - _Web Developer Intern_
-- **Cambium** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer_
-- **Canonical** - 1 role(s), latest 2026-11-16 - _Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu_
-- **Carlisle Companies** - 1 role(s), 1 intern, latest 2026-11-10 - _AI & Data Science Intern_
-- **Claritypediatrics** - 1 role(s), latest 2026-11-11 - _Senior Data Analyst_
-- **Collabify** - 1 role(s), latest 2026-11-09 - _Collabify_
-- **CompTech Computer Technologies** - 1 role(s), latest 2026-11-13 - _Senior Application Developer/ Application Programmer - Level III _
+- **VT Industries** - 2 role(s), 2 intern, latest 2026-11-20 - _Software Development Intern_
+- **Warp Sciences** - 2 role(s), 2 intern, latest 2026-11-17 - _Robot Learning Intern - Robotics Learning_
+- **Watchfire Signs** - 2 role(s), 2 intern, latest 2026-11-21 - _Software Engineering Intern_
+- **‎ConnectWise** - 2 role(s), latest 2026-11-23 - _Senior Software Engineering Manager_
+- **Allica Bank** - 1 role(s), latest 2026-11-23 - _Lead Platform Engineer_
+- **Array Behavioral Care** - 1 role(s), latest 2026-11-23 - _Automation Software Engineer_
+- **Atlantic Health System** - 1 role(s), 1 intern, latest 2026-11-19 - _Pharmacy Intern - Data Analytics_
+- **Backmarket** - 1 role(s), latest 2026-11-20 - _Experienced Analytics Engineer - Customer Experience_
+- **Bankeasy** - 1 role(s), 1 intern, latest 2026-11-20 - _Data Analyst Intern_
+- **Beigene** - 1 role(s), latest 2026-11-17 - _Principal Clinical Datawarehouse Programmer_
+- **Bitwarden** - 1 role(s), latest 2026-11-19 - _Senior Software Engineer, Self-Host Orchestration_
+- **Blue Bird** - 1 role(s), 1 intern, latest 2026-11-20 - _Data Analytics Intern_
+- **Bombardier** - 1 role(s), 1 intern, latest 2026-11-21 - _Software Engineering Intern_
+- **Brightwheel** - 1 role(s), latest 2026-11-18 - _Principal AI Software Engineer, Platform_
+- **Bristol Myers Squibb** - 1 role(s), 1 intern, latest 2026-11-18 - _Undergrad Data Science Intern_
+- **Catch Creation, LLC** - 1 role(s), latest 2026-11-20 - _AI Engineer_
+- **Chronograph** - 1 role(s), latest 2026-11-16 - _Senior Software Engineer, Data Platform_
+- **CI Azumano** - 1 role(s), latest 2026-11-18 - _Senior Cloud Engineer_
+- **Civis Analytics** - 1 role(s), latest 2026-11-23 - _Lead, Applied Data Scientist_
+- **Communitybrands** - 1 role(s), latest 2026-11-20 - _Data Migration Specialist / SQL Developer_
+- **Cordial Experience Inc.** - 1 role(s), latest 2026-11-19 - _AI Go To Market Operations Manager_
 - **Corelight** - 1 role(s), latest 2026-11-16 - _Sr Software Engineer - Cloud Infrastructure/SRE _
-- **Doma Technology LLC** - 1 role(s), latest 2026-11-12 - _Senior Platform Engineer_
-- **DP World** - 1 role(s), 1 intern, latest 2026-11-10 - _AI & Analytics Intern - Talent Management_
-- **Early-stage Startup** - 1 role(s), latest 2026-11-14 - _Early-stage Startup_
-- **Echo Global Logistics** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Edmentum** - 1 role(s), latest 2026-11-11 - _Software Engineer I_
-- **Encore Global** - 1 role(s), 1 intern, latest 2026-11-12 - _IT Data Analyst Intern_
-- **Erica Holloway** - 1 role(s), latest 2026-11-11 - _Erica Holloway_
-- **Firefly Aerospace** - 1 role(s), 1 intern, latest 2026-11-11 - _Software Engineering Intern_
-- **Flowai** - 1 role(s), 1 intern, latest 2026-11-10 - _Senior Back-End Engineer Intern_
-- **Foji** - 1 role(s), latest 2026-11-12 - _Foji_
-- **Garmin International** - 1 role(s), 1 intern, latest 2026-11-11 - _IT DevOps Administrator Intern_
-- **Generatorhealth** - 1 role(s), latest 2026-11-13 - _Clinical AI Specialist (Remote)_
-- **getIntro** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **GoDaddy** - 1 role(s), latest 2026-11-12 - _Software Development Engineer _
-- **Granted** - 1 role(s), latest 2026-11-12 - _Backend Engineer - Integrations _
-- **Greatamerica** - 1 role(s), latest 2026-11-09 - _Principal Platform Engineer_
-- **Healthresearch** - 1 role(s), latest 2026-11-16 - _Research Scientist III_
-- **Hey HN! We’re building ThunderTruck™, the operating system f** - 1 role(s), latest 2026-11-11 - _Hey HN! We’re building ThunderTruck™, the operating system for local food—connecting mobil_
-- **Hiebing** - 1 role(s), 1 intern, latest 2026-11-13 - _AI Agent Developer Intern_
-- **Honor** - 1 role(s), latest 2026-11-10 - _Staff Platform Engineer - Infra + DevOps_
-- **Hook Music** - 1 role(s), 1 intern, latest 2026-11-10 - _Machine Learning Engineering Intern, Recommendation Systems_
-- **Humatahealth** - 1 role(s), latest 2026-11-13 - _Software Engineer III_
-- **Immunic Therapeutics** - 1 role(s), latest 2026-11-10 - _Director, Applied AI Architect _
-- **Ingersoll Rand** - 1 role(s), 1 intern, latest 2026-11-11 - _AI Engineer Intern_
-- **InsCipher** - 1 role(s), 1 intern, latest 2026-11-12 - _AI Product Intern_
-- **Insurity ** - 1 role(s), latest 2026-11-11 - _Lead Software Engineer_
-- **IPConfigure** - 1 role(s), 1 intern, latest 2026-11-13 - _Software Development Intern, Video Surveillance Software_
-- **Ixana** - 1 role(s), 1 intern, latest 2026-11-10 - _Embedded Software Engineer Intern, Wearables and IoT_
+- **Coretelligent** - 1 role(s), latest 2026-11-18 - _AI Architecture Delivery Lead_
+- **DataGrail** - 1 role(s), latest 2026-11-16 - _Staff Software Engineer_
+- **Don't Panic Labs** - 1 role(s), 1 intern, latest 2026-11-23 - _Software Engineering Intern 2_
+- **Encore** - 1 role(s), 1 intern, latest 2026-11-20 - _IT Data Analyst Intern_
+- **Evonik** - 1 role(s), latest 2026-11-20 - _Industrial AI & Process Technology Engineer_
+- **Fabri** - 1 role(s), 1 intern, latest 2026-11-21 - _DevOps, IT & Cybersecurity Intern_
+- **Gentuity** - 1 role(s), 1 intern, latest 2026-11-19 - _Software Engineer Co-op_
+- **Glinttglobal** - 1 role(s), latest 2026-11-19 - _Fullstack Developer_
+- **Great Southern Wood Preserving** - 1 role(s), 1 intern, latest 2026-11-20 - _Engineering Intern - Data Analyst_
+- **Groupon** - 1 role(s), latest 2026-11-17 - _Business Developer – German Speaking (Valencia-based)_
+- **Harbor** - 1 role(s), latest 2026-11-20 - _Salesforce Developer_
+- **Hiper** - 1 role(s), latest 2026-11-23 - _Engenheiro(a) de Software Mobile - Sênior  _
+- **Homebound** - 1 role(s), latest 2026-11-19 - _Senior / Staff AI Engineer_
+- **Hudu** - 1 role(s), latest 2026-11-18 - _Full Stack Rails Engineer_
+- **Hummingbird** - 1 role(s), latest 2026-11-20 - _Senior Software Engineer, Monitoring_
+- **Hyperhug** - 1 role(s), latest 2026-11-19 - _Senior Backend Developer (C# / .NET)_
+- **iA** - 1 role(s), 1 intern, latest 2026-11-20 - _Software Development Engineer Intern_
+- **Idaho National Laboratory** - 1 role(s), 1 intern, latest 2026-11-19 - _Software Engineering Intern, Java/API Development for Neutronics Code_
+- **InfoSum** - 1 role(s), latest 2026-11-23 - _Golang Software Engineer_
+- **Jll** - 1 role(s), latest 2026-11-23 - _Mobile Operating Engineer_
 - **Josys** - 1 role(s), latest 2026-11-16 - _AI-BPO事業立ち上げ責任者 / Head of AI-Driven Operations & BizDev- Kaihin-Makuhari_
-- **Karat** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer (United States)_
-- **Klatch AI** - 1 role(s), 1 intern, latest 2026-11-10 - _Full Stack Engineer Intern_
-- **Leantechniques** - 1 role(s), 1 intern, latest 2026-11-12 - _Software Engineer Intern - Hybrid _
+- **Junipersquare** - 1 role(s), latest 2026-11-17 - _Senior Site Reliability Engineer II _
+- **Ksb** - 1 role(s), latest 2026-11-23 - _Senior Engineering Software Developer - Automation, Machine Vision, Data Systems & Applied_
+- **Leantechniques** - 1 role(s), 1 intern, latest 2026-11-17 - _Software Intern - Hybrid_
 - **Legal 500** - 1 role(s), latest 2026-11-16 - _Research & Data Analyst_
-- **Micron** - 1 role(s), 1 intern, latest 2026-11-16 - _Intern - Data Science, SMAI_
-- **Milliman** - 1 role(s), 1 intern, latest 2026-11-16 - _Data Analytics Intern, IntelliScript_
-- **Mum Industries** - 1 role(s), 1 intern, latest 2026-11-11 - _Business Intelligence & Data Analytics Intern_
-- **Mysrhs** - 1 role(s), latest 2026-11-09 - _Coding Specialist - Outpatient - Non-Exempt_
-- **NeueHealth** - 1 role(s), latest 2026-11-13 - _Backend Software Engineer 3_
-- **Nevral Forensics Intelligence (NFI)** - 1 role(s), latest 2026-11-11 - _Nevral Forensics Intelligence (NFI)_
-- **New York Life Insurance** - 1 role(s), 1 intern, latest 2026-11-10 - _IBM i Developer Intern_
-- **NICE** - 1 role(s), latest 2026-11-13 - _Forward Deployed Engineer_
-- **North Texas Family Health** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **Northwaysports** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Science Intern_
-- **Nura** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Oneoncology** - 1 role(s), latest 2026-11-13 - _Platform Software Engineer_
-- **Openly** - 1 role(s), latest 2026-11-09 - _VP, Insurance Data Science_
-- **OpenTrain AI** - 1 role(s), latest 2026-11-09 - _OpenTrain AI_
-- **Owl Cyber Defense** - 1 role(s), 1 intern, latest 2026-11-13 - _Software Engineering Intern_
-- **Pathstream** - 1 role(s), latest 2026-11-10 - _Staff Software Engineer _
-- **Penn Engineering** - 1 role(s), 1 intern, latest 2026-11-10 - _AI & Data Intern_
-- **PeopleFinders** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer_
-- **Pimacounty** - 1 role(s), latest 2026-11-16 - _ITSD - Software Engineer I_
-- **PODS** - 1 role(s), 1 intern, latest 2026-11-12 - _Operations Data Science Intern_
-- **Polygon Labs** - 1 role(s), latest 2026-11-12 - _AI Platform Engineer_
-- **RAIDS AI** - 1 role(s), latest 2026-11-11 - _RAIDS AI_
-- **Ready to?** - 1 role(s), 1 intern, latest 2026-11-12 - _Software Development Intern_
-- **Renaissance Learning North America** - 1 role(s), latest 2026-11-13 - _Software Engineer II (Engineering Enablement)_
-- **Rxo** - 1 role(s), latest 2026-11-09 - _Senior Data Analyst – Transportation Visibility, Analytics & Data Solutions_
-- **Saputo** - 1 role(s), 1 intern, latest 2026-11-11 - _Intern, Trade Promotion Management Business and Data Analyst_
-- **Securitymetrics** - 1 role(s), 1 intern, latest 2026-11-11 - _Software Engineer Intern_
-- **Sharp Electronics** - 1 role(s), 1 intern, latest 2026-11-09 - _IT AI Intern_
-- **SHOPLINE** - 1 role(s), 1 intern, latest 2026-11-11 - _AI Skill Developer Intern_
-- **SpecterOps** - 1 role(s), latest 2026-11-12 - _Associate WordPress Developer_
-- **SRC, Inc** - 1 role(s), 1 intern, latest 2026-11-10 - _Machine Learning Engineer Intern_
-- **StackAdapt** - 1 role(s), latest 2026-11-16 - _Senior Software Engineer, Data Solutions_
-- **Stealth Startup | Enterprise AI** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
-- **TerraByte Green** - 1 role(s), 1 intern, latest 2026-11-10 - _AI Engineering Intern_
-- **The Knot Worldwide** - 1 role(s), latest 2026-11-11 - _Lead Analytics Engineer_
-- **Theoria Medical** - 1 role(s), latest 2026-11-13 - _Coding & Denial Specialist_
-- **Toppan** - 1 role(s), latest 2026-11-13 - _Research Engineer - Flexibles_
-- **Uplimit** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Intern_
-- **Vanderlande Industries** - 1 role(s), 1 intern, latest 2026-11-11 - _Supply Chain Data & Analytics Intern_
-- **Vivenu** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer - Data & AI Platform (m/w/d)_
-- **VOLO Health** - 1 role(s), latest 2026-11-11 - _Senior Mobile Software Engineer_
-- **Walrusfi** - 1 role(s), latest 2026-11-11 - _Senior Infrastructure Engineer_
-- **Wellth** - 1 role(s), latest 2026-11-10 - _Senior Health Informatics Data Analyst_
-- **Wmeimg** - 1 role(s), latest 2026-11-09 - _Staff Software Engineer_
-- **ZenBusiness Inc.** - 1 role(s), latest 2026-11-10 - _Sr. Software Engineering Manager_
-- **Zuru** - 1 role(s), latest 2026-11-12 - _Site Reliability Engineer (relocation to Auckland, New Zealand)_
+- **LOTTE BIOLOGICS USA, LLC** - 1 role(s), latest 2026-11-17 - _Sr. Automation Controls Engineer - Platform Engineering_
+- **Melaleuca** - 1 role(s), 1 intern, latest 2026-11-20 - _Software Development Intern_
+- **Millerknoll** - 1 role(s), latest 2026-11-23 - _Associate Product Developer_
+- **Modern Health** - 1 role(s), latest 2026-11-20 - _Staff Analytics Engineer_
+- **Modern Woodmen of America** - 1 role(s), 1 intern, latest 2026-11-20 - _Data Analyst Intern_
+- **Montauk Capital** - 1 role(s), latest 2026-11-18 - _Co-Founder, Hull.AI_
+- **Mytra** - 1 role(s), 1 intern, latest 2026-11-18 - _Software Engineer Intern_
+- **Nbn** - 1 role(s), latest 2026-11-18 - _Senior Expert Systems Engineering, Security and AI Enablement_
+- **Nc** - 1 role(s), latest 2026-11-23 - _Operating Systems Software Programmer I - EHRA_
+- **Neural Earth** - 1 role(s), latest 2026-11-18 - _DevOps Engineer II (6-Month)_
+- **Ngc** - 1 role(s), 1 intern, latest 2026-11-23 - _2027 Software Engineer Intern - Linthicum Maryland_
+- **Ntta** - 1 role(s), latest 2026-11-19 - _Director of AI & Data_
+- **Octoenergy** - 1 role(s), latest 2026-11-18 - _Head of Software_
+- **Pair Team** - 1 role(s), latest 2026-11-18 - _Principal Engineering Manager, AI Care_
+- **Passage** - 1 role(s), latest 2026-11-22 - _Senior Software Engineer_
+- **Patriot Growth Insurance Services, LLC** - 1 role(s), latest 2026-11-17 - _Azure Cloud Platform Engineer_
+- **Playlab** - 1 role(s), latest 2026-11-21 - _Staff Platform Engineer_
+- **Private Health Management** - 1 role(s), latest 2026-11-20 - _AI Infrastructure Operations Engineer_
+- **Red Bull** - 1 role(s), 1 intern, latest 2026-11-23 - _Data Science Intern_
+- **Robert Bosch LLC** - 1 role(s), 1 intern, latest 2026-11-17 - _AI Application Intern_
+- **Scheels** - 1 role(s), 1 intern, latest 2026-11-20 - _Data Analyst Intern_
+- **Schnucks** - 1 role(s), 1 intern, latest 2026-11-19 - _Data Science Generative AI Intern_
+- **Skydropx** - 1 role(s), latest 2026-11-18 - _Conversational Designer & AI Coordinator_
+- **Slihrms** - 1 role(s), latest 2026-11-23 - _Digital Transformation and AI Manager_
+- **Sprout General Referrals** - 1 role(s), latest 2026-11-19 - _GTM AI Engineer _
+- **Stedi** - 1 role(s), latest 2026-11-20 - _Product Analytics Engineer_
+- **Technergetics** - 1 role(s), latest 2026-11-16 - _Quantum Algorithms Research Scientist IV_
+- **Tillo** - 1 role(s), latest 2026-11-20 - _Senior Software Engineer (Python)_
+- **Tribe Ai** - 1 role(s), latest 2026-11-19 - _AI Delivery Lead_
+- **Vatic Outsourcing** - 1 role(s), 1 intern, latest 2026-11-21 - _Business Intelligence Analyst Intern_
+- **Vertex Service Partners** - 1 role(s), latest 2026-11-20 - _Junior AI Engineer_
+- **VitalCaring Group** - 1 role(s), latest 2026-11-18 - _Hospice Aide - PRN - Mobile County _
+- **Werner Electric Supply** - 1 role(s), 1 intern, latest 2026-11-20 - _AI Intern_
+- **Wheel** - 1 role(s), latest 2026-11-16 - _Staff Software Engineer, AI-Native Systems_
+- **Woodward Governor** - 1 role(s), 1 intern, latest 2026-11-20 - _AI Intern_
+- **Zeal Network** - 1 role(s), latest 2026-11-23 - _Senior DevOps Engineer (f/m/d)_
 
-## 8-30 days ago (1355 companies)
+## 8-30 days ago (1404 companies)
 
-### SF Bay Area (374)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **KLA Corporation** - 51 role(s), 51 intern, latest 2026-11-06 - _Software Engineering Intern - C++ - Unix_
-- **AMD** - 49 role(s), 49 intern, latest 2026-10-28 - _Data Analyst Intern/Co-op_
-- **Braze** - 40 role(s), 2 intern, latest 2026-11-06 - _AI Architect_
-- **American Express** - 37 role(s), 37 intern, latest 2026-11-03 - _Software Engineer Intern - Enterprise Technology Services_
-- **NVIDIA** - 36 role(s), 36 intern, latest 2026-11-04 - _Generative AI Ph.D. Research Intern_
-- **Fab2** - 35 role(s), 28 intern, latest 2026-10-27 - _Embedded Software Engineering Intern - Winter_
-- **Rivian** - 33 role(s), 33 intern, latest 2026-11-06 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
-- **Astera Labs** - 28 role(s), 23 intern, latest 2026-11-08 - _Firmware Engineer_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Intel** - 25 role(s), 25 intern, latest 2026-11-05 - _Software Engineer Intern_
+### SF Bay Area (372)
+- **ByteDance** - 54 role(s), 54 intern, latest 2026-11-10 - _Research Intern - AI Compute_
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
+- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
+- **Fab2** - 33 role(s), 26 intern, latest 2026-10-27 - _Rust Software Engineering Intern, Chip Design Tools - Winter_
+- **Nokia** - 29 role(s), 29 intern, latest 2026-11-09 - _AI Agent Development Co-op_
+- **Klaviyo** - 27 role(s), 9 intern, latest 2026-11-12 - _Engineering Manager, Amplify Engineering & AI Agents_
+- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
 - **Johnson & Johnson** - 25 role(s), 24 intern, latest 2026-11-03 - _Data Science Co-op - Spring 2027_
-- **DocuSign** - 23 role(s), 23 intern, latest 2026-11-06 - _Software Engineer Intern - Self-Service Directory Diagnostics_
-- **Hewlett Packard Enterprise** - 23 role(s), 23 intern, latest 2026-10-30 - _Software Engineer Intern_
-- **Plaid** - 23 role(s), latest 2026-11-05 - _Senior Analytics Engineer_
-- **DigitalOcean** - 22 role(s), latest 2026-11-05 - _Director of Research, Agentic AI_
-- **Sierra** - 22 role(s), 3 intern, latest 2026-10-23 - _Research Engineer, Applied Research_
+- **Figma** - 24 role(s), 13 intern, latest 2026-11-09 - _AI Engineer, Internal Tools_
+- **Muon Space** - 23 role(s), 8 intern, latest 2026-11-12 - _Flight Software Engineering Intern (Summer 2027)_
+- **AMD** - 22 role(s), 22 intern, latest 2026-10-28 - _Compiler Engineer Intern/Co-op_
+- **American Express** - 21 role(s), 21 intern, latest 2026-11-03 - _Data Analytics Intern - Enterprise Technology Services_
+- **Bedrock Robotics** - 19 role(s), 12 intern, latest 2026-11-13 - _Software Engineer, Fleet Platform_
+- **Brex** - 19 role(s), 2 intern, latest 2026-11-12 - _Data Scientist II, Applied ML_
 - **Embedding Vc** - 18 role(s), latest 2026-10-29 - _Member of Technical Staff, Infra_
-- **Higgsfieldai** - 18 role(s), latest 2026-11-07 - _AI Engineer_
-- **Airbnb** - 16 role(s), latest 2026-11-04 - _Manager, Engineering, Dev AI_
-- **Veeva** - 16 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
-- **Atoms** - 15 role(s), 15 intern, latest 2026-11-03 - _Robotics Software Engineer Intern_
+- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
+- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
+- **Etched** - 15 role(s), 4 intern, latest 2026-11-12 - _Chip Simulation Software Engineer_
+- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
 - **HP Inc.** - 15 role(s), 15 intern, latest 2026-11-03 - _Software Systems Intern - IQ_
 - **Innodata Inc.** - 15 role(s), latest 2026-11-03 - _AI Agentic Workflow Reviewer_
-- **Marvell** - 15 role(s), 15 intern, latest 2026-10-28 - _Firmware Engineer Intern_
-- **OneTrust** - 15 role(s), latest 2026-11-05 - _AI Systems Engineer_
-- **Via** - 15 role(s), latest 2026-10-19 - _Director of AI Engineering, Internal Products_
-- **Decagon** - 14 role(s), latest 2026-10-28 - _Senior Software Engineer, Platform Security_
-- **Graphcore** - 14 role(s), 4 intern, latest 2026-10-20 - _AI Technology PhD Research Internship_
-- **Thinkingmachines** - 14 role(s), latest 2026-10-27 - _Software Engineer, Sandboxing_
+- **Veeva** - 15 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
+- **Applied Materials** - 14 role(s), 14 intern, latest 2026-11-10 - _Data Analyst Intern - Global Technical Learning Center_
+- **Agility Robotics** - 13 role(s), latest 2026-11-13 - _AI Research Engineer III_
 - **ALTEN Technology USA** - 13 role(s), latest 2026-11-03 - _Data Analyst / Architect_
 - **Armadin** - 13 role(s), 6 intern, latest 2026-11-02 - _Senior Red Team Operator, AI/LLM_
-- **Mercury** - 13 role(s), 1 intern, latest 2026-11-06 - _Senior Analytics Engineer_
-- **Alarm.com** - 12 role(s), latest 2026-11-03 - _Cloud Systems Engineer_
-- **Edison%20Scientific** - 12 role(s), latest 2026-11-04 - _Member of Technical Staff, Principal AI Infrastructure Engineer_
-- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
-- **IDMe** - 12 role(s), latest 2026-10-30 - _Principal Software Engineer, Data_
-- **Maintainx** - 12 role(s), latest 2026-10-30 - _Full-Stack Developer - IAM_
+- **Primeintellect** - 13 role(s), latest 2026-11-12 - _Member of Technical Staff - Sandbox Platform_
+- **Revel** - 13 role(s), 8 intern, latest 2026-11-13 - _Forward Deployed Engineer_
+- **Atoms** - 12 role(s), 12 intern, latest 2026-11-03 - _Machine Learning Engineer Intern_
+- **Chime Financial, Inc** - 12 role(s), latest 2026-11-13 - _Director, Data Engineering_
+- **Decagon** - 12 role(s), latest 2026-10-28 - _Senior Software Engineer, Platform Security_
+- **Hark** - 12 role(s), latest 2026-11-10 - _Embedded AI Engineer_
+- **Mercury** - 12 role(s), 1 intern, latest 2026-11-06 - _Senior Analytics Engineer_
 - **Nissan Global** - 12 role(s), 12 intern, latest 2026-10-27 - _AI Agent Architect Intern_
-- **Anyscale** - 11 role(s), latest 2026-11-05 - _Software Engineer, Infrastructure_
-- **Gallatin** - 11 role(s), latest 2026-10-21 - _Machine Learning Operations (MLOps) Engineer_
+- **Patreon** - 12 role(s), 6 intern, latest 2026-11-13 - _Staff Software Engineer, Backend Platform_
+- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
+- **Alarm.com** - 11 role(s), latest 2026-10-30 - _Cloud Systems Engineer_
 - **Glean** - 11 role(s), 3 intern, latest 2026-10-26 - _AI Engineer - Data and Evals_
-- **Suno** - 11 role(s), latest 2026-11-03 - _Senior / Staff Software Engineer, AI Leverage_
-- **Vailexa ** - 11 role(s), latest 2026-11-06 - _AI Customer Assurance Engineer / AI Product Support Engineer_
-- **Vercel** - 11 role(s), 2 intern, latest 2026-11-04 - _Machine Learning Engineer, Trust & Safety_
-- ** ALO** - 10 role(s), latest 2026-11-05 - _Buying & Merchandising AI Analyst_
+- **Rhoda Ai** - 11 role(s), 6 intern, latest 2026-11-11 - _Research Member of Technical Staff- Training Systems_
+- **Trimble** - 11 role(s), 11 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **ABB** - 10 role(s), 10 intern, latest 2026-10-28 - _AI Robotics UI/UX Intern_
-- **Code Metal** - 10 role(s), latest 2026-11-04 - _Forward Deployed Engineer_
+- **Anyscale** - 10 role(s), latest 2026-11-05 - _ Staff Software Engineer, Platform Infrastructure (Foundations)_
 - **CoStar Group** - 10 role(s), 10 intern, latest 2026-11-02 - _Embedded Software Engineer Intern_
-- **Cowboyspace** - 10 role(s), 1 intern, latest 2026-11-05 - _Software Engineer_
+- **D Matrix** - 10 role(s), latest 2026-11-11 - _Staff Systems and Platforms Software Engineer_
+- **DigiCert** - 10 role(s), latest 2026-11-10 - _Forward Deployed Engineer_
 - **Fivetran ** - 10 role(s), latest 2026-11-06 - _Manager Software Engineering_
+- **IDMe** - 10 role(s), latest 2026-10-30 - _Principal Software Engineer, Data_
 - **Niantic Spatial** - 10 role(s), 3 intern, latest 2026-10-30 - _Staff/Senior Staff Computer Vision Engineer - Map team_
 - **Nissan** - 10 role(s), 10 intern, latest 2026-10-27 - _AI & Data Analytics Intern_
-- **Openart** - 10 role(s), 1 intern, latest 2026-10-27 - _Growth Data Engineer_
 - **PayPal** - 10 role(s), 10 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Together AI** - 10 role(s), 4 intern, latest 2026-10-27 - _Forward Deployed Engineer, Post-Training_
-- **Adyen** - 9 role(s), latest 2026-11-05 - _Engineering Manager, Machine Learning - Personalize Intelligence_
-- **IXL Learning** - 9 role(s), 3 intern, latest 2026-10-19 - _Senior Site Reliability Engineer_
-- **Langchain** - 9 role(s), latest 2026-10-20 - _Software Engineering Manager, AI Observability & Evals Platform (New York, NY)_
-- **Matx** - 9 role(s), latest 2026-10-28 - _Software Engineer - Kernels_
+- **Salesforce** - 10 role(s), 10 intern, latest 2026-10-30 - _Software Engineer Intern_
+- **Snorkel AI** - 10 role(s), latest 2026-11-13 - _Director, GTM Systems & AI Transformation_
+- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
+- **Cowboyspace** - 9 role(s), 1 intern, latest 2026-11-05 - _Software Engineer_
+- **Fireworks** - 9 role(s), latest 2026-11-10 - _AI Deployment Strategist_
+- **Gatik AI** - 9 role(s), latest 2026-11-13 - _Embedded Software Engineer, Drive-By-Wire _
+- **Hippocratic%20Ai** - 9 role(s), latest 2026-11-12 - _Senior Applied Scientist, Reinforcement Learning_
 - **Oshkosh** - 9 role(s), 9 intern, latest 2026-11-03 - _Software Engineer Intern - Software - Summer 2027_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
-- **SingleStore** - 9 role(s), 5 intern, latest 2026-10-27 - _Principal Engineer, Platform Engineering_
+- **Sentry** - 9 role(s), latest 2026-11-09 - _Staff Software Engineer, AI Platform_
+- **Tessera Labs** - 9 role(s), 2 intern, latest 2026-11-13 - _Forward-Deployed Engineer_
 - **Workday** - 9 role(s), 8 intern, latest 2026-10-28 - _Machine Learning Engineer Intern_
-- **Amplitude** - 8 role(s), latest 2026-11-05 - _Staff Software Engineer, Business Systems & Data_
 - **Atlassian** - 8 role(s), 8 intern, latest 2026-10-26 - _Software Engineer Intern_
-- **BILL** - 8 role(s), latest 2026-10-28 - _Senior Product Data Analyst - AP & Network Analytics_
 - **Cogent Security** - 8 role(s), latest 2026-10-27 - _Software Engineer - Applied AI_
-- **Fastly** - 8 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
 - **Figure** - 8 role(s), 6 intern, latest 2026-10-24 - _Developer Productivity Intern [Winter 2027]_
 - **Gilead Sciences** - 8 role(s), 8 intern, latest 2026-10-29 - _AI Engineer Intern - IT_
-- **Intuit** - 8 role(s), 8 intern, latest 2026-10-30 - _Software Engineer Intern_
-- **Marianaminerals** - 8 role(s), latest 2026-10-28 - _Full Stack Software Engineer_
-- **Neuralink** - 8 role(s), 3 intern, latest 2026-10-26 - _Infrastructure Engineer, Mechanical Tooling_
-- **Pallet** - 8 role(s), latest 2026-11-07 - _Associate Deployment Strategist (AI/ML Product)_
-- **Planet** - 8 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
-- **Reducto** - 8 role(s), latest 2026-11-03 - _Forward Deployed Engineer, Infrastructure Specialist_
-- **Texas Instruments** - 8 role(s), 8 intern, latest 2026-10-22 - _Software Engineer Intern_
-- **Trustly** - 8 role(s), latest 2026-11-04 - _Staff Software Engineer, Payment Gateway_
+- **Mastercard** - 8 role(s), 8 intern, latest 2026-10-27 - _Platform Engineering Intern, Summer 2027 – St. Louis, MO, US_
+- **onsemi** - 8 role(s), 8 intern, latest 2026-11-10 - _Manufacturing AI Engineering Intern_
+- **Openart** - 8 role(s), 1 intern, latest 2026-10-27 - _Senior/Staff Software Engineer, Enterprise AI Platform_
+- **Pika** - 8 role(s), 2 intern, latest 2026-11-10 - _Research Scientist, Post-Training — Video Generation_
+- **Radai** - 8 role(s), latest 2026-11-10 - _Senior Data Engineer_
+- **Samsung Research America** - 8 role(s), 3 intern, latest 2026-11-11 - _Android Systems Security Engineer _
+- **Trajectory** - 8 role(s), 7 intern, latest 2026-11-05 - _Member of Technical Staff - Intern_
+- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
 - **1X** - 7 role(s), latest 2026-10-30 - _Senior DevOps Engineer _
 - **Adobe** - 7 role(s), 7 intern, latest 2026-10-24 - _Machine Learning Engineer Intern_
+- **Altana ** - 7 role(s), latest 2026-11-09 - _Principal Platform Engineer_
+- **Amplitude** - 7 role(s), latest 2026-11-05 - _Staff Software Engineer, Business Systems & Data_
 - **Apptronik** - 7 role(s), latest 2026-11-06 - _Senior Embedded Linux Engineer_
 - **DiDi Labs** - 7 role(s), latest 2026-11-05 - _Machine Learning Engineer - Agentic AI_
+- **Fastly** - 7 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
 - **Genesis Molecular Ai** - 7 role(s), 5 intern, latest 2026-10-31 - _Applied ML Scientist (Staff / Principal)_
-- **Inferact** - 7 role(s), latest 2026-11-05 - _Member of Technical Staff, Production Site Reliability Engineer_
-- **Normalcomputing** - 7 role(s), latest 2026-10-27 - _AI Research Resident_
-- **Rivian and Volkswagen Group Technologies** - 7 role(s), 7 intern, latest 2026-10-23 - _Software Engineering Intern - Applications - Infotainment & Mobile_
+- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
+- **Intuit** - 7 role(s), 7 intern, latest 2026-10-30 - _Software Engineer Intern - Full Stack_
+- **Mirendil** - 7 role(s), latest 2026-11-08 - _Member of Technical Staff, Kernels_
+- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
+- **Pallet** - 7 role(s), latest 2026-11-07 - _Associate Deployment Strategist (AI/ML Product)_
+- **Planet** - 7 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
+- **Reducto** - 7 role(s), latest 2026-11-03 - _Forward Deployed Engineer, Infrastructure Specialist_
+- **Redwood Materials** - 7 role(s), latest 2026-11-09 - _Battery Software & Controls Integration Engineer, Energy Storage_
 - **SageSure** - 7 role(s), 7 intern, latest 2026-10-29 - _Data Scientist Intern_
-- **Scribe** - 7 role(s), latest 2026-11-03 - _Senior DevOps Engineer_
-- **Trajectory** - 7 role(s), 5 intern, latest 2026-11-05 - _Member of Technical Staff - Intern_
-- **Tutorintelligence** - 7 role(s), latest 2026-11-02 - _Applied AI Engineer, Go-to-Market_
-- **6Sense** - 6 role(s), latest 2026-10-28 - _Sr. AI Engineer_
+- **Triumph Arcade** - 7 role(s), latest 2026-11-13 - _Senior Software Engineer, Rips (Web)_
+- **Typesafe Ai** - 7 role(s), latest 2026-11-13 - _Developer Advocate_
+- **Zocdoc** - 7 role(s), latest 2026-11-11 - _Data Scientist_
+- **Adyen** - 6 role(s), latest 2026-11-05 - _Engineering Manager, Machine Learning - Personalize Intelligence_
+- **Aircall.io, Inc.** - 6 role(s), latest 2026-11-13 - _Engineering Director, AI Agents_
 - **Amperesand** - 6 role(s), 5 intern, latest 2026-10-23 - _AI/ML Engineering Intern_
+- **Arena** - 6 role(s), latest 2026-11-14 - _Software Engineer - Full Stack_
 - **Astro Mechanica** - 6 role(s), 3 intern, latest 2026-11-02 - _Senior Flight Software Engineer_
+- **Bloom Energy** - 6 role(s), 6 intern, latest 2026-11-12 - _Data Science Intern_
 - **EarnIn** - 6 role(s), latest 2026-11-05 - _Senior AI Builder_
-- **Ema** - 6 role(s), 1 intern, latest 2026-10-31 - _Software Engineer, Full-Stack _
 - **Engramme** - 6 role(s), 6 intern, latest 2026-11-03 - _Full-Stack Software Engineer Co-op Intern_
 - **Formenergy** - 6 role(s), latest 2026-10-28 - _Senior Data Analytics Engineer, Factory Software_
-- **Hud** - 6 role(s), latest 2026-10-23 - _Senior Software Engineer, Reinforcement Learning_
-- **Ifm Us** - 6 role(s), latest 2026-10-22 - _Developer Relations Manager_
-- **Intuitive Surgical** - 6 role(s), 6 intern, latest 2026-11-02 - _Computer Vision Engineer Intern - Fall 2026_
-- **Kong** - 6 role(s), latest 2026-10-30 - _Site Reliability Engineer 2_
-- **Midi Health** - 6 role(s), latest 2026-11-06 - _Data Scientist, Clinical Outcomes_
+- **Lightmatter** - 6 role(s), 4 intern, latest 2026-11-12 - _Data & AI Platform, Intern - Summer 2027_
+- **Neuralink** - 6 role(s), 3 intern, latest 2026-10-26 - _Infrastructure Engineer, Mechanical Tooling_
+- **Normalcomputing** - 6 role(s), latest 2026-10-27 - _Platform Engineer_
+- **Nourish** - 6 role(s), latest 2026-11-10 - _Analytics Engineering Lead_
+- **RoboForce** - 6 role(s), 1 intern, latest 2026-11-10 - _AI Resident_
+- **Scribe** - 6 role(s), latest 2026-11-03 - _Senior DevOps Engineer_
 - **Simbe Robotics** - 6 role(s), 6 intern, latest 2026-10-23 - _Computer Vision / Applied AI Intern_
-- **Taskrabbit** - 6 role(s), latest 2026-11-06 - _Senior Full Stack Engineer - AI Innovation_
 - **Tokyo Electron** - 6 role(s), 6 intern, latest 2026-11-04 - _Business Intelligence Analyst Intern_
 - **Verygoodsecurity** - 6 role(s), latest 2026-11-04 - _Sr. Software Engineer_
-- **Watney** - 6 role(s), latest 2026-10-17 - _Machine Learning Engineer_
-- **Xdof** - 6 role(s), latest 2026-11-02 - _Member of Technical Staff, Robotics Data_
+- **6Sense** - 5 role(s), latest 2026-10-28 - _Sr. AI Engineer_
+- **Afterquery** - 5 role(s), 3 intern, latest 2026-11-09 - _AI/ML Research Intern_
 - **Alpha Design Ai Inc** - 5 role(s), latest 2026-11-04 - _Research Engineer, ML for EDA_
-- **Asana** - 5 role(s), latest 2026-10-19 - _Senior Staff Engineer, AI_
-- **Axion** - 5 role(s), latest 2026-10-26 - _Senior Infrastructure Engineer_
-- **Benchling** - 5 role(s), latest 2026-11-05 - _Software Engineer, Agents_
+- **Axion** - 5 role(s), latest 2026-10-26 - _Staff Infrastructure Engineer_
 - **Brainco** - 5 role(s), latest 2026-11-06 - _AI Platform Engineer, Developer Productivity_
+- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
 - **Chaidiscovery** - 5 role(s), latest 2026-11-04 - _Research Scientist, Pre-training Research_
+- **Clockwork.io** - 5 role(s), 1 intern, latest 2026-11-10 - _Senior HPC Developer - RDMA Networking _
 - **Dryft** - 5 role(s), 3 intern, latest 2026-10-31 - _Forward Deployed Engineer - US_
 - **Evolver** - 5 role(s), latest 2026-11-04 - _Research Scientist - Autonomous Systems_
-- **Exa** - 5 role(s), 2 intern, latest 2026-10-29 - _Software Engineer, Intern_
-- **G2** - 5 role(s), 1 intern, latest 2026-10-26 - _Software Engineering Director, Agentic Evaluations_
+- **Exiger** - 5 role(s), latest 2026-11-09 - _AI Product Builder _
+- **Factory** - 5 role(s), latest 2026-11-10 - _Developer Relations_
 - **Genmd** - 5 role(s), 3 intern, latest 2026-11-03 - _Member of Technical Staff, Evaluation_
-- **Greptile** - 5 role(s), latest 2026-10-21 - _SWE, Infra_
 - **Hewlett Packard (HP)** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Intern_
-- **HeyGen** - 5 role(s), 2 intern, latest 2026-10-19 - _AI Video Creator_
 - **Hitachi** - 5 role(s), 5 intern, latest 2026-11-06 - _Onboard Software Developer Intern_
-- **Lavendo** - 5 role(s), latest 2026-11-03 - _Sr. Associate - New Verticals, Agentic AI (NY)_
-- **Lightfield** - 5 role(s), latest 2026-10-21 - _Research Scientist (Staff+)_
+- **Inferact** - 5 role(s), latest 2026-11-05 - _Member of Technical Staff, Production Site Reliability Engineer_
+- **InMobi ** - 5 role(s), latest 2026-11-12 - _AI Engineer_
+- **Kong** - 5 role(s), latest 2026-10-30 - _Site Reliability Engineer 2_
 - **Match Group** - 5 role(s), 5 intern, latest 2026-11-06 - _Backend Engineer Intern_
-- **Moloco** - 5 role(s), latest 2026-10-30 - _Data Scientist II, Product - Moloco Commerce Media_
-- **Namespace** - 5 role(s), latest 2026-11-02 - _Infrastructure Software Engineer_
-- **Nexxa** - 5 role(s), latest 2026-10-19 - _AI Vision Engineer_
+- **Midi Health** - 5 role(s), latest 2026-11-06 - _Data Scientist, Clinical Outcomes_
+- **NetApp** - 5 role(s), 5 intern, latest 2026-11-14 - _Software Engineer Intern_
 - **NXP Semiconductors** - 5 role(s), 5 intern, latest 2026-11-02 - _Data Science / Structured Problem Solving Intern - Summer 2027_
-- **Pear Vc** - 5 role(s), latest 2026-11-03 - _MassHealth Enrollment Specialist & AI Operations_
-- **Ripple ** - 5 role(s), latest 2026-10-23 - _Senior Staff, Developer Relations_
+- **Orbit** - 5 role(s), latest 2026-11-09 - _Senior Cloud & Backend Software Engineer_
+- **Qualified Health Pbc** - 5 role(s), latest 2026-11-13 - _Principal Backend Engineer_
 - **Sciforium** - 5 role(s), latest 2026-11-06 - _Senior HPC & GPU Infrastructure Engineer_
-- **Shepherd** - 5 role(s), latest 2026-10-20 - _Software Engineer, Full Stack_
-- **Standardbots** - 5 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
+- **Seagate Technology** - 5 role(s), 5 intern, latest 2026-11-14 - _Software and Data Analytics Development Intern, AFM_
 - **Tencent** - 5 role(s), 5 intern, latest 2026-11-05 - _Machine Learning Intern_
 - **Tenex** - 5 role(s), latest 2026-11-03 - _Senior Data Scientist _
 - **Terranova** - 5 role(s), 4 intern, latest 2026-11-03 - _Back End Data Infrastructure Engineer_
+- **Thumbtack** - 5 role(s), latest 2026-11-09 - _Senior Software Engineer, Developer Experience_
 - **Tinder** - 5 role(s), 5 intern, latest 2026-11-06 - _Android Engineer Intern_
 - **Tolmo** - 5 role(s), latest 2026-11-02 - _Member of the Technical Staff, Software Engineering_
-- **Abby Care** - 4 role(s), latest 2026-10-22 - _Associate General Counsel, Privacy, Product & AI_
-- **Assorthealth** - 4 role(s), latest 2026-10-27 - _Senior Forward Deployed Engineer_
-- **Bobyard** - 4 role(s), 3 intern, latest 2026-10-22 - _Computer Vision Research Engineer - Intern _
+- **Unconventional, Inc.** - 5 role(s), latest 2026-11-12 - _AI Silicon, Analog CAD Engineer_
+- **X Development** - 5 role(s), latest 2026-11-09 - _PhD Resident - Earth Scientist AI Resident - Early Stage Project_
+- **Zuora** - 5 role(s), latest 2026-10-28 - _Manager, AI Platform Engineering_
+- **Adaption** - 4 role(s), latest 2026-11-10 - _Research Scientist_
+- **Airbyte** - 4 role(s), latest 2026-11-14 - _Senior Backend Engineer, Agent Infrastructure_
+- **AssemblyAI** - 4 role(s), latest 2026-11-09 - _Applied AI Engineer_
+- **AXS** - 4 role(s), latest 2026-11-12 - _Lead Software Engineer - Fullstack _
 - **Bracco** - 4 role(s), 4 intern, latest 2026-11-03 - _Firmware Engineer Co-op_
-- **Celestica** - 4 role(s), 4 intern, latest 2026-10-18 - _AI Engineer Intern_
-- **Depthfirst** - 4 role(s), latest 2026-10-22 - _Senior Software Engineer, Corporate Security_
-- **Develop Health** - 4 role(s), latest 2026-10-22 - _Lead Analytics Engineer_
 - **Distyl** - 4 role(s), latest 2026-10-29 - _AI Engineer (French Speaking) _
-- **Elorian Ai Inc** - 4 role(s), latest 2026-11-03 - _Software Engineer - Core Platform_
-- **Five9** - 4 role(s), latest 2026-10-27 - _Senior Site Reliability Engineer - Compute Platforms_
+- **Exa** - 4 role(s), 1 intern, latest 2026-10-29 - _Software Engineer, Intern_
+- **Footprint** - 4 role(s), latest 2026-11-11 - _Member of Technical Staff (Backend, Rust)_
 - **Hearst** - 4 role(s), 4 intern, latest 2026-11-05 - _Editorial AI Development Intern_
-- **Hover** - 4 role(s), latest 2026-10-20 - _Director of Engineering, Mobile Capture_
 - **Insitro** - 4 role(s), latest 2026-11-02 - _Full Stack Software Engineer, Lab Platform (LIMS)_
 - **JP Morgan Chase** - 4 role(s), 4 intern, latest 2026-10-27 - _AI Research Associate Program Intern_
 - **KoBold Metals** - 4 role(s), latest 2026-11-04 - _Senior Applied Scientist (Onsite/Hybrid)_
-- **LinkedIn** - 4 role(s), 4 intern, latest 2026-10-28 - _Software Engineer Intern_
+- **Later** - 4 role(s), 1 intern, latest 2026-10-26 - _Senior AI Automation Engineer_
+- **LeoLabs, Inc.** - 4 role(s), latest 2026-11-09 - _Full Stack Software Engineer _
+- **Moloco** - 4 role(s), latest 2026-10-30 - _Senior Applied Scientist, Product_
 - **Multiply Labs** - 4 role(s), 4 intern, latest 2026-10-23 - _Software Intern_
-- **Nautilus%20Biotechnology** - 4 role(s), latest 2026-10-23 - _Senior Software Engineer II, Instrument Software & Metrology_
-- **Netflix** - 4 role(s), 4 intern, latest 2026-10-20 - _Machine Learning Scientist Intern - AI_
-- **Ntt Data Aivista** - 4 role(s), latest 2026-10-23 - _Member of Technical Staff - Science I_
+- **Nox Metals** - 4 role(s), latest 2026-11-10 - _Machine Learning Engineer_
 - **Obvio** - 4 role(s), latest 2026-11-04 - _Software Engineer, Annotation Systems_
-- **Odewithanthropic** - 4 role(s), latest 2026-10-26 - _Member of Technical Staff (SF)_
 - **Parasail** - 4 role(s), latest 2026-11-06 - _Senior Site Reliability Engineer_
-- **Pebl** - 4 role(s), latest 2026-10-22 - _Senior Manager, Software Engineering_
-- **Playerzero** - 4 role(s), latest 2026-10-22 - _Director, Platform Engineering_
 - **Poesis** - 4 role(s), latest 2026-11-06 - _Head of AI_
-- **Quadric** - 4 role(s), 4 intern, latest 2026-10-23 - _AI Kernel Engineer Intern_
-- **Quantifind** - 4 role(s), latest 2026-10-23 - _Associate Data Scientist_
-- **Render** - 4 role(s), latest 2026-11-04 - _Developer Programs Lead_
+- **Preference Model** - 4 role(s), latest 2026-11-11 - _Member of Technical Staff - ML Platform Engineer_
 - **RosaicLabs** - 4 role(s), 4 intern, latest 2026-10-28 - _AI Accelerator Design Verification Engineer Intern_
-- **Semgrep** - 4 role(s), 2 intern, latest 2026-10-23 - _Senior Engineering Manager, Software Supply Chain Security _
-- **Shield** - 4 role(s), 4 intern, latest 2026-11-05 - _Embedded Firmware Intern_
 - **ShopBack** - 4 role(s), 4 intern, latest 2026-10-31 - _Software Engineer Intern_
-- **Unify** - 4 role(s), latest 2026-10-20 - _Applied AI Engineer_
-- **XPENG** - 4 role(s), 1 intern, latest 2026-10-27 - _AI Research Intern – Predictive World Model_
-- **Zuora** - 4 role(s), latest 2026-10-28 - _Sr Forward Deployed Engineer_
-- **Aiprise** - 3 role(s), latest 2026-10-22 - _Bilingual Forward Deployed Engineer (English/Spanish)_
+- **Sieve** - 4 role(s), latest 2026-11-12 - _Member of Technical Staff, Security_
+- **Standardbots** - 4 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
+- **Traba** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer (AI Agents)_
+- **Wafer** - 4 role(s), latest 2026-11-10 - _Member of Technical Staff, Security_
+- **Witnessai** - 4 role(s), latest 2026-11-13 - _Head of DevOps_
 - **Aiuc** - 3 role(s), latest 2026-11-02 - _Forward-Deployed Engineer_
+- **Archer** - 3 role(s), latest 2026-11-13 - _Senior AI Research Engineer - (SJ2026NZ)_
+- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
+- **Assorthealth** - 3 role(s), latest 2026-10-27 - _Senior Software Engineer - Product_
 - **Baton** - 3 role(s), latest 2026-11-03 - _Baton_
-- **Casca** - 3 role(s), latest 2026-10-20 - _Senior Software Engineer_
 - **Charge Robotics** - 3 role(s), latest 2026-11-03 - _Senior Robotics Software Engineer_
 - **Coderabbit** - 3 role(s), latest 2026-11-05 - _Senior Analytics Engineer_
-- **Creatoriq** - 3 role(s), latest 2026-11-04 - _Senior Fullstack Engineer, Agentic Experience_
+- **David Ai** - 3 role(s), latest 2026-11-10 - _Research Engineer_
 - **Delos Data** - 3 role(s), latest 2026-10-28 - _Software Development Engineer in Test - AI_
-- **Dexmate** - 3 role(s), latest 2026-10-31 - _Robotics Field Engineer, Physical AI_
+- **Descript** - 3 role(s), latest 2026-11-09 - _AI Growth Specialist (BDR)_
 - **Diffusion** - 3 role(s), latest 2026-11-03 - _Diffusion_
-- **Disney** - 3 role(s), 3 intern, latest 2026-10-29 - _Product & Technology Software Engineering Intern_
-- **Drata** - 3 role(s), latest 2026-10-23 - _Senior Software Engineer 2_
-- **E2B** - 3 role(s), latest 2026-11-03 - _Senior Data Engineer_
-- **Fin** - 3 role(s), latest 2026-10-30 - _Forward Deployed Data Scientist_
 - **Gridcare** - 3 role(s), latest 2026-10-29 - _Senior/Staff Backend Software Engineer_
-- **Harmonic** - 3 role(s), 1 intern, latest 2026-10-28 - _Research Engineer, Formal Methods_
-- **Hcompany** - 3 role(s), latest 2026-10-28 - _Founding Forward Deployed Engineer - US_
-- **Hyperbolic** - 3 role(s), latest 2026-11-05 - _Senior Data Engineer_
-- **ID.me** - 3 role(s), 3 intern, latest 2026-10-23 - _Software Development Engineer Intern_
 - **Kardigan** - 3 role(s), latest 2026-11-05 - _Associate Director / Director, Data & AI Solution Development _
-- **Kastle** - 3 role(s), 1 intern, latest 2026-11-04 - _Technical Lead, SWE_
 - **Known** - 3 role(s), latest 2026-10-27 - _Backend Engineer_
-- **Later** - 3 role(s), 1 intern, latest 2026-10-26 - _Data & Analytics Co-op _
-- **LG Electronics** - 3 role(s), latest 2026-10-23 - _Founder-in-Residence, Core AI Ventures (LG NOVA)_
-- **Linkup** - 3 role(s), 2 intern, latest 2026-10-23 - _DevOps Engineer_
-- **Luminai** - 3 role(s), latest 2026-11-05 - _Staff Software Engineer, Platform_
-- **Mach9** - 3 role(s), latest 2026-10-21 - _Software Engineer - 3D Graphics_
 - **Mechanize** - 3 role(s), latest 2026-11-03 - _Mechanize_
-- **Mesh** - 3 role(s), latest 2026-10-23 - _Senior Backend Engineer_
 - **Middesk** - 3 role(s), latest 2026-11-02 - _Middesk_
+- **Midstream** - 3 role(s), latest 2026-11-12 - _Member of Technical Staff_
 - **Nooks** - 3 role(s), 2 intern, latest 2026-11-05 - _Software Engineer, Intern_
 - **Oklo** - 3 role(s), latest 2026-11-02 - _Oklo_
 - **Onoshealth** - 3 role(s), latest 2026-10-28 - _Staff Software Engineer (AI)_
 - **Otter.ai** - 3 role(s), latest 2026-10-26 - _Director of AI Research_
-- **Outset** - 3 role(s), latest 2026-10-23 - _Research Engineer_
+- **Overjet** - 3 role(s), latest 2026-11-14 - _Forward Deployed Engineer_
 - **Paramark** - 3 role(s), latest 2026-11-02 - _Paramark_
 - **Parspec** - 3 role(s), 3 intern, latest 2026-11-06 - _Applied AI Engineer Intern_
-- **Radar** - 3 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
+- **Pivotal** - 3 role(s), 1 intern, latest 2026-11-11 - _Embedded Software Engineer II_
+- **PsiQuantum** - 3 role(s), latest 2026-11-10 - _Staff Firmware Engineer_
 - **Radical Numerics** - 3 role(s), latest 2026-11-07 - _Member of Technical Staff, AI Engineering for Biosecurity_
+- **Render** - 3 role(s), latest 2026-11-04 - _Software Engineer, Network Infrastructure_
 - **Resolveai** - 3 role(s), latest 2026-11-06 - _Member of Technical Staff – Tech Lead_
-- **Rocket Money** - 3 role(s), latest 2026-10-23 - _Full Stack Engineer, Autopilot_
-- **Samsung Research America Internship** - 3 role(s), 2 intern, latest 2026-11-03 - _2027 Health AI Scholar, Digital Health Algorithms Team_
+- **Sekai** - 3 role(s), latest 2026-11-10 - _Senior Android Engineer_
 - **Shepherd (Series B)** - 3 role(s), latest 2026-11-02 - _Shepherd (Series B)_
-- **Solace** - 3 role(s), latest 2026-11-02 - _Senior Full Stack Engineer_
-- **Speechmatics** - 3 role(s), latest 2026-10-22 - _Developer Relations Advocate_
-- **Stuut Ai** - 3 role(s), latest 2026-11-03 - _Member of the Technical Staff — Applied AI, Fullstack_
-- **Titan Msp** - 3 role(s), latest 2026-10-23 - _Forward Deployed Engineer_
+- **Simple Ai** - 3 role(s), latest 2026-11-12 - _Software Engineer_
+- **SK hynix** - 3 role(s), 3 intern, latest 2026-11-12 - _SSD Firmware Development Engineer Intern_
+- **TextNow, Inc.** - 3 role(s), latest 2026-11-13 - _Data Scientist_
 - **Tonal** - 3 role(s), latest 2026-11-05 - _Senior Manager, Software Engineering (Experiences)_
-- **Typeface** - 3 role(s), latest 2026-10-19 - _Staff Cloud Security Engineer _
-- **Uare.ai** - 3 role(s), latest 2026-10-20 - _Forward Deployed Engineer (U.S. Government / IL5)_
 - **Valkai** - 3 role(s), latest 2026-11-06 - _Member of Technical Staff - Generalist_
+- **Vynca** - 3 role(s), latest 2026-11-09 - _ Senior Full Stack Engineer _
 - **Wells Fargo** - 3 role(s), 3 intern, latest 2026-10-26 - _Software Engineer Intern - Early Careers - Software Engineering_
-- **Western Magnetics** - 3 role(s), 3 intern, latest 2026-10-31 - _Software Engineer Intern_
 - **Wonderschool** - 3 role(s), latest 2026-11-03 - _Forward Deployed Engineer – Applied AI_
 - **Zeta Global** - 3 role(s), latest 2026-11-04 - _Senior Software Engineer_
-- **Aechelon Technology** - 2 role(s), latest 2026-10-21 - _Senior AI Enablement Software Engineer_
-- **Arena Club** - 2 role(s), latest 2026-10-30 - _Senior DevOps Engineer_
+- **Architect** - 2 role(s), latest 2026-11-14 - _Member of Technical Staff - Physical Design_
 - **Assembledhq** - 2 role(s), latest 2026-10-27 - _Software Engineer, Workforce Operations_
-- **Assort Health** - 2 role(s), 2 intern, latest 2026-10-16 - _Software Engineer Intern_
 - **Axiom Math** - 2 role(s), 2 intern, latest 2026-10-28 - _Member of Technical Staff Intern_
 - **Beacon AI** - 2 role(s), latest 2026-11-02 - _Beacon AI_
+- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
 - **Certa** - 2 role(s), 2 intern, latest 2026-10-28 - _Frontend Engineer Intern_
+- **Claylabs** - 2 role(s), latest 2026-11-14 - _Software Engineer, GTM Ops_
 - **Cloudzero** - 2 role(s), latest 2026-11-04 - _Staff / Principal Software Engineer_
+- **Cockroach Labs** - 2 role(s), latest 2026-11-10 - _Member of Technical Staff (Migrations) _
+- **Coframe** - 2 role(s), latest 2026-11-10 - _Backend System Architect_
+- **Cognition** - 2 role(s), latest 2026-11-10 - _Research Engineer, Safety & Alignment_
 - **Cohesity** - 2 role(s), 2 intern, latest 2026-10-26 - _Software Engineer Intern_
 - **Collective** - 2 role(s), latest 2026-10-30 - _Senior Cloud Infrastructure Engineer_
 - **Conversion** - 2 role(s), latest 2026-10-26 - _Forward Deployed Engineer_
+- **Conviva** - 2 role(s), latest 2026-11-11 - _AI/ML Engineer_
 - **CoreWeave** - 2 role(s), latest 2026-11-02 - _CoreWeave_
 - **Cowboy Space** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineering Intern_
-- **DataRobot** - 2 role(s), 2 intern, latest 2026-11-06 - _Deep Learning Research Engineer Intern_
+- **Dexmate** - 2 role(s), latest 2026-10-31 - _Robotics Field Engineer, Physical AI_
+- **Ditto** - 2 role(s), latest 2026-11-12 - _Senior Forward Deployed Engineer - Platform _
 - **Doctronic** - 2 role(s), latest 2026-11-03 - _Senior Data Engineer_
-- **Eragon** - 2 role(s), latest 2026-10-30 - _Member of Technical Staff - Product_
-- **Eve** - 2 role(s), latest 2026-10-21 - _Solutions Architect, AI Intake_
+- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
+- **Endor Labs** - 2 role(s), latest 2026-10-29 - _Senior Platform Engineer - Infrastructure / MongoDB_
+- **Envoy** - 2 role(s), latest 2026-11-11 - _Member of Technical Staff, Admin Experiences_
 - **Everlaw** - 2 role(s), latest 2026-11-04 - _GTM AI Engineer_
 - **Firework** - 2 role(s), 2 intern, latest 2026-10-31 - _Data Engineer Intern_
 - **Forum Ventures** - 2 role(s), latest 2026-11-06 - _Forward-Deployed Engineer_
 - **Freed** - 2 role(s), latest 2026-10-30 - _Member of Technical Staff_
-- **Friendliai** - 2 role(s), latest 2026-10-21 - _Software Engineer – Platform Security_
-- **Genmo** - 2 role(s), latest 2026-10-19 - _Research Scientist (post-training)_
+- **GoFundMe** - 2 role(s), latest 2026-11-09 - _Manager, Machine Learning Engineering_
 - **Goodfire** - 2 role(s), latest 2026-11-05 - _Forward Deployed Research Scientist_
+- **Harmonic** - 2 role(s), 1 intern, latest 2026-10-28 - _Software Engineer Intern_
+- **Hcompany** - 2 role(s), latest 2026-10-28 - _Founding Forward Deployed Engineer - US_
 - **Hike Medical** - 2 role(s), latest 2026-11-04 - _Staff Software Engineer_
 - **Hippo Insurance** - 2 role(s), latest 2026-10-23 - _Insurance Data Scientist_
-- **Humble Robotics** - 2 role(s), 2 intern, latest 2026-10-20 - _Embedded Software Engineer Intern_
-- **Hypercubic** - 2 role(s), 1 intern, latest 2026-11-03 - _Founding Software Engineer - Backend_
 - **Infisical** - 2 role(s), latest 2026-11-06 - _Senior Full Stack Engineer_
-- **Intuitive** - 2 role(s), 2 intern, latest 2026-11-02 - _Data Science Intern_
-- **Invisible Technologies** - 2 role(s), latest 2026-10-16 - _Head of Frontier AI_
 - **Inworld Ai** - 2 role(s), latest 2026-10-27 - _Senior Machine Learning Engineer, Inference - USA_
 - **Ixian Robotics** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Intern_
 - **Juicebox** - 2 role(s), latest 2026-10-26 - _Senior Software Engineer_
+- **Kastle** - 2 role(s), latest 2026-11-04 - _Technical Lead, SWE_
 - **Khan Academy** - 2 role(s), 1 intern, latest 2026-10-28 - _Senior Search & AI Discoverability Engineer (12 month contract, 40 hours/week, $85/hour)_
-- **Komodo Health** - 2 role(s), latest 2026-10-23 - _Senior Data Platform Engineer_
+- **Labelbox** - 2 role(s), latest 2026-11-13 - _Forward Deployed Engineer, Enterprise Accounts_
 - **Lancedb** - 2 role(s), latest 2026-11-04 - _AI Research Engineer_
-- **Llamaindex** - 2 role(s), latest 2026-10-16 - _Member of Technical Staff, Backend_
-- **Lovable** - 2 role(s), latest 2026-10-22 - _Analytics Engineer_
 - **Lumen Labs** - 2 role(s), latest 2026-11-04 - _Lumen Labs_
 - **Mandolin** - 2 role(s), latest 2026-11-07 - _Staff Member of Technical Staff, Product_
 - **Menlo** - 2 role(s), latest 2026-10-28 - _Researcher, Robot Learning_
-- **Midstream** - 2 role(s), latest 2026-11-03 - _Member of Technical Staff_
+- **Mettler Toledo** - 2 role(s), 2 intern, latest 2026-11-09 - _Embedded Software Engineering Intern_
 - **Mixpanel** - 2 role(s), latest 2026-10-27 - _Senior Software Engineer, Experimentation_
 - **Moss** - 2 role(s), 1 intern, latest 2026-11-07 - _Senior Backend Engineer (f/m/d)_
-- **Mudflap** - 2 role(s), latest 2026-10-21 - _Senior Data Scientist, Product _
 - **Mux** - 2 role(s), latest 2026-11-03 - _Senior Full Stack Engineer_
-- **Neko Health** - 2 role(s), latest 2026-11-04 - _Lead Software Engineer - Medical OS_
 - **Nex** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern - Sports & Fitness - Game Development_
-- **ngrok Inc.** - 2 role(s), latest 2026-10-30 - _Senior Developer Educator_
-- **Normal Computing** - 2 role(s), latest 2026-10-27 - _AI Research Resident - Algorithms Codesign_
+- **Octant Bio** - 2 role(s), 2 intern, latest 2026-11-12 - _Software Engineering Intern_
+- **Odysseyml** - 2 role(s), latest 2026-11-12 - _Member of Technical Staff, Forward Deployed Machine Learning Engineer_
 - **Office Hours** - 2 role(s), latest 2026-11-02 - _Senior Frontend Engineer_
 - **onepot** - 2 role(s), 2 intern, latest 2026-11-03 - _Machine Learning Researcher Intern - Machine Learning_
 - **Openai Deployment Company** - 2 role(s), latest 2026-10-27 - _Forward Deployed Engineer - Cybersecurity - US_
-- **OpenArt AI** - 2 role(s), 2 intern, latest 2026-10-22 - _Early Adopter & Product Builder Intern - Creative AI_
+- **Operio** - 2 role(s), 2 intern, latest 2026-11-10 - _Software Engineering Intern_
 - **Paradromics** - 2 role(s), latest 2026-11-02 - _Paradromics_
-- **Pinecone** - 2 role(s), latest 2026-10-21 - _Staff Developer Advocate _
-- **PlanetScale** - 2 role(s), latest 2026-10-21 - _AI Developer Experience Engineer_
+- **Pivotal Aero** - 2 role(s), 2 intern, latest 2026-11-09 - _Software Engineering Intern_
 - **Pond AI** - 2 role(s), latest 2026-11-02 - _Pond AI_
-- **Powerline** - 2 role(s), latest 2026-10-19 - _AI Engineer_
+- **Pragmatike** - 2 role(s), latest 2026-11-12 - _Research Engineer, Synthetic Data (Pacific Time)_
 - **Profluent** - 2 role(s), 1 intern, latest 2026-11-05 - _Intern, Software Engineering_
 - **Promise** - 2 role(s), latest 2026-11-03 - _Forward Deployed Engineer_
+- **Radar** - 2 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
 - **Relling** - 2 role(s), 2 intern, latest 2026-10-31 - _Robotics Software Engineer Intern_
-- **Ricursive%20Intelligence** - 2 role(s), latest 2026-11-05 - _DevOps Engineer, Infrastructure & Platforms _
-- **Sanity** - 2 role(s), latest 2026-10-30 - _AI & Innovation Lead, G&A_
+- **Rocket Money** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
+- **Rox Data Corp** - 2 role(s), latest 2026-11-12 - _Software Engineer (Onsite San Francisco)_
+- **Salient** - 2 role(s), latest 2026-11-11 - _Cloud Infrastructure Engineer_
+- **Scopely** - 2 role(s), latest 2026-11-09 - _Full Stack Engineer_
 - **Scout AI** - 2 role(s), 2 intern, latest 2026-10-23 - _AI Engineer Intern - Fury Team_
-- **Speak** - 2 role(s), latest 2026-11-02 - _Full-Stack Engineer - Enterprise_
+- **Superdial** - 2 role(s), latest 2026-11-08 - _Tech Lead, Software Engineering_
 - **SwingVision** - 2 role(s), 2 intern, latest 2026-11-02 - _SwingVision_
 - **Sycamore** - 2 role(s), 2 intern, latest 2026-11-01 - _Member of Technical Staff Intern_
 - **Syntiant** - 2 role(s), 2 intern, latest 2026-10-29 - _Machine Learning Intern - KWS/AED_
 - **Tacit** - 2 role(s), 1 intern, latest 2026-11-05 - _Head of Software_
 - **Telescope Partners** - 2 role(s), latest 2026-11-03 - _Telescope Partners_
 - **Thunder Compute (YC S24)** - 2 role(s), latest 2026-11-02 - _Thunder Compute (YC S24)_
-- **Trener Robotics** - 2 role(s), latest 2026-10-22 - _Senior Cloud Infrastructure Engineer - Product_
 - **Twist Bioscience** - 2 role(s), latest 2026-10-26 - _Bioinformatics Application Scientist, NGS - AMER_
-- **Uber** - 2 role(s), 2 intern, latest 2026-10-21 - _Software Engineer Intern_
 - **Ultima Genomics** - 2 role(s), latest 2026-11-06 - _Firmware Engineer I_
-- **Wisdom Ai** - 2 role(s), latest 2026-10-21 - _Machine Learning Engineer_
-- **Workato** - 2 role(s), latest 2026-11-06 - _Senior Software Engineer_
-- **Zenos** - 2 role(s), latest 2026-10-19 - _Machine Learning Engineer_
-- **Andromeda** - 1 role(s), latest 2026-11-04 - _Senior Site Reliability Engineer _
+- **Volta** - 2 role(s), latest 2026-11-10 - _Software Engineer_
+- **Western Magnetics** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineer Intern_
+- **Withpulley** - 2 role(s), latest 2026-11-10 - _Applied AI Engineer_
+- **Workwhilejobs** - 2 role(s), latest 2026-11-10 - _Software Engineer, Fullstack_
+- **XPENG** - 2 role(s), 1 intern, latest 2026-10-27 - _AI Research Intern – Predictive World Model_
 - **Architect Labs** - 1 role(s), 1 intern, latest 2026-10-31 - _Member of Technical Staff Intern, Research_
 - **Axiommath** - 1 role(s), 1 intern, latest 2026-10-28 - _Member of Technical Staff Intern_
-- **Biohub** - 1 role(s), latest 2026-11-02 - _Senior Staff Data Engineer_
 - **Blacksmith** - 1 role(s), latest 2026-11-04 - _Developer Marketer_
-- **Brettonai** - 1 role(s), latest 2026-10-16 - _Software Engineer, Product_
-- **Checkbook** - 1 role(s), latest 2026-10-22 - _Senior Full Stack Engineer_
-- **Corcept Therapeutics** - 1 role(s), latest 2026-11-03 - _Associate Director, AWS Cloud Engineering_
+- **Bland** - 1 role(s), latest 2026-11-13 - _Internal Platform Engineer_
+- **Cosmic Robotics** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer - Calibration, Localization & Mapping_
 - **Creatify Lab** - 1 role(s), 1 intern, latest 2026-10-31 - _Software Engineer Intern_
+- **CTGT** - 1 role(s), 1 intern, latest 2026-11-10 - _AI Evaluation Research Intern_
+- **Diffuse Bio** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
 - **DivcoWest** - 1 role(s), 1 intern, latest 2026-11-01 - _AI Intern_
-- **Elicit** - 1 role(s), latest 2026-10-17 - _Senior Software Engineer, Data and Integrations_
-- **Endor Labs** - 1 role(s), latest 2026-10-29 - _Senior Platform Engineer - Infrastructure / MongoDB_
+- **Elas** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Science Intern_
+- **Eliseai** - 1 role(s), latest 2026-11-09 - _Junior Research Scientist_
+- **Eragon** - 1 role(s), latest 2026-10-28 - _Member of Technical Staff - Product_
 - **Figure AI** - 1 role(s), 1 intern, latest 2026-10-24 - _Developer Productivity Intern_
+- **Georgian** - 1 role(s), latest 2026-11-11 - _AI Tech Lead - Physical AI & Robotics_
 - **Gimlet** - 1 role(s), latest 2026-10-26 - _Member of Technical Staff -  GPU Performance_
 - **Gotion, Inc.** - 1 role(s), latest 2026-11-03 - _Machine Learning Engineer_
 - **Hellyeah** - 1 role(s), latest 2026-11-02 - _Senior AI Infrastructure Engineer_
 - **HoYoverse** - 1 role(s), 1 intern, latest 2026-11-06 - _Research Scientist Intern - Video Generation_
 - **humans&** - 1 role(s), latest 2026-11-02 - _humans&_
-- **IDMe University Recruiting** - 1 role(s), 1 intern, latest 2026-10-23 - _Summer Intern 2027 - Analytics Engineer Intern_
+- **Hypercubic** - 1 role(s), latest 2026-11-03 - _Founding Software Engineer - Backend_
 - **Inngest** - 1 role(s), latest 2026-10-29 - _Developer Success Engineer_
 - **Instead** - 1 role(s), 1 intern, latest 2026-10-31 - _Software Engineering Intern_
+- **Integrated Biosciences, Inc.** - 1 role(s), latest 2026-11-14 - _Software Engineer, Robotics_
 - **International House at UC Berkeley** - 1 role(s), latest 2026-11-04 - _Cloud and IT Systems Administrator _
-- **Ironcladhq** - 1 role(s), latest 2026-11-05 - _Senior Staff Software Engineer, Developer Productivity_
+- **Ivo Inc** - 1 role(s), latest 2026-11-12 - _Senior AI Researcher_
 - **JazzX AI** - 1 role(s), latest 2026-10-30 - _Associate – Mortgage AI_
-- **Jordan Park Group** - 1 role(s), latest 2026-10-20 - _Associate - Full Stack Software Engineer_
-- **Judgmentlabs** - 1 role(s), latest 2026-10-20 - _Member of Technical Staff, Deployment Engineer_
+- **Joulent** - 1 role(s), latest 2026-11-13 - _Joulent_
 - **Juul Labs** - 1 role(s), latest 2026-10-27 - _Full Stack Software Engineer_
+- **Kineticsystems** - 1 role(s), latest 2026-11-13 - _Clinical AI Research Fellowship_
 - **Knit Health** - 1 role(s), latest 2026-10-29 - _Data Engineer II_
 - **Latentlabs** - 1 role(s), latest 2026-11-06 - _Research Scientist_
 - **Lpadesignstudios** - 1 role(s), latest 2026-10-26 - _Power Platform Developer_
+- **Luminai** - 1 role(s), latest 2026-11-05 - _Applied AI Engineer, Team Lead _
 - **Lyte AI** - 1 role(s), 1 intern, latest 2026-11-05 - _Software Engineering Intern_
-- **Mach Industries** - 1 role(s), 1 intern, latest 2026-10-21 - _Engineering Intern, Software/GNC_
-- **Monaco** - 1 role(s), latest 2026-10-16 - _Data Engineer_
+- **Mantlebio** - 1 role(s), 1 intern, latest 2026-11-10 - _Computational Biology Research Engineer Intern_
+- **Maven Robotics** - 1 role(s), latest 2026-11-13 - _Robotics AI Research Engineer - CoRL_
+- **Merge** - 1 role(s), latest 2026-11-13 - _Analytics Engineer_
+- **Meshy** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer, API_
+- **Native** - 1 role(s), latest 2026-11-12 - _Native_
 - **Nevoya** - 1 role(s), latest 2026-10-28 - _AI Operations Associate_
 - **Nimble Robotics** - 1 role(s), latest 2026-10-29 - _Software Engineer, Nimble Brain_
-- **Nubank** - 1 role(s), 1 intern, latest 2026-10-19 - _AI Core PhD Research Intern_
 - **One Robot** - 1 role(s), 1 intern, latest 2026-10-31 - _Machine Learning Intern_
+- **Openclaw Foundation Inc** - 1 role(s), latest 2026-11-13 - _Mobile Engineer (Member of Technical Staff)_
 - **Palona AI** - 1 role(s), 1 intern, latest 2026-10-29 - _PhD Research Intern - Robotics & Physical AI_
 - **Parkade** - 1 role(s), latest 2026-11-03 - _Staff Front End Software Engineer_
 - **Payzen Inc** - 1 role(s), latest 2026-10-30 - _Senior Software Engineer_
-- **Physical Reasoning** - 1 role(s), 1 intern, latest 2026-10-17 - _Software Engineering Intern_
 - **Plain** - 1 role(s), latest 2026-10-26 - _Forward Deployed Engineer_
-- **Reacher** - 1 role(s), latest 2026-11-05 - _Mobile Consumer Engineer_
+- **Polymath** - 1 role(s), latest 2026-11-09 - _Polymath_
+- **Postman** - 1 role(s), 1 intern, latest 2026-11-13 - _AI Engineer Intern_
+- **Pylon** - 1 role(s), latest 2026-11-09 - _Generalist Software Engineer(s)_
+- **Quantifind** - 1 role(s), latest 2026-10-23 - _Senior Infrastructure Engineer (OpenTofu)_
+- **Rambus** - 1 role(s), 1 intern, latest 2026-11-10 - _Forward Deployed Engineer Intern - AI & Enterprise Systems_
+- **RetailReady** - 1 role(s), 1 intern, latest 2026-11-10 - _Full Stack Intern_
+- **Rillet** - 1 role(s), latest 2026-11-12 - _Staff Software Engineer, Revenue & Billing_
+- **Roche** - 1 role(s), 1 intern, latest 2026-11-09 - _Assay Bioinformatics Intern, CSI_
+- **Rodriguez Services** - 1 role(s), 1 intern, latest 2026-11-15 - _Software Engineer Intern_
+- **Sanity** - 1 role(s), latest 2026-10-30 - _AI & Innovation Lead, G&A_
 - **Sapiom** - 1 role(s), latest 2026-10-26 - _Member of Technical Staff (Payments)_
 - **Saviynt** - 1 role(s), 1 intern, latest 2026-10-27 - _Research Scientist Intern_
 - **Sift** - 1 role(s), latest 2026-10-28 - _Machine Learning Engineer_
-- **Simile** - 1 role(s), latest 2026-10-21 - _Data Products - Member of Technical Staff_
-- **Skild AI** - 1 role(s), latest 2026-10-28 - _Software Engineer, Robot Integration and Test_
+- **SigIQ.ai** - 1 role(s), 1 intern, latest 2026-11-10 - _Machine Learning Intern/Resident_
+- **SK hynix memory solutions America Inc.** - 1 role(s), 1 intern, latest 2026-11-12 - _Embedded Software Engineer Intern_
 - **Skylo** - 1 role(s), latest 2026-10-28 - _Applied AI Engineer, Agentic Systems & Identity_
 - **Sparcle** - 1 role(s), latest 2026-11-06 - _Sparcle_
-- **Standinsurance** - 1 role(s), latest 2026-10-20 - _Applied Science DevOps Lead_
+- **Stealth Health-Tech Startup** - 1 role(s), latest 2026-11-09 - _Stealth Health-Tech Startup_
 - **Subimage (YC W25)** - 1 role(s), latest 2026-11-02 - _Subimage (YC W25)_
-- **Suki** - 1 role(s), latest 2026-11-06 - _Senior Forward Deployed Engineer_
-- **Teleo** - 1 role(s), latest 2026-10-20 - _Senior Software Engineer - Integration_
+- **Substrate** - 1 role(s), 1 intern, latest 2026-11-10 - _Systems Software Engineer Intern_
 - **The Brattle Group** - 1 role(s), latest 2026-11-06 - _Data and AI Engineer - July 2027_
 - **Thebotcompany** - 1 role(s), latest 2026-11-03 - _Firmware_
 - **Toshiba International Corporation** - 1 role(s), 1 intern, latest 2026-10-27 - _Firmware Engineer Intern_
-- **Treasury Prime** - 1 role(s), latest 2026-10-22 - _Senior DevOps Engineer_
 - **Verition Group** - 1 role(s), 1 intern, latest 2026-10-28 - _AI Associate Intern, Equity Long/Short_
 - **Vigil Labs** - 1 role(s), 1 intern, latest 2026-10-26 - _Software Engineer Intern_
 - **Vohuman - Agentastic** - 1 role(s), latest 2026-11-03 - _Vohuman - Agentastic_
-- **Weee! Inc** - 1 role(s), latest 2026-10-20 - _Senior Machine Learning Engineer_
+- **Vooma** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
+- **Workato** - 1 role(s), latest 2026-11-06 - _Senior Software Engineer_
 
-### Seattle (67)
-- **NVIDIA** - 36 role(s), 36 intern, latest 2026-11-04 - _Generative AI Ph.D. Research Intern_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **DocuSign** - 23 role(s), 23 intern, latest 2026-11-06 - _Software Engineer Intern - Self-Service Directory Diagnostics_
-- **Plaid** - 23 role(s), latest 2026-11-05 - _Senior Analytics Engineer_
-- **DigitalOcean** - 22 role(s), latest 2026-11-05 - _Director of Research, Agentic AI_
-- **Field Ai** - 21 role(s), 4 intern, latest 2026-10-19 - _3D/AR/VR Software Engineer_
-- **GE Vernova** - 21 role(s), 21 intern, latest 2026-10-30 - _Energy Optimization Software Engineer Intern - Summer 2027_
-- **Nintendo** - 19 role(s), 19 intern, latest 2026-10-30 - _Software Engineer Intern - Platform Security_
-- **Duolingo** - 16 role(s), 12 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
-- **Atoms** - 15 role(s), 15 intern, latest 2026-11-03 - _Robotics Software Engineer Intern_
-- **Philips** - 14 role(s), 14 intern, latest 2026-10-29 - _Data Scientist Co-op_
-- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
-- **Maintainx** - 12 role(s), latest 2026-10-30 - _Full-Stack Developer - IAM_
-- **Hasbro** - 11 role(s), 2 intern, latest 2026-11-02 - _2027 Summer IT & Software Internships_
-- **Vailexa ** - 11 role(s), latest 2026-11-06 - _AI Customer Assurance Engineer / AI Product Support Engineer_
+### Seattle (69)
+- **ByteDance** - 54 role(s), 54 intern, latest 2026-11-10 - _Research Intern - AI Compute_
+- **Epic Games** - 45 role(s), 15 intern, latest 2026-11-12 - _AI Programmer Intern_
+- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
+- **Brex** - 19 role(s), 2 intern, latest 2026-11-12 - _Data Scientist II, Applied ML_
+- **GE Vernova** - 19 role(s), 19 intern, latest 2026-10-30 - _Software Engineer Co-op - Critical Infrastructure Communication_
+- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
+- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
+- **Duolingo** - 15 role(s), 12 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
+- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
+- **Red Cell Partners** - 13 role(s), latest 2026-11-10 - _Deputy General Manager, Agentic AI _
+- **Atoms** - 12 role(s), 12 intern, latest 2026-11-03 - _Machine Learning Engineer Intern_
+- **Philips** - 12 role(s), 12 intern, latest 2026-11-03 - _MR Software Intern_
+- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
+- **D Matrix** - 10 role(s), latest 2026-11-11 - _Staff Systems and Platforms Software Engineer_
 - **Niantic Spatial** - 10 role(s), 3 intern, latest 2026-10-30 - _Staff/Senior Staff Computer Vision Engineer - Map team_
+- **Salesforce** - 10 role(s), 10 intern, latest 2026-10-30 - _Software Engineer Intern_
 - **Sonos** - 10 role(s), 10 intern, latest 2026-11-02 - _Software Engineering Co-op - Signal Processing_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
+- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
+- **Hippocratic%20Ai** - 9 role(s), latest 2026-11-12 - _Senior Applied Scientist, Reinforcement Learning_
+- **K2 Space ** - 9 role(s), 2 intern, latest 2026-11-10 - _Data Engineer_
 - **Atlassian** - 8 role(s), 8 intern, latest 2026-10-26 - _Software Engineer Intern_
 - **Costco** - 8 role(s), 8 intern, latest 2026-11-02 - _CDS Intern - Powerapps Developer - ECM Digital Workflow_
-- **LendingTree** - 8 role(s), latest 2026-11-04 - _Manager, Data Science_
+- **Hasbro** - 8 role(s), 2 intern, latest 2026-11-02 - _2027 Summer IT & Software Internships_
 - **Adobe** - 7 role(s), 7 intern, latest 2026-10-24 - _Machine Learning Engineer Intern_
+- **Designworkstalent** - 7 role(s), latest 2026-11-10 - _Applied Researcher – AI Expert_
+- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
+- **Jbtm** - 7 role(s), latest 2026-10-29 - _Software/Control Engineer II_
+- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
 - **Stoke Space ** - 6 role(s), 4 intern, latest 2026-11-04 - _Software Integration Engineer - Test Site_
+- **The Allen Institute for Artificial Intelligence** - 6 role(s), 2 intern, latest 2026-11-13 - _Research Engineer, Climate Modeling _
 - **VYNYL** - 6 role(s), latest 2026-10-30 - _Senior Full Stack Engineer_
-- **Axion** - 5 role(s), latest 2026-10-26 - _Senior Infrastructure Engineer_
-- **GenScript** - 5 role(s), 1 intern, latest 2026-11-05 - _AI Intern, Enterprise Agent Development _
-- **Level** - 5 role(s), latest 2026-11-05 - _Staff Fullstack Web Engineer_
-- **Moloco** - 5 role(s), latest 2026-10-30 - _Data Scientist II, Product - Moloco Commerce Media_
+- **Axion** - 5 role(s), latest 2026-10-26 - _Staff Infrastructure Engineer_
 - **Trase Systems** - 5 role(s), latest 2026-11-03 - _Forward Deployed Engineer_
-- **Truveta** - 5 role(s), latest 2026-11-02 - _Real World Data Analyst (Contractor)_
 - **Zillow** - 5 role(s), 5 intern, latest 2026-10-26 - _Applied Scientist Intern - Economics_
-- **ABC Legal Services** - 4 role(s), latest 2026-10-27 - _Data Scientist_
-- **ExtraHop** - 4 role(s), latest 2026-11-06 - _Senior Data Scientist_
-- **iSpot** - 4 role(s), latest 2026-10-22 - _Associate Data Analyst_
+- **ExtraHop** - 4 role(s), latest 2026-11-06 - _Senior Applied Data Scientist_
+- **GenScript** - 4 role(s), 1 intern, latest 2026-11-05 - _AI Intern, Enterprise Agent Development _
+- **Impinj** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer_
 - **JP Morgan Chase** - 4 role(s), 4 intern, latest 2026-10-27 - _AI Research Associate Program Intern_
-- **Ntt Data Aivista** - 4 role(s), latest 2026-10-23 - _Member of Technical Staff - Science I_
+- **Level** - 4 role(s), latest 2026-11-05 - _Staff Fullstack Web Engineer_
+- **Moloco** - 4 role(s), latest 2026-10-30 - _Senior Applied Scientist, Product_
+- **Nexxen** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer - AdTech Bidding Platform / Traffic Shaping Specialist_
 - **Qualtrics** - 4 role(s), latest 2026-11-06 - _Data Analyst, GTM Analytics_
-- **Aiprise** - 3 role(s), latest 2026-10-22 - _Bilingual Forward Deployed Engineer (English/Spanish)_
-- **BlackSky** - 3 role(s), latest 2026-10-19 - _Mission Management, Software Engineering Manager_
+- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
 - **CWAN** - 3 role(s), 3 intern, latest 2026-11-03 - _Software Development Intern_
-- **Integrate** - 3 role(s), 3 intern, latest 2026-10-20 - _Software Engineer Intern_
 - **Nooks** - 3 role(s), 2 intern, latest 2026-11-05 - _Software Engineer, Intern_
 - **Pacific Northwest National Laboratory** - 3 role(s), 3 intern, latest 2026-11-02 - _NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference_
-- **Radar** - 3 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
-- **Read Ai** - 3 role(s), latest 2026-10-16 - _Senior Software Engineer - Mobile _
-- **Smartsheet** - 3 role(s), latest 2026-11-02 - _Principal Software Engineer - Observability & Telemetry Data_
-- **Typeface** - 3 role(s), latest 2026-10-19 - _Staff Cloud Security Engineer _
+- **The Pokémon Company International** - 3 role(s), latest 2026-10-28 - _Software Development Engineer in Test (12-month Fixed Term)_
 - **USAFacts** - 3 role(s), 3 intern, latest 2026-11-03 - _AI Product Intern_
 - **Astronics** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineer Intern_
 - **CoreWeave** - 2 role(s), latest 2026-11-02 - _CoreWeave_
-- **DataRobot** - 2 role(s), 2 intern, latest 2026-11-06 - _Deep Learning Research Engineer Intern_
 - **Freed** - 2 role(s), latest 2026-10-30 - _Member of Technical Staff_
 - **Golden Analytics** - 2 role(s), 2 intern, latest 2026-11-05 - _Software Engineer Intern_
 - **Overland AI** - 2 role(s), 2 intern, latest 2026-11-05 - _Software Engineering Intern_
 - **Perspective Therapeutics** - 2 role(s), 2 intern, latest 2026-10-28 - _AI Innovation Intern_
+- **Radar** - 2 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
 - **Silkline** - 2 role(s), latest 2026-11-02 - _Silkline_
-- **Uber** - 2 role(s), 2 intern, latest 2026-10-21 - _Software Engineer Intern_
+- **Withpulley** - 2 role(s), latest 2026-11-10 - _Applied AI Engineer_
 - **Aurelian** - 1 role(s), latest 2026-11-02 - _Forward Deployed Engineer_
-- **Blueprint Technologies** - 1 role(s), latest 2026-10-22 - _Junior  Azure DevOps Engineer_
 - **Compa** - 1 role(s), latest 2026-11-06 - _Staff Security Engineer, AI_
 - **Duranta ( https://getduranta.com/ ) is hiring a computer vis** - 1 role(s), latest 2026-11-02 - _Duranta ( https://getduranta.com/ ) is hiring a computer vision engineer, enterprise accou_
 - **Flexport** - 1 role(s), latest 2026-10-28 - _Software Engineer II, Autonomous Freight Technology_
 - **Hackerone** - 1 role(s), latest 2026-10-27 - _Staff Software Engineer, Applied AI_
+- **LevelTen Energy** - 1 role(s), latest 2026-11-12 - _Cloud Engineering Manager, Infrastructure_
 - **Rowan** - 1 role(s), latest 2026-11-04 - _Data Engineer, Operations Analytics_
 - **Scholarly** - 1 role(s), latest 2026-11-02 - _Scholarly_
 - **Sift** - 1 role(s), latest 2026-10-28 - _Machine Learning Engineer_
-- **The Allen Institute for AI** - 1 role(s), 1 intern, latest 2026-10-19 - _Research Intern - AI for Science_
+- **Symmetry** - 1 role(s), latest 2026-11-13 - _Applied AI Engineer_
 
-### New York City (224)
-- **Braze** - 40 role(s), 2 intern, latest 2026-11-06 - _AI Architect_
-- **American Express** - 37 role(s), 37 intern, latest 2026-11-03 - _Software Engineer Intern - Enterprise Technology Services_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
+### New York City (226)
+- **ByteDance** - 54 role(s), 54 intern, latest 2026-11-10 - _Research Intern - AI Compute_
+- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
 - **Intercontinental Exchange** - 25 role(s), 25 intern, latest 2026-11-06 - _Data Science Intern_
 - **Johnson & Johnson** - 25 role(s), 24 intern, latest 2026-11-03 - _Data Science Co-op - Spring 2027_
-- **Plaid** - 23 role(s), latest 2026-11-05 - _Senior Analytics Engineer_
-- **Sierra** - 22 role(s), 3 intern, latest 2026-10-23 - _Research Engineer, Applied Research_
+- **Figma** - 24 role(s), 13 intern, latest 2026-11-09 - _AI Engineer, Internal Tools_
+- **The New York Times** - 23 role(s), 17 intern, latest 2026-11-09 - _Senior Analytics Engineer, People Data and Insights_
+- **American Express** - 21 role(s), 21 intern, latest 2026-11-03 - _Data Analytics Intern - Enterprise Technology Services_
 - **CVS Health** - 20 role(s), 20 intern, latest 2026-10-26 - _Data Scientist Intern - Grad Conversion_
-- **DRW ** - 19 role(s), 1 intern, latest 2026-11-06 - _AI Enablement Engineer_
+- **Bedrock Robotics** - 19 role(s), 12 intern, latest 2026-11-13 - _Software Engineer, Fleet Platform_
+- **Brex** - 19 role(s), 2 intern, latest 2026-11-12 - _Data Scientist II, Applied ML_
 - **Embedding Vc** - 18 role(s), latest 2026-10-29 - _Member of Technical Staff, Infra_
-- **Duolingo** - 16 role(s), 12 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
-- **Veeva** - 16 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
-- **Atoms** - 15 role(s), 15 intern, latest 2026-11-03 - _Robotics Software Engineer Intern_
+- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
+- **DRW ** - 17 role(s), 1 intern, latest 2026-11-06 - _AI Enablement Engineer_
+- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
+- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
+- **Addepar** - 15 role(s), 6 intern, latest 2026-11-10 - _AI Engineer - AI Platform_
+- **Duolingo** - 15 role(s), 12 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
+- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
 - **Innodata Inc.** - 15 role(s), latest 2026-11-03 - _AI Agentic Workflow Reviewer_
-- **Via** - 15 role(s), latest 2026-10-19 - _Director of AI Engineering, Internal Products_
-- **Decagon** - 14 role(s), latest 2026-10-28 - _Senior Software Engineer, Platform Security_
-- **Thinkingmachines** - 14 role(s), latest 2026-10-27 - _Software Engineer, Sandboxing_
-- **Mercury** - 13 role(s), 1 intern, latest 2026-11-06 - _Senior Analytics Engineer_
-- **Edison%20Scientific** - 12 role(s), latest 2026-11-04 - _Member of Technical Staff, Principal AI Infrastructure Engineer_
-- **Maintainx** - 12 role(s), latest 2026-10-30 - _Full-Stack Developer - IAM_
-- **Schonfeld ** - 12 role(s), 6 intern, latest 2026-11-02 - _2027 Data Science Intern_
-- **Gallatin** - 11 role(s), latest 2026-10-21 - _Machine Learning Operations (MLOps) Engineer_
-- **Suno** - 11 role(s), latest 2026-11-03 - _Senior / Staff Software Engineer, AI Leverage_
-- **Vercel** - 11 role(s), 2 intern, latest 2026-11-04 - _Machine Learning Engineer, Trust & Safety_
-- **Datadog** - 10 role(s), 3 intern, latest 2026-11-02 - _Manager II, Developer Advocacy_
-- **Fidelity Investments** - 10 role(s), 10 intern, latest 2026-10-21 - _Software Engineer Co-op - Fidelity Center for Applied Technology_
+- **Veeva** - 15 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
+- **Primeintellect** - 13 role(s), latest 2026-11-12 - _Member of Technical Staff - Sandbox Platform_
+- **Chime Financial, Inc** - 12 role(s), latest 2026-11-13 - _Director, Data Engineering_
+- **Decagon** - 12 role(s), latest 2026-10-28 - _Senior Software Engineer, Platform Security_
+- **FanDuel** - 12 role(s), latest 2026-11-12 - _Analytics Engineer_
+- **Justworks** - 12 role(s), latest 2026-11-12 - _Senior AI Enablement Engineer, People_
+- **Mercury** - 12 role(s), 1 intern, latest 2026-11-06 - _Senior Analytics Engineer_
+- **Patreon** - 12 role(s), 6 intern, latest 2026-11-13 - _Staff Software Engineer, Backend Platform_
+- **EvolutionIQ** - 10 role(s), latest 2026-11-13 - _AI Engineer (CCC Auto / Agentic)_
 - **Fivetran ** - 10 role(s), latest 2026-11-06 - _Manager Software Engineering_
 - **Kitware** - 10 role(s), 4 intern, latest 2026-10-28 - _3D Computer Vision Researcher – Arlington, VA_
-- **SeatGeek** - 10 role(s), 4 intern, latest 2026-11-05 - _Data Analyst - Internship_
-- **Verra Mobility** - 10 role(s), latest 2026-10-29 - _DevOps Engineer_
-- **Adyen** - 9 role(s), latest 2026-11-05 - _Engineering Manager, Machine Learning - Personalize Intelligence_
-- **Langchain** - 9 role(s), latest 2026-10-20 - _Software Engineering Manager, AI Observability & Evals Platform (New York, NY)_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
+- **SeatGeek** - 10 role(s), 4 intern, latest 2026-11-05 - _Senior Data Analyst, Supply_
+- **Snorkel AI** - 10 role(s), latest 2026-11-13 - _Director, GTM Systems & AI Transformation_
+- **Datadog** - 9 role(s), 2 intern, latest 2026-11-02 - _Manager II, Developer Advocacy_
+- **Fireworks** - 9 role(s), latest 2026-11-10 - _AI Deployment Strategist_
+- **Gecko Robotics** - 9 role(s), 7 intern, latest 2026-11-12 - _AI/Machine Learning Engineering Intern_
+- **Generalintuition Medal** - 9 role(s), latest 2026-11-10 - _Senior/Staff Software Engineer – Backend_
+- **Tessera Labs** - 9 role(s), 2 intern, latest 2026-11-13 - _Forward-Deployed Engineer_
+- **CLEAR - Corporate** - 8 role(s), latest 2026-11-13 - _Director of Product, Mobile_
 - **Cogent Security** - 8 role(s), latest 2026-10-27 - _Software Engineer - Applied AI_
 - **Dow Jones** - 8 role(s), 8 intern, latest 2026-10-30 - _Data Analyst Intern - Internship Program_
-- **Fastly** - 8 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
-- **Flex** - 8 role(s), 1 intern, latest 2026-10-19 - _Senior Software Development Engineer in Test (SDET)_
-- **Intuit** - 8 role(s), 8 intern, latest 2026-10-30 - _Software Engineer Intern_
-- **Oscar Health** - 8 role(s), latest 2026-11-06 - _Director, Analytics Engineering_
-- **Pallet** - 8 role(s), latest 2026-11-07 - _Associate Deployment Strategist (AI/ML Product)_
-- **Trustly** - 8 role(s), latest 2026-11-04 - _Staff Software Engineer, Payment Gateway_
+- **Mirage** - 8 role(s), latest 2026-11-14 - _Data Scientist, Product_
+- **Spotify** - 8 role(s), latest 2026-11-09 - _Backend Engineer - Data Infrastructure_
+- **Turing** - 8 role(s), latest 2026-11-11 - _Forward Deployed AI Engineer_
 - **Adobe** - 7 role(s), 7 intern, latest 2026-10-24 - _Machine Learning Engineer Intern_
+- **Altana ** - 7 role(s), latest 2026-11-09 - _Principal Platform Engineer_
 - **Capco** - 7 role(s), latest 2026-10-29 - _AI Technical Architect_
-- **Clear Street** - 7 role(s), latest 2026-10-22 - _Senior Data Engineer_
+- **Fastly** - 7 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
 - **Genesis Molecular Ai** - 7 role(s), 5 intern, latest 2026-10-31 - _Applied ML Scientist (Staff / Principal)_
-- **Megazone** - 7 role(s), 2 intern, latest 2026-11-04 - _Sr. AI FDE _
-- **Normalcomputing** - 7 role(s), latest 2026-10-27 - _AI Research Resident_
+- **Intuit** - 7 role(s), 7 intern, latest 2026-10-30 - _Software Engineer Intern - Full Stack_
+- **Pallet** - 7 role(s), latest 2026-11-07 - _Associate Deployment Strategist (AI/ML Product)_
 - **SageSure** - 7 role(s), 7 intern, latest 2026-10-29 - _Data Scientist Intern_
-- **Truelogic** - 7 role(s), latest 2026-10-27 - _Senior DevOps / Platform Engineer – Fintech Company (Hybrid, 3 days, New York)_
-- **BETA Technologies** - 6 role(s), latest 2026-10-23 - _AI / ML Engineer, Advanced Concepts_
-- **Confido** - 6 role(s), latest 2026-11-03 - _Data Scientist_
-- **Springs Window Fashions** - 6 role(s), 6 intern, latest 2026-11-07 - _Data Analyst Intern - Consumer Business Unit_
-- **Taskrabbit** - 6 role(s), latest 2026-11-06 - _Senior Full Stack Engineer - AI Innovation_
+- **Zocdoc** - 7 role(s), latest 2026-11-11 - _Data Scientist_
+- **Aircall.io, Inc.** - 6 role(s), latest 2026-11-13 - _Engineering Director, AI Agents_
+- **Arcesium LLC** - 6 role(s), 5 intern, latest 2026-11-11 - _AI Transformation Intern_
+- **NBCUniversal** - 6 role(s), 6 intern, latest 2026-11-11 - _Software Engineer Intern_
+- **Normalcomputing** - 6 role(s), latest 2026-10-27 - _Platform Engineer_
+- **Nourish** - 6 role(s), latest 2026-11-10 - _Analytics Engineering Lead_
+- **Percepta** - 6 role(s), latest 2026-11-09 - _Research Scientist – Reinforcement Learning (RL)_
 - **Valinor** - 6 role(s), latest 2026-10-26 - _Software Engineer, Backend (Platform)_
-- **Adonis** - 5 role(s), latest 2026-11-04 - _Data Platform Engineer_
-- **Asana** - 5 role(s), latest 2026-10-19 - _Senior Staff Engineer, AI_
-- **Autodesk** - 5 role(s), 5 intern, latest 2026-10-19 - _PhD Researcher Intern - Machine Learning for Construction_
-- **Axion** - 5 role(s), latest 2026-10-26 - _Senior Infrastructure Engineer_
+- **Axion** - 5 role(s), latest 2026-10-26 - _Staff Infrastructure Engineer_
 - **Brainco** - 5 role(s), latest 2026-11-06 - _AI Platform Engineer, Developer Productivity_
-- **DV Trading** - 5 role(s), 3 intern, latest 2026-10-20 - _AI Engineer Intern - Summer 2027_
+- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
+- **Cox** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Engineer Intern - Summer 2027_
+- **DreamWorks Animation** - 5 role(s), 5 intern, latest 2026-11-09 - _Software Engineer Intern_
+- **Exiger** - 5 role(s), latest 2026-11-09 - _AI Product Builder _
 - **Guardian Life** - 5 role(s), 5 intern, latest 2026-11-03 - _Data Engineering Intern - Digital & Technology_
 - **IMC** - 5 role(s), 2 intern, latest 2026-11-06 - _Hardware Machine Learning PhD Research Internship_
-- **Lavendo** - 5 role(s), latest 2026-11-03 - _Sr. Associate - New Verticals, Agentic AI (NY)_
-- **Moloco** - 5 role(s), latest 2026-10-30 - _Data Scientist II, Product - Moloco Commerce Media_
-- **Namespace** - 5 role(s), latest 2026-11-02 - _Infrastructure Software Engineer_
-- **Nebius** - 5 role(s), 1 intern, latest 2026-11-03 - _Manager, ML Solutions Architecture - Token Factory_
+- **mthree Recruiting Portal** - 5 role(s), latest 2026-11-12 - _DevOps Engineer/ Production Support Analyst_
 - **Niural** - 5 role(s), 2 intern, latest 2026-11-06 - _Software Engineer II - Frontend_
-- **Pear Vc** - 5 role(s), latest 2026-11-03 - _MassHealth Enrollment Specialist & AI Operations_
-- **Qube Research & Technologies** - 5 role(s), latest 2026-11-04 - _C++ Developer – ETF Technology & Infrastructure_
-- **Ripple ** - 5 role(s), latest 2026-10-23 - _Senior Staff, Developer Relations_
-- **Standardbots** - 5 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
-- **Depthfirst** - 4 role(s), latest 2026-10-22 - _Senior Software Engineer, Corporate Security_
+- **Adaption** - 4 role(s), latest 2026-11-10 - _Research Scientist_
+- **Adonis** - 4 role(s), latest 2026-11-04 - _Data Platform Engineer_
+- **AssemblyAI** - 4 role(s), latest 2026-11-09 - _Applied AI Engineer_
+- **Confido** - 4 role(s), latest 2026-11-03 - _Data Engineering Manager/Head of Data_
 - **Distyl** - 4 role(s), latest 2026-10-29 - _AI Engineer (French Speaking) _
-- **Garda Capital Partners** - 4 role(s), 3 intern, latest 2026-11-06 - _Infrastructure Engineer_
+- **Footprint** - 4 role(s), latest 2026-11-11 - _Member of Technical Staff (Backend, Rust)_
 - **Gen Digital** - 4 role(s), latest 2026-11-02 - _Senior Backend Engineer (Java/Spring)_
-- **Hover** - 4 role(s), latest 2026-10-20 - _Director of Engineering, Mobile Capture_
 - **JP Morgan Chase** - 4 role(s), 4 intern, latest 2026-10-27 - _AI Research Associate Program Intern_
+- **Kaizenlabs** - 4 role(s), latest 2026-11-12 - _Software Engineer, Cleared (TS/SCI)_
 - **Minerva** - 4 role(s), latest 2026-10-27 - _Forward Deployed Engineer_
-- **Odewithanthropic** - 4 role(s), latest 2026-10-26 - _Member of Technical Staff (SF)_
+- **Moloco** - 4 role(s), latest 2026-10-30 - _Senior Applied Scientist, Product_
+- **Newtonx** - 4 role(s), latest 2026-11-09 - _Project Lead, AI Model Training_
+- **Nexxen** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer - AdTech Bidding Platform / Traffic Shaping Specialist_
 - **Par%20Technology** - 4 role(s), latest 2026-11-05 - _Software Engineer_
-- **Pivotal Health** - 4 role(s), latest 2026-10-27 - _Head of Data Engineering_
-- **Posh** - 4 role(s), latest 2026-10-30 - _Senior Software Engineer, Backend_
+- **Pointone** - 4 role(s), latest 2026-11-09 - _Software Engineer_
 - **Schrödinger** - 4 role(s), latest 2026-11-04 - _Infrastructure Developer_
-- **Semgrep** - 4 role(s), 2 intern, latest 2026-10-23 - _Senior Engineering Manager, Software Supply Chain Security _
 - **ShopBack** - 4 role(s), 4 intern, latest 2026-10-31 - _Software Engineer Intern_
-- **Solstice** - 4 role(s), latest 2026-10-20 - _Member of Technical Staff (Data Engineering)_
-- **Sony** - 4 role(s), 4 intern, latest 2026-10-22 - _Audio Processing and Machine Learning Intern - Music Technology_
+- **St Labs** - 4 role(s), latest 2026-11-10 - _Forward Deployed Engineer _
+- **Standardbots** - 4 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
 - **Talos** - 4 role(s), 4 intern, latest 2026-10-29 - _Software Engineer Intern - RFQ_
-- **Unify** - 4 role(s), latest 2026-10-20 - _Applied AI Engineer_
+- **Traba** - 4 role(s), latest 2026-11-09 - _Senior Software Engineer (AI Agents)_
+- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
 - **Blossom Health** - 3 role(s), latest 2026-11-06 - _Software Engineer_
-- **Citizen** - 3 role(s), latest 2026-10-29 - _Senior iOS Engineer_
-- **Cloaked** - 3 role(s), latest 2026-10-20 - _Staff Software Engineer, Full Stack_
+- **Cboe Global Markets** - 3 role(s), 3 intern, latest 2026-11-12 - _Software Engineer Intern, C++_
 - **Coast** - 3 role(s), latest 2026-11-06 - _AI Operations Engineer _
-- **Creatoriq** - 3 role(s), latest 2026-11-04 - _Senior Fullstack Engineer, Agentic Experience_
 - **Datasnipper** - 3 role(s), latest 2026-10-29 - _Senior Applied AI Engineer – Agent Runtime (Alwin by DataSnipper)_
-- **Disney** - 3 role(s), 3 intern, latest 2026-10-29 - _Product & Technology Software Engineering Intern_
+- **David Ai** - 3 role(s), latest 2026-11-10 - _Research Engineer_
 - **Duolingo University Recruitment** - 3 role(s), 2 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
-- **Hcompany** - 3 role(s), latest 2026-10-28 - _Founding Forward Deployed Engineer - US_
 - **Jane Street** - 3 role(s), latest 2026-11-03 - _Dean of Students, Academy of Math and Programming (AMP)_
 - **JPMorganChase** - 3 role(s), 2 intern, latest 2026-11-02 - _AI Research Associate Intern_
 - **Known** - 3 role(s), latest 2026-10-27 - _Backend Engineer_
-- **Linkup** - 3 role(s), 2 intern, latest 2026-10-23 - _DevOps Engineer_
-- **Luminai** - 3 role(s), latest 2026-11-05 - _Staff Software Engineer, Platform_
+- **Lseg** - 3 role(s), 3 intern, latest 2026-11-03 - _Intern - Software Engineer_
 - **Makai Labs** - 3 role(s), latest 2026-11-03 - _AI Engineer _
-- **Mesh** - 3 role(s), latest 2026-10-23 - _Senior Backend Engineer_
 - **Method** - 3 role(s), latest 2026-11-02 - _Senior Software Engineer_
 - **Middesk** - 3 role(s), latest 2026-11-02 - _Middesk_
 - **Mimica** - 3 role(s), latest 2026-11-05 - _Head of Platform (Infrastructure & DevOps)_
+- **Nory Co** - 3 role(s), latest 2026-11-11 - _School Break Day Camp Coding Lead Teacher (Manhattan, Brooklyn)_
 - **Oklo** - 3 role(s), latest 2026-11-02 - _Oklo_
-- **Pendo** - 3 role(s), latest 2026-11-03 - _Software Engineer (AI)_
-- **Radar** - 3 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
+- **Pivotal Health** - 3 role(s), latest 2026-10-27 - _Staff Software Engineer (Platform Engineering)_
+- **Posh** - 3 role(s), latest 2026-10-30 - _Senior Software Engineer, Fullstack_
 - **Resolveai** - 3 role(s), latest 2026-11-06 - _Member of Technical Staff – Tech Lead_
 - **Revin** - 3 role(s), latest 2026-11-06 - _Forward Deployed Engineer — Conversational Agents_
-- **Rho** - 3 role(s), latest 2026-10-22 - _Senior Data Scientist/ML_
-- **Rocket Money** - 3 role(s), latest 2026-10-23 - _Full Stack Engineer, Autopilot_
 - **Sailorhealth** - 3 role(s), latest 2026-11-04 - _Founding Data & Analytics Engineer (NYC)_
 - **Shepherd (Series B)** - 3 role(s), latest 2026-11-02 - _Shepherd (Series B)_
-- **Stuut Ai** - 3 role(s), latest 2026-11-03 - _Member of the Technical Staff — Applied AI, Fullstack_
-- **Titan Msp** - 3 role(s), latest 2026-10-23 - _Forward Deployed Engineer_
+- **Springs Window Fashions** - 3 role(s), 3 intern, latest 2026-11-07 - _AI Intern, Information Technology_
+- **Tabs** - 3 role(s), latest 2026-11-12 - _Senior Software Engineer, Merchant Onboarding_
+- **Talkiatry** - 3 role(s), latest 2026-11-13 - _Analytics Engineer_
 - **Valkai** - 3 role(s), latest 2026-11-06 - _Member of Technical Staff - Generalist_
-- **Viant Technology** - 3 role(s), latest 2026-10-21 - _Senior Software Engineer, TVision_
-- **Voyant Photonics** - 3 role(s), latest 2026-10-22 - _Systems Software Engineer, Hardware Validation_
+- **Verisk** - 3 role(s), 3 intern, latest 2026-11-13 - _AI Intern - Summer Internship Program_
 - **Zeta Global** - 3 role(s), latest 2026-11-04 - _Senior Software Engineer_
 - **ACLU Kentucky** - 2 role(s), 2 intern, latest 2026-10-27 - _Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod_
 - **Assembledhq** - 2 role(s), latest 2026-10-27 - _Software Engineer, Workforce Operations_
@@ -2282,267 +2315,260 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Beli** - 2 role(s), 2 intern, latest 2026-10-28 - _Software Engineer Intern_
 - **Blockhouse** - 2 role(s), 1 intern, latest 2026-11-06 - _Quant Developer, Trading Systems (Rust and C++)_
 - **C1** - 2 role(s), latest 2026-11-05 - _Software Engineer_
-- **Carta** - 2 role(s), latest 2026-10-16 - _Senior Software Engineer II, Investors_
-- **Cedar** - 2 role(s), latest 2026-10-20 - _Software Engineer 3 (Platforms)_
+- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
 - **Clad (YC W23)** - 2 role(s), latest 2026-11-03 - _Clad (YC W23)_
+- **Clair** - 2 role(s), latest 2026-11-13 - _Senior Fullstack Engineer, Core Products_
 - **Clay** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineer Intern_
+- **Claylabs** - 2 role(s), latest 2026-11-14 - _Software Engineer, GTM Ops_
+- **Cockroach Labs** - 2 role(s), latest 2026-11-10 - _Member of Technical Staff (Migrations) _
+- **Cognition** - 2 role(s), latest 2026-11-10 - _Research Engineer, Safety & Alignment_
+- **Conduct** - 2 role(s), latest 2026-11-13 - _ABAP AI Developer_
 - **Doctronic** - 2 role(s), latest 2026-11-03 - _Senior Data Engineer_
+- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
 - **Finch Legal** - 2 role(s), latest 2026-10-29 - _Member of Technical Staff_
 - **Formulary Financial** - 2 role(s), 2 intern, latest 2026-11-08 - _Software Engineer Intern_
 - **Forum Ventures** - 2 role(s), latest 2026-11-06 - _Forward-Deployed Engineer_
 - **Fuel Cycle** - 2 role(s), latest 2026-10-27 - _AI Operations Associate_
+- **Garage** - 2 role(s), latest 2026-11-08 - _Software Engineer, Growth_
 - **Genius AI** - 2 role(s), 2 intern, latest 2026-10-29 - _Software Engineer Intern_
-- **Genius Sports** - 2 role(s), latest 2026-10-30 - _Senior Site Reliability Engineer_
 - **Govsignals** - 2 role(s), latest 2026-11-03 - _Platform Engineer_
-- **Harriscomputer** - 2 role(s), latest 2026-11-05 - _Principal AI Cloud Architect – Azure Cloud_
-- **Hopper** - 2 role(s), latest 2026-11-04 - _Senior Data Scientist- Travel Tech _
+- **Hcompany** - 2 role(s), latest 2026-10-28 - _Founding Forward Deployed Engineer - US_
 - **IEX Group** - 2 role(s), latest 2026-11-02 - _Software Engineer for Test_
-- **Invisible Technologies** - 2 role(s), latest 2026-10-16 - _Head of Frontier AI_
-- **January** - 2 role(s), latest 2026-11-04 - _Senior Analytics Engineer_
+- **Jobs Valence** - 2 role(s), latest 2026-11-09 - _Senior DevOps Engineer_
 - **Jomboy Media** - 2 role(s), 2 intern, latest 2026-11-03 - _Business Intelligence Intern - Spring 2027_
-- **Lio** - 2 role(s), latest 2026-10-24 - _Oracle Procurement Expert (AI Procurement Integration)_
-- **Lovable** - 2 role(s), latest 2026-10-22 - _Analytics Engineer_
+- **Lorikeet** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer_
 - **Mux** - 2 role(s), latest 2026-11-03 - _Senior Full Stack Engineer_
-- **Neko Health** - 2 role(s), latest 2026-11-04 - _Lead Software Engineer - Medical OS_
-- **Norm Ai** - 2 role(s), latest 2026-11-02 - _Senior Analytics Engineer_
-- **Normal Computing** - 2 role(s), latest 2026-10-27 - _AI Research Resident - Algorithms Codesign_
 - **Openai Deployment Company** - 2 role(s), latest 2026-10-27 - _Forward Deployed Engineer - Cybersecurity - US_
-- **Per Scholas** - 2 role(s), latest 2026-10-21 - _Director, Product Infrastructure & Cloud_
-- **Pinecone** - 2 role(s), latest 2026-10-21 - _Staff Developer Advocate _
+- **Orbital** - 2 role(s), latest 2026-11-13 - _AI Ops Engineer (GTM) _
+- **Outtake** - 2 role(s), latest 2026-11-13 - _Software Engineer, Platform_
 - **Probook** - 2 role(s), latest 2026-11-05 - _Member of Technical Staff - Product Engineering_
-- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Measurement Data & Analytics_
-- **Realitydefender** - 2 role(s), latest 2026-10-26 - _Staff Data Platform Engineer _
+- **Radar** - 2 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
+- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Analytics Engineer_
 - **Recidiviz** - 2 role(s), latest 2026-10-26 - _Data Analyst (Entry-Level)_
 - **Ridgeline** - 2 role(s), 1 intern, latest 2026-11-02 - _Staff Software Engineer, Performance and Analytics _
-- **Sandbar** - 2 role(s), latest 2026-10-19 - _Senior/Staff Software Engineer_
+- **Rocket Money** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
+- **Rox Data Corp** - 2 role(s), latest 2026-11-12 - _Software Engineer (Onsite San Francisco)_
 - **Talos Trading** - 2 role(s), 2 intern, latest 2026-10-29 - _Software Engineer Intern, Dealer_
 - **Thread Ai** - 2 role(s), latest 2026-10-27 - _Applied AI Strategist, Federal_
-- **Trace Labs** - 2 role(s), 2 intern, latest 2026-10-23 - _Robotics Engineer Intern - Hardware & Software_
-- **Tracelabs** - 2 role(s), 1 intern, latest 2026-10-23 - _Machine Learning Engineer, Applied_
 - **Trinity Life Sciences** - 2 role(s), 2 intern, latest 2026-10-27 - _Data Science Intern_
 - **TripleLift ** - 2 role(s), latest 2026-10-26 - _Senior Data Engineer_
-- **Two Sigma** - 2 role(s), 2 intern, latest 2026-10-18 - _Software Engineering Intern - Summer 2027_
-- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
 - **Vestwell** - 2 role(s), latest 2026-11-03 - _Data Analyst_
-- **Walrus** - 2 role(s), 2 intern, latest 2026-10-21 - _Full Stack Developer Intern_
-- **Wealth Com** - 2 role(s), latest 2026-10-19 - _Sr Data Engineer_
+- **Workwhilejobs** - 2 role(s), latest 2026-11-10 - _Software Engineer, Fullstack_
+- **WTW** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Analyst Intern_
+- ***Confidential Healthcare AI Startup** - 1 role(s), latest 2026-11-13 - _*Confidential Healthcare AI Startup_
 - **Ajax** - 1 role(s), latest 2026-11-05 - _Forward Deployed Engineer_
 - **Avantos** - 1 role(s), latest 2026-10-29 - _Senior Software Engineer, AI Platform_
 - **AXA** - 1 role(s), 1 intern, latest 2026-10-29 - _Underwriting Data & Analytics Intern_
 - **Beparallel** - 1 role(s), latest 2026-11-06 - _Medical Coding Lead, US_
-- **Bertelsmann** - 1 role(s), 1 intern, latest 2026-10-23 - _Data Science Intern_
 - **Bikky** - 1 role(s), latest 2026-11-04 - _Bikky_
-- **Biohub** - 1 role(s), latest 2026-11-02 - _Senior Staff Data Engineer_
 - **Blackbird Labs Inc** - 1 role(s), latest 2026-11-02 - _Senior iOS UI Engineer_
 - **Blacksmith** - 1 role(s), latest 2026-11-04 - _Developer Marketer_
-- **Builders at Gigs** - 1 role(s), latest 2026-10-28 - _Senior Backend Engineer, US Activation & Retention_
+- **Bonfire Analytics** - 1 role(s), latest 2026-11-13 - _Bonfire Analytics_
+- **Business Insider** - 1 role(s), latest 2026-11-13 - _Programmer, Streaming & Video Operations_
+- **ChukMedia** - 1 role(s), latest 2026-11-11 - _Data Analytics Resident_
 - **Compyl** - 1 role(s), latest 2026-11-04 - _Software Engineer_
 - **Credit Genie** - 1 role(s), latest 2026-11-02 - _Credit Genie_
 - **Darkroom** - 1 role(s), latest 2026-11-04 - _Full-Stack Engineer_
-- **Digital Asset** - 1 role(s), latest 2026-10-16 - _Director, Data Architecture (AI Enablement)_
+- **Dirac, Inc.** - 1 role(s), latest 2026-11-13 - _Software Engineer_
 - **Edra** - 1 role(s), latest 2026-10-29 - _AI Research Engineer (New York)_
+- **Elm AI** - 1 role(s), latest 2026-11-13 - _Elm AI_
 - **Equall** - 1 role(s), latest 2026-11-02 - _Equall_
 - **Exponent** - 1 role(s), latest 2026-11-03 - _Exponent_
 - **Farsight** - 1 role(s), latest 2026-10-28 - _Senior Software Engineer_
+- **Fora** - 1 role(s), latest 2026-11-11 - _Data Scientist_
 - **Gannett Fleming** - 1 role(s), 1 intern, latest 2026-11-06 - _Data Analytics Intern_
-- **Good Inside** - 1 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
+- **Genius Sports** - 1 role(s), latest 2026-10-30 - _Senior Site Reliability Engineer_
+- **Govdash** - 1 role(s), latest 2026-11-13 - _Software Engineer _
+- **Grey State Apparel** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Analyst Intern_
+- **Headstarter** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern, Agents & FE_
 - **ICD** - 1 role(s), 1 intern, latest 2026-11-06 - _AI/ML Engineering Intern_
-- **Junction** - 1 role(s), latest 2026-10-20 - _Data Scientist_
-- **K Health** - 1 role(s), latest 2026-10-21 - _Data Engineer_
+- **Jellyfishcareers** - 1 role(s), latest 2026-11-12 - _SFMC Developer_
+- **Joinpogo** - 1 role(s), latest 2026-11-11 - _Full Stack Engineer_
 - **Kalshi** - 1 role(s), latest 2026-11-04 - _Software Engineer, Growth_
 - **Krakentech** - 1 role(s), latest 2026-11-06 - _Forward Deployed Engineer (Client Solutions)_
-- **Mark Morris Dance Group** - 1 role(s), latest 2026-10-30 - _Website & Data Analytics Associate_
-- **MATTE PROJECTS** - 1 role(s), 1 intern, latest 2026-11-02 - _Creative & AI Intern - Winter/Spring 2027 (On-Site)_
+- **Kroo** - 1 role(s), latest 2026-11-11 - _Kroo_
+- **Lio** - 1 role(s), latest 2026-10-24 - _Oracle Procurement Expert (AI Procurement Integration)_
+- **Luminai** - 1 role(s), latest 2026-11-05 - _Applied AI Engineer, Team Lead _
+- **Mason** - 1 role(s), 1 intern, latest 2026-11-10 - _AI Engineer Intern_
+- **Morgan Stanley** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Co-op, Parametric_
 - **Motherduck** - 1 role(s), latest 2026-10-30 - _Software Engineer - Database_
 - **Nirvana Robotics** - 1 role(s), latest 2026-11-05 - _Nirvana Robotics_
-- **Nivoda** - 1 role(s), latest 2026-10-22 - _Senior Full Stack Engineer – Growth Pod_
-- **Passagehealth** - 1 role(s), latest 2026-10-23 - _Senior Platform Engineer_
-- **Pelago** - 1 role(s), latest 2026-11-02 - _Sr. Analytics Engineer _
+- **Normal Computing** - 1 role(s), latest 2026-10-27 - _AI Research Resident - Algorithms Codesign_
+- **Oxman** - 1 role(s), latest 2026-11-13 - _Senior Full-Stack Software Engineer_
 - **Permitflow** - 1 role(s), latest 2026-11-04 - _Principal Software Engineer, Platform_
 - **Perry** - 1 role(s), latest 2026-11-03 - _Perry_
-- **Physical Reasoning** - 1 role(s), 1 intern, latest 2026-10-17 - _Software Engineering Intern_
 - **PhysicsX** - 1 role(s), latest 2026-11-03 - _Senior/Principal Machine Learning Engineer (Aerospace Manufacturing)_
 - **Piramidal (YC W24)** - 1 role(s), latest 2026-11-05 - _Piramidal (YC W24)_
+- **Podium Automation** - 1 role(s), latest 2026-11-12 - _Senior Software Engineer_
 - **Pontera** - 1 role(s), latest 2026-10-30 - _Senior Data Engineer_
-- **Pyyne** - 1 role(s), latest 2026-11-02 - _Senior Backend Engineer _
+- **Pyyne** - 1 role(s), latest 2026-11-02 - _Sr. Backend Engineer _
 - **Radix Trading Experienced Job Board** - 1 role(s), latest 2026-10-30 - _AI Engineer_
-- **Rokt** - 1 role(s), latest 2026-10-22 - _Junior Software Engineer Resident_
+- **Rallyuxr** - 1 role(s), latest 2026-11-09 - _Senior Platform Engineer_
+- **Rectangle Health** - 1 role(s), latest 2026-11-11 - _Junior Power BI Developer_
 - **Sola** - 1 role(s), latest 2026-10-23 - _Forward Deployed Engineer_
 - **Solveintelligence** - 1 role(s), latest 2026-11-05 - _US Infrastructure Engineer_
 - **Special** - 1 role(s), latest 2026-11-03 - _Special_
-- **Thought Machine** - 1 role(s), latest 2026-10-22 - _Forward Deployed Engineer - Infrastructure_
+- **Springernature** - 1 role(s), latest 2026-11-09 - _Publisher/Senior Publisher, Computer Science Journals _
+- **Tetrix** - 1 role(s), latest 2026-11-11 - _Senior Full Stack Engineer (Python + JavaScript)_
 - **Traversal** - 1 role(s), latest 2026-11-03 - _AI Engineer - Forward Deployed Engineer_
 - **Twin Health** - 1 role(s), latest 2026-10-30 - _Lead Health Economics Analytics Engineer_
 - **United Risk** - 1 role(s), 1 intern, latest 2026-11-02 - _United Risk_
 - **Vatic Investments** - 1 role(s), 1 intern, latest 2026-11-03 - _AI Research Intern_
 - **Verition Group** - 1 role(s), 1 intern, latest 2026-10-28 - _AI Associate Intern, Equity Long/Short_
-- **Whop** - 1 role(s), latest 2026-11-05 - _Forward Deployed Engineer, Platforms (US)_
+- **Zingage** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Co-op_
 
-### Chicago (46)
-- **Braze** - 40 role(s), 2 intern, latest 2026-11-06 - _AI Architect_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **DocuSign** - 23 role(s), 23 intern, latest 2026-11-06 - _Software Engineer Intern - Self-Service Directory Diagnostics_
-- **DRW ** - 19 role(s), 1 intern, latest 2026-11-06 - _AI Enablement Engineer_
+### Chicago (49)
+- **DRW ** - 17 role(s), 1 intern, latest 2026-11-06 - _AI Enablement Engineer_
+- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
+- **Motorola** - 15 role(s), 15 intern, latest 2026-11-11 - _Mission Critical Networks Software Engineer Co-op_
+- **Chime Financial, Inc** - 12 role(s), latest 2026-11-13 - _Director, Data Engineering_
+- **EvolutionIQ** - 10 role(s), latest 2026-11-13 - _AI Engineer (CCC Auto / Agentic)_
 - **PayPal** - 10 role(s), 10 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Adyen** - 9 role(s), latest 2026-11-05 - _Engineering Manager, Machine Learning - Personalize Intelligence_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
-- **Constellation Energy** - 8 role(s), 8 intern, latest 2026-10-28 - _Information Technology Software Development Intern_
-- **Constellation Brands** - 7 role(s), 7 intern, latest 2026-11-05 - _AI Enablement Intern_
+- **Compeer Financial** - 7 role(s), 2 intern, latest 2026-11-10 - _Principal AI Platform Engineer_
+- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
 - **SageSure** - 7 role(s), 7 intern, latest 2026-10-29 - _Data Scientist Intern_
-- **Uber Freight** - 7 role(s), latest 2026-10-30 - _Senior Software Engineer (Backend)_
-- **Valtech** - 7 role(s), latest 2026-11-06 - _Client Partner, Growth and AI Augmented _
-- **Referrals Only** - 6 role(s), latest 2026-11-05 - _Associate (Graduate) Developer_
-- **Axion** - 5 role(s), latest 2026-10-26 - _Senior Infrastructure Engineer_
+- **The Federal Reserve System** - 7 role(s), 7 intern, latest 2026-11-09 - _Computer Science and Software Engineering Intern_
+- **Adyen** - 6 role(s), latest 2026-11-05 - _Engineering Manager, Machine Learning - Personalize Intelligence_
+- **Opengov** - 6 role(s), 3 intern, latest 2026-11-12 - _Sr Software Engineer - Full Stack_
+- **Uber Freight** - 6 role(s), latest 2026-10-30 - _Senior Software Engineer (Backend)_
+- **Valtech** - 6 role(s), latest 2026-11-06 - _Client Partner, Growth and AI Augmented _
+- **Assurant** - 5 role(s), 5 intern, latest 2026-10-27 - _Software Engineer Intern_
+- **Axion** - 5 role(s), latest 2026-10-26 - _Staff Infrastructure Engineer_
 - **CNA Insurance** - 5 role(s), 5 intern, latest 2026-11-03 - _Technology Internship - Software Engineering_
-- **DV Trading** - 5 role(s), 3 intern, latest 2026-10-20 - _AI Engineer Intern - Summer 2027_
 - **IMC** - 5 role(s), 2 intern, latest 2026-11-06 - _Hardware Machine Learning PhD Research Internship_
-- **Qube Research & Technologies** - 5 role(s), latest 2026-11-04 - _C++ Developer – ETF Technology & Infrastructure_
-- **Fictiv** - 4 role(s), latest 2026-10-23 - _Senior AI Growth Engineer _
-- **ARCO Companies** - 3 role(s), latest 2026-10-20 - _AI Solutions Analyst _
+- **Livekit** - 5 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
+- **McDonald's** - 5 role(s), 5 intern, latest 2026-11-10 - _Software Development Engineer Intern_
+- **New Leaf Energy, Inc.** - 5 role(s), latest 2026-11-12 - _Associate Project Developer, Mid-Atlantic_
+- **Cboe Global Markets** - 3 role(s), 3 intern, latest 2026-11-12 - _Software Engineer Intern, C++_
 - **Coinflow** - 3 role(s), latest 2026-10-29 - _ML Ops Engineer_
 - **CWAN** - 3 role(s), 3 intern, latest 2026-11-03 - _Software Development Intern_
-- **Fin** - 3 role(s), latest 2026-10-30 - _Forward Deployed Data Scientist_
 - **Revantage Corporate Services** - 3 role(s), 3 intern, latest 2026-10-28 - _Quantitative Developer Intern_
 - **Ace Hardware** - 2 role(s), 2 intern, latest 2026-10-28 - _IT Associate Software Engineer Intern_
-- **Aon** - 2 role(s), 2 intern, latest 2026-10-21 - _IT / AI Engineer Intern_
-- **Ecolab** - 2 role(s), 2 intern, latest 2026-11-03 - _Digital & AI Technology Intern_
 - **ENFOS** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern - Summer 2027_
 - **Forum Ventures** - 2 role(s), latest 2026-11-06 - _Forward-Deployed Engineer_
 - **Gelber Group** - 2 role(s), latest 2026-10-26 - _(Associate) Software Engineer- Trading Integrations Team_
+- **HUB International** - 2 role(s), 2 intern, latest 2026-11-11 - _AI Engineer Intern_
 - **Infleqtion** - 2 role(s), 2 intern, latest 2026-10-28 - _Quantum Software Intern - Quantum Software_
 - **Marmon Holdings** - 2 role(s), 2 intern, latest 2026-11-06 - _AI Intern_
-- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Measurement Data & Analytics_
+- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Analytics Engineer_
 - **Silkline** - 2 role(s), latest 2026-11-02 - _Silkline_
-- **Tastylive** - 2 role(s), latest 2026-10-20 - _Analytics and Business Intelligence Manager _
-- **Tastytrade** - 2 role(s), latest 2026-10-20 - _Analytics and Business Intelligence Manager _
 - **yeet** - 2 role(s), latest 2026-11-02 - _yeet_
+- **Chowbus** - 1 role(s), latest 2026-11-10 - _Full Stack Engineer, GTM Systems (Built with and powered by AI)_
 - **Chubb** - 1 role(s), 1 intern, latest 2026-11-05 - _Business Intelligence Intern_
+- **Echo** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
+- **Ecolab** - 1 role(s), 1 intern, latest 2026-11-03 - _Digital & AI Technology Intern_
 - **Enova International** - 1 role(s), latest 2026-10-26 - _Lead Data Scientist (Hybrid)_
-- **Home Chef  ** - 1 role(s), latest 2026-10-19 - _Software Engineer II_
+- **Epsilon** - 1 role(s), latest 2026-11-10 - _Epsilon |Hybrid (Chicago, IL)_
 - **LogicGate** - 1 role(s), latest 2026-11-06 - _Software Engineer: Front-End_
-- **Mars** - 1 role(s), latest 2026-10-26 - _Sr Manager Growth AI Transformation_
+- **Optimal Market Technologies, LLC** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer_
 - **Prospect Equities** - 1 role(s), 1 intern, latest 2026-11-05 - _Backend / Frontend Developer Intern_
 - **Quantum Rise** - 1 role(s), latest 2026-11-02 - _Quantum Rise_
 - **Radix Trading Experienced Job Board** - 1 role(s), latest 2026-10-30 - _AI Engineer_
-- **Unlock Health** - 1 role(s), latest 2026-10-23 - _Data Engineer_
+- **Rewards Network** - 1 role(s), latest 2026-11-11 - _Front End Engineer (Hybrid)_
+- **SemiAnalysis** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Engineer Intern_
+- **Spoton** - 1 role(s), latest 2026-11-10 - _Senior Analytics Platform Engineer_
 
-### Texas (125)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **KLA Corporation** - 51 role(s), 51 intern, latest 2026-11-06 - _Software Engineering Intern - C++ - Unix_
-- **AMD** - 49 role(s), 49 intern, latest 2026-10-28 - _Data Analyst Intern/Co-op_
-- **Braze** - 40 role(s), 2 intern, latest 2026-11-06 - _AI Architect_
-- **NVIDIA** - 36 role(s), 36 intern, latest 2026-11-04 - _Generative AI Ph.D. Research Intern_
-- **Fab2** - 35 role(s), 28 intern, latest 2026-10-27 - _Embedded Software Engineering Intern - Winter_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Intel** - 25 role(s), 25 intern, latest 2026-11-05 - _Software Engineer Intern_
+### Texas (109)
+- **L3Harris Technologies** - 94 role(s), 94 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
+- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
+- **Fab2** - 33 role(s), 26 intern, latest 2026-10-27 - _Rust Software Engineering Intern, Chip Design Tools - Winter_
 - **Johnson & Johnson** - 25 role(s), 24 intern, latest 2026-11-03 - _Data Science Co-op - Spring 2027_
-- **Toshiba Global Commerce Solutions - External** - 25 role(s), 2 intern, latest 2026-11-05 - _AI Automation & Revenue Ops Intern_
-- **Emerson Electric** - 23 role(s), 23 intern, latest 2026-10-29 - _Data Analytics Intern_
-- **DigitalOcean** - 22 role(s), latest 2026-11-05 - _Director of Research, Agentic AI_
+- **AMD** - 22 role(s), 22 intern, latest 2026-10-28 - _Compiler Engineer Intern/Co-op_
 - **CVS Health** - 20 role(s), 20 intern, latest 2026-10-26 - _Data Scientist Intern - Grad Conversion_
-- **DRW ** - 19 role(s), 1 intern, latest 2026-11-06 - _AI Enablement Engineer_
+- **Anavationllc** - 19 role(s), 2 intern, latest 2026-11-09 - _AI Engineer SME_
 - **Sierra Nevada Corporation** - 19 role(s), 18 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Aptiv** - 18 role(s), 18 intern, latest 2026-10-22 - _Compiler Intern - Compiler Team_
-- **Marvell** - 15 role(s), 15 intern, latest 2026-10-28 - _Firmware Engineer Intern_
-- **Two Six Technologies** - 15 role(s), 2 intern, latest 2026-11-03 - _Lead Embedded Software Engineer_
-- **Graphcore** - 14 role(s), 4 intern, latest 2026-10-20 - _AI Technology PhD Research Internship_
+- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Writer** - 16 role(s), latest 2026-11-12 - _AI transformation lead (Central)_
+- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
+- **Applied Materials** - 14 role(s), 14 intern, latest 2026-11-10 - _Data Analyst Intern - Global Technical Learning Center_
 - **ALTEN Technology USA** - 13 role(s), latest 2026-11-03 - _Data Analyst / Architect_
-- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
-- **Maintainx** - 12 role(s), latest 2026-10-30 - _Full-Stack Developer - IAM_
 - **Q2** - 12 role(s), 12 intern, latest 2026-11-03 - _Data Science Intern_
-- **Schonfeld ** - 12 role(s), 6 intern, latest 2026-11-02 - _2027 Data Science Intern_
+- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
 - **Barkbus** - 11 role(s), latest 2026-10-29 - _Mobile Dog Groomer_
-- **Gallatin** - 11 role(s), latest 2026-10-21 - _Machine Learning Operations (MLOps) Engineer_
-- **GM financial** - 11 role(s), 11 intern, latest 2026-11-06 - _Data Science Intern_
-- **Saronic** - 11 role(s), 6 intern, latest 2026-11-04 - _Forward Deployed Software Engineer_
 - **Tyler Technologies** - 11 role(s), 11 intern, latest 2026-11-05 - _Software Development Intern - Summer 2027_
-- **Cotality** - 10 role(s), latest 2026-11-06 - _Principal Software Engineer (Location Services)_
-- **Electronic Arts** - 10 role(s), 10 intern, latest 2026-10-19 - _Software Engineer Intern_
 - **Fivetran ** - 10 role(s), latest 2026-11-06 - _Manager Software Engineering_
 - **Nissan** - 10 role(s), 10 intern, latest 2026-10-27 - _AI & Data Analytics Intern_
 - **PayPal** - 10 role(s), 10 intern, latest 2026-11-05 - _Software Engineer Intern_
 - **Resideo** - 10 role(s), 10 intern, latest 2026-11-02 - _Embedded Firmware Engineer Intern_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
-- **Verizon Communications** - 9 role(s), 9 intern, latest 2026-10-20 - _AI/ML Engineering Intern - Consumer Group_
-- **Allen Control Systems** - 8 role(s), 6 intern, latest 2026-10-29 - _Motor Drive Firmware Engineer-All Levels_
-- **Copart** - 8 role(s), 8 intern, latest 2026-10-23 - _Data Engineer Intern_
-- **Marianaminerals** - 8 role(s), latest 2026-10-28 - _Full Stack Software Engineer_
-- **Neuralink** - 8 role(s), 3 intern, latest 2026-10-26 - _Infrastructure Engineer, Mechanical Tooling_
-- **Texas Instruments** - 8 role(s), 8 intern, latest 2026-10-22 - _Software Engineer Intern_
+- **CLEAR - Corporate** - 8 role(s), latest 2026-11-13 - _Director of Product, Mobile_
+- **Samsung Research America** - 8 role(s), 3 intern, latest 2026-11-11 - _Android Systems Security Engineer _
 - **Adobe** - 7 role(s), 7 intern, latest 2026-10-24 - _Machine Learning Engineer Intern_
 - **Apptronik** - 7 role(s), latest 2026-11-06 - _Senior Embedded Linux Engineer_
 - **Capco** - 7 role(s), latest 2026-10-29 - _AI Technical Architect_
 - **Focused** - 7 role(s), latest 2026-10-30 - _Controls Software Engineer_
-- **Megazone** - 7 role(s), 2 intern, latest 2026-11-04 - _Sr. AI FDE _
+- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
+- **The Federal Reserve System** - 7 role(s), 7 intern, latest 2026-11-09 - _Computer Science and Software Engineering Intern_
 - **Toshiba Global Commerce Solutions** - 7 role(s), 7 intern, latest 2026-11-03 - _AI Data Science & Business Analytics Intern_
-- **Uber Freight** - 7 role(s), latest 2026-10-30 - _Senior Software Engineer (Backend)_
+- **7-Eleven** - 6 role(s), 6 intern, latest 2026-11-09 - _AI Engineer Intern_
+- **Allen Control Systems** - 6 role(s), 4 intern, latest 2026-10-29 - _Motor Drive Firmware Engineer-All Levels_
 - **Dell Technologies** - 6 role(s), 6 intern, latest 2026-11-03 - _Software Engineer Intern - Client Solutions Group Engineering_
 - **DriveTime** - 6 role(s), 6 intern, latest 2026-11-03 - _Software Engineer Intern - Summer 2027_
+- **Harmattan Ai** - 6 role(s), latest 2026-11-09 - _Deployment Lead - Software Platform Morocco_
+- **Neuralink** - 6 role(s), 3 intern, latest 2026-10-26 - _Infrastructure Engineer, Mechanical Tooling_
 - **The Exploration Company** - 6 role(s), 4 intern, latest 2026-11-07 - _Senior Software System Engineer  _
 - **Tokyo Electron** - 6 role(s), 6 intern, latest 2026-11-04 - _Business Intelligence Analyst Intern_
-- **Tripledot Studios** - 6 role(s), latest 2026-11-04 - _Data Analyst_
+- **Uber Freight** - 6 role(s), latest 2026-10-30 - _Senior Software Engineer (Backend)_
 - **Valinor** - 6 role(s), latest 2026-10-26 - _Software Engineer, Backend (Platform)_
 - **VYNYL** - 6 role(s), latest 2026-10-30 - _Senior Full Stack Engineer_
 - **Axiom Space** - 5 role(s), 5 intern, latest 2026-10-29 - _Software Engineer Intern_
-- **G2** - 5 role(s), 1 intern, latest 2026-10-26 - _Software Engineering Director, Agentic Evaluations_
+- **Cotality** - 5 role(s), latest 2026-11-06 - _Senior Professional,  Software Engineer_
+- **Cox** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Engineer Intern - Summer 2027_
 - **GE Aerospace** - 5 role(s), 5 intern, latest 2026-11-02 - _Applied AI Engineer Co-op_
 - **Hewlett Packard (HP)** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Intern_
 - **Hitachi** - 5 role(s), 5 intern, latest 2026-11-06 - _Onboard Software Developer Intern_
-- **Insperity** - 5 role(s), 5 intern, latest 2026-10-22 - _Rotational Data Analytics Intern_
-- **Kunai** - 5 role(s), latest 2026-11-03 - _AI Delivery Engineer - AWS Bedrock_
-- **Level** - 5 role(s), latest 2026-11-05 - _Staff Fullstack Web Engineer_
+- **Livekit** - 5 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
 - **Machinify** - 5 role(s), latest 2026-11-05 - _Analyst, AI Enablement & Value Creation_
 - **NXP Semiconductors** - 5 role(s), 5 intern, latest 2026-11-02 - _Data Science / Structured Problem Solving Intern - Summer 2027_
 - **Toshiba Commerce Solutions** - 5 role(s), 5 intern, latest 2026-11-03 - _Agentic Software Engineering Intern_
-- **Celestica** - 4 role(s), 4 intern, latest 2026-10-18 - _AI Engineer Intern_
-- **Five9** - 4 role(s), latest 2026-10-27 - _Senior Site Reliability Engineer - Compute Platforms_
-- **Fundamental** - 4 role(s), latest 2026-10-22 - _Forward Deployed Data Scientist - Oil & Gas, Houston_
+- **Apache Industrial** - 4 role(s), 4 intern, latest 2026-11-09 - _AI Implementation Intern_
+- **Conga** - 4 role(s), latest 2026-11-08 - _Principal Software Engineer_
+- **Level** - 4 role(s), latest 2026-11-05 - _Staff Fullstack Web Engineer_
 - **Ontic** - 4 role(s), latest 2026-10-29 - _Analytics Engineer _
-- **OpenSesame** - 4 role(s), 3 intern, latest 2026-10-22 - _AI Product Builder Intern_
 - **Perryweather** - 4 role(s), latest 2026-11-04 - _Platform Engineer_
+- **Placer.ai** - 4 role(s), latest 2026-10-24 - _Platform Engineer - AI Tools_
 - **RosaicLabs** - 4 role(s), 4 intern, latest 2026-10-28 - _AI Accelerator Design Verification Engineer Intern_
-- **Shield** - 4 role(s), 4 intern, latest 2026-11-05 - _Embedded Firmware Intern_
 - **Ambiq Micro, Inc.** - 3 role(s), latest 2026-11-03 - _Sr Staff Software Engineer - Power Management _
-- **Auctane ** - 3 role(s), latest 2026-11-06 - _Salesforce Developer and Digital Solutions Specialist (HYBRID REMOTE)_
-- **Avride** - 3 role(s), latest 2026-11-06 - _Labeling Backend Software Engineer_
+- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
+- **Cook Systems** - 3 role(s), latest 2026-11-09 - _Data Analytics - Data Scientist_
+- **Ericsson** - 3 role(s), 3 intern, latest 2026-11-14 - _AI and Automation Engineer Intern_
 - **FUTO** - 3 role(s), 2 intern, latest 2026-10-28 - _Software Engineer Intern_
-- **Hcompany** - 3 role(s), latest 2026-10-28 - _Founding Forward Deployed Engineer - US_
 - **Hypori** - 3 role(s), latest 2026-10-26 - _Senior Engineer - Mobile Application_
-- **LPL Financial Holdings** - 3 role(s), 3 intern, latest 2026-10-18 - _Data Analytics Intern - FAR Program_
 - **Method** - 3 role(s), latest 2026-11-02 - _Senior Software Engineer_
-- **Ping Identity** - 3 role(s), latest 2026-10-29 - _Senior Director, Site Reliability Engineering_
+- **Persona AI** - 3 role(s), 3 intern, latest 2026-11-09 - _Robotics Software Intern - Manipulation_
 - **PMG** - 3 role(s), latest 2026-10-28 - _AI & Software Engineering Lead _
 - **Revantage Corporate Services** - 3 role(s), 3 intern, latest 2026-10-28 - _Quantitative Developer Intern_
-- **Samsung Research America Internship** - 3 role(s), 2 intern, latest 2026-11-03 - _2027 Health AI Scholar, Digital Health Algorithms Team_
 - **SWBC** - 3 role(s), 3 intern, latest 2026-11-03 - _Software Engineer Intern_
 - **Wells Fargo** - 3 role(s), 3 intern, latest 2026-10-26 - _Software Engineer Intern - Early Careers - Software Engineering_
 - **8Am** - 2 role(s), latest 2026-11-06 - _Forward Deployed Engineer_
+- **Arista Networks** - 2 role(s), 2 intern, latest 2026-11-10 - _Data Analytics Intern_
 - **Buspatrol** - 2 role(s), latest 2026-11-04 - _Sr. DevOps Engineer _
+- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
 - **Corgan** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Development Intern_
 - **Dimensional Fund Advisors** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern_
+- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
+- **FieldPulse** - 2 role(s), 2 intern, latest 2026-11-13 - _AI Intern_
 - **Hippo Insurance** - 2 role(s), latest 2026-10-23 - _Insurance Data Scientist_
-- **Hopper** - 2 role(s), latest 2026-11-04 - _Senior Data Scientist- Travel Tech _
+- **Hunt Oil Company** - 2 role(s), 2 intern, latest 2026-11-10 - _Application Developer Intern_
 - **Ketjen** - 2 role(s), 2 intern, latest 2026-11-03 - _Data Science Intern_
-- **METECS** - 2 role(s), 2 intern, latest 2026-11-05 - _Software Intern_
 - **NCR Atleos** - 2 role(s), 2 intern, latest 2026-11-05 - _Data Science Intern_
-- **Neara** - 2 role(s), latest 2026-10-26 - _Data Engineer_
-- **Noda Ai** - 2 role(s), latest 2026-10-29 - _AI/ML Engineer_
 - **ON.energy** - 2 role(s), latest 2026-10-26 - _Senior Quality Assurance Engineer - Cloud & Data Platforms_
 - **Paradromics** - 2 role(s), latest 2026-11-02 - _Paradromics_
 - **Qualia** - 2 role(s), latest 2026-11-05 - _Engineering Manager II, Cloud Security_
+- **Sustainment** - 2 role(s), latest 2026-11-13 - _Software Engineer_
 - **The%20Zebra** - 2 role(s), latest 2026-10-28 - _Manager, Data Analytics_
-- **Toyota** - 2 role(s), 2 intern, latest 2026-10-21 - _Data Science Intern_
-- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
 - **Vestwell** - 2 role(s), latest 2026-11-03 - _Data Analyst_
 - **Western Alliance Bancorporation** - 2 role(s), 2 intern, latest 2026-11-05 - _Platform Engineering Intern_
 - **Alcon** - 1 role(s), 1 intern, latest 2026-11-03 - _Software, Data & AI Engineering Intern_
 - **CAMS** - 1 role(s), 1 intern, latest 2026-10-28 - _Application Performance Monitoring Predictive Analytics Engineer Intern_
+- **Career Team** - 1 role(s), latest 2026-11-13 - _Job Developer - Youth_
+- **Cigna** - 1 role(s), 1 intern, latest 2026-11-12 - _Software Engineering Intern_
 - **Economy Polymers & Chemicals** - 1 role(s), 1 intern, latest 2026-10-30 - _AI & Business Systems Automation Intern_
 - **Epay Policy** - 1 role(s), latest 2026-10-27 - _Sr Customer Experience AI Engineer_
-- **Flosports** - 1 role(s), latest 2026-10-23 - _Programming Coordinator - Contract_
-- **ICON** - 1 role(s), latest 2026-11-05 - _Manager, Robotics Software_
-- **Learfield** - 1 role(s), latest 2026-10-28 - _Vice President, Software Engineering_
 - **Lpadesignstudios** - 1 role(s), latest 2026-10-26 - _Power Platform Developer_
+- **METECS** - 1 role(s), 1 intern, latest 2026-11-05 - _Software Intern_
 - **Republic Finance** - 1 role(s), 1 intern, latest 2026-11-06 - _React Developer Intern_
 - **Steadily** - 1 role(s), latest 2026-10-29 - _Senior Machine Learning Engineer_
 - **Stealth** - 1 role(s), latest 2026-11-03 - _Stealth_
@@ -2553,1554 +2579,1591 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **TRG** - 1 role(s), 1 intern, latest 2026-11-01 - _Full Stack Application Developer Intern_
 - **Veryable** - 1 role(s), 1 intern, latest 2026-11-05 - _Platform Engineer Intern_
 
-### Boston (80)
-- **NVIDIA** - 36 role(s), 36 intern, latest 2026-11-04 - _Generative AI Ph.D. Research Intern_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
+### Boston (74)
+- **Booz Allen** - 64 role(s), 64 intern, latest 2026-11-10 - _Data Scientist Intern - University_
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
+- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
+- **Klaviyo** - 27 role(s), 9 intern, latest 2026-11-12 - _Engineering Manager, Amplify Engineering & AI Agents_
 - **Johnson & Johnson** - 25 role(s), 24 intern, latest 2026-11-03 - _Data Science Co-op - Spring 2027_
-- **DigitalOcean** - 22 role(s), latest 2026-11-05 - _Director of Research, Agentic AI_
-- **Field Ai** - 21 role(s), 4 intern, latest 2026-10-19 - _3D/AR/VR Software Engineer_
-- **GE Vernova** - 21 role(s), 21 intern, latest 2026-10-30 - _Energy Optimization Software Engineer Intern - Summer 2027_
-- **American Family Insurance Group** - 20 role(s), 20 intern, latest 2026-10-23 - _Web Developer Intern_
-- **Veeva** - 16 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
-- **Via** - 15 role(s), latest 2026-10-19 - _Director of AI Engineering, Internal Products_
-- **Graphcore** - 14 role(s), 4 intern, latest 2026-10-20 - _AI Technology PhD Research Internship_
-- **Philips** - 14 role(s), 14 intern, latest 2026-10-29 - _Data Scientist Co-op_
-- **Edison%20Scientific** - 12 role(s), latest 2026-11-04 - _Member of Technical Staff, Principal AI Infrastructure Engineer_
+- **GE Vernova** - 19 role(s), 19 intern, latest 2026-10-30 - _Software Engineer Co-op - Critical Infrastructure Communication_
+- **Veeva** - 15 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
+- **Philips** - 12 role(s), 12 intern, latest 2026-11-03 - _MR Software Intern_
 - **Regeneron Pharmaceuticals** - 12 role(s), 12 intern, latest 2026-11-03 - _Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT_
-- **Hasbro** - 11 role(s), 2 intern, latest 2026-11-02 - _2027 Summer IT & Software Internships_
-- **Suno** - 11 role(s), latest 2026-11-03 - _Senior / Staff Software Engineer, AI Leverage_
-- **Code Metal** - 10 role(s), latest 2026-11-04 - _Forward Deployed Engineer_
-- **Datadog** - 10 role(s), 3 intern, latest 2026-11-02 - _Manager II, Developer Advocacy_
-- **Fidelity Investments** - 10 role(s), 10 intern, latest 2026-10-21 - _Software Engineer Co-op - Fidelity Center for Applied Technology_
 - **Sonos** - 10 role(s), 10 intern, latest 2026-11-02 - _Software Engineering Co-op - Signal Processing_
-- **Langchain** - 9 role(s), latest 2026-10-20 - _Software Engineering Manager, AI Observability & Evals Platform (New York, NY)_
-- **Merck** - 9 role(s), 8 intern, latest 2026-10-23 - _Computational Toxicology Intern - AI/ML Computational Toxicology_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
-- **Iambic Therapeutics** - 8 role(s), latest 2026-11-06 - _Machine Learning Scientist – Clinical Prediction_
+- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Datadog** - 9 role(s), 2 intern, latest 2026-11-02 - _Manager II, Developer Advocacy_
+- **Hasbro** - 8 role(s), 2 intern, latest 2026-11-02 - _2027 Summer IT & Software Internships_
+- **Spotify** - 8 role(s), latest 2026-11-09 - _Backend Engineer - Data Infrastructure_
 - **Adobe** - 7 role(s), 7 intern, latest 2026-10-24 - _Machine Learning Engineer Intern_
 - **Cuspai** - 7 role(s), latest 2026-11-05 - _Scientific Software Engineer (Lab Integration)_
-- **QuEra Computing, Inc.** - 7 role(s), 1 intern, latest 2026-11-01 - _Internship - Scientific Software and Compilation_
+- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
+- **Telus Digital** - 7 role(s), 2 intern, latest 2026-11-11 - _Software Engineering Intern (US) - Summer 2027_
 - **Wabtec** - 7 role(s), 7 intern, latest 2026-11-03 - _Firmware Engineer Co-op_
 - **Zus Health** - 7 role(s), 5 intern, latest 2026-10-31 - _Data Acquisition Software Engineering Co-op_
+- **CarGurus** - 6 role(s), 6 intern, latest 2026-11-11 - _Software Development Engineer Intern, Full Stack_
 - **Circuithub** - 6 role(s), latest 2026-11-05 - _Software Engineer, Robotics_
-- **DraftKings** - 6 role(s), 6 intern, latest 2026-11-05 - _Software Engineer Intern_
 - **Formenergy** - 6 role(s), latest 2026-10-28 - _Senior Data Analytics Engineer, Factory Software_
-- **Autodesk** - 5 role(s), 5 intern, latest 2026-10-19 - _PhD Researcher Intern - Machine Learning for Construction_
-- **Pear Vc** - 5 role(s), latest 2026-11-03 - _MassHealth Enrollment Specialist & AI Operations_
-- **Standardbots** - 5 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
-- **Starburst** - 5 role(s), latest 2026-10-23 - _AI Agent Engineer_
-- **Tulip Interfaces** - 5 role(s), latest 2026-11-05 - _Cloud Security Engineer_
+- **Lightmatter** - 6 role(s), 4 intern, latest 2026-11-12 - _Data & AI Platform, Intern - Summer 2027_
+- **Opengov** - 6 role(s), 3 intern, latest 2026-11-12 - _Sr Software Engineer - Full Stack_
+- **Percepta** - 6 role(s), latest 2026-11-09 - _Research Scientist – Reinforcement Learning (RL)_
+- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
+- **mthree Recruiting Portal** - 5 role(s), latest 2026-11-12 - _DevOps Engineer/ Production Support Analyst_
+- **New Leaf Energy, Inc.** - 5 role(s), latest 2026-11-12 - _Associate Project Developer, Mid-Atlantic_
+- **Conga** - 4 role(s), latest 2026-11-08 - _Principal Software Engineer_
 - **Elucid** - 4 role(s), 4 intern, latest 2026-11-06 - _Software Engineer Intern_
-- **Flagship Pioneering Co-Op Program** - 4 role(s), 4 intern, latest 2026-10-23 - _Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)_
 - **Johnson Controls** - 4 role(s), 4 intern, latest 2026-10-28 - _Software/Controls Engineering Graduate Intern_
+- **Later** - 4 role(s), 1 intern, latest 2026-10-26 - _Senior AI Automation Engineer_
+- **Manulife Financial** - 4 role(s), 4 intern, latest 2026-11-13 - _Software Engineering Intern_
 - **Powertown** - 4 role(s), 4 intern, latest 2026-10-31 - _Forward Deployed Engineer Intern_
+- **Standardbots** - 4 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
+- **Tulip Interfaces** - 4 role(s), latest 2026-11-05 - _Cloud Security Engineer_
+- **Blitzy** - 3 role(s), latest 2026-10-29 - _Principal Software Engineer_
 - **Coderabbit** - 3 role(s), latest 2026-11-05 - _Senior Analytics Engineer_
+- **Datarobot** - 3 role(s), 2 intern, latest 2026-11-06 - _Software Design Engineer Intern_
 - **Delos Data** - 3 role(s), latest 2026-10-28 - _Software Development Engineer in Test - AI_
-- **Later** - 3 role(s), 1 intern, latest 2026-10-26 - _Data & Analytics Co-op _
+- **Forward%20Financing** - 3 role(s), latest 2026-11-13 - _Principal Software Engineer_
+- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
 - **Mimica** - 3 role(s), latest 2026-11-05 - _Head of Platform (Infrastructure & DevOps)_
-- **Recorded Future** - 3 role(s), latest 2026-10-27 - _Product Support Solutions Developer_
-- **Speechmatics** - 3 role(s), latest 2026-10-22 - _Developer Relations Advocate_
-- **Viant Technology** - 3 role(s), latest 2026-10-21 - _Senior Software Engineer, TVision_
-- **AgZen** - 2 role(s), 2 intern, latest 2026-10-16 - _Software Engineer Co-op_
+- **Psi** - 3 role(s), latest 2026-11-11 - _Member of Technical Staff, AI Research_
+- **Sanofi** - 3 role(s), 3 intern, latest 2026-11-11 - _mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op_
 - **AI x Healthcare Startup** - 2 role(s), latest 2026-11-02 - _AI x Healthcare Startup_
 - **Arrowstreet Capital** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern_
-- **Bracebridge Capital** - 2 role(s), 2 intern, latest 2026-10-19 - _Northeastern University Software Engineer - Business Intelligence Co-op_
-- **Civilgrid** - 2 role(s), latest 2026-11-05 - _Senior/Staff Computer Vision Engineer_
 - **Cloudzero** - 2 role(s), latest 2026-11-04 - _Staff / Principal Software Engineer_
-- **Codametrix** - 2 role(s), latest 2026-10-19 - _Senior Data Engineer_
-- **Constant Contact** - 2 role(s), latest 2026-10-21 - _Manager of Product Data & Analytics _
-- **DataRobot** - 2 role(s), 2 intern, latest 2026-11-06 - _Deep Learning Research Engineer Intern_
+- **CMTelematics** - 2 role(s), latest 2026-11-13 - _Senior Site Reliability Engineer, SecOps_
 - **Foley** - 2 role(s), latest 2026-11-04 - _GTM Forward Deployed Engineer_
 - **Forum Ventures** - 2 role(s), latest 2026-11-06 - _Forward-Deployed Engineer_
 - **Hi Marley** - 2 role(s), latest 2026-11-04 - _Director, Data Analytics _
-- **Hopper** - 2 role(s), latest 2026-11-04 - _Senior Data Scientist- Travel Tech _
 - **Immuta** - 2 role(s), 1 intern, latest 2026-11-06 - _Sr. Data Scientist_
-- **Lovable** - 2 role(s), latest 2026-10-22 - _Analytics Engineer_
-- **Metalenz** - 2 role(s), 2 intern, latest 2026-10-21 - _Camera Software Intern_
-- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Measurement Data & Analytics_
+- **Layer Health** - 2 role(s), latest 2026-11-09 - _Contract Data Scientist (40 hrs/wk)_
+- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Analytics Engineer_
 - **Trinity Life Sciences** - 2 role(s), 2 intern, latest 2026-10-27 - _Data Science Intern_
-- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
+- **Vertex Pharmaceuticals** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Analytics Intern - OSD Process Data Analytics_
+- **Wolters Kluwer** - 2 role(s), 2 intern, latest 2026-11-12 - _Product Software Engineer Intern_
+- **Asimov** - 1 role(s), latest 2026-11-10 - _Staff Data Engineer, Lab Data Platform _
+- **Babel Street** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer_
 - **Brooke Charter Schools** - 1 role(s), latest 2026-10-31 - _High School Computer Science Teacher 2027-2028_
+- **Cbai** - 1 role(s), latest 2026-11-13 - _Research Manager, AI Safety_
 - **Charles River Analytics** - 1 role(s), 1 intern, latest 2026-10-29 - _AI Scientist Intern_
 - **Checkly** - 1 role(s), latest 2026-10-28 - _Support Engineer (DevTools & AI Reliability, remote)_
-- **Clarasight** - 1 role(s), latest 2026-11-03 - _Forward Deployed Engineer_
-- **CommonAI C.I.C.** - 1 role(s), 1 intern, latest 2026-10-20 - _Software Engineer Intern_
 - **Gearset** - 1 role(s), 1 intern, latest 2026-10-29 - _Software Engineer Intern_
 - **Nutanix** - 1 role(s), 1 intern, latest 2026-10-29 - _Software Engineer Intern_
 - **Pendar Technologies** - 1 role(s), latest 2026-11-06 - _Scientific Software Engineer – Algorithms_
 - **Posh Ai** - 1 role(s), latest 2026-11-03 - _Forward Deployed Engineer_
+- **Rallyuxr** - 1 role(s), latest 2026-11-09 - _Senior Platform Engineer_
 - **Rapdev** - 1 role(s), latest 2026-10-30 - _Senior Cloud Engineer_
-- **Redgate** - 1 role(s), 1 intern, latest 2026-10-20 - _Software Engineer Intern_
-- **Superluminal Medicines, Inc.** - 1 role(s), latest 2026-10-23 - _Staff Engineer, Research Informatics and AI_
 - **University of Cambridge, University of Manchester** - 1 role(s), latest 2026-11-02 - _University of Cambridge, University of Manchester_
 - **Vesalius Therapeutics** - 1 role(s), latest 2026-10-27 - _Principal Data Engineer_
 
-### Los Angeles (54)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **Rivian** - 33 role(s), 33 intern, latest 2026-11-06 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Field Ai** - 21 role(s), 4 intern, latest 2026-10-19 - _3D/AR/VR Software Engineer_
+### Los Angeles (43)
+- **Booz Allen** - 64 role(s), 64 intern, latest 2026-11-10 - _Data Scientist Intern - University_
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
 - **The Aerospace Corporation** - 21 role(s), 21 intern, latest 2026-11-02 - _Machine Learning Engineering Intern_
-- **Atoms** - 15 role(s), 15 intern, latest 2026-11-03 - _Robotics Software Engineer Intern_
-- **Marvell** - 15 role(s), 15 intern, latest 2026-10-28 - _Firmware Engineer Intern_
 - **ALTEN Technology USA** - 13 role(s), latest 2026-11-03 - _Data Analyst / Architect_
-- **Gallatin** - 11 role(s), latest 2026-10-21 - _Machine Learning Operations (MLOps) Engineer_
-- **Suno** - 11 role(s), latest 2026-11-03 - _Senior / Staff Software Engineer, AI Leverage_
+- **Revel** - 13 role(s), 8 intern, latest 2026-11-13 - _Forward Deployed Engineer_
+- **ZipRecruiter** - 13 role(s), 2 intern, latest 2026-11-09 - _Engineering Manager, Machine Learning, Ranking_
+- **FanDuel** - 12 role(s), latest 2026-11-12 - _Analytics Engineer_
 - **CoStar Group** - 10 role(s), 10 intern, latest 2026-11-02 - _Embedded Software Engineer Intern_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
-- **Antares** - 7 role(s), 4 intern, latest 2026-10-29 - _Multiphysics Software Intern - Summer 2027_
-- **Megazone** - 7 role(s), 2 intern, latest 2026-11-04 - _Sr. AI FDE _
-- **Rivian and Volkswagen Group Technologies** - 7 role(s), 7 intern, latest 2026-10-23 - _Software Engineering Intern - Applications - Infotainment & Mobile_
-- **Inversion Space** - 6 role(s), 6 intern, latest 2026-10-19 - _Avionics Embedded Software Engineer Intern_
+- **K2 Space ** - 9 role(s), 2 intern, latest 2026-11-10 - _Data Engineer_
+- **Turing** - 8 role(s), latest 2026-11-11 - _Forward Deployed AI Engineer_
+- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
+- **Antares** - 6 role(s), 3 intern, latest 2026-10-29 - _Multiphysics Software Intern - Summer 2027_
 - **The Exploration Company** - 6 role(s), 4 intern, latest 2026-11-07 - _Senior Software System Engineer  _
+- **Vital Lyfe** - 6 role(s), 5 intern, latest 2026-11-12 - _Software Engineer, Backend & Data_
 - **VYNYL** - 6 role(s), latest 2026-10-30 - _Senior Full Stack Engineer_
-- **HeyGen** - 5 role(s), 2 intern, latest 2026-10-19 - _AI Video Creator_
+- **Livekit** - 5 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
 - **Match Group** - 5 role(s), 5 intern, latest 2026-11-06 - _Backend Engineer Intern_
-- **Insomniac Games** - 4 role(s), 4 intern, latest 2026-11-01 - _Engine and Tools Programming Intern – Undergraduate_
-- **Inversion** - 4 role(s), 3 intern, latest 2026-10-19 - _AI & Internal Tools Software Engineer - Summer Internship 2027_
-- **Pivotal Health** - 4 role(s), latest 2026-10-27 - _Head of Data Engineering_
+- **Riot Games** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineer Intern_
+- **AXS** - 4 role(s), latest 2026-11-12 - _Lead Software Engineer - Fullstack _
+- **Insomniac Games** - 4 role(s), 4 intern, latest 2026-11-01 - _Gameplay Programmer Intern_
+- **Nox Metals** - 4 role(s), latest 2026-11-10 - _Machine Learning Engineer_
 - **TWG Global** - 4 role(s), 4 intern, latest 2026-11-03 - _Data Science Intern - MAQR_
-- **Absurd Ventures** - 3 role(s), latest 2026-10-23 - _Senior Software Engineer, NPC/Gameplay_
-- **Centerfield** - 3 role(s), latest 2026-10-26 - _Data Engineer_
-- **Creatoriq** - 3 role(s), latest 2026-11-04 - _Senior Fullstack Engineer, Agentic Experience_
-- **Disney** - 3 role(s), 3 intern, latest 2026-10-29 - _Product & Technology Software Engineering Intern_
-- **Make Rain** - 3 role(s), latest 2026-11-01 - _Embedded Software Engineer_
-- **Quantum Space** - 3 role(s), latest 2026-10-30 - _EGSE/Avionics Test Software Engineer_
-- **Viant Technology** - 3 role(s), latest 2026-10-21 - _Senior Software Engineer, TVision_
-- **Arena Club** - 2 role(s), latest 2026-10-30 - _Senior DevOps Engineer_
-- **Faraday Future** - 2 role(s), latest 2026-10-17 - _Embodied AI Tooling Engineer_
+- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
+- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
+- **Pivotal Health** - 3 role(s), latest 2026-10-27 - _Staff Software Engineer (Platform Engineering)_
+- **Centerfield** - 2 role(s), latest 2026-10-26 - _Director of Organic Growth & AI Discovery_
 - **Fredrin** - 2 role(s), latest 2026-11-02 - _Fredrin_
 - **Fuel Cycle** - 2 role(s), latest 2026-10-27 - _AI Operations Associate_
 - **GITAI** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineer Intern_
 - **ITT** - 2 role(s), 2 intern, latest 2026-11-06 - _Data Analytics / AI Intern - Summer 2027_
-- **Loancrate** - 2 role(s), latest 2026-10-23 - _Senior Software Engineer - Design_
-- **Neko Health** - 2 role(s), latest 2026-11-04 - _Lead Software Engineer - Medical OS_
+- **Make Rain** - 2 role(s), latest 2026-11-01 - _Embedded Software Engineer_
 - **Parallel Systems** - 2 role(s), 2 intern, latest 2026-10-26 - _Software Engineering Intern (Embedded, Backend, Fullstack)_
+- **Pragmatike** - 2 role(s), latest 2026-11-12 - _Research Engineer, Synthetic Data (Pacific Time)_
 - **Serverobotics** - 2 role(s), latest 2026-11-04 - _Sr. Embedded Software Engineer,  Robotics Platform_
-- **SHEIN** - 2 role(s), latest 2026-10-19 - _GRC Cloud Security Analyst_
 - **Syntiant** - 2 role(s), 2 intern, latest 2026-10-29 - _Machine Learning Intern - KWS/AED_
 - **Terran Orbital Corporation** - 2 role(s), latest 2026-11-05 - _Flight Software Engineer_
-- **The Honest Company ** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
-- **Thrive Market** - 2 role(s), latest 2026-10-19 - _Site Reliability Engineer_
 - **Arbor Energy** - 1 role(s), latest 2026-11-05 - _Sr. CNC Machinist / Programmer _
 - **Compa** - 1 role(s), latest 2026-11-06 - _Staff Security Engineer, AI_
 - **Gardens** - 1 role(s), latest 2026-11-07 - _Lead Backend Engineer_
 - **Lpadesignstudios** - 1 role(s), latest 2026-10-26 - _Power Platform Developer_
-- **Salient Motion** - 1 role(s), latest 2026-10-20 - _Software Engineer_
-- **Turion Space** - 1 role(s), latest 2026-10-22 - _Staff Ground Software Engineer_
+- **That's No Moon Entertainment** - 1 role(s), latest 2026-11-09 - _Infrastructure Engineer_
 - **Turtle Rock Studios** - 1 role(s), latest 2026-10-28 - _Senior Network Platform Engineer_
 - **Zefr** - 1 role(s), latest 2026-11-06 - _Zefr_
 
-### San Diego (21)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
+### San Diego (24)
+- **L3Harris Technologies** - 94 role(s), 94 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Booz Allen** - 64 role(s), 64 intern, latest 2026-11-10 - _Data Scientist Intern - University_
+- **ByteDance** - 54 role(s), 54 intern, latest 2026-11-10 - _Research Intern - AI Compute_
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
 - **Johnson & Johnson** - 25 role(s), 24 intern, latest 2026-11-03 - _Data Science Co-op - Spring 2027_
-- **Aptiv** - 18 role(s), 18 intern, latest 2026-10-22 - _Compiler Intern - Compiler Team_
-- **Philips** - 14 role(s), 14 intern, latest 2026-10-29 - _Data Scientist Co-op_
+- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
+- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **Navy Federal** - 12 role(s), 12 intern, latest 2026-10-23 - _Summer Associate Intern - Business Intelligence & Data Analytics_
+- **Philips** - 12 role(s), 12 intern, latest 2026-11-03 - _MR Software Intern_
 - **Barkbus** - 11 role(s), latest 2026-10-29 - _Mobile Dog Groomer_
-- **Saronic** - 11 role(s), 6 intern, latest 2026-11-04 - _Forward Deployed Software Engineer_
 - **CoStar Group** - 10 role(s), 10 intern, latest 2026-11-02 - _Embedded Software Engineer Intern_
-- **Iambic Therapeutics** - 8 role(s), latest 2026-11-06 - _Machine Learning Scientist – Clinical Prediction_
+- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **Insulet** - 8 role(s), 8 intern, latest 2026-11-03 - _Embedded Software Engineering Co-op_
-- **Intuit** - 8 role(s), 8 intern, latest 2026-10-30 - _Software Engineer Intern_
+- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
+- **Intuit** - 7 role(s), 7 intern, latest 2026-10-30 - _Software Engineer Intern - Full Stack_
 - **Axos Bank** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Development Intern_
 - **NXP Semiconductors** - 5 role(s), 5 intern, latest 2026-11-02 - _Data Science / Structured Problem Solving Intern - Summer 2027_
-- **Shield** - 4 role(s), 4 intern, latest 2026-11-05 - _Embedded Firmware Intern_
-- **Drata** - 3 role(s), latest 2026-10-23 - _Senior Software Engineer 2_
-- **Radar** - 3 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
-- **SDSU Research Foundation** - 2 role(s), 2 intern, latest 2026-10-21 - _Computer Science Intern_
-- **SHEIN** - 2 role(s), latest 2026-10-19 - _GRC Cloud Security Analyst_
-- **Illumina** - 1 role(s), latest 2026-10-20 - _Sr. Manager, Bioinformatics_
+- **Art of Problem Solving** - 4 role(s), 4 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Ditto** - 2 role(s), latest 2026-11-12 - _Senior Forward Deployed Engineer - Platform _
+- **E2 Consulting Engineers** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Analyst Intern_
+- **GoFundMe** - 2 role(s), latest 2026-11-09 - _Manager, Machine Learning Engineering_
+- **Radar** - 2 role(s), latest 2026-10-27 - _Senior/Staff Software Engineer, Search _
+- **StepStone Group** - 2 role(s), 2 intern, latest 2026-11-11 - _AI Quant Summer Analyst Intern_
 - **Lpadesignstudios** - 1 role(s), latest 2026-10-26 - _Power Platform Developer_
 
-### Washington DC (57)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **True Anomaly** - 27 role(s), latest 2026-11-06 - _Chief Engineer, Ground Software_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Sierra** - 22 role(s), 3 intern, latest 2026-10-23 - _Research Engineer, Applied Research_
+### Washington DC (67)
+- **L3Harris Technologies** - 94 role(s), 94 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Booz Allen** - 64 role(s), 64 intern, latest 2026-11-10 - _Data Scientist Intern - University_
+- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
+- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
+- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
 - **The Aerospace Corporation** - 21 role(s), 21 intern, latest 2026-11-02 - _Machine Learning Engineering Intern_
-- **North Point Technology** - 19 role(s), latest 2026-10-30 - _Cloud Engineer - Serverless & Identity (Top Secret/SCI Required)_
+- **Anavationllc** - 19 role(s), 2 intern, latest 2026-11-09 - _AI Engineer SME_
+- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
 - **ICF International** - 17 role(s), 17 intern, latest 2026-10-28 - _Software Developer Intern_
+- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
+- **Shield AI** - 16 role(s), 15 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **Innodata Inc.** - 15 role(s), latest 2026-11-03 - _AI Agentic Workflow Reviewer_
-- **Two Six Technologies** - 15 role(s), 2 intern, latest 2026-11-03 - _Lead Embedded Software Engineer_
-- **Via** - 15 role(s), latest 2026-10-19 - _Director of AI Engineering, Internal Products_
-- **Alarm.com** - 12 role(s), latest 2026-11-03 - _Cloud Systems Engineer_
-- **IDMe** - 12 role(s), latest 2026-10-30 - _Principal Software Engineer, Data_
-- **Appian Corporation ** - 11 role(s), latest 2026-10-23 - _AI Security Engineer_
-- **Gallatin** - 11 role(s), latest 2026-10-21 - _Machine Learning Operations (MLOps) Engineer_
-- **ACT1 Federal** - 10 role(s), latest 2026-10-19 - _Air Mobility Division Scenario Developer_
-- **Code Metal** - 10 role(s), latest 2026-11-04 - _Forward Deployed Engineer_
+- **Red Cell Partners** - 13 role(s), latest 2026-11-10 - _Deputy General Manager, Agentic AI _
+- **Redhorsecorp** - 12 role(s), latest 2026-11-12 - _AI/ML Modeling Team Lead_
+- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
+- **Alarm.com** - 11 role(s), latest 2026-10-30 - _Cloud Systems Engineer_
+- **IDMe** - 10 role(s), latest 2026-10-30 - _Principal Software Engineer, Data_
 - **Kitware** - 10 role(s), 4 intern, latest 2026-10-28 - _3D Computer Vision Researcher – Arlington, VA_
+- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **M9 Solutions** - 9 role(s), latest 2026-11-06 - _AI Engineer_
-- **Planet** - 8 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
+- **Metron** - 8 role(s), latest 2026-11-09 - _Business Intelligence Analyst_
 - **Raft Company Website** - 8 role(s), 7 intern, latest 2026-11-06 - _AI/ML Intern - Summer 2027_
 - **Range** - 8 role(s), 3 intern, latest 2026-10-31 - _Software Engineer_
+- **Spotify** - 8 role(s), latest 2026-11-09 - _Backend Engineer - Data Infrastructure_
+- **Altana ** - 7 role(s), latest 2026-11-09 - _Principal Platform Engineer_
 - **Dark Wolf Solutions** - 7 role(s), latest 2026-11-02 - _Cloud Identity and Security Engineer_
-- **MITRE** - 6 role(s), 6 intern, latest 2026-11-06 - _AI Engineering Intern_
+- **Planet** - 7 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
+- **CoVar** - 6 role(s), 2 intern, latest 2026-11-10 - _General Manager, AI Test & Evaluation Products_
+- **Systems Planning and Analysis** - 6 role(s), 6 intern, latest 2026-11-11 - _Data Engineer Intern_
 - **Valinor** - 6 role(s), latest 2026-10-26 - _Software Engineer, Backend (Platform)_
+- **Exiger** - 5 role(s), latest 2026-11-09 - _AI Product Builder _
 - **IDEMIA** - 5 role(s), 5 intern, latest 2026-11-07 - _Software Engineer Intern_
-- **NT Concepts** - 5 role(s), latest 2026-11-04 - _Business Intelligence Developer_
+- **Second Front Systems** - 5 role(s), latest 2026-11-09 - _Senior Forward Deployed Engineer_
 - **Trase Systems** - 5 role(s), latest 2026-11-03 - _Forward Deployed Engineer_
 - **Verisign** - 5 role(s), latest 2026-11-04 - _Principal AI Enablement Engineer_
 - **Exadel** - 4 role(s), latest 2026-11-05 - _Lead Software Engineer (Calypso)_
+- **Kaizenlabs** - 4 role(s), latest 2026-11-12 - _Software Engineer, Cleared (TS/SCI)_
 - **Kapitus** - 4 role(s), latest 2026-11-06 - _Data Engineer - Snowflake & DBT_
-- **PLACE Corporate Careers** - 4 role(s), latest 2026-11-03 - _Backend / Full-Stack Engineer_
+- **LeoLabs, Inc.** - 4 role(s), latest 2026-11-09 - _Full Stack Software Engineer _
+- **NT Concepts** - 4 role(s), latest 2026-11-04 - _Business Intelligence Developer_
 - **Qualtrics** - 4 role(s), latest 2026-11-06 - _Data Analyst, GTM Analytics_
+- **Spear Ai** - 4 role(s), latest 2026-11-09 - _Meridian: Forward Deployed Infrastructure Engineer (Senior / Suitland, MD / Hybrid) [TS/SC_
+- **Comstock** - 3 role(s), latest 2026-11-12 - _Mobile Patrol Officer Mon-Fri 4AM–8AM_
+- **IDEMIA North America** - 3 role(s), 3 intern, latest 2026-11-13 - _Cloud Software Engineering Intern_
+- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
 - **Method** - 3 role(s), latest 2026-11-02 - _Senior Software Engineer_
 - **Noblis** - 3 role(s), 3 intern, latest 2026-11-02 - _Data Science and Innovation Intern_
-- **NPR** - 3 role(s), latest 2026-11-06 - _Cloud Systems Engineer_
-- **Recorded Future** - 3 role(s), latest 2026-10-27 - _Product Support Solutions Developer_
-- **Rocket Money** - 3 role(s), latest 2026-10-23 - _Full Stack Engineer, Autopilot_
-- **Axios** - 2 role(s), latest 2026-11-03 - _AI Fellow_
-- **Easygenerator** - 2 role(s), latest 2026-10-22 - _Full Stack Developer (Relocation to Alexandria)_
-- **Exadel Inc (Website)** - 2 role(s), latest 2026-10-21 - _Lead Software Engineer (Calypso)_
-- **Hopper** - 2 role(s), latest 2026-11-04 - _Senior Data Scientist- Travel Tech _
+- **Ditto** - 2 role(s), latest 2026-11-12 - _Senior Forward Deployed Engineer - Platform _
+- **Eight Sleep** - 2 role(s), 2 intern, latest 2026-11-14 - _Firmware Intern_
 - **Iridium Communications** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineering Intern_
-- **Neko Health** - 2 role(s), latest 2026-11-04 - _Lead Software Engineer - Medical OS_
-- **Norm Ai** - 2 role(s), latest 2026-11-02 - _Senior Analytics Engineer_
 - **Openai Deployment Company** - 2 role(s), latest 2026-10-27 - _Forward Deployed Engineer - Cybersecurity - US_
+- **PLACE Corporate Careers** - 2 role(s), latest 2026-11-03 - _Backend / Full-Stack Engineer_
 - **Promise** - 2 role(s), latest 2026-11-03 - _Forward Deployed Engineer_
 - **Protagonist** - 2 role(s), 2 intern, latest 2026-10-27 - _Software Engineer Intern_
-- **Sallie Mae** - 2 role(s), 2 intern, latest 2026-10-29 - _Data Science and Engineering Intern_
+- **Rocket Money** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
 - **Solution Street** - 2 role(s), latest 2026-11-03 - _Solution Street_
 - **Stellar Science** - 2 role(s), 2 intern, latest 2026-11-05 - _Scientific Software Developer Co-op_
-- **STR** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Analyst Intern_
-- **Virtru** - 2 role(s), latest 2026-11-02 - _Senior Software Engineer_
 - **Alphataraxia** - 1 role(s), latest 2026-10-26 - _Infrastructure Engineer_
+- **Antithesis** - 1 role(s), latest 2026-11-03 - _Antithesis_
+- **Axios** - 1 role(s), latest 2026-11-03 - _AI Fellow_
+- **Babel Street** - 1 role(s), latest 2026-11-13 - _Senior Software Engineer_
 - **HawkEye 360** - 1 role(s), latest 2026-11-02 - _Software Integration & Test Engineer - ELINT Systems_
 - **Strada Education Foundation** - 1 role(s), 1 intern, latest 2026-10-30 - _Clear Outcomes and Data Science Intern_
 - **Strategic Growth Partners** - 1 role(s), latest 2026-11-03 - _Senior Data Platform & AI Lead_
 - **Virginia Tech Applied Research Corporation** - 1 role(s), 1 intern, latest 2026-10-30 - _Research Intern, Applied AI & Software Development_
+- **Washpost** - 1 role(s), latest 2026-11-11 - _Manager, Software Development, iOS Mobile App_
 
-### Denver / Boulder (33)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **True Anomaly** - 27 role(s), latest 2026-11-06 - _Chief Engineer, Ground Software_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Garmin** - 24 role(s), 24 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Emerson Electric** - 23 role(s), 23 intern, latest 2026-10-29 - _Data Analytics Intern_
-- **DigitalOcean** - 22 role(s), latest 2026-11-05 - _Director of Research, Agentic AI_
-- **North Point Technology** - 19 role(s), latest 2026-10-30 - _Cloud Engineer - Serverless & Identity (Top Secret/SCI Required)_
+### Denver / Boulder (31)
+- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
+- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
+- **Muon Space** - 23 role(s), 8 intern, latest 2026-11-12 - _Flight Software Engineering Intern (Summer 2027)_
+- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
 - **ICF International** - 17 role(s), 17 intern, latest 2026-10-28 - _Software Developer Intern_
 - **Parsons** - 14 role(s), 14 intern, latest 2026-11-05 - _Software Intern - Summer 2027_
-- **Maintainx** - 12 role(s), latest 2026-10-30 - _Full-Stack Developer - IAM_
 - **Barkbus** - 11 role(s), latest 2026-10-29 - _Mobile Dog Groomer_
 - **Fivetran ** - 10 role(s), latest 2026-11-06 - _Manager Software Engineering_
-- **Scribdinc** - 9 role(s), latest 2026-10-22 - _Software Engineer II (Fullstack), Growth Platform_
-- **Fastly** - 8 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
-- **LendingTree** - 8 role(s), latest 2026-11-04 - _Manager, Data Science_
-- **Planet** - 8 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
-- **Prologis** - 5 role(s), 3 intern, latest 2026-11-04 - _Senior IT Cloud Engineer – AI Driven Operations & Platform Engineering_
+- **Ibotta** - 10 role(s), 7 intern, latest 2026-11-10 - _Software Engineer Intern _
+- **Fastly** - 7 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
+- **NexHealth** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer, Fullstack, Practice Eng_
+- **Planet** - 7 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
+- **Biodesix** - 6 role(s), 6 intern, latest 2026-11-09 - _Software Development Intern_
 - **Stream** - 5 role(s), latest 2026-11-02 - _Staff Software Engineer, Infrastructure_
-- **Xcimer** - 5 role(s), 1 intern, latest 2026-10-26 - _Control Systems Engineer II - Applied Science_
-- **Rocket Money** - 3 role(s), latest 2026-10-23 - _Full Stack Engineer, Autopilot_
+- **Invitation-charter** - 4 role(s), 4 intern, latest 2026-11-10 - _Data Science Intern_
+- **LeoLabs, Inc.** - 4 role(s), latest 2026-11-09 - _Full Stack Software Engineer _
+- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
 - **Alta Resource Technologies, Inc.** - 2 role(s), latest 2026-10-28 - _Head of Computational Biology_
-- **Branchlab** - 2 role(s), latest 2026-10-21 - _Senior Software Development Engineer_
+- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
 - **Chatham Financial** - 2 role(s), 2 intern, latest 2026-10-29 - _Software Engineer Intern_
 - **chathamfinancial** - 2 role(s), 2 intern, latest 2026-10-28 - _Software Engineering Intern_
-- **Creative Artists Agency** - 2 role(s), 2 intern, latest 2026-10-19 - _Data Analytics Intern_
-- **Sierra Space** - 2 role(s), 2 intern, latest 2026-10-21 - _Flight Software Engineer Intern_
-- **Caa** - 1 role(s), 1 intern, latest 2026-11-05 - _CAA ICON Sports Data Analytics Intern – Summer 2027 (Denver, CO)_
+- **Prologis** - 2 role(s), 2 intern, latest 2026-11-04 - _AI and Automation Intern_
+- **Rocket Money** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
 - **Compa** - 1 role(s), latest 2026-11-06 - _Staff Security Engineer, AI_
 - **FusionAuth** - 1 role(s), latest 2026-11-02 - _FusionAuth_
 - **iCallidus** - 1 role(s), latest 2026-11-06 - _iCallidus_
+- **Lighttable** - 1 role(s), latest 2026-11-11 - _Staff Software Engineer_
 - **Rowan** - 1 role(s), latest 2026-11-04 - _Data Engineer, Operations Analytics_
 - **University Corporation for Atmospheric Research** - 1 role(s), 1 intern, latest 2026-10-28 - _Data Science Student Assistant 3 Intern_
 - **Zed** - 1 role(s), latest 2026-11-02 - _Backend Engineer, Cloud_
 
-### Atlanta (27)
-- **American Express** - 37 role(s), 37 intern, latest 2026-11-03 - _Software Engineer Intern - Enterprise Technology Services_
-- **Rivian** - 33 role(s), 33 intern, latest 2026-11-06 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
+### Atlanta (32)
+- **Booz Allen** - 64 role(s), 64 intern, latest 2026-11-10 - _Data Scientist Intern - University_
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
+- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
 - **Intercontinental Exchange** - 25 role(s), 25 intern, latest 2026-11-06 - _Data Science Intern_
-- **Sierra** - 22 role(s), 3 intern, latest 2026-10-23 - _Research Engineer, Applied Research_
-- **GE Vernova** - 21 role(s), 21 intern, latest 2026-10-30 - _Energy Optimization Software Engineer Intern - Summer 2027_
-- **OneTrust** - 15 role(s), latest 2026-11-05 - _AI Systems Engineer_
-- **Aspenview Technology Partners** - 8 role(s), latest 2026-10-21 - _Bilingual AI Software Development Engineer_
-- **Ciena** - 8 role(s), 8 intern, latest 2026-11-03 - _Services Business Intelligence & Analytics Intern_
-- **Intuit** - 8 role(s), 8 intern, latest 2026-10-30 - _Software Engineer Intern_
+- **GE Vernova** - 19 role(s), 19 intern, latest 2026-10-30 - _Software Engineer Co-op - Critical Infrastructure Communication_
+- **FanDuel** - 12 role(s), latest 2026-11-12 - _Analytics Engineer_
+- **Trimble** - 11 role(s), 11 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Gordon Food Service** - 10 role(s), 10 intern, latest 2026-11-11 - _Data Science Engineer Intern_
+- **Intuit** - 7 role(s), 7 intern, latest 2026-10-30 - _Software Engineer Intern - Full Stack_
+- **Opengov** - 6 role(s), 3 intern, latest 2026-11-12 - _Sr Software Engineer - Full Stack_
+- **Assurant** - 5 role(s), 5 intern, latest 2026-10-27 - _Software Engineer Intern_
+- **Ciena** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Intern - WaveLogic_
+- **Cox** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Engineer Intern - Summer 2027_
 - **GE Aerospace** - 5 role(s), 5 intern, latest 2026-11-02 - _Applied AI Engineer Co-op_
 - **PrizePicks** - 5 role(s), 5 intern, latest 2026-10-28 - _Software Engineering Intern - Summer 2027_
-- **Playerzero** - 4 role(s), latest 2026-10-22 - _Director, Platform Engineering_
 - **Nebo** - 3 role(s), 3 intern, latest 2026-11-05 - _Web Development Intern_
-- **Acuity** - 2 role(s), 2 intern, latest 2026-10-22 - _Data and AI Intern_
 - **Aperia Technologies, Inc** - 2 role(s), latest 2026-11-02 - _Hardware Data Analyst - Remote_
 - **Hive Financial Systems** - 2 role(s), 2 intern, latest 2026-10-26 - _Software Engineer Intern_
+- **Homedepot** - 2 role(s), latest 2026-11-10 - _Sr. Data Analyst AMP_
 - **Manhattan Associates** - 2 role(s), 2 intern, latest 2026-10-26 - _A.I. Developer Co-op_
 - **NCR Atleos** - 2 role(s), 2 intern, latest 2026-11-05 - _Data Science Intern_
-- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
-- **Volarisgroup** - 2 role(s), latest 2026-11-04 - _DevOps Engineer_
+- **Nexus Cognitive** - 2 role(s), 2 intern, latest 2026-11-13 - _Data Engineering Intern_
 - **ArtCraft** - 1 role(s), latest 2026-11-02 - _ArtCraft_
+- **Atrium Hospitality** - 1 role(s), 1 intern, latest 2026-11-09 - _AI & Automation Intern_
 - **CharterUP** - 1 role(s), latest 2026-10-28 - _Data Analyst_
 - **Checkly** - 1 role(s), latest 2026-10-28 - _Support Engineer (DevTools & AI Reliability, remote)_
 - **Illumia, LLC** - 1 role(s), latest 2026-11-05 - _Vice President, Cloud Operations and IT_
 - **Mativ** - 1 role(s), 1 intern, latest 2026-10-29 - _Data Science and Business Analytics Intern_
+- **Morgan Stanley** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Co-op, Parametric_
+- **NexusOne** - 1 role(s), 1 intern, latest 2026-11-13 - _Data Engineering Intern_
 - **VIVA Finance** - 1 role(s), latest 2026-11-02 - _VIVA Finance_
+- **Volarisgroup** - 1 role(s), latest 2026-11-04 - _DevOps Engineer_
 
-### Raleigh-Durham (30)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Toshiba Global Commerce Solutions - External** - 25 role(s), 2 intern, latest 2026-11-05 - _AI Automation & Revenue Ops Intern_
-- **Garmin** - 24 role(s), 24 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Hewlett Packard Enterprise** - 23 role(s), 23 intern, latest 2026-10-30 - _Software Engineer Intern_
-- **Xsolla** - 18 role(s), 1 intern, latest 2026-10-28 - _AI-First Engineering Intern_
-- **Veeva** - 16 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
-- **Marvell** - 15 role(s), 15 intern, latest 2026-10-28 - _Firmware Engineer Intern_
-- **John Deere** - 13 role(s), 9 intern, latest 2026-10-23 - _Data & Analytics Intern_
-- **Maintainx** - 12 role(s), latest 2026-10-30 - _Full-Stack Developer - IAM_
+### Raleigh-Durham (24)
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
+- **Epic Games** - 45 role(s), 15 intern, latest 2026-11-12 - _AI Programmer Intern_
+- **Xsolla** - 17 role(s), 1 intern, latest 2026-10-28 - _AI-First Engineering Intern_
+- **Veeva** - 15 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
 - **Q2** - 12 role(s), 12 intern, latest 2026-11-03 - _Data Science Intern_
-- **Vailexa ** - 11 role(s), latest 2026-11-06 - _AI Customer Assurance Engineer / AI Product Support Engineer_
+- **Tanium** - 12 role(s), 2 intern, latest 2026-11-12 - _AI Research Scientist_
 - **ABB** - 10 role(s), 10 intern, latest 2026-10-28 - _AI Robotics UI/UX Intern_
-- **Fidelity Investments** - 10 role(s), 10 intern, latest 2026-10-21 - _Software Engineer Co-op - Fidelity Center for Applied Technology_
 - **First Citizens BancShares** - 8 role(s), 8 intern, latest 2026-11-03 - _IT Intern - Software Developer_
 - **Gilead Sciences** - 8 role(s), 8 intern, latest 2026-10-29 - _AI Engineer Intern - IT_
+- **Telus Digital** - 7 role(s), 2 intern, latest 2026-11-11 - _Software Engineering Intern (US) - Summer 2027_
 - **Toshiba Global Commerce Solutions** - 7 role(s), 7 intern, latest 2026-11-03 - _AI Data Science & Business Analytics Intern_
-- **BETA Technologies** - 6 role(s), latest 2026-10-23 - _AI / ML Engineer, Advanced Concepts_
-- **Referrals Only** - 6 role(s), latest 2026-11-05 - _Associate (Graduate) Developer_
+- **CoVar** - 6 role(s), 2 intern, latest 2026-11-10 - _General Manager, AI Test & Evaluation Products_
 - **Valinor** - 6 role(s), latest 2026-10-26 - _Software Engineer, Backend (Platform)_
-- **Bandwidth** - 5 role(s), latest 2026-10-21 - _Applied AI Engineer_
-- **LabCorp** - 5 role(s), 5 intern, latest 2026-11-02 - _Agentic AI Developer Co-op_
+- **Celonis** - 5 role(s), latest 2026-11-10 - _Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program_
+- **NetApp** - 5 role(s), 5 intern, latest 2026-11-14 - _Software Engineer Intern_
 - **Toshiba Commerce Solutions** - 5 role(s), 5 intern, latest 2026-11-03 - _Agentic Software Engineering Intern_
 - **Inmar Intelligence** - 4 role(s), 4 intern, latest 2026-11-03 - _Data Science Intern_
-- **Odewithanthropic** - 4 role(s), latest 2026-10-26 - _Member of Technical Staff (SF)_
-- **Pendo** - 3 role(s), latest 2026-11-03 - _Software Engineer (AI)_
+- **Martin Marietta** - 4 role(s), 4 intern, latest 2026-11-13 - _Software Data Integration Engineer Intern_
+- **Referrals Only** - 4 role(s), latest 2026-10-28 - _Associate (Graduate) Developer_
 - **ENFOS** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern - Summer 2027_
+- **Iatinsurancegroup** - 2 role(s), 1 intern, latest 2026-11-05 - _AVP,  Platform Engineering & Delivery_
+- **JMP Statistical Discovery** - 2 role(s), 2 intern, latest 2026-11-10 - _C++ Software Development Intern_
 - **Checkly** - 1 role(s), latest 2026-10-28 - _Support Engineer (DevTools & AI Reliability, remote)_
 - **Direct Supply** - 1 role(s), 1 intern, latest 2026-11-03 - _Software Engineer Intern_
-- **Syngenta Group** - 1 role(s), 1 intern, latest 2026-10-29 - _Data Scientist Intern_
 
-### Pittsburgh (14)
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Field Ai** - 21 role(s), 4 intern, latest 2026-10-19 - _3D/AR/VR Software Engineer_
-- **Duolingo** - 16 role(s), 12 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
-- **Atoms** - 15 role(s), 15 intern, latest 2026-11-03 - _Robotics Software Engineer Intern_
-- **Datadog** - 10 role(s), 3 intern, latest 2026-11-02 - _Manager II, Developer Advocacy_
+### Pittsburgh (16)
+- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
+- **Duolingo** - 15 role(s), 12 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
+- **Agility Robotics** - 13 role(s), latest 2026-11-13 - _AI Research Engineer III_
+- **Atoms** - 12 role(s), 12 intern, latest 2026-11-03 - _Machine Learning Engineer Intern_
+- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
+- **Datadog** - 9 role(s), 2 intern, latest 2026-11-02 - _Manager II, Developer Advocacy_
+- **Gecko Robotics** - 9 role(s), 7 intern, latest 2026-11-12 - _AI/Machine Learning Engineering Intern_
 - **Smith+Nephew** - 8 role(s), 8 intern, latest 2026-11-04 - _Data Science Intern - AI Center of Excellence_
+- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
 - **Hitachi** - 5 role(s), 5 intern, latest 2026-11-06 - _Onboard Software Developer Intern_
-- **Bosch** - 3 role(s), 3 intern, latest 2026-10-19 - _Software Engineering Co-op_
 - **Duolingo University Recruitment** - 3 role(s), 2 intern, latest 2026-11-06 - _AI Research Engineer, New PhD Graduate _
 - **Efficient Computer** - 3 role(s), latest 2026-11-02 - _Senior Staff Software Engineer, Linux Kernel_
 - **Innovative Systems** - 3 role(s), 3 intern, latest 2026-11-05 - _Software Engineer Intern/Co-op_
-- **Alstom** - 1 role(s), 1 intern, latest 2026-10-18 - _ATC Software Intern_
 - **Burns Engineering** - 1 role(s), 1 intern, latest 2026-10-26 - _Software Engineer Intern_
 - **Carnegie Mellon SEI** - 1 role(s), 1 intern, latest 2026-10-30 - _Full-Stack Software Development Intern_
 
-### Salt Lake City (11)
-- **American Express** - 37 role(s), 37 intern, latest 2026-11-03 - _Software Engineer Intern - Enterprise Technology Services_
-- **BILL** - 8 role(s), latest 2026-10-28 - _Senior Product Data Analyst - AP & Network Analytics_
+### Salt Lake City (15)
+- **L3Harris Technologies** - 94 role(s), 94 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **American Express** - 21 role(s), 21 intern, latest 2026-11-03 - _Data Analytics Intern - Enterprise Technology Services_
+- **DigiCert** - 10 role(s), latest 2026-11-10 - _Forward Deployed Engineer_
 - **Adobe** - 7 role(s), 7 intern, latest 2026-10-24 - _Machine Learning Engineer Intern_
 - **Pattern** - 7 role(s), 7 intern, latest 2026-10-26 - _AI Automation Engineer Intern_
+- **Podium** - 7 role(s), latest 2026-11-11 - _AI Product Support Specialist_
 - **Qualtrics** - 4 role(s), latest 2026-11-06 - _Data Analyst, GTM Analytics_
-- **Align Communications** - 3 role(s), latest 2026-11-04 - _L3 Cloud Services Engineer_
-- **NetDocuments** - 3 role(s), latest 2026-11-06 - _Manager, Software Engineering_
+- **1-800 Contacts** - 3 role(s), latest 2026-11-11 - _IOS Engineer _
+- **Verisk** - 3 role(s), 3 intern, latest 2026-11-13 - _AI Intern - Summer Internship Program_
 - **Canopy** - 2 role(s), latest 2026-11-06 - _Engineering Team Lead, Data Engineer_
+- **Leland** - 2 role(s), 1 intern, latest 2026-11-11 - _Software Engineer_
 - **Workstream** - 2 role(s), latest 2026-10-30 - _Senior Full Stack Engineer _
-- **Broccoli** - 1 role(s), latest 2026-10-28 - _Founding Software Engineer, AI Support Systems_
+- **Mindsmith** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
 - **sephora.com** - 1 role(s), 1 intern, latest 2026-10-27 - _AI & Distribution Analytics Intern_
 
-### Portland (6)
-- **Intel** - 25 role(s), 25 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Mercury** - 13 role(s), 1 intern, latest 2026-11-06 - _Senior Analytics Engineer_
+### Portland (8)
+- **Mercury** - 12 role(s), 1 intern, latest 2026-11-06 - _Senior Analytics Engineer_
+- **Trimble** - 11 role(s), 11 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Metron** - 8 role(s), latest 2026-11-09 - _Business Intelligence Analyst_
+- **Daimler Truck** - 4 role(s), 4 intern, latest 2026-11-13 - _Data Science Intern_
 - **Schrödinger** - 4 role(s), latest 2026-11-04 - _Infrastructure Developer_
 - **C1** - 2 role(s), latest 2026-11-05 - _Software Engineer_
 - **KEEN Footwear** - 2 role(s), 2 intern, latest 2026-11-02 - _Analytics Engineer Intern_
-- **CreativeX** - 1 role(s), latest 2026-10-23 - _Senior Software Engineer, Platform_
+- **Landlord** - 1 role(s), latest 2026-11-12 - _Landlord_
 
 ### Phoenix (27)
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **American Express** - 37 role(s), 37 intern, latest 2026-11-03 - _Software Engineer Intern - Enterprise Technology Services_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Intel** - 25 role(s), 25 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Garmin** - 24 role(s), 24 intern, latest 2026-11-05 - _Software Engineer Intern_
+- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **American Express** - 21 role(s), 21 intern, latest 2026-11-03 - _Data Analytics Intern - Enterprise Technology Services_
 - **CVS Health** - 20 role(s), 20 intern, latest 2026-10-26 - _Data Scientist Intern - Grad Conversion_
-- **Marvell** - 15 role(s), 15 intern, latest 2026-10-28 - _Firmware Engineer Intern_
+- **Fluidstack** - 15 role(s), latest 2026-11-12 - _Software Engineer, Energy Management_
+- **Justworks** - 12 role(s), latest 2026-11-12 - _Senior AI Enablement Engineer, People_
 - **Barkbus** - 11 role(s), latest 2026-10-29 - _Mobile Dog Groomer_
 - **PayPal** - 10 role(s), 10 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Connections Health Solutions** - 9 role(s), latest 2026-11-05 - _Case Manager (FT, Back End Days)_
+- **onsemi** - 8 role(s), 8 intern, latest 2026-11-10 - _Manufacturing AI Engineering Intern_
 - **DriveTime** - 6 role(s), 6 intern, latest 2026-11-03 - _Software Engineer Intern - Summer 2027_
-- **Kong** - 6 role(s), latest 2026-10-30 - _Site Reliability Engineer 2_
 - **Cambridge Investment Research** - 5 role(s), 5 intern, latest 2026-11-03 - _Data Engineer Intern - Business Intelligence and Insights_
+- **Kong** - 5 role(s), latest 2026-10-30 - _Site Reliability Engineer 2_
 - **NXP Semiconductors** - 5 role(s), 5 intern, latest 2026-11-02 - _Data Science / Structured Problem Solving Intern - Summer 2027_
-- **Microchip Technology** - 4 role(s), 4 intern, latest 2026-11-04 - _Intern – Engineering - Device Software and Test_
-- **Align Communications** - 3 role(s), latest 2026-11-04 - _L3 Cloud Services Engineer_
-- **Rocket Money** - 3 role(s), latest 2026-10-23 - _Full Stack Engineer, Autopilot_
+- **SmartRent** - 5 role(s), latest 2026-11-12 - _Data Engineer_
+- **Uhaul** - 4 role(s), 4 intern, latest 2026-11-09 - _Data Analyst Intern_
+- **Microchip Technology** - 3 role(s), 3 intern, latest 2026-11-04 - _Engineer Intern - Software_
 - **Wells Fargo** - 3 role(s), 3 intern, latest 2026-10-26 - _Software Engineer Intern - Early Careers - Software Engineering_
 - **Iridium Communications** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineering Intern_
+- **Rocket Money** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
 - **Vestwell** - 2 role(s), latest 2026-11-03 - _Data Analyst_
 - **Arizona State University** - 1 role(s), 1 intern, latest 2026-10-26 - _Student Assistant Intern - Data Science_
 - **ASM** - 1 role(s), 1 intern, latest 2026-11-06 - _Product Intelligence Engineering Intern, AI/ML_
 - **ASM International** - 1 role(s), 1 intern, latest 2026-11-06 - _Product Intelligence Engineering Intern - AI/ML_
+- **Basata** - 1 role(s), latest 2026-11-01 - _AI Workflow Engineer_
 - **Clearway Energy** - 1 role(s), latest 2026-10-26 - _AI Solutions Architect_
 - **CNH** - 1 role(s), 1 intern, latest 2026-11-02 - _CNH_
 - **CSAA Insurance Group** - 1 role(s), 1 intern, latest 2026-10-27 - _Data Science Intern_
 - **Illumia, LLC** - 1 role(s), latest 2026-11-05 - _Vice President, Cloud Operations and IT_
 
-### Minneapolis (12)
+### Minneapolis (10)
+- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
 - **Kitware** - 10 role(s), 4 intern, latest 2026-10-28 - _3D Computer Vision Researcher – Arlington, VA_
-- **Eaton** - 6 role(s), 6 intern, latest 2026-10-18 - _Firmware Engineer Intern/Co-op - Research & Development Engineering_
+- **The Federal Reserve System** - 7 role(s), 7 intern, latest 2026-11-09 - _Computer Science and Software Engineering Intern_
 - **Trane Technologies** - 5 role(s), 5 intern, latest 2026-10-30 - _AI & Analytics Intern_
-- **Blank Metal** - 4 role(s), latest 2026-10-22 - _AI Product Leader _
-- **Garda Capital Partners** - 4 role(s), 3 intern, latest 2026-11-06 - _Infrastructure Engineer_
 - **Nordson** - 4 role(s), 4 intern, latest 2026-11-05 - _Software Engineer Intern_
 - **RR Donnelley** - 4 role(s), 4 intern, latest 2026-11-05 - _Software Developer Intern_
-- **Ecolab** - 2 role(s), 2 intern, latest 2026-11-03 - _Digital & AI Technology Intern_
-- **SPS Commerce** - 2 role(s), 2 intern, latest 2026-10-22 - _Software Engineer Intern_
-- **The Honest Company ** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
-- **Associated Bank** - 1 role(s), 1 intern, latest 2026-10-19 - _Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking_
+- **Garda Capital Partners** - 3 role(s), 2 intern, latest 2026-11-06 - _Infrastructure Engineer_
+- **Ecolab** - 1 role(s), 1 intern, latest 2026-11-03 - _Digital & AI Technology Intern_
 - **Inspire Medical Systems Inc.** - 1 role(s), latest 2026-10-28 - _Software Engineer - Medical Device Software_
+- **Punch Through Design** - 1 role(s), 1 intern, latest 2026-11-12 - _Cloud Software Engineer Intern_
 
-### Philadelphia (6)
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Veeva** - 16 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
-- **ParetoHealth** - 4 role(s), 2 intern, latest 2026-11-02 - _Lead Data Scientist_
-- **New Era Technology** - 2 role(s), latest 2026-10-26 - _Cycle D365 F&O Developer & Partner Manager_
+### Philadelphia (3)
+- **Veeva** - 15 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
 - **Checkly** - 1 role(s), latest 2026-10-28 - _Support Engineer (DevTools & AI Reliability, remote)_
 - **Credit Genie** - 1 role(s), latest 2026-11-02 - _Credit Genie_
 
-### Miami (15)
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Modmed** - 10 role(s), latest 2026-11-06 - _Engineering Manager, DevOps_
-- **OneImaging** - 5 role(s), latest 2026-11-07 - _Associate Data Engineer (UF Only)_
+### Miami (11)
+- **Spotify** - 8 role(s), latest 2026-11-09 - _Backend Engineer - Data Infrastructure_
+- **Assurant** - 5 role(s), 5 intern, latest 2026-10-27 - _Software Engineer Intern_
+- **Livekit** - 5 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
 - **University of Miami** - 4 role(s), 4 intern, latest 2026-10-30 - _Data Science & AI Intern_
 - **Florida Atlantic University** - 3 role(s), 2 intern, latest 2026-10-28 - _Student Web Developer - Research Computing Systems Administration_
-- **Rocket Money** - 3 role(s), latest 2026-10-23 - _Full Stack Engineer, Autopilot_
-- **Analytic Partners** - 2 role(s), 2 intern, latest 2026-10-21 - _Data Science Co-op_
+- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
 - **Modernizing Medicine** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineer Intern_
-- **Neko Health** - 2 role(s), latest 2026-11-04 - _Lead Software Engineer - Medical OS_
-- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
-- **Analyticpartners** - 1 role(s), 1 intern, latest 2026-10-21 - _Data Science Co-Op_
-- **Jump** - 1 role(s), latest 2026-11-02 - _Jump_
-- **Nubank** - 1 role(s), 1 intern, latest 2026-10-19 - _AI Core PhD Research Intern_
+- **Rocket Money** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
+- **Hut 8** - 1 role(s), latest 2026-11-10 - _Principal, Data Engineering (Data Ops)_
 - **Perry Ellis International** - 1 role(s), latest 2026-11-02 - _Data Analyst_
 - **Verition Group** - 1 role(s), 1 intern, latest 2026-10-28 - _AI Associate Intern, Equity Long/Short_
 
-### Detroit / Ann Arbor (7)
-- **KLA Corporation** - 51 role(s), 51 intern, latest 2026-11-06 - _Software Engineering Intern - C++ - Unix_
-- **Marianaminerals** - 8 role(s), latest 2026-10-28 - _Full Stack Software Engineer_
+### Detroit / Ann Arbor (10)
+- **Booz Allen** - 64 role(s), 64 intern, latest 2026-11-10 - _Data Scientist Intern - University_
+- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **Titan Security Group** - 7 role(s), latest 2026-10-27 - _Mobile Patrol & Guard Shack Officers_
+- **Nox Metals** - 4 role(s), latest 2026-11-10 - _Machine Learning Engineer_
+- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
 - **Little Caesars Enterprises** - 3 role(s), 3 intern, latest 2026-11-05 - _AI IT Intern_
-- **Rocket Money** - 3 role(s), latest 2026-10-23 - _Full Stack Engineer, Autopilot_
+- **Rocket Money** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
 - **Sonatus** - 2 role(s), latest 2026-11-05 - _Senior Cloud Platform Engineer_
+- **Rocket Mortgage** - 1 role(s), 1 intern, latest 2026-11-13 - _Data Analyst Intern_
 - **TheraPlug** - 1 role(s), latest 2026-11-03 - _TheraPlug_
 
-### Columbus (8)
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Veeva** - 16 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
-- **Horizon Industries** - 7 role(s), latest 2026-10-20 - _Application Programmer (EBS)_
-- **American Electric Power** - 3 role(s), 3 intern, latest 2026-10-20 - _Data Scientist Intern_
+### Columbus (6)
+- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
+- **Veeva** - 15 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
+- **Telus Digital** - 7 role(s), 2 intern, latest 2026-11-11 - _Software Engineering Intern (US) - Summer 2027_
 - **Immuta** - 2 role(s), 1 intern, latest 2026-11-06 - _Sr. Data Scientist_
-- **Rogue Fitness** - 2 role(s), 2 intern, latest 2026-10-19 - _AI Engineer Intern_
 - **Western Alliance Bancorporation** - 2 role(s), 2 intern, latest 2026-11-05 - _Platform Engineering Intern_
 - **Branchinsurance** - 1 role(s), latest 2026-11-05 - _Analytics Engineer II_
 
 ### Nashville (9)
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Philips** - 14 role(s), 14 intern, latest 2026-10-29 - _Data Scientist Co-op_
+- **L3Harris Technologies** - 94 role(s), 94 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **Nissan Global** - 12 role(s), 12 intern, latest 2026-10-27 - _AI Agent Architect Intern_
+- **Philips** - 12 role(s), 12 intern, latest 2026-11-03 - _MR Software Intern_
 - **Nissan** - 10 role(s), 10 intern, latest 2026-10-27 - _AI & Data Analytics Intern_
 - **Valinor** - 6 role(s), latest 2026-10-26 - _Software Engineer, Backend (Platform)_
 - **Designed Conveyor Systems** - 3 role(s), latest 2026-11-02 - _Software Support Engineer_
 - **AllianceBernstein** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Development Intern_
 - **Built Technologies** - 1 role(s), latest 2026-10-30 - _Innovation Software Engineer 1_
-- **Unlock Health** - 1 role(s), latest 2026-10-23 - _Data Engineer_
+- **Ecmtek** - 1 role(s), 1 intern, latest 2026-11-09 - _Developer Intern, Python Development_
 
-### Other US (736)
-- **Prolific Academic Ltd** - 315 role(s), latest 2026-11-06 - _Addiction Medicine Physician - AI Research Participants - United States (Remote)_
-- **Northrop Grumman** - 60 role(s), 60 intern, latest 2026-11-04 - _Software Engineer Intern_
-- **Captivation Software** - 56 role(s), latest 2026-11-05 - _Artificial Intelligence Machine Learning Engineer 1 - C++/Marian/Java/AWS/PyTorch/Python_
-- **KLA Corporation** - 51 role(s), 51 intern, latest 2026-11-06 - _Software Engineering Intern - C++ - Unix_
-- **AMD** - 49 role(s), 49 intern, latest 2026-10-28 - _Data Analyst Intern/Co-op_
-- **American Express** - 37 role(s), 37 intern, latest 2026-11-03 - _Software Engineer Intern - Enterprise Technology Services_
-- **Rivian** - 33 role(s), 33 intern, latest 2026-11-06 - _Supply Chain Data, AI and Business Intelligence Co-op Intern_
-- **True Anomaly** - 27 role(s), latest 2026-11-06 - _Chief Engineer, Ground Software_
-- **G2I** - 25 role(s), latest 2026-10-30 - _Staff Software Engineer (AI Evals)_
-- **Intel** - 25 role(s), 25 intern, latest 2026-11-05 - _Software Engineer Intern_
+### Other US (774)
+- **L3Harris Technologies** - 94 role(s), 94 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Booz Allen** - 64 role(s), 64 intern, latest 2026-11-10 - _Data Scientist Intern - University_
+- **Keysight Technologies** - 52 role(s), 52 intern, latest 2026-11-12 - _Full Stack Intern_
+- **Captivation Software** - 48 role(s), latest 2026-11-05 - _Artificial Intelligence Machine Learning Engineer 1 - C++/Marian/Java/AWS/PyTorch/Python_
+- **General Dynamics Mission Systems** - 46 role(s), 46 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Epic Games** - 45 role(s), 15 intern, latest 2026-11-12 - _AI Programmer Intern_
+- **Visa** - 45 role(s), 45 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **General Motors** - 39 role(s), 39 intern, latest 2026-11-10 - _Software Engineer Intern - Digital Product: Software Engineering_
+- **Xometry** - 37 role(s), latest 2026-11-12 - _Manager, Data Analytics, Pricing & Yield Management_
+- **Nokia** - 29 role(s), 29 intern, latest 2026-11-09 - _AI Agent Development Co-op_
+- **Veeam Software** - 27 role(s), 10 intern, latest 2026-11-13 - _AI & Automation Engineering Intern - Summer 2027_
+- **Palantir** - 26 role(s), 18 intern, latest 2026-11-10 - _Backend Software Engineer - Data Connectors_
 - **Intercontinental Exchange** - 25 role(s), 25 intern, latest 2026-11-06 - _Data Science Intern_
 - **Johnson & Johnson** - 25 role(s), 24 intern, latest 2026-11-03 - _Data Science Co-op - Spring 2027_
-- **Toshiba Global Commerce Solutions - External** - 25 role(s), 2 intern, latest 2026-11-05 - _AI Automation & Revenue Ops Intern_
-- **Garmin** - 24 role(s), 24 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Emerson Electric** - 23 role(s), 23 intern, latest 2026-10-29 - _Data Analytics Intern_
-- **Hewlett Packard Enterprise** - 23 role(s), 23 intern, latest 2026-10-30 - _Software Engineer Intern_
-- **DigitalOcean** - 22 role(s), latest 2026-11-05 - _Director of Research, Agentic AI_
-- **Field Ai** - 21 role(s), 4 intern, latest 2026-10-19 - _3D/AR/VR Software Engineer_
-- **GE Vernova** - 21 role(s), 21 intern, latest 2026-10-30 - _Energy Optimization Software Engineer Intern - Summer 2027_
+- **AeroVironment** - 24 role(s), 24 intern, latest 2026-11-11 - _Embedded Software Engineer Intern_
+- **Muon Space** - 23 role(s), 8 intern, latest 2026-11-12 - _Flight Software Engineering Intern (Summer 2027)_
+- **AMD** - 22 role(s), 22 intern, latest 2026-10-28 - _Compiler Engineer Intern/Co-op_
+- **Johns Hopkins Applied Physics Laboratory** - 22 role(s), 22 intern, latest 2026-11-11 - _Software Development Intern - Multi-Mission Planning Development_
+- **American Express** - 21 role(s), 21 intern, latest 2026-11-03 - _Data Analytics Intern - Enterprise Technology Services_
 - **The Aerospace Corporation** - 21 role(s), 21 intern, latest 2026-11-02 - _Machine Learning Engineering Intern_
-- **American Family Insurance Group** - 20 role(s), 20 intern, latest 2026-10-23 - _Web Developer Intern_
 - **CVS Health** - 20 role(s), 20 intern, latest 2026-10-26 - _Data Scientist Intern - Grad Conversion_
-- **North Point Technology** - 19 role(s), latest 2026-10-30 - _Cloud Engineer - Serverless & Identity (Top Secret/SCI Required)_
+- **Anavationllc** - 19 role(s), 2 intern, latest 2026-11-09 - _AI Engineer SME_
+- **GE Vernova** - 19 role(s), 19 intern, latest 2026-10-30 - _Software Engineer Co-op - Critical Infrastructure Communication_
 - **Sierra Nevada Corporation** - 19 role(s), 18 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Aptiv** - 18 role(s), 18 intern, latest 2026-10-22 - _Compiler Intern - Compiler Team_
-- **GitLab** - 18 role(s), latest 2026-11-05 - _Backend Engineer, GitLab Orbit_
-- **Higgsfieldai** - 18 role(s), latest 2026-11-07 - _AI Engineer_
 - **National Information Solutions Cooperative** - 18 role(s), 18 intern, latest 2026-11-06 - _Software Development Intern_
-- **Xsolla** - 18 role(s), 1 intern, latest 2026-10-28 - _AI-First Engineering Intern_
+- **Scale AI** - 18 role(s), 3 intern, latest 2026-11-10 - _Applied AI Engineer_
 - **ICF International** - 17 role(s), 17 intern, latest 2026-10-28 - _Software Developer Intern_
 - **Shure** - 17 role(s), 17 intern, latest 2026-11-06 - _Artificial Intelligence Engineer Intern_
-- **Airbnb** - 16 role(s), latest 2026-11-04 - _Manager, Engineering, Dev AI_
-- **Veeva** - 16 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
-- **Atoms** - 15 role(s), 15 intern, latest 2026-11-03 - _Robotics Software Engineer Intern_
-- **Ensono** - 15 role(s), latest 2026-10-16 - _Director, Mainframe Systems Programming_
+- **Xsolla** - 17 role(s), 1 intern, latest 2026-10-28 - _AI-First Engineering Intern_
+- **Highmark Health** - 16 role(s), 16 intern, latest 2026-11-10 - _Data Science Research and Development Graduate Intern_
+- **Addepar** - 15 role(s), 6 intern, latest 2026-11-10 - _AI Engineer - AI Platform_
 - **Innodata Inc.** - 15 role(s), latest 2026-11-03 - _AI Agentic Workflow Reviewer_
-- **Marvell** - 15 role(s), 15 intern, latest 2026-10-28 - _Firmware Engineer Intern_
-- **Two Six Technologies** - 15 role(s), 2 intern, latest 2026-11-03 - _Lead Embedded Software Engineer_
-- **Via** - 15 role(s), latest 2026-10-19 - _Director of AI Engineering, Internal Products_
+- **Motorola** - 15 role(s), 15 intern, latest 2026-11-11 - _Mission Critical Networks Software Engineer Co-op_
+- **Veeva** - 15 role(s), latest 2026-11-04 - _Associate DevOps Engineer_
+- **Anyone Ai** - 14 role(s), latest 2026-11-09 - _Bioinformatics Expert_
+- **Applied Materials** - 14 role(s), 14 intern, latest 2026-11-10 - _Data Analyst Intern - Global Technical Learning Center_
 - **Auto-Owners Insurance** - 14 role(s), 14 intern, latest 2026-11-03 - _Data Engineering Intern - Summer 2027_
-- **Keeper Security** - 14 role(s), latest 2026-10-28 - _Google Cloud & Gemini Enterprise Administrator_
 - **Parsons** - 14 role(s), 14 intern, latest 2026-11-05 - _Software Intern - Summer 2027_
-- **Philips** - 14 role(s), 14 intern, latest 2026-10-29 - _Data Scientist Co-op_
-- **Relativity Space** - 14 role(s), latest 2026-11-04 - _AI Software Engineer I_
+- **Agility Robotics** - 13 role(s), latest 2026-11-13 - _AI Research Engineer III_
 - **ALTEN Technology USA** - 13 role(s), latest 2026-11-03 - _Data Analyst / Architect_
 - **Armadin** - 13 role(s), 6 intern, latest 2026-11-02 - _Senior Red Team Operator, AI/LLM_
-- **John Deere** - 13 role(s), 9 intern, latest 2026-10-23 - _Data & Analytics Intern_
-- **Alarm.com** - 12 role(s), latest 2026-11-03 - _Cloud Systems Engineer_
-- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
+- **Red Cell Partners** - 13 role(s), latest 2026-11-10 - _Deputy General Manager, Agentic AI _
+- **ZipRecruiter** - 13 role(s), 2 intern, latest 2026-11-09 - _Engineering Manager, Machine Learning, Ranking_
+- **Keeper Security** - 12 role(s), latest 2026-10-28 - _Google Cloud & Gemini Enterprise Administrator_
 - **Navy Federal** - 12 role(s), 12 intern, latest 2026-10-23 - _Summer Associate Intern - Business Intelligence & Data Analytics_
 - **Nissan Global** - 12 role(s), 12 intern, latest 2026-10-27 - _AI Agent Architect Intern_
+- **Philips** - 12 role(s), 12 intern, latest 2026-11-03 - _MR Software Intern_
+- **Redhorsecorp** - 12 role(s), latest 2026-11-12 - _AI/ML Modeling Team Lead_
 - **Regeneron Pharmaceuticals** - 12 role(s), 12 intern, latest 2026-11-03 - _Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT_
 - **Zebra Technologies** - 12 role(s), 12 intern, latest 2026-11-04 - _Intern - AI_
-- **Anyscale** - 11 role(s), latest 2026-11-05 - _Software Engineer, Infrastructure_
-- **Appian Corporation ** - 11 role(s), latest 2026-10-23 - _AI Security Engineer_
+- **Agoda** - 11 role(s), 9 intern, latest 2026-11-06 - _[Cooperative Internship 2027] Back-end Internship BKK_
+- **Alarm.com** - 11 role(s), latest 2026-10-30 - _Cloud Systems Engineer_
+- **Allegion** - 11 role(s), 11 intern, latest 2026-11-03 - _Firmware Engineer Intern_
 - **Barkbus** - 11 role(s), latest 2026-10-29 - _Mobile Dog Groomer_
-- **GM financial** - 11 role(s), 11 intern, latest 2026-11-06 - _Data Science Intern_
-- **Inter Carreiras** - 11 role(s), latest 2026-11-04 - _DATA ANALYST II_
-- **Neo4j** - 11 role(s), latest 2026-11-04 - _AI Solutions Architect_
+- **Bask Health** - 11 role(s), 11 intern, latest 2026-11-12 - _AI Product Intern_
+- **CareSource** - 11 role(s), 11 intern, latest 2026-11-12 - _AI Intern_
+- **Rula** - 11 role(s), latest 2026-11-10 - _Staff Software Engineer - Provider Growth & Activation_
+- **Trimble** - 11 role(s), 11 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **Tyler Technologies** - 11 role(s), 11 intern, latest 2026-11-05 - _Software Development Intern - Summer 2027_
-- **Vailexa ** - 11 role(s), latest 2026-11-06 - _AI Customer Assurance Engineer / AI Product Support Engineer_
 - **Wellmark** - 11 role(s), 11 intern, latest 2026-11-02 - _Data Analytics & Governance Internship_
-- ** ALO** - 10 role(s), latest 2026-11-05 - _Buying & Merchandising AI Analyst_
+- **Wex** - 11 role(s), 11 intern, latest 2026-11-09 - _Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate_
 - **ABB** - 10 role(s), 10 intern, latest 2026-10-28 - _AI Robotics UI/UX Intern_
-- **ACT1 Federal** - 10 role(s), latest 2026-10-19 - _Air Mobility Division Scenario Developer_
+- **Amgen** - 10 role(s), 10 intern, latest 2026-11-13 - _Machine Learning Engineer Intern_
+- **Anyscale** - 10 role(s), latest 2026-11-05 - _ Staff Software Engineer, Platform Infrastructure (Foundations)_
 - **CoStar Group** - 10 role(s), 10 intern, latest 2026-11-02 - _Embedded Software Engineer Intern_
-- **Cotality** - 10 role(s), latest 2026-11-06 - _Principal Software Engineer (Location Services)_
-- **Cowboyspace** - 10 role(s), 1 intern, latest 2026-11-05 - _Software Engineer_
-- **Electronic Arts** - 10 role(s), 10 intern, latest 2026-10-19 - _Software Engineer Intern_
-- **Entrust** - 10 role(s), 8 intern, latest 2026-11-02 - _AI Developer Intern_
+- **DigiCert** - 10 role(s), latest 2026-11-10 - _Forward Deployed Engineer_
+- **Gordon Food Service** - 10 role(s), 10 intern, latest 2026-11-11 - _Data Science Engineer Intern_
+- **Hims And Hers** - 10 role(s), latest 2026-11-13 - _Sr. Staff Engineer, Care (Fullstack/Backend)_
 - **JM Family** - 10 role(s), 10 intern, latest 2026-11-05 - _Data Engineer Intern_
 - **Kitware** - 10 role(s), 4 intern, latest 2026-10-28 - _3D Computer Vision Researcher – Arlington, VA_
-- **Modmed** - 10 role(s), latest 2026-11-06 - _Engineering Manager, DevOps_
+- **Neo4j** - 10 role(s), latest 2026-11-04 - _AI Solutions Architect_
 - **Nissan** - 10 role(s), 10 intern, latest 2026-10-27 - _AI & Data Analytics Intern_
-- **Parallelwireless** - 10 role(s), latest 2026-11-03 - _AI Engineering Team Manager_
+- **Radiance Technologies** - 10 role(s), 10 intern, latest 2026-11-09 - _Software Engineer Intern_
 - **Resideo** - 10 role(s), 10 intern, latest 2026-11-02 - _Embedded Firmware Engineer Intern_
-- **SeatGeek** - 10 role(s), 4 intern, latest 2026-11-05 - _Data Analyst - Internship_
-- **Textron** - 10 role(s), 10 intern, latest 2026-10-20 - _Software Engineer Co-op - Uncrewed Land & Air_
-- **Vanta** - 10 role(s), latest 2026-11-03 - _AI Agent Support Specialist_
-- **Verra Mobility** - 10 role(s), latest 2026-10-29 - _DevOps Engineer_
-- **Westinghouse Electric Company** - 10 role(s), 10 intern, latest 2026-10-22 - _Computer Engineering / Software Engineering Intern_
-- **Adyen** - 9 role(s), latest 2026-11-05 - _Engineering Manager, Machine Learning - Personalize Intelligence_
-- **Agoda** - 9 role(s), 9 intern, latest 2026-11-06 - _[Cooperative Internship 2027] Back-end Internship BKK_
-- **Allegion** - 9 role(s), 9 intern, latest 2026-11-03 - _Firmware Engineer Intern_
-- **Connections Health Solutions** - 9 role(s), latest 2026-11-05 - _Case Manager (FT, Back End Days)_
+- **Salesforce** - 10 role(s), 10 intern, latest 2026-10-30 - _Software Engineer Intern_
+- **SeatGeek** - 10 role(s), 4 intern, latest 2026-11-05 - _Senior Data Analyst, Supply_
+- **Snorkel AI** - 10 role(s), latest 2026-11-13 - _Director, GTM Systems & AI Transformation_
+- **Aurora Innovation** - 9 role(s), 9 intern, latest 2026-11-13 - _Core Autonomy Software Intern - C++_
+- **Booz Allen Hamilton** - 9 role(s), 9 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **CAI** - 9 role(s), 9 intern, latest 2026-11-09 - _Software Developer Intern_
+- **Cowboyspace** - 9 role(s), 1 intern, latest 2026-11-05 - _Software Engineer_
 - **Danaher** - 9 role(s), 9 intern, latest 2026-10-29 - _Software Engineer Intern_
+- **Eset** - 9 role(s), latest 2026-11-12 - _PHP Software Engineer (m/f/n/)_
+- **Hippocratic%20Ai** - 9 role(s), latest 2026-11-12 - _Senior Applied Scientist, Reinforcement Learning_
 - **JM Family Enterprises** - 9 role(s), 9 intern, latest 2026-11-05 - _Data Engineer Intern_
+- **K2 Space ** - 9 role(s), 2 intern, latest 2026-11-10 - _Data Engineer_
 - **M9 Solutions** - 9 role(s), latest 2026-11-06 - _AI Engineer_
-- **Merck** - 9 role(s), 8 intern, latest 2026-10-23 - _Computational Toxicology Intern - AI/ML Computational Toxicology_
+- **Metasys** - 9 role(s), 9 intern, latest 2026-11-10 - _Data Scientist Intern_
 - **Oshkosh** - 9 role(s), 9 intern, latest 2026-11-03 - _Software Engineer Intern - Software - Summer 2027_
 - **Schweitzer Engineering Laboratories** - 9 role(s), 9 intern, latest 2026-10-29 - _Software Engineer Intern - Power Systems_
-- **SingleStore** - 9 role(s), 5 intern, latest 2026-10-27 - _Principal Engineer, Platform Engineering_
-- **Space Dynamics Laboratory** - 9 role(s), 7 intern, latest 2026-10-26 - _Web Developer Assistant - Enterprise Application Support_
-- **The Toro Company** - 9 role(s), 9 intern, latest 2026-10-19 - _Hardware and Software Engineering Intern_
-- **Verizon Communications** - 9 role(s), 9 intern, latest 2026-10-20 - _AI/ML Engineering Intern - Consumer Group_
-- **Amplitude** - 8 role(s), latest 2026-11-05 - _Staff Software Engineer, Business Systems & Data_
-- **APEX Analytix** - 8 role(s), 8 intern, latest 2026-11-05 - _Data Science Intern_
-- **Aspenview Technology Partners** - 8 role(s), latest 2026-10-21 - _Bilingual AI Software Development Engineer_
-- **BeyondTrust** - 8 role(s), latest 2026-10-26 - _Cloud Network Engineer_
-- **BILL** - 8 role(s), latest 2026-10-28 - _Senior Product Data Analyst - AP & Network Analytics_
-- **Ciena** - 8 role(s), 8 intern, latest 2026-11-03 - _Services Business Intelligence & Analytics Intern_
+- **Tessera Labs** - 9 role(s), 2 intern, latest 2026-11-13 - _Forward-Deployed Engineer_
+- **Betsson Group** - 8 role(s), latest 2026-11-11 - _Backend .NET Software Engineer - Gaming_
 - **Cogent Security** - 8 role(s), latest 2026-10-27 - _Software Engineer - Applied AI_
-- **Constellation Energy** - 8 role(s), 8 intern, latest 2026-10-28 - _Information Technology Software Development Intern_
 - **Divergent** - 8 role(s), 3 intern, latest 2026-11-02 - _ CAE Principal Software Architect (Design)_
-- **Fastly** - 8 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
-- **Flex** - 8 role(s), 1 intern, latest 2026-10-19 - _Senior Software Development Engineer in Test (SDET)_
+- **Entrust** - 8 role(s), 8 intern, latest 2026-11-02 - _AI Developer Intern_
+- **EquipmentShare** - 8 role(s), 3 intern, latest 2026-11-10 - _Junior eCommerce Web Developer_
 - **Insulet** - 8 role(s), 8 intern, latest 2026-11-03 - _Embedded Software Engineering Co-op_
-- **Intuit** - 8 role(s), 8 intern, latest 2026-10-30 - _Software Engineer Intern_
-- **LendingTree** - 8 role(s), latest 2026-11-04 - _Manager, Data Science_
-- **Marianaminerals** - 8 role(s), latest 2026-10-28 - _Full Stack Software Engineer_
+- **Mastercard** - 8 role(s), 8 intern, latest 2026-10-27 - _Platform Engineering Intern, Summer 2027 – St. Louis, MO, US_
 - **Mayo Clinic** - 8 role(s), 6 intern, latest 2026-11-02 - _Artificial Intelligence and Informatics/Data Science Intern_
-- **NeuraFlash, Part of Accenture** - 8 role(s), latest 2026-10-26 - _Forward Deployed Engineer, AI & Agentforce_
-- **Oscar Health** - 8 role(s), latest 2026-11-06 - _Director, Analytics Engineering_
-- **Planet** - 8 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
+- **Metron** - 8 role(s), latest 2026-11-09 - _Business Intelligence Analyst_
+- **onsemi** - 8 role(s), 8 intern, latest 2026-11-10 - _Manufacturing AI Engineering Intern_
+- **Pika** - 8 role(s), 2 intern, latest 2026-11-10 - _Research Scientist, Post-Training — Video Generation_
+- **Radai** - 8 role(s), latest 2026-11-10 - _Senior Data Engineer_
 - **Raft Company Website** - 8 role(s), 7 intern, latest 2026-11-06 - _AI/ML Intern - Summer 2027_
 - **Smith+Nephew** - 8 role(s), 8 intern, latest 2026-11-04 - _Data Science Intern - AI Center of Excellence_
-- **Texas Instruments** - 8 role(s), 8 intern, latest 2026-10-22 - _Software Engineer Intern_
+- **Turing** - 8 role(s), latest 2026-11-11 - _Forward Deployed AI Engineer_
+- **US Internships Public Careers Site** - 8 role(s), 8 intern, latest 2026-11-11 - _Undergraduate Software Engineering Intern_
 - **VSP Vision** - 8 role(s), 8 intern, latest 2026-10-30 - _Software Engineer Intern_
 - **1X** - 7 role(s), latest 2026-10-30 - _Senior DevOps Engineer _
-- **Alpaca ** - 7 role(s), latest 2026-11-03 - _AI Security Engineer_
+- **Amplitude** - 7 role(s), latest 2026-11-05 - _Staff Software Engineer, Business Systems & Data_
 - **Capco** - 7 role(s), latest 2026-10-29 - _AI Technical Architect_
-- **Chainguard** - 7 role(s), latest 2026-11-06 - _Engineering Manager, AI CICD_
-- **Clear Street** - 7 role(s), latest 2026-10-22 - _Senior Data Engineer_
-- **Coalition, Inc.** - 7 role(s), latest 2026-11-03 - _Senior Data Scientist_
-- **Constellation Brands** - 7 role(s), 7 intern, latest 2026-11-05 - _AI Enablement Intern_
+- **Compeer Financial** - 7 role(s), 2 intern, latest 2026-11-10 - _Principal AI Platform Engineer_
 - **Cook Group** - 7 role(s), 7 intern, latest 2026-11-06 - _AI and Data Solutions Intern_
 - **Corning** - 7 role(s), 7 intern, latest 2026-11-07 - _Digital & IT Intern - Analyst - Machine Learning_
 - **Cuspai** - 7 role(s), latest 2026-11-05 - _Scientific Software Engineer (Lab Integration)_
 - **Dark Wolf Solutions** - 7 role(s), latest 2026-11-02 - _Cloud Identity and Security Engineer_
+- **Fastly** - 7 role(s), latest 2026-10-30 - _Senior Backend Software Engineer (APIs)_
 - **Focused** - 7 role(s), latest 2026-10-30 - _Controls Software Engineer_
+- **Grafana Labs** - 7 role(s), latest 2026-11-12 - _Senior Backend Engineer - Databases Tempo_
+- **Gray%20Swan%20Ai** - 7 role(s), latest 2026-11-09 - _Senior Software Engineer (Pittsburgh)_
 - **Great American Insurance Company** - 7 role(s), 7 intern, latest 2026-11-04 - _Catastrophe Modeling & Data Analytics Intern_
-- **Horizon Industries** - 7 role(s), latest 2026-10-20 - _Application Programmer (EBS)_
-- **Inferact** - 7 role(s), latest 2026-11-05 - _Member of Technical Staff, Production Site Reliability Engineer_
-- **Rivian and Volkswagen Group Technologies** - 7 role(s), 7 intern, latest 2026-10-23 - _Software Engineering Intern - Applications - Infotainment & Mobile_
+- **Intuit** - 7 role(s), 7 intern, latest 2026-10-30 - _Software Engineer Intern - Full Stack_
+- **Jbtm** - 7 role(s), latest 2026-10-29 - _Software/Control Engineer II_
+- **KION Group** - 7 role(s), 7 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Planet** - 7 role(s), latest 2026-11-03 - _Director of Software Engineering, Analytics_
+- **Redwood Materials** - 7 role(s), latest 2026-11-09 - _Battery Software & Controls Integration Engineer, Energy Storage_
 - **SageSure** - 7 role(s), 7 intern, latest 2026-10-29 - _Data Scientist Intern_
-- **Scribe** - 7 role(s), latest 2026-11-03 - _Senior DevOps Engineer_
-- **Sparksoft Corporation** - 7 role(s), latest 2026-11-04 - _DevOps Engineer_
+- **Solvd** - 7 role(s), latest 2026-11-13 - _Senior Data Engineer — Retrieval & RAG Platform _
+- **Telus Digital** - 7 role(s), 2 intern, latest 2026-11-11 - _Software Engineering Intern (US) - Summer 2027_
 - **Titan Security Group** - 7 role(s), latest 2026-10-27 - _Mobile Patrol & Guard Shack Officers_
-- **Truelogic** - 7 role(s), latest 2026-10-27 - _Senior DevOps / Platform Engineer – Fintech Company (Hybrid, 3 days, New York)_
-- **Tutorintelligence** - 7 role(s), latest 2026-11-02 - _Applied AI Engineer, Go-to-Market_
-- **Valtech** - 7 role(s), latest 2026-11-06 - _Client Partner, Growth and AI Augmented _
+- **Triumph Arcade** - 7 role(s), latest 2026-11-13 - _Senior Software Engineer, Rips (Web)_
+- **Typesafe Ai** - 7 role(s), latest 2026-11-13 - _Developer Advocate_
 - **Wabtec** - 7 role(s), 7 intern, latest 2026-11-03 - _Firmware Engineer Co-op_
 - **Western & Southern Financial Group** - 7 role(s), 7 intern, latest 2026-11-06 - _Artificial Intelligence Developer Intern_
-- **6Sense** - 6 role(s), latest 2026-10-28 - _Sr. AI Engineer_
-- **Allstate** - 6 role(s), 6 intern, latest 2026-10-22 - _Software Engineer Intern_
 - **Amperesand** - 6 role(s), 5 intern, latest 2026-10-23 - _AI/ML Engineering Intern_
-- **Amplify** - 6 role(s), 6 intern, latest 2026-10-19 - _AI Scientist Intern_
-- **BETA Technologies** - 6 role(s), latest 2026-10-23 - _AI / ML Engineer, Advanced Concepts_
-- **Clickup** - 6 role(s), latest 2026-11-06 - _Principal Frontend Engineer_
+- **BeyondTrust** - 6 role(s), latest 2026-10-26 - _Cloud Network Engineer_
+- **Curtisswright** - 6 role(s), latest 2026-11-05 - _Senior Software Engineer_
 - **Dell Technologies** - 6 role(s), 6 intern, latest 2026-11-03 - _Software Engineer Intern - Client Solutions Group Engineering_
+- **DwyerOmega** - 6 role(s), 6 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **EarnIn** - 6 role(s), latest 2026-11-05 - _Senior AI Builder_
-- **Eaton** - 6 role(s), 6 intern, latest 2026-10-18 - _Firmware Engineer Intern/Co-op - Research & Development Engineering_
+- **Entegris** - 6 role(s), 6 intern, latest 2026-11-12 - _AI Continuous Improvement Co-op_
 - **Formenergy** - 6 role(s), latest 2026-10-28 - _Senior Data Analytics Engineer, Factory Software_
+- **Fresenius Medical Care** - 6 role(s), 6 intern, latest 2026-11-12 - _Software Engineering Co-op_
+- **Grupo QuintoAndar** - 6 role(s), latest 2026-11-09 - _Grupo QuintoAndar_
+- **Harmattan Ai** - 6 role(s), latest 2026-11-09 - _Deployment Lead - Software Platform Morocco_
 - **Heron Power** - 6 role(s), 3 intern, latest 2026-11-04 - _Hardware Validation Systems Developer_
-- **Inversion Space** - 6 role(s), 6 intern, latest 2026-10-19 - _Avionics Embedded Software Engineer Intern_
-- **Kong** - 6 role(s), latest 2026-10-30 - _Site Reliability Engineer 2_
-- **Mill** - 6 role(s), 3 intern, latest 2026-11-04 - _Computer Vision Intern, Fall/Winter 2026_
-- **MITRE** - 6 role(s), 6 intern, latest 2026-11-06 - _AI Engineering Intern_
-- **Moog** - 6 role(s), 6 intern, latest 2026-11-04 - _Computer Science Intern - Information Technology_
-- **Neros Technologies** - 6 role(s), latest 2026-10-20 - _Lead, Platform Software_
-- **Oneapp** - 6 role(s), 1 intern, latest 2026-10-20 - _Staff Applied Scientist, Personalization_
-- **Precisely US Jobs** - 6 role(s), latest 2026-11-03 - _Associate Software Developer (AI)_
-- **Process Street** - 6 role(s), latest 2026-10-29 - _Senior Software Engineer_
+- **Medpace** - 6 role(s), 6 intern, latest 2026-11-12 - _Junior Business Intelligence Engineer Intern_
+- **Mozilla** - 6 role(s), latest 2026-11-12 - _Software Engineering Manager, Cloud Engineering_
+- **National Laboratory of the Rockies** - 6 role(s), 6 intern, latest 2026-11-12 - _Graduate Geospatial Data Science Modeling and Analysis Intern_
+- **NBCUniversal** - 6 role(s), 6 intern, latest 2026-11-11 - _Software Engineer Intern_
+- **NeuraFlash, Part of Accenture** - 6 role(s), latest 2026-10-26 - _Forward Deployed Engineer, AI & Agentforce_
+- **North Atlantic Industries** - 6 role(s), 6 intern, latest 2026-11-12 - _Software Engineer Intern_
+- **Penn Interactive** - 6 role(s), latest 2026-11-10 - _Business Intelligence Engineer_
 - **Re:Build Manufacturing** - 6 role(s), latest 2026-10-29 - _CNC Programmer_
-- **Referrals Only** - 6 role(s), latest 2026-11-05 - _Associate (Graduate) Developer_
-- **Skelar** - 6 role(s), latest 2026-11-04 - _Senior Data Engineer_
-- **Springs Window Fashions** - 6 role(s), 6 intern, latest 2026-11-07 - _Data Analyst Intern - Consumer Business Unit_
+- **Scribe** - 6 role(s), latest 2026-11-03 - _Senior DevOps Engineer_
 - **Stoke Space ** - 6 role(s), 4 intern, latest 2026-11-04 - _Software Integration Engineer - Test Site_
 - **The Exploration Company** - 6 role(s), 4 intern, latest 2026-11-07 - _Senior Software System Engineer  _
 - **Tokyo Electron** - 6 role(s), 6 intern, latest 2026-11-04 - _Business Intelligence Analyst Intern_
-- **TribalScale** - 6 role(s), latest 2026-10-23 - _Forward Deployed Engineer (Atlanta, Georgia)_
-- **Tripledot Studios** - 6 role(s), latest 2026-11-04 - _Data Analyst_
+- **Valtech** - 6 role(s), latest 2026-11-06 - _Client Partner, Growth and AI Augmented _
 - **Verygoodsecurity** - 6 role(s), latest 2026-11-04 - _Sr. Software Engineer_
+- **Vital Lyfe** - 6 role(s), 5 intern, latest 2026-11-12 - _Software Engineer, Backend & Data_
 - **VYNYL** - 6 role(s), latest 2026-10-30 - _Senior Full Stack Engineer_
-- **Adaptyv** - 5 role(s), latest 2026-10-19 - _Software Engineer, Product_
-- **AGCO** - 5 role(s), 5 intern, latest 2026-10-16 - _AI & Data Science Intern_
+- **6Sense** - 5 role(s), latest 2026-10-28 - _Sr. AI Engineer_
 - **Amber** - 5 role(s), latest 2026-11-05 - _(Senior) Frontend Engineer (F/M/*)_
-- **Asana** - 5 role(s), latest 2026-10-19 - _Senior Staff Engineer, AI_
+- **Aptura** - 5 role(s), latest 2026-11-15 - _Radiologist - Chest CT Annotation - AI Project (USA)_
 - **Axos Bank** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Development Intern_
-- **Backblaze External Website** - 5 role(s), latest 2026-10-27 - _Principal SRE_
+- **Bask** - 5 role(s), 5 intern, latest 2026-11-13 - _Backend Engineering Intern_
+- **Brainco** - 5 role(s), latest 2026-11-06 - _AI Platform Engineer, Developer Productivity_
+- **Buildertrend** - 5 role(s), 2 intern, latest 2026-11-06 - _Senior Software Engineer_
 - **Care Access** - 5 role(s), latest 2026-10-30 - _Director, Engineering (AI Patient Engagement Platform)_
 - **CHS** - 5 role(s), 5 intern, latest 2026-10-26 - _Data Analyst Intern_
+- **Ciena** - 5 role(s), 5 intern, latest 2026-11-03 - _Software Intern - WaveLogic_
 - **Cincinnati Children’s Hospital and Medical Center** - 5 role(s), 5 intern, latest 2026-11-02 - _Software Engineer Intern_
-- **Coder** - 5 role(s), latest 2026-11-04 - _Senior Software Engineer (Agentic Engineering, US)_
-- **Eliza** - 5 role(s), latest 2026-10-29 - _AI Deployment Manager_
-- **G2** - 5 role(s), 1 intern, latest 2026-10-26 - _Software Engineering Director, Agentic Evaluations_
+- **Cotality** - 5 role(s), latest 2026-11-06 - _Senior Professional,  Software Engineer_
+- **DreamWorks Animation** - 5 role(s), 5 intern, latest 2026-11-09 - _Software Engineer Intern_
+- **Dropbox** - 5 role(s), 1 intern, latest 2026-11-12 - _Principal Software Engineer, Product Engineering_
+- **Factory** - 5 role(s), latest 2026-11-10 - _Developer Relations_
 - **GE Aerospace** - 5 role(s), 5 intern, latest 2026-11-02 - _Applied AI Engineer Co-op_
 - **Genmd** - 5 role(s), 3 intern, latest 2026-11-03 - _Member of Technical Staff, Evaluation_
-- **GenScript** - 5 role(s), 1 intern, latest 2026-11-05 - _AI Intern, Enterprise Agent Development _
 - **Guardian Life** - 5 role(s), 5 intern, latest 2026-11-03 - _Data Engineering Intern - Digital & Technology_
 - **Hitachi** - 5 role(s), 5 intern, latest 2026-11-06 - _Onboard Software Developer Intern_
-- **Huntress Labs** - 5 role(s), latest 2026-11-05 - _Principal Software Engineer - Agentic SOC _
 - **IDEMIA** - 5 role(s), 5 intern, latest 2026-11-07 - _Software Engineer Intern_
-- **iFIT** - 5 role(s), latest 2026-10-29 - _AI Creative Strategist_
+- **Inferact** - 5 role(s), latest 2026-11-05 - _Member of Technical Staff, Production Site Reliability Engineer_
 - **Ingredion** - 5 role(s), 5 intern, latest 2026-11-03 - _Artificial Intelligence & Data Scientist Intern_
-- **Insperity** - 5 role(s), 5 intern, latest 2026-10-22 - _Rotational Data Analytics Intern_
-- **KnowBe4** - 5 role(s), 3 intern, latest 2026-11-01 - _Snr. Site Reliability Engineer (Remote)_
-- **Kunai** - 5 role(s), latest 2026-11-03 - _AI Delivery Engineer - AWS Bedrock_
-- **LabCorp** - 5 role(s), 5 intern, latest 2026-11-02 - _Agentic AI Developer Co-op_
-- **Level** - 5 role(s), latest 2026-11-05 - _Staff Fullstack Web Engineer_
+- **InMobi ** - 5 role(s), latest 2026-11-12 - _AI Engineer_
+- **Kong** - 5 role(s), latest 2026-10-30 - _Site Reliability Engineer 2_
+- **Livekit** - 5 role(s), latest 2026-11-09 - _Senior Developer Advocate, Social_
 - **Machinify** - 5 role(s), latest 2026-11-05 - _Analyst, AI Enablement & Value Creation_
-- **Nebius** - 5 role(s), 1 intern, latest 2026-11-03 - _Manager, ML Solutions Architecture - Token Factory_
+- **Moog** - 5 role(s), 5 intern, latest 2026-11-04 - _Software Engineer Intern - Military Aircraft_
+- **mthree Recruiting Portal** - 5 role(s), latest 2026-11-12 - _DevOps Engineer/ Production Support Analyst_
+- **Nerdwallet** - 5 role(s), latest 2026-11-11 - _Software Engineering Manager, Mobile Products_
+- **NetApp** - 5 role(s), 5 intern, latest 2026-11-14 - _Software Engineer Intern_
+- **New Leaf Energy, Inc.** - 5 role(s), latest 2026-11-12 - _Associate Project Developer, Mid-Atlantic_
 - **Niural** - 5 role(s), 2 intern, latest 2026-11-06 - _Software Engineer II - Frontend_
-- **OneImaging** - 5 role(s), latest 2026-11-07 - _Associate Data Engineer (UF Only)_
 - **Phantom** - 5 role(s), latest 2026-11-05 - _Senior Engineer, Backend (Data Platform)_
-- **Prologis** - 5 role(s), 3 intern, latest 2026-11-04 - _Senior IT Cloud Engineer – AI Driven Operations & Platform Engineering_
-- **Sensor Tower** - 5 role(s), latest 2026-10-29 - _Backend Engineer - Golang_
-- **Standardbots** - 5 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
-- **Starburst** - 5 role(s), latest 2026-10-23 - _AI Agent Engineer_
+- **Protective** - 5 role(s), latest 2026-11-13 - _AI/ML Engineering Lead_
+- **Riot Games** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineer Intern_
+- **Runpod** - 5 role(s), latest 2026-11-12 - _Senior Full Stack Security Engineer (Application & Product)_
+- **Seagate Technology** - 5 role(s), 5 intern, latest 2026-11-14 - _Software and Data Analytics Development Intern, AFM_
+- **Skelar** - 5 role(s), latest 2026-11-04 - _AI Creator - Storyby_
 - **Stream** - 5 role(s), latest 2026-11-02 - _Staff Software Engineer, Infrastructure_
-- **Susquehanna International Group** - 5 role(s), 5 intern, latest 2026-10-18 - _AI Co-op - Drexel University_
 - **Tenex** - 5 role(s), latest 2026-11-03 - _Senior Data Scientist _
+- **Tensorwave** - 5 role(s), 2 intern, latest 2026-11-13 - _Software Engineer (Full Stack)_
 - **Tinder** - 5 role(s), 5 intern, latest 2026-11-06 - _Android Engineer Intern_
 - **Trane Technologies** - 5 role(s), 5 intern, latest 2026-10-30 - _AI & Analytics Intern_
-- **Twilio** - 5 role(s), latest 2026-11-03 - _Developer Success Engineer_
-- **Ursa Major** - 5 role(s), 4 intern, latest 2026-10-23 - _Director, Enterprise Systems & Software_
-- **Vast** - 5 role(s), latest 2026-10-27 - _Senior Flight Software Engineer_
+- **Trumpf** - 5 role(s), 1 intern, latest 2026-11-01 - _CNC Programming Intern_
 - **Vetcove** - 5 role(s), latest 2026-11-05 - _AI Integrations Staff Engineer_
-- **ABC Legal Services** - 4 role(s), latest 2026-10-27 - _Data Scientist_
-- **Assorthealth** - 4 role(s), latest 2026-10-27 - _Senior Forward Deployed Engineer_
+- **Zotec Partners** - 5 role(s), 5 intern, latest 2026-11-11 - _Software Engineer Intern - Rci_
 - **Baird** - 4 role(s), 4 intern, latest 2026-11-06 - _IT Data & Analytics Intern_
+- **BetterHelp** - 4 role(s), latest 2026-11-09 - _Data Science Extern_
 - **Bracco** - 4 role(s), 4 intern, latest 2026-11-03 - _Firmware Engineer Co-op_
-- **Celestica** - 4 role(s), 4 intern, latest 2026-10-18 - _AI Engineer Intern_
+- **Buzz Solutions** - 4 role(s), latest 2026-11-12 - _Senior Backend Engineer, Data & Integrations_
 - **Cencora** - 4 role(s), 4 intern, latest 2026-11-01 - _Software Intern_
-- **Centene** - 4 role(s), 4 intern, latest 2026-10-29 - _AI Enablement Intern_
-- **Cir** - 4 role(s), 3 intern, latest 2026-10-20 - _Software Engineering Intern_
-- **CoLab Software** - 4 role(s), latest 2026-10-30 - _Mechanical Forward Deployed Engineer_
 - **Commonwealth Fusion Systems** - 4 role(s), 4 intern, latest 2026-11-03 - _AI & Infrastructure Engineer Intern_
-- **Cribl** - 4 role(s), latest 2026-11-02 - _Sr Business Effectiveness Manager, AI_
+- **Crestwood Behavioral Health, Inc.** - 4 role(s), latest 2026-11-12 - _Mobile Crisis LVN_
+- **Daimler Truck** - 4 role(s), 4 intern, latest 2026-11-13 - _Data Science Intern_
 - **Datacor** - 4 role(s), 2 intern, latest 2026-10-31 - _Lead Scientific Programmer_
 - **Definitive Healthcare, US** - 4 role(s), latest 2026-10-27 - _AI Governance & Enablement Lead_
+- **Eliza** - 4 role(s), latest 2026-10-29 - _AI Deployment Manager_
 - **Enovation Controls** - 4 role(s), 4 intern, latest 2026-11-06 - _Embedded Machine Learning Engineer Intern_
 - **Ethos Life** - 4 role(s), latest 2026-11-04 - _Salesforce Developer_
 - **Exadel** - 4 role(s), latest 2026-11-05 - _Lead Software Engineer (Calypso)_
-- **Fictiv** - 4 role(s), latest 2026-10-23 - _Senior AI Growth Engineer _
-- **Framatome** - 4 role(s), 4 intern, latest 2026-11-07 - _Computer Science Engineer Intern Co-op - Univ/Co-op Technical_
-- **Freenome** - 4 role(s), latest 2026-11-05 - _Senior Bioinformatics Research Engineer_
-- **Fundamental** - 4 role(s), latest 2026-10-22 - _Forward Deployed Data Scientist - Oil & Gas, Houston_
-- **Gaig** - 4 role(s), 4 intern, latest 2026-10-27 - _Platform Operations Developer Intern - Summer 2027_
-- **Garda Capital Partners** - 4 role(s), 3 intern, latest 2026-11-06 - _Infrastructure Engineer_
+- **Farmers Mutual Hail** - 4 role(s), 4 intern, latest 2026-11-11 - _Software Developer Intern_
+- **Foundationhealthcareers** - 4 role(s), latest 2026-11-11 - _Principal Software Engineer_
+- **GenScript** - 4 role(s), 1 intern, latest 2026-11-05 - _AI Intern, Enterprise Agent Development _
 - **GiveCampus** - 4 role(s), latest 2026-11-06 - _AI Platform Engineer_
-- **Halter** - 4 role(s), latest 2026-10-26 - _NetSuite Developer_
 - **Hearst** - 4 role(s), 4 intern, latest 2026-11-05 - _Editorial AI Development Intern_
-- **Hover** - 4 role(s), latest 2026-10-20 - _Director of Engineering, Mobile Capture_
-- **Impulse Space** - 4 role(s), 4 intern, latest 2026-10-16 - _Flight Software Engineer Intern - Summer 2027_
+- **Huntress Labs** - 4 role(s), latest 2026-11-05 - _Principal Software Engineer - Agentic SOC _
 - **Inmar Intelligence** - 4 role(s), 4 intern, latest 2026-11-03 - _Data Science Intern_
-- **iSpot** - 4 role(s), latest 2026-10-22 - _Associate Data Analyst_
+- **Invitation-charter** - 4 role(s), 4 intern, latest 2026-11-10 - _Data Science Intern_
+- **Johns Hopkins APL** - 4 role(s), 4 intern, latest 2026-11-10 - _Cybersecurity Software Developer Intern_
 - **Johnson Controls** - 4 role(s), 4 intern, latest 2026-10-28 - _Software/Controls Engineering Graduate Intern_
 - **Keenfinity** - 4 role(s), 4 intern, latest 2026-10-31 - _Embedded Firmware Engineer Co-op_
 - **KoBold Metals** - 4 role(s), latest 2026-11-04 - _Senior Applied Scientist (Onsite/Hybrid)_
+- **LeoLabs, Inc.** - 4 role(s), latest 2026-11-09 - _Full Stack Software Engineer _
+- **Level** - 4 role(s), latest 2026-11-05 - _Staff Fullstack Web Engineer_
 - **Light & Wonder** - 4 role(s), 4 intern, latest 2026-11-06 - _Software Engineer Intern_
-- **Man Group** - 4 role(s), latest 2026-11-05 - _Senior Full-Stack Engineer_
-- **Microchip Technology** - 4 role(s), 4 intern, latest 2026-11-04 - _Intern – Engineering - Device Software and Test_
+- **Maincode** - 4 role(s), 1 intern, latest 2026-11-10 - _Commercial Counsel (AI & Technology)_
+- **Mill** - 4 role(s), 3 intern, latest 2026-11-04 - _Computer Vision Intern, Fall/Winter 2026_
 - **Mitratech** - 4 role(s), latest 2026-11-04 - _Principal AI Engineer_
-- **MSA Safety** - 4 role(s), 4 intern, latest 2026-10-23 - _Software Engineer Intern - Product Development - Summer 2027_
 - **New York ISO** - 4 role(s), 4 intern, latest 2026-10-31 - _Software Engineering Co-op - Software Engineering_
+- **Newtonx** - 4 role(s), latest 2026-11-09 - _Project Lead, AI Model Training_
+- **Nextgenfed** - 4 role(s), latest 2026-11-13 - _GIS Data Analyst_
 - **Nordson** - 4 role(s), 4 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Northbeam** - 4 role(s), latest 2026-11-03 - _Data Scientist_
 - **Ontic** - 4 role(s), latest 2026-10-29 - _Analytics Engineer _
-- **Openrouter** - 4 role(s), latest 2026-11-03 - _Software Engineer, Developer Products_
-- **OpenSesame** - 4 role(s), 3 intern, latest 2026-10-22 - _AI Product Builder Intern_
-- **Owner** - 4 role(s), latest 2026-11-05 - _Staff Software Engineer, Backend (Grader)_
-- **Palmetto Clean Technology** - 4 role(s), latest 2026-10-27 - _Senior Manager, Data Engineering_
 - **Par%20Technology** - 4 role(s), latest 2026-11-05 - _Software Engineer_
 - **Parasail** - 4 role(s), latest 2026-11-06 - _Senior Site Reliability Engineer_
-- **ParetoHealth** - 4 role(s), 2 intern, latest 2026-11-02 - _Lead Data Scientist_
 - **People Data Labs** - 4 role(s), latest 2026-10-26 - _Senior Software Engineer, Full Stack _
-- **PLACE Corporate Careers** - 4 role(s), latest 2026-11-03 - _Backend / Full-Stack Engineer_
-- **Render** - 4 role(s), latest 2026-11-04 - _Developer Programs Lead_
+- **Placer.ai** - 4 role(s), latest 2026-10-24 - _Platform Engineer - AI Tools_
+- **Referral Board** - 4 role(s), latest 2026-11-12 - _Director of Data and Analytics, Self Service Cloud_
+- **Referrals Only** - 4 role(s), latest 2026-10-28 - _Associate (Graduate) Developer_
 - **RR Donnelley** - 4 role(s), 4 intern, latest 2026-11-05 - _Software Developer Intern_
+- **Ruby Labs** - 4 role(s), latest 2026-11-13 - _Senior Data Analyst_
+- **Sensor Tower** - 4 role(s), latest 2026-10-29 - _Backend Engineer - Golang_
+- **Sewer Ai** - 4 role(s), latest 2026-11-12 - _Senior/Staff Software Engineer_
 - **Sezzle** - 4 role(s), latest 2026-10-29 - _Data Engineer II, Credit Reporting_
-- **Sony** - 4 role(s), 4 intern, latest 2026-10-22 - _Audio Processing and Machine Learning Intern - Music Technology_
-- **Southgeeks** - 4 role(s), latest 2026-11-02 - _Senior Java Developer_
+- **SimVentions** - 4 role(s), 4 intern, latest 2026-11-11 - _Software Development Intern_
+- **Spear Ai** - 4 role(s), latest 2026-11-09 - _Meridian: Forward Deployed Infrastructure Engineer (Senior / Suitland, MD / Hybrid) [TS/SC_
+- **Standardbots** - 4 role(s), latest 2026-11-05 - _Senior AI Research Engineer_
 - **Stevens Capital Management LP** - 4 role(s), 1 intern, latest 2026-11-04 - _C++ Market Data Feeds Developer_
-- **Tsc** - 4 role(s), latest 2026-10-30 - _Mid-Level Embedded Software Engineer_
-- **Universe** - 4 role(s), latest 2026-10-30 - _Data Platform Engineer _
+- **Tailscale** - 4 role(s), latest 2026-11-13 - _Developer Relations Engineer_
+- **Thinkahead** - 4 role(s), latest 2026-11-10 - _Principal Forward Deployed Engineer, AI Security_
 - **W.R. Berkley** - 4 role(s), 4 intern, latest 2026-11-06 - _Data Engineer Intern_
 - **Wargaming** - 4 role(s), latest 2026-10-30 - _Analytics Engineer (Mobile BI and New Games)_
 - **West Bend Insurance** - 4 role(s), 4 intern, latest 2026-10-31 - _IT Data Engineer Intern_
+- **Witnessai** - 4 role(s), latest 2026-11-13 - _Head of DevOps_
 - **3Cloud** - 3 role(s), latest 2026-11-06 - _Architect - DevOps_
-- **Absurd Ventures** - 3 role(s), latest 2026-10-23 - _Senior Software Engineer, NPC/Gameplay_
+- **Abnormal** - 3 role(s), latest 2026-11-06 - _Software Engineer 1 - Cloud Infrastructure_
 - **Adapty Io** - 3 role(s), latest 2026-11-06 - _Senior DevOps Engineer_
-- **Advanced Space** - 3 role(s), 2 intern, latest 2026-10-16 - _Sr. DevOps (8-12 yrs)_
-- **Align Communications** - 3 role(s), latest 2026-11-04 - _L3 Cloud Services Engineer_
-- **ARX Robotics GmbH** - 3 role(s), latest 2026-10-22 - _Junior ⁠Software Service Engineer   _
 - **ASG** - 3 role(s), latest 2026-10-30 - _AI Enablement Engineer_
+- **Ashby** - 3 role(s), latest 2026-11-13 - _Data Analytics Manager_
 - **AspenTech** - 3 role(s), 3 intern, latest 2026-11-03 - _Data Science Intern_
-- **Auctane ** - 3 role(s), latest 2026-11-06 - _Salesforce Developer and Digital Solutions Specialist (HYBRID REMOTE)_
-- **Babylist** - 3 role(s), latest 2026-11-02 - _Senior Manager, Data Analytics_
+- **Assorthealth** - 3 role(s), latest 2026-10-27 - _Senior Software Engineer - Product_
 - **BambooHR** - 3 role(s), latest 2026-11-04 - _Manager, AI-Native Security Operations_
-- **Bosch** - 3 role(s), 3 intern, latest 2026-10-19 - _Software Engineering Co-op_
+- **Banyan Software** - 3 role(s), latest 2026-11-12 - _Forward Deployed Engineer_
 - **Bugcrowd** - 3 role(s), latest 2026-10-26 - _Reinforcement Learning Engineer_
-- **Campbell Soup Company** - 3 role(s), 3 intern, latest 2026-10-18 - _Agentic AI Engineer Co-Op_
 - **Capital Technology Group** - 3 role(s), latest 2026-10-30 - _CyberArk SME / DevOps Engineer_
-- **Carrier Global** - 3 role(s), 3 intern, latest 2026-10-23 - _Software Engineer Intern_
-- **CenturyLink** - 3 role(s), 3 intern, latest 2026-10-16 - _AI Product & Business Innovation Intern_
+- **Careers at Eucalyptus** - 3 role(s), latest 2026-11-13 - _AI Production Lead_
+- **Cboe Global Markets** - 3 role(s), 3 intern, latest 2026-11-12 - _Software Engineer Intern, C++_
 - **Charge Robotics** - 3 role(s), latest 2026-11-03 - _Senior Robotics Software Engineer_
-- **Coretek Services** - 3 role(s), 3 intern, latest 2026-10-23 - _AI & Automation Development Intern_
+- **Cintas** - 3 role(s), 3 intern, latest 2026-11-13 - _IT OT Software Engineer Intern_
+- **Cook Systems** - 3 role(s), latest 2026-11-09 - _Data Analytics - Data Scientist_
 - **CWAN** - 3 role(s), 3 intern, latest 2026-11-03 - _Software Development Intern_
 - **Dairyland Power Cooperative** - 3 role(s), 3 intern, latest 2026-11-03 - _Energy Data Science Intern_
+- **Datarobot** - 3 role(s), 2 intern, latest 2026-11-06 - _Software Design Engineer Intern_
 - **Designed Conveyor Systems** - 3 role(s), latest 2026-11-02 - _Software Support Engineer_
 - **Diffusion** - 3 role(s), latest 2026-11-03 - _Diffusion_
-- **Disney** - 3 role(s), 3 intern, latest 2026-10-29 - _Product & Technology Software Engineering Intern_
+- **DistantJob** - 3 role(s), latest 2026-11-13 - _Applied AI Engineer _
 - **Dodmg** - 3 role(s), latest 2026-10-28 - _Front-End Processing Manager_
-- **Dropzone AI** - 3 role(s), latest 2026-10-29 - _AI Research Engineer_
-- **eClinical Solutions** - 3 role(s), latest 2026-10-19 - _Principal Software Architect_
 - **EggAI** - 3 role(s), latest 2026-11-03 - _EggAI_
-- **EnergyHub** - 3 role(s), latest 2026-11-03 - _Energy Data Scientist_
 - **Estuary** - 3 role(s), latest 2026-11-03 - _Estuary_
-- **Extend** - 3 role(s), latest 2026-11-06 - _Senior Analytics Engineer_
-- **Flir** - 3 role(s), 3 intern, latest 2026-10-26 - _NHRC Software Engineering Internship (Summer 2027)_
-- **GiveDirectly** - 3 role(s), latest 2026-10-28 - _Senior Data Scientist, MNO Data_
-- **Glinttglobal** - 3 role(s), latest 2026-10-23 - _Tech Lead ML/AI Engineering_
+- **Figure Lending** - 3 role(s), latest 2026-11-12 - _Senior Applied Scientist, Property Analytics_
+- **FormFactor** - 3 role(s), 3 intern, latest 2026-11-09 - _Electrical Design Automation Intern - AI & EDA Automation_
+- **Forward%20Financing** - 3 role(s), latest 2026-11-13 - _Principal Software Engineer_
+- **Framatome** - 3 role(s), 3 intern, latest 2026-11-07 - _Computer Science Engineer Intern Co-op - University Co-op Technical_
+- **Freenome** - 3 role(s), latest 2026-11-03 - _Senior Bioinformatics Research Engineer_
+- **Garda Capital Partners** - 3 role(s), 2 intern, latest 2026-11-06 - _Infrastructure Engineer_
 - **Goteleport** - 3 role(s), latest 2026-11-06 - _Staff Backend Engineer - Infrastructure Access - US_
 - **GovStar** - 3 role(s), latest 2026-11-03 - _GovStar_
 - **GreatAmerica Financial Services** - 3 role(s), 3 intern, latest 2026-11-03 - _Software Engineer Intern_
-- **Harmonic** - 3 role(s), 1 intern, latest 2026-10-28 - _Research Engineer, Formal Methods_
+- **Haskell** - 3 role(s), 3 intern, latest 2026-11-09 - _AI Engineering Design Intern for Facility Design_
 - **Honeydew** - 3 role(s), latest 2026-10-26 - _Senior Software Engineer - Data_
-- **Hostinger** - 3 role(s), latest 2026-10-22 - _PHP Developer_
-- **Hyperbolic** - 3 role(s), latest 2026-11-05 - _Senior Data Engineer_
+- **Human Interest** - 3 role(s), latest 2026-11-11 - _Engineering Manager - Mobile_
+- **Husqvarnagroup** - 3 role(s), latest 2026-11-13 - _Platform Engineer, Observability at Husqvarna Group_
 - **Hypori** - 3 role(s), latest 2026-10-26 - _Senior Engineer - Mobile Application_
-- **Inductive Automation Llc** - 3 role(s), latest 2026-10-30 - _Senior Software Engineer I (Backend Engineer)_
-- **INFUSE** - 3 role(s), latest 2026-10-21 - _Senior DevOps Engineer (Remote, Contract)_
+- **IDEMIA North America** - 3 role(s), 3 intern, latest 2026-11-13 - _Cloud Software Engineering Intern_
+- **iFIT** - 3 role(s), latest 2026-10-27 - _Junior AI Engineer _
 - **Interco** - 3 role(s), 3 intern, latest 2026-10-29 - _Software Development Intern - React_
-- **Ivanti** - 3 role(s), latest 2026-10-23 - _Full-Stack Web Developer_
+- **Intermountain Healthcare** - 3 role(s), 3 intern, latest 2026-11-12 - _AI/ML Engineer Intern_
+- **Irissoftwaregroup** - 3 role(s), latest 2026-11-11 - _Software Support Team Lead - Workforce Management_
+- **Kairos Power** - 3 role(s), latest 2026-10-30 - _Firmware Development Engineer_
 - **Kardigan** - 3 role(s), latest 2026-11-05 - _Associate Director / Director, Data & AI Solution Development _
-- **Keycard Labs** - 3 role(s), latest 2026-10-27 - _Software Engineer, SDK_
-- **LaunchDarkly** - 3 role(s), latest 2026-10-30 - _Director, Internal AI Operations_
-- **LG Electronics** - 3 role(s), latest 2026-10-23 - _Founder-in-Residence, Core AI Ventures (LG NOVA)_
-- **LPL Financial Holdings** - 3 role(s), 3 intern, latest 2026-10-18 - _Data Analytics Intern - FAR Program_
-- **MariaDB plc** - 3 role(s), latest 2026-10-21 - _Java Senior Software Engineer_
-- **Mesh** - 3 role(s), latest 2026-10-23 - _Senior Backend Engineer_
+- **KBR Wyle Services** - 3 role(s), 3 intern, latest 2026-11-14 - _Image Processing Software Engineer Intern_
+- **KnowBe4** - 3 role(s), 3 intern, latest 2026-11-01 - _Software Engineer Intern_
+- **Lithic** - 3 role(s), latest 2026-11-13 - _Senior Software Engineer, Issuing_
+- **Microchip Technology** - 3 role(s), 3 intern, latest 2026-11-04 - _Engineer Intern - Software_
+- **Midstream** - 3 role(s), latest 2026-11-12 - _Member of Technical Staff_
+- **MKS Instruments** - 3 role(s), 3 intern, latest 2026-11-11 - _Business Intelligence/Data Analytics Intern_
 - **Mobiik** - 3 role(s), latest 2026-10-29 - _Data Engineer_
 - **Momentive** - 3 role(s), 3 intern, latest 2026-11-03 - _Data Science Intern - Enterprise Reporting & Analytics_
-- **Mosaic** - 3 role(s), 3 intern, latest 2026-11-03 - _Artificial Intelligence Co-op Intern_
 - **Myriad360** - 3 role(s), latest 2026-11-04 - _Analytics Engineer (Remote)_
 - **Ndeavour** - 3 role(s), latest 2026-10-29 - _Principal SRE_
-- **NetDocuments** - 3 role(s), latest 2026-11-06 - _Manager, Software Engineering_
-- **NPR** - 3 role(s), latest 2026-11-06 - _Cloud Systems Engineer_
-- **Onebrief** - 3 role(s), latest 2026-10-29 - _Senior Site Reliability Engineer (Arlington, VA) - Relocation Provided_
+- **Omada Health** - 3 role(s), latest 2026-11-12 - _Clinical Research Scientist_
 - **OpenRent** - 3 role(s), latest 2026-11-03 - _OpenRent_
 - **P 1%20Ai** - 3 role(s), latest 2026-11-06 - _Platform Engineer_
-- **Pindrop** - 3 role(s), latest 2026-10-27 - _Research Scientist (Future)_
-- **Ping Identity** - 3 role(s), latest 2026-10-29 - _Senior Director, Site Reliability Engineering_
 - **PlantingSpace** - 3 role(s), latest 2026-11-03 - _PlantingSpace_
-- **PostHog** - 3 role(s), latest 2026-11-02 - _PostHog_
-- **Quantum Space** - 3 role(s), latest 2026-10-30 - _EGSE/Avionics Test Software Engineer_
-- **RapidFort, Inc.** - 3 role(s), latest 2026-11-03 - _Senior Linux Systems Administrator_
 - **Refurbed** - 3 role(s), latest 2026-11-02 - _Senior AI Engineer (f/m/x)_
+- **REGENT** - 3 role(s), 3 intern, latest 2026-11-10 - _Mission Software Engineering Intern_
+- **Render** - 3 role(s), latest 2026-11-04 - _Software Engineer, Network Infrastructure_
 - **Revantage Corporate Services** - 3 role(s), 3 intern, latest 2026-10-28 - _Quantitative Developer Intern_
 - **RGA Reinsurance Company** - 3 role(s), 3 intern, latest 2026-11-03 - _Data Science/AI Intern_
-- **Rho** - 3 role(s), latest 2026-10-22 - _Senior Data Scientist/ML_
 - **Sailorhealth** - 3 role(s), latest 2026-11-04 - _Founding Data & Analytics Engineer (NYC)_
+- **Saintfrancis** - 3 role(s), latest 2026-11-11 - _Analytics Data Engineer_
+- **Sanofi** - 3 role(s), 3 intern, latest 2026-11-11 - _mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op_
 - **Search Atlas** - 3 role(s), latest 2026-11-04 - _Search Atlas_
 - **SentinelOne** - 3 role(s), latest 2026-11-02 - _Director, Software Engineering, Agent Platform_
 - **Sephora** - 3 role(s), 3 intern, latest 2026-10-28 - _AI Automation Intern, WMS & DC Systems_
 - **SerpApi** - 3 role(s), latest 2026-11-02 - _SerpApi_
-- **Sidecar Health** - 3 role(s), latest 2026-10-22 - _Senior Software Engineer, Full Stack (Member Experience)_
-- **Smartsheet** - 3 role(s), latest 2026-11-02 - _Principal Software Engineer - Observability & Telemetry Data_
-- **Solace** - 3 role(s), latest 2026-11-02 - _Senior Full Stack Engineer_
+- **Southgeeks** - 3 role(s), latest 2026-11-02 - _Senior Java Developer_
 - **Spade** - 3 role(s), latest 2026-11-02 - _Spade_
+- **Springs Window Fashions** - 3 role(s), 3 intern, latest 2026-11-07 - _AI Intern, Information Technology_
+- **Stanley Black & Decker** - 3 role(s), 3 intern, latest 2026-11-12 - _Embedded Software Engineering Intern_
 - **Staples** - 3 role(s), 3 intern, latest 2026-11-03 - _Software Engineer Intern - Marketplace Platform_
 - **Sudowrite** - 3 role(s), latest 2026-11-02 - _Sudowrite_
 - **Sumble** - 3 role(s), latest 2026-11-02 - _Sumble_
-- **Sun Life** - 3 role(s), 3 intern, latest 2026-10-23 - _Data Science Intern_
-- **Telnyx** - 3 role(s), latest 2026-10-26 - _Developer Advocate, Edge & IoT_
+- **Talkiatry** - 3 role(s), latest 2026-11-13 - _Analytics Engineer_
+- **TextNow, Inc.** - 3 role(s), latest 2026-11-13 - _Data Scientist_
 - **Thorit** - 3 role(s), 1 intern, latest 2026-10-26 - _Expert Solution Architect, AI & Enterprise (all genders)_
-- **Tnsi** - 3 role(s), latest 2026-11-06 - _Software Developer Engineer in Test (SDET)_
 - **Truckstop** - 3 role(s), latest 2026-11-06 - _Salesforce Developer_
-- **Trustage** - 3 role(s), 3 intern, latest 2026-11-03 - _IT - Innovation & AI Technology Internship (Hybrid)_
 - **Valmont** - 3 role(s), 3 intern, latest 2026-10-28 - _Operations Data Analyst Intern_
+- **Viavi Solutions** - 3 role(s), 3 intern, latest 2026-11-15 - _Software Engineer Co-op_
+- **Vynca** - 3 role(s), latest 2026-11-09 - _ Senior Full Stack Engineer _
 - **WEKA ** - 3 role(s), latest 2026-11-07 - _Field CTO - AI Infrastructure & Neocloud, Americas (Bay Area-based)_
-- **Western Magnetics** - 3 role(s), 3 intern, latest 2026-10-31 - _Software Engineer Intern_
 - **Zeta Global** - 3 role(s), latest 2026-11-04 - _Senior Software Engineer_
+- **Zoetis Services** - 3 role(s), 3 intern, latest 2026-11-09 - _Chemistry Data Science Intern - Digital CMC Workflows_
+- ** Bloomerang** - 2 role(s), latest 2026-11-11 - _Sr. Software Engineer (Payments)_
 - **10a Labs** - 2 role(s), latest 2026-11-05 - _Biosecurity & AI Safety Investigator _
-- **66Degrees** - 2 role(s), latest 2026-10-22 - _Security Operations AI Engineer, Contract_
 - **8Am** - 2 role(s), latest 2026-11-06 - _Forward Deployed Engineer_
 - **8th Light** - 2 role(s), latest 2026-11-06 - _Lead Software Engineer (Remote)_
-- **Acuity** - 2 role(s), 2 intern, latest 2026-10-22 - _Data and AI Intern_
-- **Aechelon Technology** - 2 role(s), latest 2026-10-21 - _Senior AI Enablement Software Engineer_
-- **AEVEX** - 2 role(s), latest 2026-10-28 - _Software Engineer, Mid-Level_
+- **A Place For Mom** - 2 role(s), latest 2026-11-11 - _Senior Software Engineer - Lead Platform_
+- **AB InBev  | Growth Group** - 2 role(s), latest 2026-11-09 - _AI Engineer _
+- **Akeshya Private Limited** - 2 role(s), 2 intern, latest 2026-11-10 - _Full Stack Developer Intern_
 - **Alaska Airlines** - 2 role(s), 2 intern, latest 2026-11-06 - _Software Engineer Intern_
-- **ALU** - 2 role(s), latest 2026-10-22 - _Adjunct Entrepreneurship, AI and Future of Work Expert_
 - **America First Policy Institute - Office for Fiscal and Regul** - 2 role(s), latest 2026-11-02 - _America First Policy Institute - Office for Fiscal and Regulatory Analysis_
-- **American Fidelity** - 2 role(s), 2 intern, latest 2026-10-19 - _Software Developer Intern_
-- **Americo Financial Life and Annuity** - 2 role(s), 2 intern, latest 2026-10-23 - _Artificial Intelligence Intern_
 - **Aperia Technologies, Inc** - 2 role(s), latest 2026-11-02 - _Hardware Data Analyst - Remote_
 - **ApexIT** - 2 role(s), latest 2026-11-03 - _Oracle Cloud CX Architect - DCS & Service_
 - **AppsFlyer** - 2 role(s), latest 2026-10-28 - _Senior Backend Engineer_
-- **Ardent** - 2 role(s), latest 2026-10-20 - _Cloud Network Engineer_
-- **Arkestro** - 2 role(s), latest 2026-11-02 - _Lead AI/ML Engineer_
+- **Arista Networks** - 2 role(s), 2 intern, latest 2026-11-10 - _Data Analytics Intern_
 - **Assembledhq** - 2 role(s), latest 2026-10-27 - _Software Engineer, Workforce Operations_
-- **Attain Partners** - 2 role(s), latest 2026-10-19 - _Migration & Integration Developer (Higher Education / Advancement)_
-- **Axios** - 2 role(s), latest 2026-11-03 - _AI Fellow_
-- **Bauer Hockey/ Cascade Maverik Lacrosse** - 2 role(s), latest 2026-10-21 - _Bauer/ Cascade Maverik: Business Systems & Analytics Developer_
-- **Berkshire Hathaway Energy** - 2 role(s), 2 intern, latest 2026-10-20 - _Software Engineer Intern_
+- **AstraZeneca** - 2 role(s), 2 intern, latest 2026-11-09 - _Manufacturing Digital and AI Intern_
+- **Babylist** - 2 role(s), latest 2026-11-02 - _Staff Machine Learning Engineer_
+- **BGBx** - 2 role(s), latest 2026-11-12 - _Senior Associate, AI Transformation_
 - **Blue Rose Research** - 2 role(s), latest 2026-11-03 - _Lead Software Engineer (LLM Products)_
 - **Boon** - 2 role(s), latest 2026-10-28 - _Staff Software Engineer_
-- **BorgWarner** - 2 role(s), 2 intern, latest 2026-11-05 - _Software Engineering Intern_
-- **BridgeBio Pharma** - 2 role(s), latest 2026-10-21 - _Associate Director/Director of Statistical Programming_
-- **Brookhaven Lab** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Engineering Student Assistant Intern_
-- **Buildkite** - 2 role(s), latest 2026-10-23 - _Cloud Efficiency Engineer (AWS/FinOps)_
 - **C&S Wholesale Grocers** - 2 role(s), 2 intern, latest 2026-10-31 - _IS Intern - Data Analytics & Data Science_
 - **C.H. Robinson** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern_
+- **C5MI Insight** - 2 role(s), latest 2026-11-09 - _SAP BTP Integration Developer_
+- **Campbellsoup** - 2 role(s), latest 2026-11-10 - _Cloud DevOps Engineer_
+- **Canals** - 2 role(s), latest 2026-11-13 - _Senior Software Engineer - Chile_
 - **Canopy** - 2 role(s), latest 2026-11-06 - _Engineering Team Lead, Data Engineer_
 - **Castelion** - 2 role(s), 2 intern, latest 2026-10-30 - _Embedded Software Engineer Intern_
-- **Cedar** - 2 role(s), latest 2026-10-20 - _Software Engineer 3 (Platforms)_
 - **CFS Energy** - 2 role(s), 2 intern, latest 2026-11-03 - _Scientific Software Engineer Intern_
 - **Chatham Financial** - 2 role(s), 2 intern, latest 2026-10-29 - _Software Engineer Intern_
 - **chathamfinancial** - 2 role(s), 2 intern, latest 2026-10-28 - _Software Engineering Intern_
+- **Clair** - 2 role(s), latest 2026-11-13 - _Senior Fullstack Engineer, Core Products_
 - **Clean Harbors** - 2 role(s), 2 intern, latest 2026-10-28 - _Software & Field Technology Intern IS_
-- **Cobalt** - 2 role(s), latest 2026-10-26 - _Senior GTM Systems & AI Specialist_
-- **Cognex** - 2 role(s), 2 intern, latest 2026-10-19 - _Software Engineer Intern_
+- **Clubhouse** - 2 role(s), latest 2026-11-12 - _🎉 Backend Engineer, Engagement_
 - **Cologne, Germany** - 2 role(s), latest 2026-11-02 - _Cologne, Germany_
 - **ConnectPrep** - 2 role(s), 2 intern, latest 2026-10-25 - _Data Analyst Intern_
-- **Convene Hospitality Group** - 2 role(s), latest 2026-10-23 - _Analytics Engineer_
+- **Constructor** - 2 role(s), latest 2026-11-12 - _Staff Backend Engineer - Search Features & APIs (SABR)_
+- **Consumer Edge** - 2 role(s), latest 2026-11-09 - _Staff Data Engineer_
 - **Correlation One** - 2 role(s), latest 2026-11-02 - _Lead Instructor: Data Analytics (Somali speaking)_
-- **Cryptic Vector** - 2 role(s), 2 intern, latest 2026-10-20 - _Full Stack Developer Intern_
 - **Curai** - 2 role(s), latest 2026-11-02 - _Curai_
-- **Dalio Family Office** - 2 role(s), latest 2026-11-04 - _Quantitative Developer _
-- **Dave** - 2 role(s), latest 2026-10-27 - _Lead Machine Learning Scientist_
 - **Dayton Freight** - 2 role(s), 2 intern, latest 2026-11-07 - _Software Developer Intern_
 - **Dee Zee** - 2 role(s), 2 intern, latest 2026-10-29 - _Software Development Intern_
+- **DEPT®** - 2 role(s), latest 2026-11-13 - _DevOps Engineer_
+- **Dmainc** - 2 role(s), latest 2026-11-02 - _Senior Software Engineer_
 - **DuckDuckGo - we are looking for candidates that are excited** - 2 role(s), latest 2026-11-02 - _DuckDuckGo - we are looking for candidates that are excited to join us on a mission to rai_
-- **Easygenerator** - 2 role(s), latest 2026-10-22 - _Full Stack Developer (Relocation to Alexandria)_
-- **Emory University** - 2 role(s), 1 intern, latest 2026-10-28 - _Student Tester and Developer Intern - GPS Sample_
 - **Eneba** - 2 role(s), latest 2026-11-06 - _ASO Specialist, Android_
+- **Enviva** - 2 role(s), latest 2026-11-09 - _Mobile Equipment Operator_
 - **Epianeuro** - 2 role(s), latest 2026-10-31 - _Firmware Engineer II_
-- **Eve** - 2 role(s), latest 2026-10-21 - _Solutions Architect, AI Intake_
 - **eventfirst** - 2 role(s), latest 2026-11-02 - _eventfirst_
-- **Exadel Inc (Website)** - 2 role(s), latest 2026-10-21 - _Lead Software Engineer (Calypso)_
-- **Exegy** - 2 role(s), 1 intern, latest 2026-11-02 - _Senior DevOps Engineer_
-- **FedEx Freight** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Scientist Intern_
-- **Fractal** - 2 role(s), latest 2026-11-03 - _GenAI-Engineer_
+- **Firefly Aerospace** - 2 role(s), 2 intern, latest 2026-11-11 - _Software Engineering Intern_
 - **Fredrin** - 2 role(s), latest 2026-11-02 - _Fredrin_
-- **Furtim Modus** - 2 role(s), latest 2026-11-04 - _Furtim Modus_
 - **Fussball Club Cincinnati LLC (“FC Cincinnati”)** - 2 role(s), 2 intern, latest 2026-10-30 - _Data Analyst Intern _
+- **Gainsight** - 2 role(s), latest 2026-11-11 - _Cloud Security Operations Engineer_
 - **GardaWorld** - 2 role(s), 2 intern, latest 2026-10-30 - _Software Engineer Intern, C#_
 - **GITAI** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineer Intern_
 - **Glia** - 2 role(s), latest 2026-11-03 - _Software Engineer (Mid-level), Quantum_
-- **Globe** - 2 role(s), latest 2026-10-27 - _Manager, Data Engineer_
 - **Govsignals** - 2 role(s), latest 2026-11-03 - _Platform Engineer_
 - **Greystone** - 2 role(s), 2 intern, latest 2026-10-27 - _Full Stack Engineer Intern_
-- **Harriscomputer** - 2 role(s), latest 2026-11-05 - _Principal AI Cloud Architect – Azure Cloud_
+- **Guardianlife** - 2 role(s), latest 2026-11-11 - _Lead AI Engineer_
+- **Harmonic** - 2 role(s), 1 intern, latest 2026-10-28 - _Software Engineer Intern_
 - **Hestus** - 2 role(s), latest 2026-11-02 - _Hestus_
-- **Hopper** - 2 role(s), latest 2026-11-04 - _Senior Data Scientist- Travel Tech _
+- **Holiday World** - 2 role(s), 2 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Iatinsurancegroup** - 2 role(s), 1 intern, latest 2026-11-05 - _AVP,  Platform Engineering & Delivery_
 - **IDeaS** - 2 role(s), 2 intern, latest 2026-11-05 - _Data Science Research Intern_
 - **IGS Energy** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern_
 - **Imagine Pediatrics** - 2 role(s), latest 2026-10-26 - _Manager, Software Engineering_
+- **Immunome, Inc.** - 2 role(s), latest 2026-11-14 - _Principal Statistical Programmer_
+- **Intelura** - 2 role(s), 2 intern, latest 2026-11-10 - _Backend Engineering & Security Intern_
+- **International** - 2 role(s), 2 intern, latest 2026-11-10 - _Artificial Intelligence/Machine Learning Intern_
+- **Jobs Valence** - 2 role(s), latest 2026-11-09 - _Senior DevOps Engineer_
 - **Jusbrasil** - 2 role(s), latest 2026-11-06 - _Senior Software Engineer - Fullstack Growth_
-- **K1** - 2 role(s), 2 intern, latest 2026-10-20 - _AI Intern_
-- **Kairos Power** - 2 role(s), latest 2026-10-21 - _IT Infrastructure Engineer_
+- **Keebo** - 2 role(s), latest 2026-11-10 - _Senior Data Engineer_
 - **Khan Academy** - 2 role(s), 1 intern, latest 2026-10-28 - _Senior Search & AI Discoverability Engineer (12 month contract, 40 hours/week, $85/hour)_
+- **Kiewit** - 2 role(s), 2 intern, latest 2026-11-10 - _Machine Learning Intern, Kiewit Data Services_
+- **Kit** - 2 role(s), latest 2026-11-09 - _Senior Infrastructure Engineer II_
 - **KSC Trading** - 2 role(s), latest 2026-11-03 - _KSC Trading_
 - **Lancedb** - 2 role(s), latest 2026-11-04 - _AI Research Engineer_
 - **Legrand** - 2 role(s), 2 intern, latest 2026-11-05 - _Firmware Engineer Intern_
 - **Litify** - 2 role(s), latest 2026-10-29 - _Software Engineer (Time & Billing)_
+- **Livenation** - 2 role(s), latest 2026-10-30 - _Senior Data Engineer_
 - **Lumbermen's** - 2 role(s), 2 intern, latest 2026-11-05 - _Software Developer Internship_
 - **Lumos** - 2 role(s), latest 2026-10-27 - _Software Engineer, AI Agent Governance_
 - **Lunon** - 2 role(s), latest 2026-10-26 - _Forward Deployed Data Engineer_
-- **M&T Bank** - 2 role(s), 2 intern, latest 2026-10-22 - _Technology Intern - Software Engineering - Enterprise API Services Development Team_
 - **Manhattan Associates** - 2 role(s), 2 intern, latest 2026-10-26 - _A.I. Developer Co-op_
-- **ManTech** - 2 role(s), 2 intern, latest 2026-10-21 - _AI Workflow Intern_
 - **Marmon Holdings** - 2 role(s), 2 intern, latest 2026-11-06 - _AI Intern_
 - **Mastra** - 2 role(s), latest 2026-11-02 - _AI Engineer _
-- **Midstream** - 2 role(s), latest 2026-11-03 - _Member of Technical Staff_
 - **Molina Healthcare** - 2 role(s), 2 intern, latest 2026-10-30 - _Data Analytics Intern_
+- **Mosaic** - 2 role(s), 2 intern, latest 2026-11-03 - _Artificial Intelligence Co-op Intern_
 - **Moss** - 2 role(s), 1 intern, latest 2026-11-07 - _Senior Backend Engineer (f/m/d)_
-- **Moxie** - 2 role(s), latest 2026-11-03 - _Staff AI Engineer_
 - **Mux** - 2 role(s), latest 2026-11-03 - _Senior Full Stack Engineer_
-- **Mystenlabs** - 2 role(s), latest 2026-10-20 - _Software Engineer, Partner Solutions (Greece)_
+- **Nava PBC** - 2 role(s), latest 2026-11-10 - _Senior Infrastructure Manager (Cloud Hosting)_
 - **Ncontracts** - 2 role(s), latest 2026-11-05 - _Software Developer - L4_
-- **Neara** - 2 role(s), latest 2026-10-26 - _Data Engineer_
 - **Neuroscale** - 2 role(s), latest 2026-11-08 - _Founding Member of Technical Staff_
-- **New Era Technology** - 2 role(s), latest 2026-10-26 - _Cycle D365 F&O Developer & Partner Manager_
 - **Newrez** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Developer Intern_
-- **ngrok Inc.** - 2 role(s), latest 2026-10-30 - _Senior Developer Educator_
+- **NextEra Energy** - 2 role(s), 2 intern, latest 2026-11-13 - _Software Engineering Intern - Technical_
 - **NJM Insurance Group** - 2 role(s), 2 intern, latest 2026-11-03 - _Data Science Intern_
 - **Nomad GCS** - 2 role(s), 2 intern, latest 2026-10-27 - _Software Engineer Intern_
 - **Nova-Tech** - 2 role(s), 2 intern, latest 2026-11-05 - _Software Development Co-op_
+- **Odin** - 2 role(s), latest 2026-11-10 - _Odin_
 - **onepot** - 2 role(s), 2 intern, latest 2026-11-03 - _Machine Learning Researcher Intern - Machine Learning_
-- **Onhires** - 2 role(s), latest 2026-10-21 - _Senior Technical Trainer — Machine Learning Remote, worldwide_
 - **Ontra** - 2 role(s), latest 2026-10-28 - _Staff Software Engineer_
+- **Operio** - 2 role(s), 2 intern, latest 2026-11-10 - _Software Engineering Intern_
+- **Orionsteel** - 2 role(s), 1 intern, latest 2026-11-10 - _Inventory and Procurement Data Analytics Intern_
+- **Osano** - 2 role(s), latest 2026-11-13 - _Senior AI Engineer_
+- **Panera Bread** - 2 role(s), 2 intern, latest 2026-11-11 - _Data Science & AI Analytics Intern_
 - **Parachute Health** - 2 role(s), latest 2026-11-05 - _Staff Software Engineer _
 - **Parallel Systems** - 2 role(s), 2 intern, latest 2026-10-26 - _Software Engineering Intern (Embedded, Backend, Fullstack)_
-- **Patronus AI, Inc.** - 2 role(s), latest 2026-11-03 - _Expert: Interactive Coding, Payments Processing (Contract, Remote)_
+- **Paystand** - 2 role(s), latest 2026-11-09 - _Junior Fullstack Engineer_
 - **Pennsylvania State University** - 2 role(s), 2 intern, latest 2026-11-06 - _Artificial Intelligence & Image Processing Research Assistant Intern_
-- **Per Scholas** - 2 role(s), latest 2026-10-21 - _Director, Product Infrastructure & Cloud_
-- **PlanetScale** - 2 role(s), latest 2026-10-21 - _AI Developer Experience Engineer_
+- **Phamily** - 2 role(s), latest 2026-11-10 - _Lead Data Scientist, Causal Inference & Clinical Outcomes Contractor (Bolingbrook, IL)_
+- **Piedmont Airlines** - 2 role(s), 2 intern, latest 2026-11-13 - _Safety Data Analytics Intern_
+- **Ping Identity** - 2 role(s), latest 2026-10-29 - _Senior Director, Site Reliability Engineering_
+- **PLACE Corporate Careers** - 2 role(s), latest 2026-11-03 - _Backend / Full-Stack Engineer_
 - **Platform Science** - 2 role(s), latest 2026-10-26 - _Software Development Engineer in Test_
-- **PRO-spectus** - 2 role(s), latest 2026-10-19 - _Healthcare Salesforce Solutions Architect - Health Cloud/Life Sciences Req'd_
-- **QTS** - 2 role(s), 2 intern, latest 2026-10-19 - _Tableau Analytics and Business Intelligence Intern_
-- **Rackspace** - 2 role(s), latest 2026-11-04 - _Software Developer IV ( Python + Openstack)_
 - **Radar Labs** - 2 role(s), latest 2026-11-03 - _Radar Labs_
 - **Railway** - 2 role(s), latest 2026-11-02 - _Railway_
+- **RapidFort, Inc.** - 2 role(s), latest 2026-11-03 - _Senior Linux Systems Administrator_
 - **RAVE Aerospace** - 2 role(s), 2 intern, latest 2026-11-03 - _Software Engineer Intern_
-- **RD Station** - 2 role(s), latest 2026-10-30 - _[Banco de Talentos] Engenharia de Software Backend Pleno - Ruby on Rails| RD Station (Remo_
-- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Measurement Data & Analytics_
+- **Real Chemistry** - 2 role(s), latest 2026-11-02 - _Analytics Engineer_
 - **Recursion** - 2 role(s), latest 2026-10-29 - _Principal AI Researcher_
-- **Rendezvous Robotics** - 2 role(s), 1 intern, latest 2026-10-22 - _Flight Software Engineer (Early Career)_
 - **Republic Airways** - 2 role(s), 2 intern, latest 2026-11-03 - _Data Analytics Intern_
+- **Ribbon** - 2 role(s), 2 intern, latest 2026-11-11 - _AI Engineer Co-op_
 - **Ridgeline** - 2 role(s), 1 intern, latest 2026-11-02 - _Staff Software Engineer, Performance and Analytics _
 - **Riverside Research** - 2 role(s), 2 intern, latest 2026-11-05 - _Software Applications Intern_
 - **Robin Radar** - 2 role(s), latest 2026-11-02 - _DevOps Engineer_
-- **Rochester Regional Health** - 2 role(s), 2 intern, latest 2026-10-21 - _Data & Analytics Services Co-op_
-- **Safran** - 2 role(s), 2 intern, latest 2026-10-21 - _Software Engineering Intern_
-- **Saintfrancis** - 2 role(s), latest 2026-11-03 - _Analytics Data Engineer_
+- **Salient** - 2 role(s), latest 2026-11-11 - _Cloud Infrastructure Engineer_
+- **Scandit** - 2 role(s), 1 intern, latest 2026-11-11 - _Senior Backend Engineer - Shelfview_
+- **Scopely** - 2 role(s), latest 2026-11-09 - _Full Stack Engineer_
+- **Second Nature** - 2 role(s), latest 2026-11-12 - _Staff Software Engineer _
 - **Sensorfact** - 2 role(s), latest 2026-11-06 - _Analytics Engineer_
 - **Sherwin-Williams** - 2 role(s), 2 intern, latest 2026-10-28 - _R&D Data Science Co-op_
+- **Shive-Hattery** - 2 role(s), 2 intern, latest 2026-11-11 - _Software Developer Intern - Software Development_
+- **Shyftlabs** - 2 role(s), latest 2026-11-10 - _Senior Data Engineer - Databricks_
 - **Sidekick Labs** - 2 role(s), latest 2026-11-02 - _Sidekick Labs_
 - **Siemens** - 2 role(s), 2 intern, latest 2026-10-23 - _Python Backend Developer Intern - Energy Flexibility Platform_
 - **Signet Jewelers** - 2 role(s), 2 intern, latest 2026-11-02 - _Data Analytics Intern_
-- **Socket** - 2 role(s), latest 2026-10-29 - _Vulnerability Research Engineer_
+- **Solace** - 2 role(s), latest 2026-11-02 - _Senior Full Stack Engineer_
 - **Sophinea** - 2 role(s), 2 intern, latest 2026-10-30 - _Mobile App Developer Intern_
 - **Sphinx Defense** - 2 role(s), latest 2026-11-03 - _Sphinx Defense_
 - **Spruceid** - 2 role(s), latest 2026-11-02 - _Staff Forward Deployed Software Engineer_
-- **Stand Together** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Analyst Intern - Open the Books_
+- **State of Wisconsin Investment Board** - 2 role(s), 2 intern, latest 2026-11-11 - _Data Analytics Engineering Intern_
 - **Stellar Science** - 2 role(s), 2 intern, latest 2026-11-05 - _Scientific Software Developer Co-op_
-- **Stifel** - 2 role(s), 2 intern, latest 2026-10-21 - _Technology Product Development Developer Intern_
+- **Stratolaunch** - 2 role(s), 2 intern, latest 2026-11-12 - _Business Intelligence & Systems Analyst Intern_
 - **Subtotal** - 2 role(s), 2 intern, latest 2026-10-28 - _Software Engineer Intern_
-- **Syndio** - 2 role(s), latest 2026-11-03 - _GTM AI Builder_
+- **Talentsafari** - 2 role(s), latest 2026-11-12 - _Machine Learning Specialist_
 - **Telescope Partners** - 2 role(s), latest 2026-11-03 - _Telescope Partners_
 - **Tenable, Inc.** - 2 role(s), latest 2026-10-30 - _AI Information Security Engineer_
-- **Testlio** - 2 role(s), latest 2026-10-29 - _Freelance Software Tester (Remote in Martinique)_
 - **Tether** - 2 role(s), latest 2026-11-03 - _Tether_
-- **The Copper River Family of Companies** - 2 role(s), latest 2026-10-30 - _Cloud Systems Analyst_
 - **The%20Zebra** - 2 role(s), latest 2026-10-28 - _Manager, Data Analytics_
-- **TPG** - 2 role(s), 2 intern, latest 2026-10-21 - _Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research _
+- **Tonic** - 2 role(s), 2 intern, latest 2026-11-09 - _Forward Deployed Engineer Co-op - Data De-Identification_
+- **Topstep** - 2 role(s), latest 2026-11-09 - _Senior Software Engineer, TRM_
+- **Transamerica** - 2 role(s), 2 intern, latest 2026-11-03 - _Data Analytics Intern_
+- **Trilogy Health Services** - 2 role(s), 2 intern, latest 2026-11-09 - _Information Systems Developer of AI and Automated Solutions Intern_
+- **TruStage** - 2 role(s), 2 intern, latest 2026-11-03 - _Innovation & AI Technology Intern_
 - **Twist Bioscience** - 2 role(s), latest 2026-10-26 - _Bioinformatics Application Scientist, NGS - AMER_
-- **Uline** - 2 role(s), 2 intern, latest 2026-10-22 - _Software Developer Intern_
 - **Ultima Genomics** - 2 role(s), latest 2026-11-06 - _Firmware Engineer I_
+- **Unisys** - 2 role(s), 2 intern, latest 2026-11-11 - _Software Engineer Intern_
+- **Valeo** - 2 role(s), 2 intern, latest 2026-11-13 - _Software Engineer Intern_
 - **Vantor** - 2 role(s), 2 intern, latest 2026-10-31 - _AI Engineer Intern_
 - **Velir ** - 2 role(s), latest 2026-11-02 - _Manager, Analytics Engineering_
+- **Versaterm** - 2 role(s), latest 2026-11-09 - _AI Native Senior Software Engineer_
 - **ViaSat** - 2 role(s), 2 intern, latest 2026-11-02 - _Software Engineer Intern_
 - **VictoriaMetrics** - 2 role(s), latest 2026-11-05 - _VictoriaMetrics_
+- **Vitvio** - 2 role(s), latest 2026-11-12 - _Full-Stack Software Engineer (Frontend & Mobile Focus)_
+- **Volta** - 2 role(s), latest 2026-11-10 - _Software Engineer_
 - **Waggoner Financial** - 2 role(s), 2 intern, latest 2026-10-29 - _Software Engineer Intern_
+- **Warner Bros.** - 2 role(s), 2 intern, latest 2026-11-09 - _Software Engineer Co-op_
+- **Warner Bros. Discovery** - 2 role(s), 2 intern, latest 2026-11-09 - _Software Engineering Co-op, WB Games_
 - **WebFX** - 2 role(s), 2 intern, latest 2026-10-31 - _Web Developer Intern_
 - **Weedmaps** - 2 role(s), latest 2026-11-06 - _Senior Software Engineer, AI Platform (Remote)_
-- **Welltheory** - 2 role(s), latest 2026-10-23 - _Full Stack Engineer, Support_
+- **Western Magnetics** - 2 role(s), 2 intern, latest 2026-10-31 - _Software Engineer Intern_
 - **Windfall** - 2 role(s), latest 2026-10-31 - _Regional Principal, AI Economic Preparedness_
-- **Workato** - 2 role(s), latest 2026-11-06 - _Senior Software Engineer_
 - **Workshop** - 2 role(s), 2 intern, latest 2026-10-29 - _Software Engineer Intern (Summer 2027)_
-- **Wurl** - 2 role(s), 2 intern, latest 2026-10-31 - _Data Science Intern_
-- **YLD** - 2 role(s), latest 2026-11-06 - _Contract Golang Software Engineer (Remote Europe)_
-- **Zeely** - 2 role(s), latest 2026-10-22 - _Senior DevOps Engineer (Infrastructure)_
+- **Wpunj** - 2 role(s), latest 2026-11-09 - _Adjunct Faculty – Computer Science_
+- **Zoetis** - 2 role(s), 2 intern, latest 2026-11-09 - _AI Assistant Development Intern_
+- **Zone 5 Technologies** - 2 role(s), latest 2026-11-10 - _Software Cybersecurity Engineer V/VI_
 - ***Software Engineer — Remote — US Only* - US Work Authorizati** - 1 role(s), latest 2026-11-02 - _*Software Engineer — Remote — US Only* - US Work Authorization Required_
-- **1Mind** - 1 role(s), latest 2026-10-30 - _AI Conversation Designer_
-- **A1Group** - 1 role(s), latest 2026-10-21 - _Mainframe Developer_
-- **Abcsupply** - 1 role(s), latest 2026-11-06 - _IT ServiceNow Platform Engineer, Senior (952)_
-- **Academy** - 1 role(s), latest 2026-10-21 - _Sr Engineer AI Platform_
-- **AJ Boggs/ProPower** - 1 role(s), latest 2026-10-17 - _DevOps Engineer_
+- **Actian** - 1 role(s), latest 2026-11-10 - _Director of Platform Engineering [gn] – Data Intelligence Platform_
+- **AetherGrid** - 1 role(s), latest 2026-11-09 - _AetherGrid_
+- **Akido** - 1 role(s), latest 2026-11-12 - _Senior Platform Engineer_
 - **Alaska Air Group** - 1 role(s), 1 intern, latest 2026-11-02 - _Software Engineer Intern_
 - **ALBERT** - 1 role(s), latest 2026-11-05 - _ALBERT_
+- **Alertus** - 1 role(s), latest 2026-11-13 - _Lead Backend Engineer_
+- **Allegiantair** - 1 role(s), latest 2026-11-09 - _Software Engineer in Test (SET)_
+- **AlphaSense** - 1 role(s), latest 2026-11-11 - _Principal Revenue Applications Developer_
 - **Alvys** - 1 role(s), latest 2026-10-30 - _Senior Engineering Manager, Data & AI_
-- **Answersnow** - 1 role(s), latest 2026-10-21 - _Staff Cloud Security Engineer_
+- **Andromeda** - 1 role(s), latest 2026-11-04 - _Senior Site Reliability Engineer _
 - **Anyvan** - 1 role(s), latest 2026-11-04 - _Senior Development Engineer (Customer Operations/AI Agents)_
 - **Apollo Research** - 1 role(s), latest 2026-11-03 - _Apollo Research_
 - **Apply here: https://tally.so/r/BzrbN7?source=hn** - 1 role(s), latest 2026-11-02 - _Apply here: https://tally.so/r/BzrbN7?source=hn_
 - **Appspace** - 1 role(s), latest 2026-10-30 - _Cloud Security Engineer - Remote_
 - **Arango** - 1 role(s), 1 intern, latest 2026-11-05 - _Software Engineer Intern, Cookbooks_
 - **Arch Capital Group** - 1 role(s), 1 intern, latest 2026-10-29 - _Data Analytics Intern_
-- **Astra** - 1 role(s), latest 2026-10-20 - _Backend Engineer_
-- **Automox** - 1 role(s), latest 2026-10-21 - _Software Engineer - Agent Team_
+- **Argonne National Laboratory** - 1 role(s), 1 intern, latest 2026-11-12 - _Business Information Systems Intern, Enterprise Software Solutions_
+- **Auburn University** - 1 role(s), 1 intern, latest 2026-11-12 - _Student Machine Learning Engineer Intern_
+- **Avary.ai** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Scientist Intern_
 - **Avoca** - 1 role(s), latest 2026-11-03 - _Avoca_
-- **Axelera** - 1 role(s), latest 2026-10-26 - _Senior/Staff AI Application Engineer - Heterogeneous Computing_
 - **Axiom Consultants** - 1 role(s), 1 intern, latest 2026-11-06 - _AI Developer Intern_
 - **B2Spin** - 1 role(s), latest 2026-10-30 - _Payments & Fraud Data Analyst_
-- **Basata** - 1 role(s), latest 2026-11-01 - _AI Workflow Engineer_
-- **BaubleBar** - 1 role(s), latest 2026-10-20 - _Analytics Engineer - Remote_
-- **BAYADA Home Health Care** - 1 role(s), latest 2026-10-22 - _Home Care RN_
-- **Beauhurst** - 1 role(s), latest 2026-10-23 - _Junior Web Developer_
+- **Bayesianhealth** - 1 role(s), latest 2026-11-11 - _Software Engineer, Data & Analytics Platform_
+- **Bechtel** - 1 role(s), latest 2026-11-13 - _Bechtel_
 - **Benchmark Space Systems** - 1 role(s), 1 intern, latest 2026-10-29 - _Software Engineering Intern_
+- **BETA Technologies Summer 2027** - 1 role(s), 1 intern, latest 2026-11-10 - _Software, Controls & Autonomy Intern_
 - **Blackbird** - 1 role(s), latest 2026-11-02 - _Blackbird_
 - **Blockrotate** - 1 role(s), latest 2026-11-03 - _Blockrotate| Senior Systems / Rust Engineer_
-- **Branch** - 1 role(s), latest 2026-10-26 - _Data Engineer_
+- **Blp Digital** - 1 role(s), latest 2026-11-10 - _AI Automation Specialist_
+- **Boeing** - 1 role(s), latest 2026-11-11 - _Software Engineer_
+- **Boseallaboutme** - 1 role(s), 1 intern, latest 2026-11-04 - _DSP/ML Research Engineer Intern_
+- **Boulevard** - 1 role(s), latest 2026-11-13 - _Staff Software Engineer, Ecosystem_
 - **Brelle** - 1 role(s), latest 2026-10-28 - _Director of Embedded Software Platform _
+- **Bridgestone** - 1 role(s), 1 intern, latest 2026-11-09 - _Attribute Technology Engineering Spring 2027 Data Science Intern_
+- **Broadway Ventures** - 1 role(s), latest 2026-11-10 - _Application Developer (Java, JavaScript) (Full-Stack)_
 - **Bubblehouse** - 1 role(s), latest 2026-11-04 - _Bubblehouse_
 - **BuildQ** - 1 role(s), latest 2026-11-06 - _BuildQ_
-- **Calyxo** - 1 role(s), latest 2026-10-19 - _Data Scientist (Biostatistics) - Remote, USA_
+- **Business Web Solutions** - 1 role(s), 1 intern, latest 2026-11-10 - _Web Developer Intern_
+- **Cambium** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer_
 - **Candidly** - 1 role(s), latest 2026-10-28 - _Senior Infrastructure Engineer_
 - **CapNexus** - 1 role(s), latest 2026-11-06 - _Solution Architect (AWS / AI)_
-- **Careerstrengo** - 1 role(s), latest 2026-10-23 - _Senior Cloud Engineer (Kubernetes)_
-- **Caylent** - 1 role(s), latest 2026-10-22 - _Senior Forward Deployed Engineer _
-- **Celigo** - 1 role(s), latest 2026-10-28 - _ Data Engineer_
-- **Cell Signaling Technology** - 1 role(s), latest 2026-10-19 - _Full Stack Developer_
+- **Carlisle Companies** - 1 role(s), 1 intern, latest 2026-11-10 - _AI & Data Science Intern_
 - **Centreforeffectivealtruism** - 1 role(s), latest 2026-10-30 - _Salesforce Developer_
 - **Chatbase** - 1 role(s), latest 2026-10-27 - _Software Engineer_
-- **Chromatic** - 1 role(s), latest 2026-10-26 - _Sr Software Engineer - Storybook_
 - **Cisive** - 1 role(s), 1 intern, latest 2026-10-26 - _Software Developer Intern_
+- **Claritypediatrics** - 1 role(s), latest 2026-11-11 - _Senior Data Analyst_
+- **Cobalt** - 1 role(s), latest 2026-10-26 - _Staff AI Engineer_
 - **Cocient** - 1 role(s), latest 2026-11-03 - _Cocient_
-- **CodePath** - 1 role(s), latest 2026-10-22 - _Adjunct Instructor, Applied AI Engineering - New Mexico State University - Spring 2027 (In_
+- **Collabify** - 1 role(s), latest 2026-11-09 - _Collabify_
+- **CompTech Computer Technologies** - 1 role(s), latest 2026-11-13 - _Senior Application Developer/ Application Programmer - Level III _
 - **Concord Advice** - 1 role(s), 1 intern, latest 2026-11-05 - _Data Scientist Intern_
 - **CreativeLens** - 1 role(s), latest 2026-11-02 - _CreativeLens_
 - **Cruxclimate** - 1 role(s), latest 2026-11-06 - _AI Enablement Lead_
+- **CSCI Consulting** - 1 role(s), latest 2026-10-27 - _SAP Integration Suite Senior Developer_
 - **Current Lighting Employee Co** - 1 role(s), 1 intern, latest 2026-10-28 - _AI Co-op_
 - **Data Micro Technologies** - 1 role(s), latest 2026-11-02 - _Data Micro Technologies_
 - **DataVisor** - 1 role(s), 1 intern, latest 2026-11-05 - _Software Engineer Intern_
-- **Delta Dental Of Missouri** - 1 role(s), 1 intern, latest 2026-10-23 - _Data Science Intern_
+- **Delian** - 1 role(s), latest 2026-11-05 - _ML Engineering Trainee_
 - **DICE** - 1 role(s), latest 2026-10-28 - _Senior Backend Engineer_
 - **DigiKey** - 1 role(s), latest 2026-11-03 - _DigiKey_
-- **Docebo** - 1 role(s), latest 2026-10-23 - _Senior Cloud Engineer I_
+- **Djeholdings** - 1 role(s), latest 2026-11-06 - _Solutions Lead, AI Transformation_
 - **Docplanner** - 1 role(s), latest 2026-10-30 - _Senior Platform Engineer (100% Remote within Türkiye)_
+- **Doma Technology LLC** - 1 role(s), latest 2026-11-12 - _Senior Platform Engineer_
 - **Don't Use This Code: https://dutc.io** - 1 role(s), latest 2026-11-02 - _Don't Use This Code: https://dutc.io_
+- **DP World** - 1 role(s), 1 intern, latest 2026-11-10 - _AI & Analytics Intern - Talent Management_
+- **Dropzone AI** - 1 role(s), latest 2026-10-29 - _Senior Software Engineer - Integrations_
+- **Early-stage Startup** - 1 role(s), latest 2026-11-14 - _Early-stage Startup_
+- **Echo Global Logistics** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Edmentum** - 1 role(s), latest 2026-11-11 - _Software Engineer I_
+- **Elekta** - 1 role(s), latest 2026-10-26 - _Software Support Specialist - ANZ_
+- **Emory University** - 1 role(s), latest 2026-10-28 - _Postdoctoral Fellow in Machine Learning and Data Science_
 - **empirical** - 1 role(s), 1 intern, latest 2026-11-07 - _Software Engineering Intern_
-- **Equal1** - 1 role(s), latest 2026-10-22 - _DevOps / Platform Engineer_
+- **Encore Global** - 1 role(s), 1 intern, latest 2026-11-12 - _IT Data Analyst Intern_
+- **Erica Holloway** - 1 role(s), latest 2026-11-11 - _Erica Holloway_
 - **Erie Insurance Group** - 1 role(s), 1 intern, latest 2026-11-03 - _Claims Systems & AI Intern 2_
-- **ETC** - 1 role(s), 1 intern, latest 2026-10-23 - _Software Engineer Intern_
+- **Essity** - 1 role(s), latest 2026-10-28 - _AI Architect – Artificial Intelligence Centre of Excellence_
 - **Eurofins** - 1 role(s), 1 intern, latest 2026-11-03 - _Business Intelligence Intern_
 - **Evaboot** - 1 role(s), latest 2026-11-02 - _Evaboot_
 - **FedEx** - 1 role(s), 1 intern, latest 2026-10-30 - _Data Science Intern_
+- **Finra** - 1 role(s), latest 2026-11-10 - _Lead Developer - Java_
 - **Firemon** - 1 role(s), latest 2026-11-06 - _Senior Software Engineer_
 - **Flextronics International** - 1 role(s), 1 intern, latest 2026-11-03 - _Manufacturing Data & Analytics Co-op_
+- **Flowai** - 1 role(s), 1 intern, latest 2026-11-10 - _Senior Back-End Engineer Intern_
 - **Fly.io** - 1 role(s), latest 2026-11-02 - _Fly.io_
+- **Foji** - 1 role(s), latest 2026-11-12 - _Foji_
+- **Furman** - 1 role(s), latest 2026-10-27 - _Associate Director, Business Intelligence_
+- **Furtim Modus** - 1 role(s), latest 2026-11-04 - _Furtim Modus_
 - **Fusionality** - 1 role(s), latest 2026-11-02 - _Fusionality_
-- **Galaxy** - 1 role(s), latest 2026-10-28 - _Site Reliability Engineer _
+- **Garmin International** - 1 role(s), 1 intern, latest 2026-11-11 - _IT DevOps Administrator Intern_
 - **Gauss Management Research & Engineering** - 1 role(s), 1 intern, latest 2026-10-28 - _Web Application Developer Intern_
+- **Generatorhealth** - 1 role(s), latest 2026-11-13 - _Clinical AI Specialist (Remote)_
 - **Geospatial Consulting Group International (geocgi)** - 1 role(s), latest 2026-11-04 - _Data Scientist (Hybrid)_
+- **getIntro** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
 - **Globus Medical** - 1 role(s), 1 intern, latest 2026-11-06 - _Software Co-op_
 - **Glydways** - 1 role(s), latest 2026-10-29 - _Senior Embedded Software Engineer_
-- **Gong.io** - 1 role(s), latest 2026-10-29 - _AI Enterprise Architect_
-- **Gradient AI** - 1 role(s), latest 2026-10-20 - _Senior QA Data Engineer_
+- **GoDaddy** - 1 role(s), latest 2026-11-12 - _Software Development Engineer _
+- **Granted** - 1 role(s), latest 2026-11-12 - _Backend Engineer - Integrations _
 - **Great American Insurance Group** - 1 role(s), 1 intern, latest 2026-10-27 - _Cloud Data Platform Intern_
-- **GTI Energy** - 1 role(s), 1 intern, latest 2026-10-30 - _Data Science Intern_
+- **Greatamerica** - 1 role(s), latest 2026-11-09 - _Principal Platform Engineer_
 - **GWI** - 1 role(s), latest 2026-11-03 - _Data Engineer_
-- **Halcyon** - 1 role(s), latest 2026-11-07 - _Senior Backend Cloud Engineer_
 - **Hatch** - 1 role(s), latest 2026-10-29 - _Forward Deployed Engineer _
 - **Head of Global GTM + Regional Sales Partners** - 1 role(s), latest 2026-11-07 - _Head of Global GTM + Regional Sales Partners_
-- **Healthcatalyst** - 1 role(s), latest 2026-11-03 - _Jr Data Engineer_
 - **Hello Heart** - 1 role(s), latest 2026-11-05 - _Senior Data Analyst, Client Reporting_
 - **Helmsted** - 1 role(s), latest 2026-11-02 - _Helmsted_
 - **Hendler Family Brewing Co.** - 1 role(s), 1 intern, latest 2026-10-30 - _Software Engineering and IT Co-op_
+- **Hey HN! We’re building ThunderTruck™, the operating system f** - 1 role(s), latest 2026-11-11 - _Hey HN! We’re building ThunderTruck™, the operating system for local food—connecting mobil_
+- **Hiebing** - 1 role(s), 1 intern, latest 2026-11-13 - _AI Agent Developer Intern_
 - **Hook** - 1 role(s), latest 2026-10-28 - _Principal Engineer  -- Full-Stack TypeScript (Node.js, React, Cloud)_
+- **Hook Music** - 1 role(s), 1 intern, latest 2026-11-10 - _Machine Learning Engineering Intern, Recommendation Systems_
 - **Horace Mann - Agent Opportunities** - 1 role(s), latest 2026-10-30 - _ Insurance Producer - Mobile, AL_
+- **Humatahealth** - 1 role(s), latest 2026-11-13 - _Software Engineer III_
 - **I'm Rajneesh Verma, a Full-Stack & AI Engineer currently wor** - 1 role(s), latest 2026-11-05 - _I'm Rajneesh Verma, a Full-Stack & AI Engineer currently working with a YC-backed startup._
 - **I'm Sushant Gangurde, A Software Engineer focused on Full-St** - 1 role(s), latest 2026-11-06 - _I'm Sushant Gangurde, A Software Engineer focused on Full-Stack Development and AI-powered_
-- **Imagine Worldwide** - 1 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
+- **Immunic Therapeutics** - 1 role(s), latest 2026-11-10 - _Director, Applied AI Architect _
+- **Infobip** - 1 role(s), 1 intern, latest 2026-11-11 - _AI Engineering Intern - Sarajevo_
+- **Ingersoll Rand** - 1 role(s), 1 intern, latest 2026-11-11 - _AI Engineer Intern_
+- **InsCipher** - 1 role(s), 1 intern, latest 2026-11-12 - _AI Product Intern_
 - **Instructure** - 1 role(s), latest 2026-11-06 - _Senior Analytics Engineer_
-- **Interclypse** - 1 role(s), 1 intern, latest 2026-10-19 - _Junior Full Stack Software Engineer Intern_
+- **Insurity ** - 1 role(s), latest 2026-11-11 - _Lead Software Engineer_
 - **ISO New England** - 1 role(s), 1 intern, latest 2026-11-02 - _Operations Process Automation Developer Intern_
+- **Ixana** - 1 role(s), 1 intern, latest 2026-11-10 - _Embedded Software Engineer Intern, Wearables and IoT_
 - **J.M. Smucker** - 1 role(s), 1 intern, latest 2026-11-05 - _Data Science Intern_
+- **Jacksongov** - 1 role(s), latest 2026-11-13 - _Software Engineer_
 - **Join9Am** - 1 role(s), latest 2026-10-29 - _Staff Data Engineer_
-- **Juvare** - 1 role(s), latest 2026-10-20 - _Technical Implementation Analyst (Front End Web Developer)_
 - **Kaida** - 1 role(s), latest 2026-11-04 - _Kaida_
-- **Kepler** - 1 role(s), latest 2026-10-23 - _Senior Embedded Software Designer (6+ month Contract)_
+- **Karat** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer (United States)_
 - **Keyrock** - 1 role(s), latest 2026-10-27 - _Senior Data Engineer_
 - **Kinaxis** - 1 role(s), 1 intern, latest 2026-11-07 - _Developer Co-op, Machine Learning_
+- **Klatch AI** - 1 role(s), 1 intern, latest 2026-11-10 - _Full Stack Engineer Intern_
 - **Knock** - 1 role(s), latest 2026-10-30 - _Lending Manager (Front End) - Remote_
+- **Kodiak Solutions** - 1 role(s), latest 2026-11-02 - _Sr. Data Engineer_
 - **Kraus Hamdani Aerospace** - 1 role(s), latest 2026-11-02 - _Kraus Hamdani Aerospace_
 - **L.L.Bean** - 1 role(s), 1 intern, latest 2026-11-06 - _Software Developer Intern_
+- **LaunchDarkly** - 1 role(s), latest 2026-10-30 - _Director, Internal AI Operations_
 - **Lazer** - 1 role(s), latest 2026-10-28 - _Full Stack Engineer, Agentic AI_
-- **Leantech** - 1 role(s), latest 2026-10-19 - _Senior Backend Engineer_
-- **Legend Biotech US** - 1 role(s), latest 2026-10-23 - _Principal Scientist, Bioinformatics_
 - **Linda Werner & Associates** - 1 role(s), latest 2026-11-04 - _Conversational AI & NLP Specialist_
 - **Llbean** - 1 role(s), 1 intern, latest 2026-11-06 - _Software Developer Intern_
+- **Lmu** - 1 role(s), latest 2026-11-03 - _Senior AI Security Analyst_
 - **Location: Huntington Beach, CA, USA Remote: Yes Willing to r** - 1 role(s), latest 2026-11-02 - _Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/._
 - **Locus Robotics** - 1 role(s), latest 2026-10-27 - _Forward Deployed AI Engineer_
 - **Longwall** - 1 role(s), latest 2026-11-04 - _Flight Software Engineer_
 - **Lyra** - 1 role(s), latest 2026-11-02 - _Lyra_
+- **M Kopa** - 1 role(s), latest 2026-11-10 - _Senior Backend Engineer II & III (.NET) _
 - **Markel Group** - 1 role(s), 1 intern, latest 2026-11-05 - _AI Automation Intern_
 - **Marker Learning** - 1 role(s), latest 2026-11-03 - _Marker Learning_
 - **Member Solutions** - 1 role(s), 1 intern, latest 2026-10-26 - _Software Developer Intern_
 - **Memorang** - 1 role(s), latest 2026-11-02 - _Memorang_
-- **Mercer Advisors** - 1 role(s), latest 2026-11-05 - _Senior Analytics Engineer _
 - **Metova Federal** - 1 role(s), 1 intern, latest 2026-10-29 - _AI Intern_
 - **Mindly** - 1 role(s), latest 2026-10-30 - _AI Motion Designer_
 - **MixRank (YC S11)** - 1 role(s), latest 2026-11-02 - _MixRank (YC S11)_
 - **Momentous** - 1 role(s), latest 2026-10-30 - _Director of Technology & Data Engineering_
 - **Montgomery Investment Technology, Inc.** - 1 role(s), 1 intern, latest 2026-11-05 - _Computer Programming Intern_
 - **Moody's** - 1 role(s), 1 intern, latest 2026-11-06 - _Applied AI & Analytics Intern_
-- **Morningconsult** - 1 role(s), latest 2026-10-23 - _Software Engineer II, DevOps_
+- **Moxie** - 1 role(s), latest 2026-11-03 - _Staff AI Engineer_
+- **Mum Industries** - 1 role(s), 1 intern, latest 2026-11-11 - _Business Intelligence & Data Analytics Intern_
 - **MyFitnessPal** - 1 role(s), latest 2026-11-06 - _Software Engineer III, Cloud Infrastructure_
 - **Natter** - 1 role(s), latest 2026-11-05 - _Staff+ Software Engineer_
 - **NEO Holdings (stealth, regulated commodity markets infrastru** - 1 role(s), latest 2026-11-02 - _NEO Holdings (stealth, regulated commodity markets infrastructure)_
+- **Nevral Forensics Intelligence (NFI)** - 1 role(s), latest 2026-11-11 - _Nevral Forensics Intelligence (NFI)_
+- **New Era Technology** - 1 role(s), latest 2026-10-26 - _DevSecOps Architect – Software Supply Chain Security   _
+- **New York Life Insurance** - 1 role(s), 1 intern, latest 2026-11-10 - _IBM i Developer Intern_
+- **Newchartertech** - 1 role(s), latest 2026-11-12 - _Application Developer_
 - **Nexstar** - 1 role(s), 1 intern, latest 2026-10-26 - _Programming Intern_
+- **ngrok Inc.** - 1 role(s), latest 2026-10-30 - _Senior Developer Educator_
 - **Nivelo** - 1 role(s), latest 2026-11-02 - _Nivelo_
-- **Njit** - 1 role(s), latest 2026-11-06 - _Workday & Snowflake Report Developer_
+- **North Texas Family Health** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
+- **Northwaysports** - 1 role(s), 1 intern, latest 2026-11-10 - _Data Science Intern_
+- **Nrf** - 1 role(s), latest 2026-11-03 - _Senior Information Cloud Security Engineer_
+- **Nura** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Intern_
 - **Odette Technologies** - 1 role(s), latest 2026-11-05 - _Odette Technologies_
 - **Omya** - 1 role(s), 1 intern, latest 2026-11-05 - _Data Scientist Co-op_
+- **OneImaging** - 1 role(s), latest 2026-11-07 - _Cloud Systems Administrator_
+- **Openly** - 1 role(s), latest 2026-11-09 - _VP, Insurance Data Science_
+- **OpenTrain AI** - 1 role(s), latest 2026-11-09 - _OpenTrain AI_
 - **Opsfleet** - 1 role(s), latest 2026-11-03 - _Opsfleet_
 - **ORFF Maestra** - 1 role(s), latest 2026-11-02 - _ORFF Maestra_
 - **Otterbein SeniorLife** - 1 role(s), latest 2026-10-27 - _Sr. Systems Engineer (Cloud & Enterprise Systems)_
+- **Owl Cyber Defense** - 1 role(s), 1 intern, latest 2026-11-13 - _Software Engineering Intern_
+- **Pathstream** - 1 role(s), latest 2026-11-10 - _Staff Software Engineer _
 - **Pathward, N.A. ** - 1 role(s), latest 2026-11-03 - _AI Analyst, Sr – AI Forward Deployed Engineer_
 - **PatientPoint** - 1 role(s), latest 2026-11-05 - _Senior Staff Software Engineer, Android & IoT_
-- **Pattersoncompanies** - 1 role(s), latest 2026-10-19 - _Senior Data & Analytics Analyst – Vendor & Category Performance_
 - **Paxos** - 1 role(s), latest 2026-11-04 - _Senior Software Engineer, Identity & Regulatory Platform_
+- **Penn Engineering** - 1 role(s), 1 intern, latest 2026-11-10 - _AI & Data Intern_
 - **Plexus** - 1 role(s), 1 intern, latest 2026-11-02 - _Software Engineer Intern_
+- **PODS** - 1 role(s), 1 intern, latest 2026-11-12 - _Operations Data Science Intern_
 - **ProphetX** - 1 role(s), latest 2026-11-03 - _ProphetX_
 - **Protege** - 1 role(s), latest 2026-10-29 - _Forward Deployed Engineer, Healthcare_
-- **Psecu** - 1 role(s), latest 2026-10-27 - _Data Platform Engineer_
+- **R1Rcm** - 1 role(s), latest 2026-11-03 - _Platform Engineer (R37)_
+- **RAIDS AI** - 1 role(s), latest 2026-11-11 - _RAIDS AI_
 - **Rapiscan Systems and its parent company OSI are hiring for s** - 1 role(s), latest 2026-11-03 - _Rapiscan Systems and its parent company OSI are hiring for service techs._
+- **RD Station** - 1 role(s), latest 2026-10-30 - _[Banco de Talentos] Engenharia de Software Backend Pleno - Ruby on Rails| RD Station (Remo_
+- **Reacher** - 1 role(s), latest 2026-11-05 - _Mobile Consumer Engineer_
+- **Ready to?** - 1 role(s), 1 intern, latest 2026-11-12 - _Software Development Intern_
 - **Reaktor** - 1 role(s), latest 2026-10-30 - _Lead Developer_
 - **Renewed Vision** - 1 role(s), latest 2026-11-04 - _Staff Software Engineer - Web_
-- **Reonic** - 1 role(s), 1 intern, latest 2026-10-29 - _Software Engineer Intern - (AI x Greentech) (m/f/d)_
 - **Return** - 1 role(s), latest 2026-11-02 - _Return_
 - **REVNODE** - 1 role(s), latest 2026-11-02 - _REVNODE_
-- **Rit** - 1 role(s), latest 2026-11-02 - _CSTEP/McNair Student Access/Development/Engagement Programming Specialist II_
 - **Rockland Trust** - 1 role(s), 1 intern, latest 2026-11-02 - _Business Intelligence (BI) Intern_
 - **Rune Labs** - 1 role(s), latest 2026-11-02 - _Rune Labs_
+- **Runway Ml** - 1 role(s), latest 2026-11-12 - _Member of Technical Staff, ML Platform (Evals)_
 - **Scento** - 1 role(s), latest 2026-11-03 - _Scento_
-- **Sedgwick Claims Management Services** - 1 role(s), 1 intern, latest 2026-10-23 - _Data Analyst Intern_
 - **Senra Systems** - 1 role(s), latest 2026-10-28 - _Senior Robotics Engineer, Robot Learning _
-- **Shiftkey** - 1 role(s), latest 2026-10-20 - _Staff Site Reliability Engineer _
+- **Sharp Electronics** - 1 role(s), 1 intern, latest 2026-11-09 - _IT AI Intern_
+- **SHOPLINE** - 1 role(s), 1 intern, latest 2026-11-11 - _AI Skill Developer Intern_
 - **Simple Analytics** - 1 role(s), latest 2026-11-02 - _Simple Analytics_
+- **Socket** - 1 role(s), latest 2026-10-29 - _Vulnerability Research Engineer_
 - **Solarity** - 1 role(s), 1 intern, latest 2026-10-28 - _Software Engineer Intern_
 - **Solink** - 1 role(s), 1 intern, latest 2026-10-31 - _Software Engineer Co-op, Agents_
+- **SRC, Inc** - 1 role(s), 1 intern, latest 2026-11-10 - _Machine Learning Engineer Intern_
+- **Stark** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer_
 - **STARKEY DE MÉXICO S.A. DE C.V.** - 1 role(s), 1 intern, latest 2026-11-04 - _Software Engineering Intern_
+- **Stealth Startup | Enterprise AI** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineering Intern_
 - **Stratirus (a Tennetech company)** - 1 role(s), latest 2026-11-02 - _Stratirus (a Tennetech company)_
-- **Sunnydata** - 1 role(s), latest 2026-10-23 - _Sr. Data Engineer_
-- **Tebra** - 1 role(s), latest 2026-11-06 - _Senior Software Engineer_
+- **Syndio** - 1 role(s), latest 2026-11-03 - _GTM AI Builder_
+- **Tcenergy** - 1 role(s), latest 2026-11-11 - _Interconnects Project Developer_
+- **Teads** - 1 role(s), latest 2026-11-04 - _Senior Software Engineer - Data Solutions - Privacy Team_
 - **Tech Mahindra’s Cloud Advisory division is hiring engineers** - 1 role(s), latest 2026-11-03 - _Tech Mahindra’s Cloud Advisory division is hiring engineers (4+YoE) and cloud solution arc_
 - **Tempo Io** - 1 role(s), latest 2026-11-07 - _Senior AI/ML Engineer_
-- **Thankly** - 1 role(s), latest 2026-11-03 - _Thankly_
+- **TerraByte Green** - 1 role(s), 1 intern, latest 2026-11-10 - _AI Engineering Intern_
 - **The Cary Company** - 1 role(s), 1 intern, latest 2026-11-05 - _AI / Automation Intern_
+- **The Knot Worldwide** - 1 role(s), latest 2026-11-11 - _Lead Analytics Engineer_
 - **Tigerdata** - 1 role(s), latest 2026-11-05 - _Senior Platform Engineer - Postgres Specialist_
-- **Toryburch** - 1 role(s), latest 2026-11-04 - _Vice President, Data & Analytics Engineering_
 - **Triedge Investments** - 1 role(s), latest 2026-10-30 - _Director, BI & Data Engineering_
 - **UMG Contingent Worker Company** - 1 role(s), 1 intern, latest 2026-11-08 - _Data Engineer Co-op_
 - **UNICEF - REMOTE backend dev - Digital Inclusion Division, Co** - 1 role(s), latest 2026-11-03 - _UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits_
 - **UPDATE (Nov 13): We're no longer taking applications for the** - 1 role(s), latest 2026-11-02 - _UPDATE (Nov 13): We're no longer taking applications for these roles. Thanks to everyone w_
-- **Upguard** - 1 role(s), latest 2026-11-07 - _Head of AI & Automation_
-- **VALIS (Valis Insights)** - 1 role(s), latest 2026-11-03 - _VALIS (Valis Insights)_
-- **Vertical Aerospace** - 1 role(s), latest 2026-10-22 - _Platform Engineer _
+- **update (Nov 20, 2026) - this position has been filled.** - 1 role(s), latest 2026-11-03 - _update (Nov 20, 2026) - this position has been filled._
+- **Uplimit** - 1 role(s), 1 intern, latest 2026-11-10 - _Software Engineer Intern_
+- **Vanderlande Industries** - 1 role(s), 1 intern, latest 2026-11-11 - _Supply Chain Data & Analytics Intern_
 - **Vestmark Internship Program** - 1 role(s), 1 intern, latest 2026-10-29 - _Cloud Engineer Co-op_
 - **Virtuous** - 1 role(s), latest 2026-11-02 - _Integrations Engineer, AI Services_
+- **Vivenu** - 1 role(s), latest 2026-11-10 - _Senior Software Engineer - Data & AI Platform (m/w/d)_
 - **Vivral (Nair Engineering)** - 1 role(s), latest 2026-11-02 - _Vivral (Nair Engineering)_
+- **VOLO Health** - 1 role(s), latest 2026-11-11 - _Senior Mobile Software Engineer_
 - **Voluntas** - 1 role(s), latest 2026-11-02 - _Voluntas_
-- **VSC Fire & Security** - 1 role(s), latest 2026-10-21 - _Senior Fire Alarm Programming Technician_
-- **Wasabi Technologies** - 1 role(s), latest 2026-10-28 - _Senior Partner Activation Manager, AI_
+- **Walrusfi** - 1 role(s), latest 2026-11-11 - _Senior Infrastructure Engineer_
 - **We are hiring for several roles at StudyTurtle, an edutainme** - 1 role(s), latest 2026-11-02 - _We are hiring for several roles at StudyTurtle, an edutainment brand building learning vid_
-- **We Care Daily Clinics** - 1 role(s), latest 2026-10-27 - _Certified Peer Support Specialist - Mobile Clinic_
 - **We The Flywheel** - 1 role(s), latest 2026-11-02 - _We The Flywheel_
+- **Wellth** - 1 role(s), latest 2026-11-10 - _Senior Health Informatics Data Analyst_
 - **Wincent** - 1 role(s), latest 2026-11-03 - _Graphic Designer & Web Owner (AI-native)_
 - **Withclutch** - 1 role(s), latest 2026-11-05 - _Senior Forward Deployed Engineer_
-- **Wiz, Inc.** - 1 role(s), latest 2026-10-19 - _Manager of Applied AI, Solutions Support Engineering_
 - **Workiva** - 1 role(s), 1 intern, latest 2026-10-27 - _Machine Learning Engineering Intern_
 - **YugabyteDB** - 1 role(s), latest 2026-11-06 - _Developer Advocate_
+- **Zuru** - 1 role(s), latest 2026-11-12 - _Site Reliability Engineer (relocation to Auckland, New Zealand)_
 
-## 31-60 days ago (863 companies)
+## 31-60 days ago (849 companies)
 
-### SF Bay Area (202)
+### SF Bay Area (209)
 - **Altruist** - 20 role(s), latest 2026-10-08 - _Senior Back End Engineer_
+- **VIA** - 15 role(s), latest 2026-10-19 - _Data Analytics Engineer_
 - **Brain Co.** - 12 role(s), 10 intern, latest 2026-10-14 - _Machine Learning Engineer – Applied AI Co-op Intern_
+- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
 - **Pluralis Research** - 12 role(s), 2 intern, latest 2026-10-14 - _Research Engineer - Post-Training_
-- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
 - **HP IQ** - 10 role(s), 7 intern, latest 2026-09-23 - _Senior Platform Engineer _
+- **Gallup** - 9 role(s), 7 intern, latest 2026-10-13 - _DevOps Engineer_
 - **Hercules** - 9 role(s), latest 2026-10-04 - _Staff Software Engineer, Product_
-- **Bosch Home Comfort** - 8 role(s), 8 intern, latest 2026-10-09 - _AI Security Research Intern_
-- **Cadence Design Systems** - 8 role(s), 8 intern, latest 2026-10-02 - _Software Engineering Intern_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **Mastercard** - 8 role(s), 8 intern, latest 2026-10-16 - _Software Engineer Intern_
-- **NewsBreak** - 8 role(s), 1 intern, latest 2026-09-30 - _Founding Product Director, NDot AI_
+- **IXL Learning** - 9 role(s), 3 intern, latest 2026-10-19 - _Senior Site Reliability Engineer_
+- **Langchain** - 8 role(s), latest 2026-10-20 - _Software Engineering Manager, AI Observability & Evals Platform (New York, NY)_
 - **F5** - 7 role(s), 5 intern, latest 2026-10-06 - _Software Development Engineer 1_
-- **Gallup** - 7 role(s), 7 intern, latest 2026-10-13 - _Data Science Intern - Summer 2027_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **NewsBreak** - 7 role(s), 1 intern, latest 2026-09-30 - _Founding Product Director, NDot AI_
 - **Numeric** - 7 role(s), latest 2026-10-07 - _Software Engineer, Product_
-- **Physicalintelligence** - 7 role(s), latest 2026-10-09 - _ML Infra Engineer, Data Systems_
-- **Plus 2** - 7 role(s), latest 2026-10-02 - _Research Engineer/Senior Research Engineer, 3D Auto-Labeling and Data Flywheel_
-- **Espace** - 6 role(s), latest 2026-10-13 - _Core Software Engineer_
+- **Plus 2** - 7 role(s), latest 2026-10-02 - _Senior/Staff Machine Learning Engineer (Reinforcement Learning), Motion Planning_
+- **Rivian and Volkswagen Group Technologies** - 7 role(s), 7 intern, latest 2026-10-23 - _Software Engineering Intern - Applications - Infotainment & Mobile_
+- **Ifm Us** - 6 role(s), latest 2026-10-22 - _Developer Relations Manager_
+- **Marianaminerals** - 6 role(s), latest 2026-10-21 - _Full Stack Software Engineer_
+- **Siftstack** - 6 role(s), latest 2026-10-09 - _Senior Software Engineer, Full Stack_
+- **Watney** - 6 role(s), latest 2026-10-17 - _Machine Learning Engineer_
 - **Wing** - 6 role(s), 6 intern, latest 2026-10-13 - _Data Scientist Intern_
 - **AiDASH, Inc.** - 5 role(s), 2 intern, latest 2026-10-16 - _Head of Engineering, AI Platform_
+- **Alchemy** - 5 role(s), latest 2026-10-13 - _Product Lead, Developer Experience _
+- **Asana** - 5 role(s), latest 2026-10-19 - _Senior Staff Engineer, AI_
 - **DoorDash** - 5 role(s), 5 intern, latest 2026-10-08 - _Software Engineer Intern - Summer 2027_
-- **Grow Therapy** - 5 role(s), 2 intern, latest 2026-10-15 - _Senior Data Analyst, Coverage & Payments_
-- **Latent** - 5 role(s), latest 2026-10-12 - _Software Engineer (Frontend)_
+- **HeyGen** - 5 role(s), 2 intern, latest 2026-10-19 - _AI Video Creator_
+- **Hud** - 5 role(s), latest 2026-10-23 - _Senior Software Engineer, Infrastructure_
 - **Lilt Corporate** - 5 role(s), latest 2026-10-06 - _Machine Learning Engineer (Real-Time Speech Translation)_
 - **Merge%20Labs** - 5 role(s), latest 2026-10-08 - _Software Engineer, Applications & Systems_
+- **Nexxa** - 5 role(s), latest 2026-10-19 - _AI Vision Engineer_
+- **Shepherd** - 5 role(s), latest 2026-10-20 - _Software Engineer, Full Stack_
 - **Sigma Computing** - 5 role(s), 5 intern, latest 2026-10-07 - _AI/ML PhD Intern (Summer 2027)_
-- **Specter** - 5 role(s), latest 2026-10-15 - _Software Engineer - Applied AI_
 - **Wispr Flow** - 5 role(s), latest 2026-10-16 - _AI Engineer, Internal Systems_
-- **Alchemy** - 4 role(s), latest 2026-10-13 - _Product Lead, Developer Experience _
-- **Ambrook** - 4 role(s), 2 intern, latest 2026-10-04 - _Software Engineer, AI_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
+- **Bobyard** - 4 role(s), 3 intern, latest 2026-10-22 - _Computer Vision Research Engineer - Intern _
+- **Celestica** - 4 role(s), 4 intern, latest 2026-10-18 - _AI Engineer Intern_
 - **Dealpath** - 4 role(s), latest 2026-10-05 - _Senior Full Stack Engineer_
-- **General Medicine** - 4 role(s), latest 2026-10-07 - _Full-Stack Engineer (Boston)_
-- **Higharc** - 4 role(s), latest 2026-09-29 - _Sr. Software Engineer, Structural_
-- **Maven Agi** - 4 role(s), latest 2026-10-08 - _Staff Software Engineer – Platform Team_
-- **Quince** - 4 role(s), latest 2026-10-09 - _Infrastructure & DevOps Engineer III_
-- **Rippling** - 4 role(s), 4 intern, latest 2026-09-22 - _Software Engineer Intern - Backend Focused_
+- **Develop Health** - 4 role(s), latest 2026-10-22 - _Lead Analytics Engineer_
+- **Espace** - 4 role(s), latest 2026-10-13 - _Core Software Engineer_
+- **Hover** - 4 role(s), latest 2026-10-20 - _Director of Engineering, Mobile Capture_
+- **Netflix** - 4 role(s), 4 intern, latest 2026-10-20 - _Machine Learning Scientist Intern - AI_
+- **Playerzero** - 4 role(s), latest 2026-10-22 - _Director, Platform Engineering_
+- **Quadric** - 4 role(s), 4 intern, latest 2026-10-23 - _AI Kernel Engineer Intern_
 - **Roboflow** - 4 role(s), latest 2026-10-12 - _Member of Technical Staff_
+- **Semgrep** - 4 role(s), 2 intern, latest 2026-10-23 - _Senior Engineering Manager, Software Supply Chain Security _
 - **Tenstorrent University Jobs** - 4 role(s), 4 intern, latest 2026-10-14 - _AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)_
+- **Unify** - 4 role(s), latest 2026-10-20 - _Applied AI Engineer_
 - **xAI** - 4 role(s), 4 intern, latest 2026-10-02 - _Software Engineer Intern/Co-op_
 - **Arcadeai** - 3 role(s), latest 2026-10-05 - _Forward Deployed Engineer_
-- **Attain** - 3 role(s), latest 2026-10-15 - _Senior Machine Learning Engineer_
 - **Binti** - 3 role(s), latest 2026-10-06 - _Senior/Staff DevOps Engineer _
 - **Campfire** - 3 role(s), latest 2026-09-30 - _AI Engineer - Agents_
-- **Collinear Ai** - 3 role(s), 2 intern, latest 2026-09-21 - _MTS - Research Scientist Internship _
-- **Constellation** - 3 role(s), latest 2026-09-18 - _Research Scientist_
+- **Casca** - 3 role(s), latest 2026-10-20 - _Senior Software Engineer_
 - **Coram Ai** - 3 role(s), latest 2026-10-14 - _Member of Technical Staff, Real Time Systems_
 - **Cyberhaven** - 3 role(s), latest 2026-10-12 - _Senior/ Staff Software Engineer (Data Processing)_
-- **Doximity** - 3 role(s), latest 2026-10-09 - _Business Intelligence Analyst (Contractor)_
-- **Firecrawl** - 3 role(s), latest 2026-10-05 - _Cloud DevOps Engineer_
-- **Lightning AI** - 3 role(s), latest 2026-10-01 - _Senior Infrastructure Software Engineer_
+- **Drata** - 3 role(s), latest 2026-10-23 - _Senior Software Engineer 2_
+- **ID.me** - 3 role(s), 3 intern, latest 2026-10-23 - _Software Development Engineer Intern_
+- **Latent** - 3 role(s), latest 2026-10-12 - _Machine Learning Engineer_
+- **Linkup** - 3 role(s), 2 intern, latest 2026-10-23 - _DevOps Engineer_
 - **Lumaai** - 3 role(s), latest 2026-10-08 - _Research Scientist / Engineer – Training Infrastructure_
+- **Mach9** - 3 role(s), latest 2026-10-21 - _Software Engineer - 3D Graphics_
+- **Mesh** - 3 role(s), latest 2026-10-23 - _Senior Backend Engineer_
 - **Modal** - 3 role(s), latest 2026-10-05 - _Analytics Engineer_
-- **MrBeast** - 3 role(s), latest 2026-10-13 - _Software Engineer_
+- **Nautilus%20Biotechnology** - 3 role(s), latest 2026-10-23 - _Senior Software Engineer II, Instrument Software & Metrology_
 - **Neuralconcept** - 3 role(s), latest 2026-10-15 - _Senior CAE and AI Expert_
 - **Numeral** - 3 role(s), latest 2026-10-06 - _Forward Deployed Engineer_
+- **Odewithanthropic** - 3 role(s), latest 2026-10-09 - _Member of Technical Staff (SF)_
+- **Outset** - 3 role(s), latest 2026-10-23 - _Research Engineer_
 - **PagerDuty** - 3 role(s), latest 2026-10-16 - _Forward Deployed Engineer (SDEV)_
 - **Periodic Labs** - 3 role(s), latest 2026-10-01 - _Research Scientist/Research Engineer, Materials Data_
 - **Persona** - 3 role(s), 1 intern, latest 2026-10-14 - _Research Scientist_
-- **Rhombus Power, Inc.** - 3 role(s), latest 2026-09-22 - _Data Scientist (Secret/Top Secret), Washington D.C._
 - **Rigetti** - 3 role(s), latest 2026-10-15 - _Deployment Infrastructure Engineer_
-- **Substack** - 3 role(s), latest 2026-10-13 - _Full Stack Software Engineer - Payments_
-- **Viam** - 3 role(s), 2 intern, latest 2026-09-18 - _Senior Developer Advocate (San Francisco, CA)_
+- **Specter** - 3 role(s), latest 2026-10-15 - _Software Engineer - Applied AI_
+- **Uare.ai** - 3 role(s), latest 2026-10-20 - _Forward Deployed Engineer (U.S. Government / IL5)_
+- **Aechelon Technology** - 2 role(s), latest 2026-10-21 - _Senior AI Enablement Software Engineer_
+- **Aiprise** - 2 role(s), latest 2026-10-22 - _Bilingual Forward Deployed Engineer (English/Spanish)_
 - **AppLovin** - 2 role(s), latest 2026-09-24 - _ML Data Infrastructure Engineer_
 - **Arc Institute** - 2 role(s), latest 2026-10-12 - _Software Engineer, Lab Platform_
-- **Arize AI** - 2 role(s), latest 2026-09-21 - _Applied AI Engineer_
 - **ARTIFICIAL ANALYSIS** - 2 role(s), latest 2026-10-01 - _ARTIFICIAL ANALYSIS_
 - **Ascend** - 2 role(s), latest 2026-10-06 - _Forward Deployed Engineer_
+- **Assort Health** - 2 role(s), 2 intern, latest 2026-10-16 - _Software Engineer Intern_
 - **Aviatrix** - 2 role(s), latest 2026-09-23 - _Sr. Cloud Network Engineer_
 - **BitGo** - 2 role(s), latest 2026-10-09 - _ Senior Data Engineer_
 - **Bracket Bot** - 2 role(s), latest 2026-09-28 - _Machine Learning Research Engineer_
 - **Braintrust** - 2 role(s), latest 2026-10-13 - _Software Engineer, SDK_
 - **Cardless** - 2 role(s), latest 2026-09-24 - _Software Engineer - Full-Stack_
-- **Column** - 2 role(s), latest 2026-10-13 - _Forward Deployed Engineer_
 - **Datologyai** - 2 role(s), latest 2026-10-08 - _Software Engineer, Infrastructure_
-- **Dyna Robotics** - 2 role(s), latest 2026-09-23 - _Exceptional Software Engineer_
 - **Electricplant** - 2 role(s), latest 2026-09-25 - _Applied AI Engineer, Agent Systems_
+- **Eve** - 2 role(s), latest 2026-10-21 - _Solutions Architect, AI Intake_
+- **Friendliai** - 2 role(s), latest 2026-10-21 - _Software Engineer – Platform Security_
 - **Gamma** - 2 role(s), latest 2026-10-15 - _Software Engineer, Frontend_
+- **General Medicine** - 2 role(s), latest 2026-10-07 - _Software Engineer (Boston)_
+- **Genmo** - 2 role(s), latest 2026-10-19 - _Research Scientist (post-training)_
 - **Ghost** - 2 role(s), latest 2026-10-15 - _Member of Technical Staff - Post-Training_
-- **Hebbia Ai** - 2 role(s), latest 2026-10-05 - _Software Engineer, Infrastructure_
 - **Hex Technologies** - 2 role(s), 2 intern, latest 2026-10-12 - _AI Engineer Intern_
+- **Higharc** - 2 role(s), latest 2026-09-29 - _Software Engineer, Home Design Experience_
+- **Humble Robotics** - 2 role(s), 2 intern, latest 2026-10-20 - _Embedded Software Engineer Intern_
+- **Invisible Technologies** - 2 role(s), latest 2026-10-16 - _Head of Frontier AI_
 - **iRhythm Technologies** - 2 role(s), 2 intern, latest 2026-09-28 - _Embedded SDET Co-op_
 - **Juniper Networks** - 2 role(s), 2 intern, latest 2026-10-12 - _HPC/AI System Admin HW/SW Service Engineer Intern_
-- **Mindrobotics** - 2 role(s), latest 2026-09-25 - _Tech Lead, Software Infrastructure and Fleet Management_
+- **Komodo Health** - 2 role(s), latest 2026-10-23 - _Senior Data Platform Engineer_
+- **MrBeast** - 2 role(s), latest 2026-10-13 - _Sr. Data Scientist_
+- **Mudflap** - 2 role(s), latest 2026-10-21 - _Senior Data Scientist, Product _
 - **New Lantern** - 2 role(s), latest 2026-10-02 - _New Lantern_
-- **Notability** - 2 role(s), latest 2026-09-21 - _Engineer, Backend_
-- **Opusclip** - 2 role(s), latest 2026-10-06 - _Lead AI Researcher_
-- **Orchard** - 2 role(s), latest 2026-09-17 - _Senior Full Stack Software Engineer_
+- **OpenArt AI** - 2 role(s), 2 intern, latest 2026-10-22 - _Early Adopter & Product Builder Intern - Creative AI_
 - **Outset Medical** - 2 role(s), latest 2026-09-30 - _Senior Software Quality Engineer_
-- **Personalis, Inc** - 2 role(s), latest 2026-10-08 - _Sr. Bioinformatics Scientist - Collaborations_
+- **PlanetScale** - 2 role(s), latest 2026-10-21 - _AI Developer Experience Engineer_
 - **Plasmidsaurus** - 2 role(s), latest 2026-10-10 - _Lab Automation Software Engineer_
-- **Poshmark** - 2 role(s), latest 2026-09-18 - _Software Engineer II, Cloud Platform_
+- **Powerline** - 2 role(s), latest 2026-10-19 - _AI Engineer_
 - **Pure Storage** - 2 role(s), 2 intern, latest 2026-10-06 - _Software Engineer Intern_
-- **Rivet Industries** - 2 role(s), 2 intern, latest 2026-10-06 - _Software Engineer Intern - XR Team - Fall 2026_
 - **RRS Group** - 2 role(s), 2 intern, latest 2026-09-25 - _Data Engineering Intern_
+- **Sofarocean** - 2 role(s), latest 2026-10-06 - _Senior Software Engineer_
+- **Speechmatics** - 2 role(s), latest 2026-10-22 - _Developer Relations Advocate_
 - **Stack Ai** - 2 role(s), latest 2026-10-15 - _Senior Software Engineer - Encryption & PHI_
-- **Stellar** - 2 role(s), latest 2026-09-18 - _Staff Software Engineer, C++/Rust_
 - **Strada** - 2 role(s), 2 intern, latest 2026-10-07 - _Software Engineer Intern_
-- **Strava** - 2 role(s), latest 2026-10-15 - _Senior Data Engineer_
 - **Trulioo** - 2 role(s), latest 2026-10-06 - _Staff Engineer or Architect (AI Agentic Team)_
 - **Tubi** - 2 role(s), latest 2026-09-29 - _Director Product, Discovery & AI_
+- **Typeface** - 2 role(s), latest 2026-10-19 - _Staff Cloud Security Engineer _
+- **Uber** - 2 role(s), 2 intern, latest 2026-10-21 - _Software Engineer Intern_
 - **Unity** - 2 role(s), 2 intern, latest 2026-10-13 - _Machine Learning Engineer Intern_
 - **Universalagi** - 2 role(s), latest 2026-10-01 - _ML Engineer_
-- **Upgrade** - 2 role(s), latest 2026-09-29 - _Data Analyst II (Ops Analytics Focus)_
 - **Varick Agents** - 2 role(s), latest 2026-09-28 - _Senior Forward Deployed Engineer_
 - **VLM Run ( https://vlm.run )** - 2 role(s), latest 2026-10-01 - _VLM Run ( https://vlm.run )_
+- **Wisdom Ai** - 2 role(s), latest 2026-10-21 - _Machine Learning Engineer_
 - **Workos** - 2 role(s), latest 2026-10-06 - _Data Engineer_
+- **Zenos** - 2 role(s), latest 2026-10-19 - _Machine Learning Engineer_
 - **Zyphra** - 2 role(s), latest 2026-10-15 - _Machine Learning Systems Administrator / DevOps Engineer: Training Clusters & Inference Cl_
 - **0X** - 1 role(s), latest 2026-10-16 - _Senior Software Engineer, API Products_
 - **Agentmail** - 1 role(s), latest 2026-10-12 - _Developer Success Engineer_
-- **Airops** - 1 role(s), latest 2026-10-14 - _Senior AI Data Analyst_
-- **Akasa** - 1 role(s), latest 2026-09-24 - _Software Engineer, Applied AI_
+- **Airops** - 1 role(s), latest 2026-10-14 - _AI Data Analyst_
 - **Allspice** - 1 role(s), latest 2026-10-13 - _Senior/Staff Software Engineer, AI Platform_
-- **Ambiencehealthcare** - 1 role(s), latest 2026-09-23 - _Senior Software Engineer, Product_
 - **Astrocade** - 1 role(s), latest 2026-09-24 - _ML Engineer_
 - **Autoscience** - 1 role(s), latest 2026-10-12 - _Forward Deployed Engineer_
 - **Azul Systems** - 1 role(s), 1 intern, latest 2026-10-13 - _IT Intern – AI and Operations_
+- **Brettonai** - 1 role(s), latest 2026-10-16 - _Software Engineer, Product_
 - **Bridge Neurotech** - 1 role(s), 1 intern, latest 2026-10-12 - _Machine Learning Software Engineer Intern_
-- **BrightAI Corporation** - 1 role(s), latest 2026-09-18 - _Senior/Staff Firmware Engineer_
 - **Candidhealth** - 1 role(s), latest 2026-10-06 - _AI/ML Engineer_
-- **Cartesia** - 1 role(s), latest 2026-09-24 - _Research Engineer, Data Infrastructure (Language Modeling)_
 - **Causal** - 1 role(s), latest 2026-10-01 - _Member of Technical Staff — DevOps_
 - **Center for AI Safety (CAIS)** - 1 role(s), 1 intern, latest 2026-10-05 - _Research Engineer Intern_
-- **Ceribell, Inc** - 1 role(s), latest 2026-09-16 - _Principal Clinical Research Scientist (Hybrid)_
-- **Chalk** - 1 role(s), latest 2026-10-14 - _Senior/Lead Developer Relations _
+- **Checkbook** - 1 role(s), latest 2026-10-22 - _Senior Full Stack Engineer_
 - **Cisco ThousandEyes** - 1 role(s), latest 2026-10-01 - _Cisco ThousandEyes_
-- **Clockwork Systems** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Engineer Intern_
-- **Cocodelivery** - 1 role(s), latest 2026-09-23 - _Software Engineer_
 - **Column ( https://column.com )** - 1 role(s), latest 2026-10-01 - _Column ( https://column.com )_
 - **Dedalus Labs** - 1 role(s), latest 2026-09-29 - _Platform Engineer_
+- **Elicit** - 1 role(s), latest 2026-10-17 - _Senior Software Engineer, Data and Integrations_
 - **Eloquentai** - 1 role(s), latest 2026-09-30 - _Software Engineer, Front-End, Europe_
 - **Encord** - 1 role(s), latest 2026-10-06 - _Forward Deployed Software Engineer_
 - **etc. (Exploration Technology Corp.)** - 1 role(s), latest 2026-10-01 - _etc. (Exploration Technology Corp.)_
-- **Fable** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineer Intern_
 - **Fazeshift** - 1 role(s), latest 2026-10-01 - _Fazeshift_
 - **Fig** - 1 role(s), latest 2026-10-02 - _Fig_
+- **Firecrawl** - 1 role(s), latest 2026-10-05 - _AI Enablement Lead_
 - **Flowengineering** - 1 role(s), latest 2026-10-09 - _Staff Software Engineer - Security_
 - **Formal** - 1 role(s), latest 2026-09-25 - _Software Engineer_
 - **Genbio** - 1 role(s), 1 intern, latest 2026-10-08 - _Research Scientist Intern, AI Molecular Design (Winter/Spring)_
 - **GenBio AI** - 1 role(s), 1 intern, latest 2026-10-08 - _Research Scientist Intern - AI Molecular Design_
 - **Glacier** - 1 role(s), latest 2026-10-01 - _Director of Computer Vision_
 - **Guild** - 1 role(s), latest 2026-09-24 - _Forward Deployed Engineer _
-- **HackerRank Careers** - 1 role(s), latest 2026-09-22 - _Forward Deployed Engineer_
 - **Hamilton Ai** - 1 role(s), latest 2026-10-07 - _Senior Fullstack Engineer_
 - **Haydenai** - 1 role(s), latest 2026-10-06 - _Engineering Manager, Cloud Infrastructure_
 - **Hedge (YC)** - 1 role(s), latest 2026-10-01 - _Hedge (YC)_
 - **HIFI Labs ( https://hifilabs.co )** - 1 role(s), latest 2026-10-02 - _HIFI Labs ( https://hifilabs.co )_
-- **Highnote** - 1 role(s), latest 2026-10-14 - _Principal Software Engineer _
-- **HomeLight** - 1 role(s), latest 2026-09-17 - _Full Stack Engineer (D2C), San Francisco, CA_
-- **Hubble Network** - 1 role(s), latest 2026-09-22 - _Data Platform Engineer_
 - **Human Computer Lab** - 1 role(s), latest 2026-10-08 - _Research Engineer_
 - **IDEO** - 1 role(s), latest 2026-09-29 - _Senior Software Design Lead_
-- **Infinitus** - 1 role(s), latest 2026-10-16 - _Data Analyst_
-- **Influxdata** - 1 role(s), latest 2026-10-16 - _Developer Advocate_
+- **IDMe University Recruiting** - 1 role(s), 1 intern, latest 2026-10-23 - _Summer Intern 2027 - Analytics Engineer Intern_
+- **Jordan Park Group** - 1 role(s), latest 2026-10-20 - _Associate - Full Stack Software Engineer_
+- **Judgmentlabs** - 1 role(s), latest 2026-10-20 - _Member of Technical Staff, Deployment Engineer_
 - **ko-br** - 1 role(s), latest 2026-10-01 - _ko-br_
 - **Liberate** - 1 role(s), latest 2026-10-09 - _Senior Software Engineer (DevOps / Platform Engineering)_
 - **Listenlabs** - 1 role(s), latest 2026-10-07 - _Member of Technical Staff, Application Security_
-- **Localstack** - 1 role(s), latest 2026-09-21 - _Senior Developer Relations Engineer_
-- **Lucidcomputing** - 1 role(s), latest 2026-09-17 - _Member of Technical Staff — Network Engineer (Software)_
+- **Llamaindex** - 1 role(s), latest 2026-10-08 - _Technical Lead Manager - Platform Engineering_
+- **Mach Industries** - 1 role(s), 1 intern, latest 2026-10-21 - _Engineering Intern, Software/GNC_
 - **Macroscope** - 1 role(s), latest 2026-10-06 - _Senior Infrastructure Engineer_
 - **Materialsecurity** - 1 role(s), latest 2026-10-16 - _Senior Site Reliability Engineer_
 - **Meadow** - 1 role(s), latest 2026-09-30 - _Staff Software Engineer_
 - **Medeloop** - 1 role(s), latest 2026-10-05 - _Forward Deployed Engineer_
 - **Medraai** - 1 role(s), latest 2026-10-01 - _Research Engineer, Post-training_
-- **Meter** - 1 role(s), latest 2026-09-21 - _Firmware Engineer, Data Centers_
+- **Mindrobotics** - 1 role(s), latest 2026-09-25 - _Software Engineer, Data Platform_
+- **Monaco** - 1 role(s), latest 2026-10-16 - _Data Engineer_
 - **Multiplylabs** - 1 role(s), latest 2026-10-09 - _Staff Software Engineer, Infrastructure_
 - **Network Bio** - 1 role(s), latest 2026-10-06 - _AI Scientist_
 - **Noctrix Health** - 1 role(s), latest 2026-10-14 - _Senior Clinical Research Scientist_
+- **Nubank** - 1 role(s), 1 intern, latest 2026-10-19 - _AI Core PhD Research Intern_
 - **Oldcastle BuildingEnvelope** - 1 role(s), latest 2026-10-08 - _CNC Programmer_
 - **Onecrew** - 1 role(s), latest 2026-09-25 - _Senior Software Engineer (Fullstack)_
 - **Opaxa** - 1 role(s), latest 2026-10-05 - _Opaxa_
-- **Oruka Therapeutics** - 1 role(s), latest 2026-09-21 - _Manager/Senior Manager of Statistical Programming _
 - **ParadeDB (YC S23, https://paradedb.com )** - 1 role(s), latest 2026-10-06 - _ParadeDB (YC S23, https://paradedb.com )_
 - **Paraform** - 1 role(s), latest 2026-10-14 - _Technical Lead Manager, AI Platform_
 - **Pathstone** - 1 role(s), latest 2026-10-14 - _Azure Cloud Engineer_
-- **Petual** - 1 role(s), latest 2026-10-01 - _Software Engineer _
+- **Personalis, Inc** - 1 role(s), latest 2026-10-08 - _Sr. Bioinformatics Scientist - Collaborations_
 - **Phinitylabs** - 1 role(s), latest 2026-10-08 - _Research Engineer - Hardware, Data_
-- **Pilgrim** - 1 role(s), latest 2026-09-23 - _Bioinformatics Engineer_
-- **Playground%20Global** - 1 role(s), latest 2026-09-30 - _Senior Business Intelligence Analyst_
+- **Physical Reasoning** - 1 role(s), 1 intern, latest 2026-10-17 - _Software Engineering Intern_
 - **Probablygenetic** - 1 role(s), latest 2026-10-14 - _Senior Data Scientist_
 - **Quilt** - 1 role(s), latest 2026-10-06 - _Software Engineer in Test, Device Software_
 - **QUOBYTE** - 1 role(s), latest 2026-10-01 - _QUOBYTE_
-- **Renesas Electronics** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Engineer Intern_
+- **Rivet Industries** - 1 role(s), 1 intern, latest 2026-10-06 - _Software Engineer Intern_
 - **Role: UX/UI Designer (BAY AREA, CA - HYBRID) 1099 CONTRACT A** - 1 role(s), latest 2026-10-03 - _Role: UX/UI Designer (BAY AREA, CA - HYBRID) 1099 CONTRACT APPLY: https://vuetech.sh/caree_
-- **Rubrik** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineering Intern_
 - **Runlayer** - 1 role(s), latest 2026-09-25 - _Member of Technical Staff - Infrastructure_
 - **Salespatriot** - 1 role(s), latest 2026-10-10 - _Lead Forward Deployed Engineer_
-- **Snapmagic** - 1 role(s), latest 2026-10-09 - _Software Engineer, Electronics Design_
-- **Sunday** - 1 role(s), latest 2026-09-23 - _Robotics Systems Software Integration Engineer_
 - **Superpower** - 1 role(s), latest 2026-09-25 - _Mobile Engineer (iOS)_
 - **Superset (YC P26)** - 1 role(s), latest 2026-10-07 - _Superset (YC P26)_
 - **Swift Solar** - 1 role(s), latest 2026-10-09 - _Staff/Senior Software Engineer _
-- **Sydecar** - 1 role(s), latest 2026-09-17 - _Senior Platform Engineer_
 - **Tbc** - 1 role(s), latest 2026-10-02 - _Staff AI Researcher_
 - **TELEKIN** - 1 role(s), latest 2026-10-02 - _TELEKIN_
 - **Tenki Cloud by Luxor Tech** - 1 role(s), latest 2026-10-05 - _Tenki Cloud by Luxor Tech_
 - **Toolhouse AI** - 1 role(s), latest 2026-10-01 - _Toolhouse AI_
+- **Treasury Prime** - 1 role(s), latest 2026-10-22 - _Senior DevOps Engineer_
 - **Typify.dev ( https://typify.dev )** - 1 role(s), latest 2026-10-12 - _Typify.dev ( https://typify.dev )_
 - **UnitedMasters | Translation** - 1 role(s), latest 2026-10-16 - _Staff Site Reliability Engineer_
 - **Vizcom** - 1 role(s), latest 2026-10-07 - _Data Engineer, Machine Learning_
 - **VOYGR (YC W26)** - 1 role(s), latest 2026-10-01 - _VOYGR (YC W26)_
 - **Watershed** - 1 role(s), latest 2026-10-15 - _Software engineer, cloud infrastructure_
-- **XPENG Motors** - 1 role(s), 1 intern, latest 2026-09-18 - _AI Research Intern - Predictive World Model_
+- **Weee! Inc** - 1 role(s), latest 2026-10-20 - _Senior Machine Learning Engineer_
 
 ### Seattle (34)
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **NewsBreak** - 8 role(s), 1 intern, latest 2026-09-30 - _Founding Product Director, NDot AI_
+- **Field Ai** - 19 role(s), 4 intern, latest 2026-10-19 - _Forward Deployed Engineer_
+- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
 - **F5** - 7 role(s), 5 intern, latest 2026-10-06 - _Software Development Engineer 1_
-- **Blink Health** - 5 role(s), latest 2026-10-09 - _Senior Instructional Designer, AI & Simulation Enablement_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **NewsBreak** - 7 role(s), 1 intern, latest 2026-09-30 - _Founding Product Director, NDot AI_
 - **DoorDash** - 5 role(s), 5 intern, latest 2026-10-08 - _Software Engineer Intern - Summer 2027_
-- **Grow Therapy** - 5 role(s), 2 intern, latest 2026-10-15 - _Senior Data Analyst, Coverage & Payments_
 - **Qumulo** - 5 role(s), 3 intern, latest 2026-10-08 - _Software Development Engineer (Seattle) - Internship 2027_
-- **Reply** - 5 role(s), 1 intern, latest 2026-10-14 - _Data Engineer_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
-- **Rippling** - 4 role(s), 4 intern, latest 2026-09-22 - _Software Engineer Intern - Backend Focused_
-- **Runetech** - 4 role(s), latest 2026-10-06 - _Backend Software Engineer - Sensors and Integrations_
 - **Skyband Systems** - 4 role(s), 4 intern, latest 2026-10-07 - _Software Engineer Intern_
 - **Binti** - 3 role(s), latest 2026-10-06 - _Senior/Staff DevOps Engineer _
 - **Brinc** - 3 role(s), latest 2026-09-29 - _Fullstack Software Engineer, LiveOps_
-- **Lightning AI** - 3 role(s), latest 2026-10-01 - _Senior Infrastructure Software Engineer_
+- **Integrate** - 3 role(s), 3 intern, latest 2026-10-20 - _Software Engineer Intern_
 - **Lumaai** - 3 role(s), latest 2026-10-08 - _Research Scientist / Engineer – Training Infrastructure_
+- **Reply** - 3 role(s), 1 intern, latest 2026-10-14 - _Mid-Level Android Developer_
+- **Aiprise** - 2 role(s), latest 2026-10-22 - _Bilingual Forward Deployed Engineer (English/Spanish)_
 - **Braintrust** - 2 role(s), latest 2026-10-13 - _Software Engineer, SDK_
-- **Centific** - 2 role(s), 1 intern, latest 2026-10-08 - _Software Engineer_
-- **Endurance Energy** - 2 role(s), latest 2026-10-05 - _CNC Machinist/Programmer_
 - **Finvari** - 2 role(s), latest 2026-10-07 - _Frontend / Full-Stack Engineer (Senior or Staff)_
 - **Hiya** - 2 role(s), latest 2026-10-02 - _Hiya_
-- **Orchard** - 2 role(s), latest 2026-09-17 - _Senior Full Stack Software Engineer_
 - **Possible Finance** - 2 role(s), latest 2026-10-02 - _Senior Data Scientist_
-- **Rivet Industries** - 2 role(s), 2 intern, latest 2026-10-06 - _Software Engineer Intern - XR Team - Fall 2026_
+- **Runetech** - 2 role(s), latest 2026-10-06 - _Backend Software Engineer - Distribution_
 - **Taxbit** - 2 role(s), latest 2026-09-24 - _Staff or Principal Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lak_
+- **Typeface** - 2 role(s), latest 2026-10-19 - _Staff Cloud Security Engineer _
+- **Uber** - 2 role(s), 2 intern, latest 2026-10-21 - _Software Engineer Intern_
 - **Yoodli AI Roleplays** - 2 role(s), latest 2026-10-15 - _Principal Data Scientist_
+- **Blueprint Technologies** - 1 role(s), latest 2026-10-22 - _Junior  Azure DevOps Engineer_
 - **Carbon Robotics** - 1 role(s), 1 intern, latest 2026-10-13 - _Engineering Intern - Hardware & Software_
+- **Endurance Energy** - 1 role(s), latest 2026-10-05 - _Senior/Principal Software Engineer_
 - **Network Bio** - 1 role(s), latest 2026-10-06 - _AI Scientist_
 - **Nuance Labs** - 1 role(s), latest 2026-09-29 - _Senior Corporate Counsel — Commercial & AI Data_
 - **Pathstone** - 1 role(s), latest 2026-10-14 - _Azure Cloud Engineer_
 - **Plutus** - 1 role(s), latest 2026-10-01 - _Plutus_
 - **Rakuten International** - 1 role(s), 1 intern, latest 2026-10-14 - _AI Engineer Intern_
 - **Tahoma AI** - 1 role(s), latest 2026-10-02 - _Tahoma AI_
+- **The Allen Institute for AI** - 1 role(s), 1 intern, latest 2026-10-19 - _Research Intern - AI for Science_
 - **Wrapbook** - 1 role(s), latest 2026-10-15 - _Senior Software Engineer II, Applied AI_
 
-### New York City (156)
-- **Hudson River Trading** - 9 role(s), 4 intern, latest 2026-10-06 - _AI Researcher_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **Mastercard** - 8 role(s), 8 intern, latest 2026-10-16 - _Software Engineer Intern_
-- **NewsBreak** - 8 role(s), 1 intern, latest 2026-09-30 - _Founding Product Director, NDot AI_
+### New York City (148)
+- **VIA** - 15 role(s), latest 2026-10-19 - _Data Analytics Engineer_
+- **Fidelity Investments** - 10 role(s), 10 intern, latest 2026-10-21 - _Software Engineer Co-op - Fidelity Center for Applied Technology_
+- **Langchain** - 8 role(s), latest 2026-10-20 - _Software Engineering Manager, AI Observability & Evals Platform (New York, NY)_
+- **Clear Street** - 7 role(s), latest 2026-10-22 - _Senior Data Engineer_
+- **Flex** - 7 role(s), 1 intern, latest 2026-10-19 - _Senior Software Engineer, Backend _
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **NewsBreak** - 7 role(s), 1 intern, latest 2026-09-30 - _Founding Product Director, NDot AI_
 - **Numeric** - 7 role(s), latest 2026-10-07 - _Software Engineer, Product_
 - **Rogo** - 6 role(s), latest 2026-09-29 - _Security Engineer, Cloud_
-- **Blink Health** - 5 role(s), latest 2026-10-09 - _Senior Instructional Designer, AI & Simulation Enablement_
+- **Alchemy** - 5 role(s), latest 2026-10-13 - _Product Lead, Developer Experience _
+- **Asana** - 5 role(s), latest 2026-10-19 - _Senior Staff Engineer, AI_
+- **Autodesk** - 5 role(s), 5 intern, latest 2026-10-19 - _PhD Researcher Intern - Machine Learning for Construction_
 - **DoorDash** - 5 role(s), 5 intern, latest 2026-10-08 - _Software Engineer Intern - Summer 2027_
-- **Grow Therapy** - 5 role(s), 2 intern, latest 2026-10-15 - _Senior Data Analyst, Coverage & Payments_
 - **Lazard** - 5 role(s), 5 intern, latest 2026-09-24 - _Software Engineer Intern - AI & Data Team_
 - **Lilt Corporate** - 5 role(s), latest 2026-10-06 - _Machine Learning Engineer (Real-Time Speech Translation)_
 - **Metropolitan Transportation Authority** - 5 role(s), 5 intern, latest 2026-10-13 - _Data Analyst Intern - Subway Resource & Admin Support - Emerging Talent_
 - **Sigma Computing** - 5 role(s), 5 intern, latest 2026-10-07 - _AI/ML PhD Intern (Summer 2027)_
-- **Alchemy** - 4 role(s), latest 2026-10-13 - _Product Lead, Developer Experience _
-- **Ambrook** - 4 role(s), 2 intern, latest 2026-10-04 - _Software Engineer, AI_
-- **Assured Guaranty** - 4 role(s), 2 intern, latest 2026-09-21 - _Product Software Developer - Front-End_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
 - **Conductorai** - 4 role(s), 3 intern, latest 2026-10-09 - _Forward Deployed Software Engineer_
 - **Dealpath** - 4 role(s), latest 2026-10-05 - _Senior Full Stack Engineer_
-- **Distributed Spectrum** - 4 role(s), latest 2026-10-06 - _Senior Software Engineer, Backend Systems_
+- **DV Trading** - 4 role(s), 2 intern, latest 2026-10-20 - _AI Engineer Intern - Summer 2027_
 - **Healthpeak Properties** - 4 role(s), 4 intern, latest 2026-10-16 - _Forward Deployed Software Engineer Intern_
-- **Higharc** - 4 role(s), latest 2026-09-29 - _Sr. Software Engineer, Structural_
+- **Hover** - 4 role(s), latest 2026-10-20 - _Director of Engineering, Mobile Capture_
 - **Melotech** - 4 role(s), latest 2026-10-15 - _Full-Stack Developer, Music & Audio_
-- **Phizenix** - 4 role(s), latest 2026-10-14 - _Principal AI Engineer_
-- **Rippling** - 4 role(s), 4 intern, latest 2026-09-22 - _Software Engineer Intern - Backend Focused_
+- **Semgrep** - 4 role(s), 2 intern, latest 2026-10-23 - _Senior Engineering Manager, Software Supply Chain Security _
+- **Sony** - 4 role(s), 4 intern, latest 2026-10-22 - _Audio Processing and Machine Learning Intern - Music Technology_
+- **Unify** - 4 role(s), latest 2026-10-20 - _Applied AI Engineer_
 - **Artemis** - 3 role(s), latest 2026-10-11 - _Senior Software Engineer  _
-- **Attain** - 3 role(s), latest 2026-10-15 - _Senior Machine Learning Engineer_
-- **BarkleyOKRP** - 3 role(s), latest 2026-10-16 - _Manager, Data Engineering_
 - **Campfire** - 3 role(s), latest 2026-09-30 - _AI Engineer - Agents_
 - **Cboe** - 3 role(s), 3 intern, latest 2026-10-12 - _Software Engineer Intern - Web_
 - **Courier Health** - 3 role(s), 2 intern, latest 2026-10-06 - _Senior Software Engineer, Frontend_
 - **DataCamp** - 3 role(s), latest 2026-10-07 - _Learning Solution Architect - AI Knowledgeworker_
 - **FalconX** - 3 role(s), latest 2026-10-15 - _Senior Data Analyst_
-- **Fomo Labs** - 3 role(s), latest 2026-09-16 - _Staff Frontend Engineer_
-- **Gemini** - 3 role(s), 2 intern, latest 2026-09-21 - _Software Engineering Intern (Winter 2027)_
 - **IMC Trading** - 3 role(s), 3 intern, latest 2026-10-08 - _Hardware Machine Learning PhD Research Intern_
-- **Lightning AI** - 3 role(s), latest 2026-10-01 - _Senior Infrastructure Software Engineer_
+- **Linkup** - 3 role(s), 2 intern, latest 2026-10-23 - _DevOps Engineer_
 - **Lumaai** - 3 role(s), latest 2026-10-08 - _Research Scientist / Engineer – Training Infrastructure_
 - **Maybern** - 3 role(s), latest 2026-09-29 - _Senior Software Engineer,  Platform_
+- **Mesh** - 3 role(s), latest 2026-10-23 - _Senior Backend Engineer_
 - **Modal** - 3 role(s), latest 2026-10-05 - _Analytics Engineer_
 - **Numeral** - 3 role(s), latest 2026-10-06 - _Forward Deployed Engineer_
+- **Odewithanthropic** - 3 role(s), latest 2026-10-09 - _Member of Technical Staff (SF)_
 - **PagerDuty** - 3 role(s), latest 2026-10-16 - _Forward Deployed Engineer (SDEV)_
-- **Substack** - 3 role(s), latest 2026-10-13 - _Full Stack Software Engineer - Payments_
-- **Viam** - 3 role(s), 2 intern, latest 2026-09-18 - _Senior Developer Advocate (San Francisco, CA)_
+- **Solstice** - 3 role(s), latest 2026-10-20 - _Member of Technical Staff (Applied AI)_
+- **VaynerMedia LLC** - 3 role(s), latest 2026-10-12 - _Adobe_
+- **Viant Technology** - 3 role(s), latest 2026-10-21 - _Senior Software Engineer, TVision_
+- **Voyant Photonics** - 3 role(s), latest 2026-10-22 - _Systems Software Engineer, Hardware Validation_
 - **Withpace** - 3 role(s), 2 intern, latest 2026-10-14 - _Member of GTM Staff, GTM AI Associate Manager_
 - **Adaptivesecurity** - 2 role(s), latest 2026-10-13 - _Software Engineer, Product & Platform_
-- **Agentio** - 2 role(s), latest 2026-09-21 - _Founding Research Engineer, Applied AI_
 - **Aquatic Capital Management** - 2 role(s), latest 2026-10-14 - _Software Engineer, Core Data_
 - **Ardian** - 2 role(s), 2 intern, latest 2026-10-15 - _Data Scientist Intern_
 - **Argon Ai** - 2 role(s), latest 2026-09-28 - _Senior / Staff Backend Engineer, Platform & Search_
-- **Astronomer** - 2 role(s), latest 2026-10-06 - _Senior Software Engineer, Core Platform_
 - **BitGo** - 2 role(s), latest 2026-10-09 - _ Senior Data Engineer_
-- **Bonfireanalytics** - 2 role(s), latest 2026-09-23 - _Staff Data Scientist_
+- **Boston Consulting Group** - 2 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer Intern_
 - **Braintrust** - 2 role(s), latest 2026-10-13 - _Software Engineer, SDK_
-- **Cinder** - 2 role(s), latest 2026-09-25 - _AI/ML Engineer_
+- **Carta** - 2 role(s), latest 2026-10-16 - _Senior Software Engineer II, Investors_
+- **Cedar** - 2 role(s), latest 2026-10-20 - _Software Engineer 3 (Platforms)_
 - **Crosby** - 2 role(s), latest 2026-10-15 - _Member of Technical Staff, Infrastructure_
 - **Eulerity** - 2 role(s), 1 intern, latest 2026-09-30 - _Associate Backend Engineer_
 - **Headstart** - 2 role(s), latest 2026-09-29 - _Senior Engineering Manager, Applied AI_
-- **Hebbia Ai** - 2 role(s), latest 2026-10-05 - _Software Engineer, Infrastructure_
+- **Higharc** - 2 role(s), latest 2026-09-29 - _Software Engineer, Home Design Experience_
 - **IEX** - 2 role(s), 2 intern, latest 2026-10-06 - _Software Engineer Intern_
-- **Impiricus** - 2 role(s), latest 2026-09-23 - _AI Engineer_
+- **Invisible Technologies** - 2 role(s), latest 2026-10-16 - _Head of Frontier AI_
 - **Jain Global** - 2 role(s), 2 intern, latest 2026-10-13 - _Data Engineer Intern_
 - **Leap** - 2 role(s), latest 2026-10-16 - _Head of Data Science & Analytics_
-- **LSEG** - 2 role(s), 2 intern, latest 2026-10-14 - _Software Engineer Intern_
 - **MEMX** - 2 role(s), 2 intern, latest 2026-10-12 - _Data Engineer Intern_
 - **Moonshot** - 2 role(s), latest 2026-10-06 - _Staff Mobile Engineer (Consumer App)_
+- **Msk** - 2 role(s), latest 2026-10-22 - _Software Engineer_
 - **New York City Economic Development Corporation** - 2 role(s), latest 2026-10-13 - _Assistant Vice President, Advanced Data Analytics_
 - **New York Mets** - 2 role(s), 2 intern, latest 2026-10-02 - _Data Science Intern_
 - **Novig** - 2 role(s), latest 2026-10-15 - _Product Data Analyst_
-- **Omnea** - 2 role(s), latest 2026-09-28 - _AI Solutions Lead_
-- **Orchard** - 2 role(s), latest 2026-09-17 - _Senior Full Stack Software Engineer_
 - **Pangram Labs** - 2 role(s), 2 intern, latest 2026-10-04 - _AI Research Intern_
 - **PDT Partners** - 2 role(s), 1 intern, latest 2026-10-01 - _Cloud Computing Engineer_
 - **Perchwell** - 2 role(s), 2 intern, latest 2026-09-29 - _Software Engineer Intern_
 - **Plot Technologies** - 2 role(s), 2 intern, latest 2026-09-29 - _Applied AI Co-op_
 - **Polymarket** - 2 role(s), latest 2026-10-16 - _Staff Backend Engineer_
-- **Pursuit** - 2 role(s), latest 2026-09-28 - _AI Learning Experience Lead_
+- **Rho** - 2 role(s), latest 2026-10-22 - _Senior Data Engineer_
 - **RINSE** - 2 role(s), latest 2026-10-01 - _RINSE_
 - **Root Access** - 2 role(s), latest 2026-10-12 - _Machine Learning Engineer (Physics-based)_
+- **Sandbar** - 2 role(s), latest 2026-10-19 - _Senior/Staff Software Engineer_
 - **Scan Com** - 2 role(s), latest 2026-10-08 - _Senior Software Engineer, Fulfillment_
 - **Stack Ai** - 2 role(s), latest 2026-10-15 - _Senior Software Engineer - Encryption & PHI_
-- **Stellar** - 2 role(s), latest 2026-09-18 - _Staff Software Engineer, C++/Rust_
 - **Tennr** - 2 role(s), latest 2026-09-29 - _Data Engineer_
 - **The Farmer's Dog** - 2 role(s), latest 2026-10-14 - _Data Engineer 2_
-- **Airops** - 1 role(s), latest 2026-10-14 - _Senior AI Data Analyst_
-- **Akasa** - 1 role(s), latest 2026-09-24 - _Software Engineer, Applied AI_
-- **Alloy** - 1 role(s), latest 2026-09-23 - _Senior Cloud Security Engineer_
+- **Trace Labs** - 2 role(s), 2 intern, latest 2026-10-23 - _Robotics Engineer Intern - Hardware & Software_
+- **Tracelabs** - 2 role(s), 1 intern, latest 2026-10-23 - _Machine Learning Engineer, Applied_
+- **Two Sigma** - 2 role(s), 2 intern, latest 2026-10-18 - _Software Engineering Intern - Summer 2027_
+- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
+- **Walrus** - 2 role(s), 2 intern, latest 2026-10-21 - _Full Stack Developer Intern_
+- **Wealth Com** - 2 role(s), latest 2026-10-19 - _Sr Data Engineer_
+- **Airops** - 1 role(s), latest 2026-10-14 - _AI Data Analyst_
 - **AvePoint** - 1 role(s), latest 2026-10-14 - _Director, Business Intelligence_
 - **Bastion** - 1 role(s), latest 2026-10-07 - _Senior Software Engineer_
 - **Batoncorporation** - 1 role(s), latest 2026-10-06 - _Machine Learning Engineer ($400k - $600k salary)_
+- **Bertelsmann** - 1 role(s), 1 intern, latest 2026-10-23 - _Data Science Intern_
 - **Bettermoney** - 1 role(s), latest 2026-10-06 - _Sr Backend Engineer_
 - **BREAKFAST Studio (kinetic art)** - 1 role(s), latest 2026-10-07 - _BREAKFAST Studio (kinetic art)_
-- **Brellium** - 1 role(s), latest 2026-09-23 - _Senior Platform Engineer_
-- **Browserbase** - 1 role(s), latest 2026-09-23 - _Software Engineer (Dashboard) - New York_
 - **Candidhealth** - 1 role(s), latest 2026-10-06 - _AI/ML Engineer_
 - **Credal** - 1 role(s), latest 2026-10-05 - _Software Engineer_
 - **CVector** - 1 role(s), latest 2026-10-02 - _CVector_
 - **Dandy** - 1 role(s), 1 intern, latest 2026-09-30 - _Software Engineering Intern_
+- **Digital Asset** - 1 role(s), latest 2026-10-16 - _Director, Data Architecture (AI Enablement)_
 - **DigitalBridge** - 1 role(s), latest 2026-10-01 - _Principal, Staff Site Reliability_
-- **Doppel** - 1 role(s), latest 2026-10-08 - _Software Engineer, Email_
 - **Duet** - 1 role(s), latest 2026-10-07 - _Senior Full-Stack Engineer_
 - **Encord** - 1 role(s), latest 2026-10-06 - _Forward Deployed Software Engineer_
 - **Engflow** - 1 role(s), latest 2026-10-16 - _Site Reliability Engineer_
-- **Enigma** - 1 role(s), latest 2026-09-18 - _Staff/Senior Data Scientist, Entity Resolution Team_
 - **Epiq Systems** - 1 role(s), 1 intern, latest 2026-09-25 - _Software Engineer Intern_
 - **Estee Lauder Companies** - 1 role(s), latest 2026-10-02 - _Estee Lauder Companies_
-- **Flipturn** - 1 role(s), latest 2026-09-16 - _Senior Software Engineer, Embedded_
 - **FOX** - 1 role(s), 1 intern, latest 2026-09-25 - _Internship Program - Data Analytics_
 - **Fubo** - 1 role(s), latest 2026-10-13 - _Engineering Manager, Backend _
+- **Good Inside** - 1 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
 - **Goodie Ai** - 1 role(s), latest 2026-10-02 - _Senior Software Engineer_
 - **Guild** - 1 role(s), latest 2026-09-24 - _Forward Deployed Engineer _
 - **Harmonic Ai** - 1 role(s), latest 2026-10-13 - _Senior Software Engineer - Backend _
-- **Hauler Hero** - 1 role(s), latest 2026-09-18 - _Senior Backend Engineer, Payments_
-- **Headlands Tech Holdings** - 1 role(s), 1 intern, latest 2026-09-21 - _Deep Learning Research Intern_
+- **Hebbia Ai** - 1 role(s), latest 2026-10-05 - _Frontend Engineer, Agents_
 - **HPS Investment Partners** - 1 role(s), 1 intern, latest 2026-10-06 - _Technology Intern - IT Data & Analytics_
-- **Iterative Health** - 1 role(s), latest 2026-09-18 - _Applied AI Engineer _
+- **K Health** - 1 role(s), latest 2026-10-21 - _Data Engineer_
 - **Kalepa** - 1 role(s), latest 2026-09-24 - _Forward Deployed Engineer - Kalepa for IT_
 - **Kraken Tech** - 1 role(s), latest 2026-10-03 - _Kraken Tech_
 - **Latent%20Defense** - 1 role(s), latest 2026-10-16 - _Staff Software Engineer_
@@ -4108,666 +4171,667 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Listenlabs** - 1 role(s), latest 2026-10-07 - _Member of Technical Staff, Application Security_
 - **Lume Deodorant** - 1 role(s), latest 2026-09-28 - _Staff Software Engineer, DTC_
 - **Madhive** - 1 role(s), latest 2026-10-01 - _Data Analyst Lead_
-- **Mammoth Brands** - 1 role(s), latest 2026-09-28 - _Staff Software Engineer, DTC_
 - **Materialize** - 1 role(s), latest 2026-09-30 - _Forward Deployed Engineer_
 - **Meadow** - 1 role(s), latest 2026-09-30 - _Staff Software Engineer_
 - **Medeloop** - 1 role(s), latest 2026-10-05 - _Forward Deployed Engineer_
-- **Meow** - 1 role(s), latest 2026-09-17 - _Software Engineer - December 2026 Graduates_
 - **Midpage** - 1 role(s), latest 2026-09-25 - _Software Engineer_
-- **Moxxi Digital** - 1 role(s), latest 2026-09-17 - _Analytics Engineer_
+- **Neko Health** - 1 role(s), latest 2026-10-15 - _Lead Software Engineer - Medical OS_
+- **Nivoda** - 1 role(s), latest 2026-10-22 - _Senior Full Stack Engineer – Growth Pod_
+- **Passagehealth** - 1 role(s), latest 2026-10-23 - _Senior Platform Engineer_
 - **Pathstone** - 1 role(s), latest 2026-10-14 - _Azure Cloud Engineer_
 - **Paxoslabs** - 1 role(s), latest 2026-09-25 - _Senior Backend Engineer_
-- **Peec** - 1 role(s), latest 2026-09-22 - _AI Search Manager_
-- **Petra Labs** - 1 role(s), latest 2026-09-29 - _Data Scientist_
+- **Physical Reasoning** - 1 role(s), 1 intern, latest 2026-10-17 - _Software Engineering Intern_
 - **Piramidal, Inc.** - 1 role(s), latest 2026-10-13 - _Senior Backend Engineer_
 - **Polar** - 1 role(s), latest 2026-10-08 - _Platform Engineering_
 - **Pretium** - 1 role(s), 1 intern, latest 2026-10-06 - _AI, Data & Innovation Intern_
-- **Prove** - 1 role(s), latest 2026-10-16 - _Senior Software Engineer - Knowledge Graph_
+- **Pursuit** - 1 role(s), latest 2026-09-28 - _AI Learning Experience Lead_
 - **Rebar** - 1 role(s), latest 2026-10-02 - _Rebar_
-- **ResortPass** - 1 role(s), latest 2026-09-23 - _Staff Software Engineer, Backend Booking Platform & APIs_
+- **Rokt** - 1 role(s), latest 2026-10-22 - _Junior Software Engineer Resident_
 - **Runlayer** - 1 role(s), latest 2026-09-25 - _Member of Technical Staff - Infrastructure_
 - **Sheer Health ( https://www.sheerhealth.com )** - 1 role(s), latest 2026-10-01 - _Sheer Health ( https://www.sheerhealth.com )_
 - **Slingshotai** - 1 role(s), latest 2026-10-06 - _AI Safety Manager_
 - **Sundream Studio** - 1 role(s), latest 2026-10-02 - _Sundream Studio_
 - **super{set} Hive Community ** - 1 role(s), latest 2026-09-24 - _AI Solutions Strategist_
 - **Talkspace** - 1 role(s), latest 2026-10-01 - _Data Analyst_
-- **The National Football League** - 1 role(s), latest 2026-10-12 - _Sr. Manager, Club Revenue Analytics & Data Science_
-- **Tower Research Capital** - 1 role(s), 1 intern, latest 2026-09-17 - _Software Engineer Intern - Summer 2027_
 - **Trunk%20Tools** - 1 role(s), latest 2026-09-24 - _Forward Deployed Engineer_
 - **Versemedical** - 1 role(s), latest 2026-10-07 - _Data Analyst_
-- **Viking Global** - 1 role(s), 1 intern, latest 2026-09-21 - _Data Science Intern_
-- **Vola Dynamics** - 1 role(s), latest 2026-10-02 - _Vola Dynamics_
 - **Walleye Capital** - 1 role(s), 1 intern, latest 2026-10-02 - _Special Projects Developer Intern_
-- **Wilson Elser - Attorneys** - 1 role(s), latest 2026-09-18 - _Data Privacy and AI Governance Attorney_
 - **WithCoverage** - 1 role(s), latest 2026-09-28 - _Forward Deployed Engineer, Growth_
-- **Zaimler** - 1 role(s), latest 2026-09-18 - _Forward Deployed Engineer_
 
-### Chicago (38)
-- **The Hartford** - 10 role(s), 10 intern, latest 2026-09-17 - _Software Engineer Intern - Tech & Data Program_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
+### Chicago (32)
 - **Barnes** - 7 role(s), latest 2026-10-12 - _Data Privacy and AI Associate_
-- **AbbVie** - 6 role(s), 6 intern, latest 2026-09-25 - _Business Technology Solutions Intern - Data & Software Engineering - Undergraduate_
-- **Reply** - 5 role(s), 1 intern, latest 2026-10-14 - _Data Engineer_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **AbbVie** - 5 role(s), 5 intern, latest 2026-09-25 - _Business Technology Solutions Intern - Data & Software Engineering - Undergraduate_
 - **The%20Job%20Sauce** - 5 role(s), latest 2026-10-09 - _Principal Data Engineer - IAA_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
-- **Geneva Trading** - 4 role(s), 4 intern, latest 2026-09-22 - _C++ Developer (Intern) _
+- **DV Trading** - 4 role(s), 2 intern, latest 2026-10-20 - _AI Engineer Intern - Summer 2027_
 - **Life Fitness** - 4 role(s), 4 intern, latest 2026-10-12 - _Android Software Engineer Intern_
 - **William Blair** - 4 role(s), 4 intern, latest 2026-09-28 - _Software Engineering Intern - Wit_
-- **Attain** - 3 role(s), latest 2026-10-15 - _Senior Machine Learning Engineer_
-- **BarkleyOKRP** - 3 role(s), latest 2026-10-16 - _Manager, Data Engineering_
 - **Cboe** - 3 role(s), 3 intern, latest 2026-10-12 - _Software Engineer Intern - Web_
 - **Elevance Health** - 3 role(s), 3 intern, latest 2026-10-02 - _Data Analyst Graduate Intern_
-- **FeverUp** - 3 role(s), latest 2026-09-22 - _AI Search Innovation Lead - Madrid based_
 - **FHLBank Chicago** - 3 role(s), 3 intern, latest 2026-10-05 - _Software Developer Intern - Application Development_
 - **HCSC** - 3 role(s), 3 intern, latest 2026-10-07 - _Developer Intern_
 - **IMC Trading** - 3 role(s), 3 intern, latest 2026-10-08 - _Hardware Machine Learning PhD Research Intern_
-- **NinjaTrader** - 3 role(s), latest 2026-10-09 - _Sr. Software Engineer II, FCM_
 - **Akuna Capital** - 2 role(s), 2 intern, latest 2026-10-07 - _Entry-Level C++ Software Engineer Intern_
+- **Aon** - 2 role(s), 2 intern, latest 2026-10-21 - _IT / AI Engineer Intern_
 - **Aquatic Capital Management** - 2 role(s), latest 2026-10-14 - _Software Engineer, Core Data_
+- **Boston Consulting Group** - 2 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer Intern_
 - **Chamberlain Group** - 2 role(s), 2 intern, latest 2026-09-29 - _Software Engineer 1 Intern - Middleware_
-- **CME Group** - 2 role(s), 1 intern, latest 2026-09-18 - _Software Engineering Intern - Summer 2027_
-- **CTC Lateral - Website & LinkedIn** - 2 role(s), latest 2026-09-17 - _AI Engineer_
 - **Enova** - 2 role(s), 2 intern, latest 2026-09-29 - _Software Engineer Intern_
 - **GCM Grosvenor** - 2 role(s), 2 intern, latest 2026-10-09 - _2027 Software Engineering Summer Intern_
-- **OCC** - 2 role(s), 2 intern, latest 2026-09-17 - _AI Research & Engineering Intern_
 - **Primient** - 2 role(s), 2 intern, latest 2026-10-04 - _Digital Data & Analytics Intern_
-- **Prolaio** - 2 role(s), latest 2026-10-16 - _Data Engineer in Test_
 - **S&C Electric Company** - 2 role(s), 2 intern, latest 2026-10-07 - _Software Engineer Co-op_
 - **Strata Decision Technology** - 2 role(s), latest 2026-10-13 - _Infrastructure Engineer_
 - **UL Solutions** - 2 role(s), 2 intern, latest 2026-09-28 - _Data Science Intern_
-- **Belvederetrading** - 1 role(s), latest 2026-09-24 - _Senior C++ Software Engineer_
 - **Charles River Associates** - 1 role(s), latest 2026-10-07 - _Senior Platform Engineer (IT Services)_
-- **Headlands Tech Holdings** - 1 role(s), 1 intern, latest 2026-09-21 - _Deep Learning Research Intern_
-- **Optiver** - 1 role(s), 1 intern, latest 2026-09-22 - _Software Engineer Co-op_
+- **Home Chef  ** - 1 role(s), latest 2026-10-19 - _Software Engineer II_
+- **New Relic** - 1 role(s), latest 2026-09-29 - _Software Engineer II - Query Gateway_
+- **NinjaTrader** - 1 role(s), latest 2026-10-09 - _Sr. Software Engineer II, FCM_
 - **Rxvantage** - 1 role(s), latest 2026-10-09 - _Business Intelligence Analyst_
 - **STV** - 1 role(s), 1 intern, latest 2026-10-13 - _Data Engineer Intern_
+- **Tastylive** - 1 role(s), latest 2026-09-30 - _Analytics and Business Intelligence Manager _
+- **Tastytrade** - 1 role(s), latest 2026-09-30 - _Analytics and Business Intelligence Manager _
+- **Unlock Health** - 1 role(s), latest 2026-10-23 - _Data Engineer_
 
-### Texas (61)
-- **Qorvo** - 16 role(s), 16 intern, latest 2026-09-18 - _Software Engineer Intern_
-- **Cadence Design Systems** - 8 role(s), 8 intern, latest 2026-10-02 - _Software Engineering Intern_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
+### Texas (58)
+- **Aptiv** - 18 role(s), 18 intern, latest 2026-10-22 - _Compiler Intern - Compiler Team_
+- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
+- **Electronic Arts** - 10 role(s), 10 intern, latest 2026-10-19 - _Software Engineer Intern_
+- **Verizon Communications** - 9 role(s), 9 intern, latest 2026-10-20 - _AI/ML Engineering Intern - Consumer Group_
 - **McKesson** - 8 role(s), 8 intern, latest 2026-10-07 - _Software Engineer Intern_
 - **Barnes** - 7 role(s), latest 2026-10-12 - _Data Privacy and AI Associate_
-- **Plus 2** - 7 role(s), latest 2026-10-02 - _Research Engineer/Senior Research Engineer, 3D Auto-Labeling and Data Flywheel_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **Plus 2** - 7 role(s), latest 2026-10-02 - _Senior/Staff Machine Learning Engineer (Reinforcement Learning), Motion Planning_
 - **Cigna Group** - 6 role(s), 6 intern, latest 2026-09-29 - _Artificial Intelligence Innovation Development Intern_
+- **Copart** - 6 role(s), 6 intern, latest 2026-10-23 - _AI Engineer Intern_
 - **Itron** - 6 role(s), 6 intern, latest 2026-09-29 - _Firmware Engineer Intern_
+- **Marianaminerals** - 6 role(s), latest 2026-10-21 - _Full Stack Software Engineer_
 - **Ryan** - 6 role(s), 6 intern, latest 2026-10-16 - _Software Development Intern_
+- **Insperity** - 5 role(s), 5 intern, latest 2026-10-22 - _Rotational Data Analytics Intern_
 - **State Farm** - 5 role(s), 5 intern, latest 2026-09-24 - _Data Science Intern - Magnet Program - Online MS Analytics_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
-- **Higharc** - 4 role(s), latest 2026-09-29 - _Sr. Software Engineer, Structural_
-- **Lennox International** - 4 role(s), 4 intern, latest 2026-09-17 - _Mobile Applications Intern_
+- **Celestica** - 4 role(s), 4 intern, latest 2026-10-18 - _AI Engineer Intern_
 - **Oceaneering** - 4 role(s), 4 intern, latest 2026-10-08 - _3D Subsea Simulator Software Intern_
 - **Southwest Airlines** - 4 role(s), 4 intern, latest 2026-10-01 - _Software Engineer Intern - Multiple Teams_
 - **Tenstorrent University Jobs** - 4 role(s), 4 intern, latest 2026-10-14 - _AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)_
-- **Valstad** - 4 role(s), 2 intern, latest 2026-09-22 - _Senior Robotics Software Engineer, Motion Planning & Manipulation_
-- **2K** - 3 role(s), latest 2026-10-09 - _Senior Site Reliability Engineer_
 - **Arcadeai** - 3 role(s), latest 2026-10-05 - _Forward Deployed Engineer_
+- **Fundamental** - 3 role(s), latest 2026-10-22 - _AI Deployment Strategist - Houston _
 - **HCSC** - 3 role(s), 3 intern, latest 2026-10-07 - _Developer Intern_
 - **National Life Insurance Company** - 3 role(s), 1 intern, latest 2026-09-30 - _Digital & AI Experience Intern – Summer 2027_
+- **OpenSesame** - 3 role(s), 3 intern, latest 2026-10-22 - _AI Product Builder Intern_
 - **Pelico** - 3 role(s), latest 2026-10-16 - _Lead Forward Deployed Engineer_
-- **Upbound Group** - 3 role(s), 3 intern, latest 2026-09-21 - _Software Engineer Intern_
 - **Aviatrix** - 2 role(s), latest 2026-09-23 - _Sr. Cloud Network Engineer_
-- **GuideStone** - 2 role(s), 2 intern, latest 2026-09-22 - _Software Developer Intern - Software Development_
 - **HMH** - 2 role(s), 2 intern, latest 2026-10-01 - _Software Engineer Intern_
 - **HNTB** - 2 role(s), 2 intern, latest 2026-10-02 - _AI Business Process Developer Intern_
 - **Innovative Signal Analysis** - 2 role(s), latest 2026-09-30 - _FPGA Firmware Engineer_
 - **MetOx International, Inc.** - 2 role(s), 1 intern, latest 2026-10-06 - _MetOx International Futures Invitational - Engineering & Innovation (R&D, Process, Equipme_
 - **National Life** - 2 role(s), 2 intern, latest 2026-10-14 - _Data Science Intern_
 - **Rugged Robotics** - 2 role(s), 2 intern, latest 2026-10-08 - _Robotic Software Intern/Co-op (Spring or Summer 2027)_
-- **SpyCloud** - 2 role(s), latest 2026-10-13 - _Data Engineer II_
-- **University of Texas at Austin** - 2 role(s), 1 intern, latest 2026-10-16 - _Graduate Assistant - AI-Powered Career Success Systems_
+- **Toyota** - 2 role(s), 2 intern, latest 2026-10-21 - _Data Science Intern_
+- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
 - **Whataburger** - 2 role(s), 2 intern, latest 2026-10-14 - _Data Scientist Intern_
-- **WhiteWater Midstream** - 2 role(s), 1 intern, latest 2026-09-21 - _Data Science Intern - Summer 2027_
 - **9 Mothers** - 1 role(s), latest 2026-09-29 - _Robotics Software Engineer_
-- **American Heart Association** - 1 role(s), 1 intern, latest 2026-09-21 - _Data Science Intern - Machine Learning & AI_
 - **applyapply** - 1 role(s), latest 2026-10-01 - _applyapply_
 - **Barrios** - 1 role(s), 1 intern, latest 2026-09-25 - _Data and Computer Engineering/Computer Science Intern_
 - **Barry-Wehmiller** - 1 role(s), 1 intern, latest 2026-10-09 - _Software Engineer Intern_
-- **Brunswick Group** - 1 role(s), latest 2026-09-21 - _AI Engineer_
 - **Charles River Associates** - 1 role(s), latest 2026-10-07 - _Senior Platform Engineer (IT Services)_
 - **Company: esumry.com Location: West Austin TX ONSITE (mostly)** - 1 role(s), latest 2026-10-12 - _Company: esumry.com Location: West Austin TX ONSITE (mostly)_
-- **Conifer Health Solutions** - 1 role(s), 1 intern, latest 2026-09-21 - _BI Developer Intern_
 - **Engflow** - 1 role(s), latest 2026-10-16 - _Site Reliability Engineer_
-- **Flipturn** - 1 role(s), latest 2026-09-16 - _Senior Software Engineer, Embedded_
+- **Flosports** - 1 role(s), latest 2026-10-23 - _Programming Coordinator - Contract_
 - **JustPark** - 1 role(s), latest 2026-10-01 - _JustPark_
-- **MAP** - 1 role(s), latest 2026-09-17 - _Associate Data Engineer_
+- **LPL Financial Holdings** - 1 role(s), 1 intern, latest 2026-10-18 - _Platform Engineer Intern_
 - **MeritFirst** - 1 role(s), latest 2026-10-01 - _MeritFirst_
-- **Mia Labs** - 1 role(s), latest 2026-09-22 - _Senior Software Engineer (Data Platform)_
+- **New Relic** - 1 role(s), latest 2026-09-29 - _Software Engineer II - Query Gateway_
 - **Octane** - 1 role(s), latest 2026-10-01 - _Octane_
 - **Onapsis** - 1 role(s), latest 2026-10-08 - _Site Reliability Engineer II_
 - **Rxvantage** - 1 role(s), latest 2026-10-09 - _Business Intelligence Analyst_
-- **Sentient** - 1 role(s), latest 2026-09-23 - _Applied ML Engineer_
+- **SpyCloud** - 1 role(s), latest 2026-10-13 - _Data Engineer II_
 - **Tahoma AI** - 1 role(s), latest 2026-10-02 - _Tahoma AI_
 - **Teza Technologies** - 1 role(s), latest 2026-10-08 - _Trading Platform Developer_
 - **The US Oncology Network** - 1 role(s), 1 intern, latest 2026-09-24 - _Data Analyst Intern_
 - **TPG Careers Page ** - 1 role(s), latest 2026-10-06 - _Analytics Engineer, Associate _
 - **UJET** - 1 role(s), latest 2026-09-23 - _Data Engineer _
-- **Zekelman Industries** - 1 role(s), 1 intern, latest 2026-09-23 - _Business Intelligence Intern - Program Development_
+- **University of Texas at Austin** - 1 role(s), 1 intern, latest 2026-10-16 - _Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Scie_
 - **Zello** - 1 role(s), latest 2026-09-29 - _Security Engineer- Application & Cloud_
 
-### Boston (45)
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **Cartesian Systems** - 7 role(s), 2 intern, latest 2026-10-15 - _Applied ML/CS PhD Internship (6+ months)_
+### Boston (47)
+- **American Family Insurance Group** - 20 role(s), 20 intern, latest 2026-10-23 - _Web Developer Intern_
+- **Field Ai** - 19 role(s), 4 intern, latest 2026-10-19 - _Forward Deployed Engineer_
+- **VIA** - 15 role(s), latest 2026-10-19 - _Data Analytics Engineer_
+- **Fidelity Investments** - 10 role(s), 10 intern, latest 2026-10-21 - _Software Engineer Co-op - Fidelity Center for Applied Technology_
+- **Merck** - 9 role(s), 8 intern, latest 2026-10-23 - _Computational Toxicology Intern - AI/ML Computational Toxicology_
+- **Langchain** - 8 role(s), latest 2026-10-20 - _Software Engineering Manager, AI Observability & Evals Platform (New York, NY)_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **Autodesk** - 5 role(s), 5 intern, latest 2026-10-19 - _PhD Researcher Intern - Machine Learning for Construction_
 - **Lilt Corporate** - 5 role(s), latest 2026-10-06 - _Machine Learning Engineer (Real-Time Speech Translation)_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
-- **General Medicine** - 4 role(s), latest 2026-10-07 - _Full-Stack Engineer (Boston)_
-- **Maven Agi** - 4 role(s), latest 2026-10-08 - _Staff Software Engineer – Platform Team_
+- **Starburst** - 5 role(s), latest 2026-10-23 - _AI Agent Engineer_
+- **Flagship Pioneering Co-Op Program** - 4 role(s), 4 intern, latest 2026-10-23 - _Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)_
 - **MFS** - 4 role(s), 4 intern, latest 2026-10-01 - _Junior Software Engineer Co-op_
 - **Tenstorrent University Jobs** - 4 role(s), 4 intern, latest 2026-10-14 - _AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)_
-- **Jobber** - 3 role(s), latest 2026-09-29 - _Manager, Software Engineering _
 - **Liberty Mutual** - 3 role(s), 3 intern, latest 2026-10-06 - _Data Science Co-op_
 - **Neuralconcept** - 3 role(s), latest 2026-10-15 - _Senior CAE and AI Expert_
 - **Newton Research** - 3 role(s), latest 2026-10-02 - _Data Scientist_
 - **Osmo** - 3 role(s), latest 2026-09-30 - _Staff Backend Engineer, Data Platform_
 - **Pelico** - 3 role(s), latest 2026-10-16 - _Lead Forward Deployed Engineer_
-- **Wave Life Sciences USA** - 3 role(s), 3 intern, latest 2026-09-18 - _Microsoft Copilot AI Co-op_
+- **Viant Technology** - 3 role(s), latest 2026-10-21 - _Senior Software Engineer, TVision_
+- **AgZen** - 2 role(s), 2 intern, latest 2026-10-16 - _Software Engineer Co-op_
 - **Bevi** - 2 role(s), latest 2026-10-14 - _Director, Electrical & Firmware Engineering_
+- **Boston Consulting Group** - 2 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer Intern_
+- **Bracebridge Capital** - 2 role(s), 2 intern, latest 2026-10-19 - _Northeastern University Software Engineer - Business Intelligence Co-op_
+- **Codametrix** - 2 role(s), latest 2026-10-19 - _Senior Data Engineer_
 - **Found Energy** - 2 role(s), 2 intern, latest 2026-10-05 - _Data Engineer Co-op_
-- **Harbourvest** - 2 role(s), latest 2026-10-16 - _Director, Platform Engineering_
+- **General Medicine** - 2 role(s), latest 2026-10-07 - _Software Engineer (Boston)_
 - **Hometap** - 2 role(s), 1 intern, latest 2026-10-16 - _Digital Analytics Engineer_
-- **Options It** - 2 role(s), latest 2026-09-22 - _C++ Software Developer_
-- **Perk** - 2 role(s), latest 2026-09-16 - _Senior Software Engineer - Boston _
-- **Sevenai** - 2 role(s), latest 2026-09-30 - _AI Solutions Engineer_
+- **Metalenz** - 2 role(s), 2 intern, latest 2026-10-21 - _Camera Software Intern_
+- **Speechmatics** - 2 role(s), latest 2026-10-22 - _Developer Relations Advocate_
 - **Tomorrow.io** - 2 role(s), latest 2026-10-16 - _Meteorological Data Scientist_
-- **Vestmark** - 2 role(s), 2 intern, latest 2026-10-13 - _Software Engineer Co-op_
-- **Wellington Management** - 2 role(s), 2 intern, latest 2026-09-17 - _Business Intelligence Co-op_
-- **AcuityMD** - 1 role(s), latest 2026-10-02 - _Senior Software Engineer, Applications_
-- **Allego** - 1 role(s), latest 2026-09-30 - _Cloud Developer _
+- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
 - **Allspice** - 1 role(s), latest 2026-10-13 - _Senior/Staff Software Engineer, AI Platform_
-- **Beacon Biosignals** - 1 role(s), latest 2026-10-14 - _Staff Software Engineer, PostgreSQL_
 - **Celea Therapeutics** - 1 role(s), latest 2026-10-07 - _IT Systems Manager, AI Administration_
 - **Charles River Associates** - 1 role(s), latest 2026-10-07 - _Senior Platform Engineer (IT Services)_
+- **CommonAI C.I.C.** - 1 role(s), 1 intern, latest 2026-10-20 - _Software Engineer Intern_
+- **Constant Contact** - 1 role(s), latest 2026-10-05 - _Software Engineering Development Program - Hybrid from Waltham, MA_
 - **Ekarobotics** - 1 role(s), latest 2026-10-13 - _Developer Productivity Engineer_
 - **Flok Health** - 1 role(s), latest 2026-10-02 - _Flok Health_
-- **InterSystems** - 1 role(s), 1 intern, latest 2026-09-16 - _Web Development Micro-Intern - Iap_
-- **Iterative Health** - 1 role(s), latest 2026-09-18 - _Applied AI Engineer _
 - **Liberate** - 1 role(s), latest 2026-10-09 - _Senior Software Engineer (DevOps / Platform Engineering)_
 - **Lydian** - 1 role(s), latest 2026-10-15 - _Senior Software Engineer_
 - **Mass General Brigham** - 1 role(s), latest 2026-10-09 - _Postdoctoral Fellow in Artificial Intelligence/Machine Learning for Maternal and Periopera_
-- **Nanopath** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Development Co-op_
-- **Oruka Therapeutics** - 1 role(s), latest 2026-09-21 - _Manager/Senior Manager of Statistical Programming _
 - **PhaseV** - 1 role(s), latest 2026-09-24 - _Senior Data Scientist_
-- **RA Capital Management, LLC** - 1 role(s), latest 2026-09-17 - _Applied AI Scientist_
+- **Redgate** - 1 role(s), 1 intern, latest 2026-10-20 - _Software Engineer Intern_
 - **Reframesystems** - 1 role(s), latest 2026-10-09 - _Staff Software Engineer, Pixels to Parts_
 - **Riverlane** - 1 role(s), 1 intern, latest 2026-10-09 - _Software Engineering Intern_
+- **Superluminal Medicines, Inc.** - 1 role(s), latest 2026-10-23 - _Staff Engineer, Research Informatics and AI_
 - **Wolf & Company** - 1 role(s), 1 intern, latest 2026-10-14 - _AI & Automation Intern_
 
-### Los Angeles (30)
+### Los Angeles (38)
 - **Altruist** - 20 role(s), latest 2026-10-08 - _Senior Back End Engineer_
-- **Hermeus** - 16 role(s), 9 intern, latest 2026-10-09 - _Autonomy Software Engineer_
-- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
-- **General Matter** - 8 role(s), 2 intern, latest 2026-10-05 - _Embedded Software Engineer, Motor Control & Real-Time Systems_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **AbbVie** - 6 role(s), 6 intern, latest 2026-09-25 - _Business Technology Solutions Intern - Data & Software Engineering - Undergraduate_
+- **Field Ai** - 19 role(s), 4 intern, latest 2026-10-19 - _Forward Deployed Engineer_
+- **Hermeus** - 15 role(s), 9 intern, latest 2026-10-09 - _Autonomy Software Engineer_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **Rivian and Volkswagen Group Technologies** - 7 role(s), 7 intern, latest 2026-10-23 - _Software Engineering Intern - Applications - Infotainment & Mobile_
+- **General Matter** - 6 role(s), 1 intern, latest 2026-10-05 - _Embedded Software Engineer, Motor Control & Real-Time Systems_
+- **Inversion Space** - 6 role(s), 6 intern, latest 2026-10-19 - _Avionics Embedded Software Engineer Intern_
 - **Reflect Orbital** - 6 role(s), 6 intern, latest 2026-09-24 - _Embedded Firmware Engineering Intern_
+- **AbbVie** - 5 role(s), 5 intern, latest 2026-09-25 - _Business Technology Solutions Intern - Data & Software Engineering - Undergraduate_
+- **HeyGen** - 5 role(s), 2 intern, latest 2026-10-19 - _AI Video Creator_
 - **Anysignal** - 4 role(s), latest 2026-10-16 - _Embedded Software Engineer, Ground Systems_
 - **Healthpeak Properties** - 4 role(s), 4 intern, latest 2026-10-16 - _Forward Deployed Software Engineer Intern_
+- **Inversion** - 4 role(s), 3 intern, latest 2026-10-19 - _AI & Internal Tools Software Engineer - Summer Internship 2027_
+- **VaynerMedia LLC** - 3 role(s), latest 2026-10-12 - _Adobe_
+- **Viant Technology** - 3 role(s), latest 2026-10-21 - _Senior Software Engineer, TVision_
 - **Amca** - 2 role(s), 2 intern, latest 2026-09-30 - _Software Engineering Internship (Summer 2027)_
 - **Butterflymx** - 2 role(s), latest 2026-10-15 - _Firmware Engineer_
 - **Freeform ( http://freeform.co )** - 2 role(s), latest 2026-10-07 - _Freeform ( http://freeform.co )_
 - **Red6** - 2 role(s), latest 2026-09-25 - _Manufacturing Test Software Engineer _
-- **Remilia** - 2 role(s), latest 2026-10-06 - _Software Engineer_
-- **Thatgamecompany** - 2 role(s), latest 2026-09-23 - _Senior Engine Programmer_
+- **The Honest Company ** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
+- **Thrive Market** - 2 role(s), latest 2026-10-19 - _Site Reliability Engineer_
 - **United Talent Agency** - 2 role(s), latest 2026-10-08 - _Software Development Engineer - Front End_
 - ** TubeScience** - 1 role(s), latest 2026-10-05 - _(Senior) Analytics Engineer_
+- **Absurd Ventures** - 1 role(s), latest 2026-10-23 - _Software Engineer, Gameplay Animation_
 - **Angel City** - 1 role(s), 1 intern, latest 2026-10-16 - _Data Analytics Intern_
 - **Cimgroup** - 1 role(s), latest 2026-09-30 - _Senior Data Scientist_
-- **Enigma** - 1 role(s), latest 2026-09-18 - _Staff/Senior Data Scientist, Entity Resolution Team_
-- **Lightspark** - 1 role(s), latest 2026-09-18 - _Senior Software Engineer, Data & AI_
+- **Faraday Future** - 1 role(s), latest 2026-10-17 - _SDK Platform Engineer_
+- **Loancrate** - 1 role(s), latest 2026-10-23 - _Senior Software Engineer - Security_
 - **Malbon ** - 1 role(s), latest 2026-10-09 - _Data Analyst / Engineer_
 - **MobilityWare** - 1 role(s), latest 2026-10-08 - _Senior Data Analyst_
-- **Oceanus** - 1 role(s), latest 2026-09-25 - _Front-End Software Engineer_
-- **Radiant Industries** - 1 role(s), latest 2026-10-02 - _Senior Software Engineer, Frontend_
 - **Rangeview Inc.** - 1 role(s), latest 2026-10-01 - _Facilities Infrastructure Engineer - MEP _
+- **Remilia** - 1 role(s), latest 2026-10-06 - _Backend Engineer_
+- **Salient Motion** - 1 role(s), latest 2026-10-20 - _Software Engineer_
 - **Seconddinner** - 1 role(s), latest 2026-10-16 - _Contract_
 - **Sony Pictures Entertainment** - 1 role(s), 1 intern, latest 2026-10-14 - _Current Programming Intern, Sony Pictures Television_
+- **Turion Space** - 1 role(s), latest 2026-10-22 - _Staff Ground Software Engineer_
 - **UJET** - 1 role(s), latest 2026-09-23 - _Data Engineer _
 - **Varda Space** - 1 role(s), 1 intern, latest 2026-10-01 - _Flight Software Intern_
 
-### San Diego (5)
+### San Diego (8)
+- **Aptiv** - 18 role(s), 18 intern, latest 2026-10-22 - _Compiler Intern - Compiler Team_
 - **Peraton** - 13 role(s), 13 intern, latest 2026-10-14 - _Software Engineer Intern_
 - **Brain Co.** - 12 role(s), 10 intern, latest 2026-10-14 - _Machine Learning Engineer – Applied AI Co-op Intern_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
 - **Innovative Defense Technologies** - 8 role(s), 8 intern, latest 2026-10-06 - _Software Systems Engineer Intern_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **Drata** - 3 role(s), latest 2026-10-23 - _Senior Software Engineer 2_
+- **SDSU Research Foundation** - 2 role(s), 2 intern, latest 2026-10-21 - _Computer Science Intern_
 - **Trulioo** - 2 role(s), latest 2026-10-06 - _Staff Engineer or Architect (AI Agentic Team)_
 
-### Washington DC (23)
+### Washington DC (20)
+- **VIA** - 15 role(s), latest 2026-10-19 - _Data Analytics Engineer_
 - **Peraton** - 13 role(s), 13 intern, latest 2026-10-14 - _Software Engineer Intern_
 - **Black Canyon Consulting** - 11 role(s), latest 2026-10-14 - _Account Backend Engineer_
-- **i360technologies, Inc.** - 11 role(s), latest 2026-10-14 - _OIC Interface Developer_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
+- **ACT1 Federal** - 9 role(s), latest 2026-10-19 - _Air Mobility Division Scenario Developer_
 - **Innovative Defense Technologies** - 8 role(s), 8 intern, latest 2026-10-06 - _Software Systems Engineer Intern_
-- **Mastercard** - 8 role(s), 8 intern, latest 2026-10-16 - _Software Engineer Intern_
 - **Barnes** - 7 role(s), latest 2026-10-12 - _Data Privacy and AI Associate_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
 - **Bluestaq US External** - 5 role(s), latest 2026-10-07 - _Principal Software Engineer_
 - **Lilt Corporate** - 5 role(s), latest 2026-10-06 - _Machine Learning Engineer (Real-Time Speech Translation)_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
 - **Conductorai** - 4 role(s), 3 intern, latest 2026-10-09 - _Forward Deployed Software Engineer_
-- **Runetech** - 4 role(s), latest 2026-10-06 - _Backend Software Engineer - Sensors and Integrations_
-- **BTI360 Website** - 3 role(s), latest 2026-10-05 - _Backend Python Engineer - Polygraph Required_
-- **Freddie Mac** - 3 role(s), 3 intern, latest 2026-10-01 - _Software Developer Intern - Single-Family_
-- **Rhombus Power, Inc.** - 3 role(s), latest 2026-09-22 - _Data Scientist (Secret/Top Secret), Washington D.C._
 - **BCC** - 2 role(s), latest 2026-10-02 - _BCC_
-- **OpenTeams** - 2 role(s), latest 2026-09-24 - _Platform Engineer, AI/ML Infrastructure_
+- **Easygenerator** - 2 role(s), latest 2026-10-22 - _Full Stack Developer (Relocation to Alexandria)_
+- **Exadel Inc (Website)** - 2 role(s), latest 2026-10-21 - _Lead Software Engineer (Calypso)_
 - **RINSE** - 2 role(s), latest 2026-10-01 - _RINSE_
+- **Runetech** - 2 role(s), latest 2026-10-06 - _Backend Software Engineer - Distribution_
 - **State Affairs** - 2 role(s), 2 intern, latest 2026-10-07 - _Software Engineer Intern_
-- **American College of Obstetricians and Gynecologists** - 1 role(s), latest 2026-09-28 - _Full-Stack Developer_
-- **Blue Sky Innovators** - 1 role(s), latest 2026-10-01 - _Software Developer, Satellite Program - TS/SCI with CI Poly_
+- **STR** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Analyst Intern_
 - **Elliptic** - 1 role(s), latest 2026-09-30 - _Data Science Lead_
-- **Quartermaster** - 1 role(s), latest 2026-09-24 - _Applied Machine Learning Engineer_
+- **Freddie Mac** - 1 role(s), 1 intern, latest 2026-10-01 - _Multifamily Capital Markets Analytics & Engineering Intern_
+- **New Relic** - 1 role(s), latest 2026-09-29 - _Software Engineer II - Query Gateway_
 
 ### Denver / Boulder (10)
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
 - **Blissway** - 5 role(s), latest 2026-10-06 - _Software Engineer_
-- **Ambrook** - 4 role(s), 2 intern, latest 2026-10-04 - _Software Engineer, AI_
 - **AtkinsRéalis** - 3 role(s), 3 intern, latest 2026-10-12 - _Data Scientist Intern - Summer 2027_
-- **BarkleyOKRP** - 3 role(s), latest 2026-10-16 - _Manager, Data Engineering_
 - **Quantinuum** - 3 role(s), 3 intern, latest 2026-10-01 - _Quantum Compiler Intern_
+- **Branchlab** - 2 role(s), latest 2026-10-21 - _Senior Software Development Engineer_
+- **Creative Artists Agency** - 2 role(s), 2 intern, latest 2026-10-19 - _Data Analytics Intern_
 - **Red6** - 2 role(s), latest 2026-09-25 - _Manufacturing Test Software Engineer _
 - **Ricoh** - 2 role(s), 2 intern, latest 2026-10-01 - _Software Development Intern_
 - **Viget** - 2 role(s), 2 intern, latest 2026-10-08 - _Software Developer Intern_
 - **Denver** - 1 role(s), 1 intern, latest 2026-10-09 - _Data Analytics College Intern - Analytics and Innovation_
 
-### Atlanta (22)
-- **Hermeus** - 16 role(s), 9 intern, latest 2026-10-09 - _Autonomy Software Engineer_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **Mastercard** - 8 role(s), 8 intern, latest 2026-10-16 - _Software Engineer Intern_
+### Atlanta (19)
+- **Hermeus** - 15 role(s), 9 intern, latest 2026-10-09 - _Autonomy Software Engineer_
 - **McKesson** - 8 role(s), 8 intern, latest 2026-10-07 - _Software Engineer Intern_
 - **Barnes** - 7 role(s), latest 2026-10-12 - _Data Privacy and AI Associate_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
 - **Qumulo** - 5 role(s), 3 intern, latest 2026-10-08 - _Software Development Engineer (Seattle) - Internship 2027_
-- **Reply** - 5 role(s), 1 intern, latest 2026-10-14 - _Data Engineer_
+- **Playerzero** - 4 role(s), latest 2026-10-22 - _Director, Platform Engineering_
 - **Elevance Health** - 3 role(s), 3 intern, latest 2026-10-02 - _Data Analyst Graduate Intern_
 - **PagerDuty** - 3 role(s), latest 2026-10-16 - _Forward Deployed Engineer (SDEV)_
+- **Acuity** - 2 role(s), 2 intern, latest 2026-10-22 - _Data and AI Intern_
 - **Alston & Bird Law Firm** - 2 role(s), 2 intern, latest 2026-10-06 - _Developer Intern_
-- **Fidelity National Information Services** - 2 role(s), 2 intern, latest 2026-09-17 - _Software Engineer Intern - FIS University Program_
 - **Greenzie** - 2 role(s), latest 2026-10-05 - _Greenzie_
-- **HexArmor** - 2 role(s), latest 2026-09-23 - _Business Intelligence Analyst _
-- **Impiricus** - 2 role(s), latest 2026-09-23 - _AI Engineer_
 - **InComm Payments** - 2 role(s), 2 intern, latest 2026-10-02 - _Data Analyst Intern_
 - **Koch Industries** - 2 role(s), 2 intern, latest 2026-10-08 - _Software Engineer Co-op - Information Technology_
 - **LexisNexis Risk Solutions** - 2 role(s), 2 intern, latest 2026-10-05 - _Data Science Intern_
 - **Papa John's** - 2 role(s), 2 intern, latest 2026-10-09 - _Data Science Intern_
+- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
 - **AECOM** - 1 role(s), 1 intern, latest 2026-10-14 - _Engineering/Data Analytics Intern_
-- **Alembic** - 1 role(s), latest 2026-09-16 - _Senior Site Reliability Engineer_
 - **Gas South** - 1 role(s), 1 intern, latest 2026-10-01 - _Software Engineer Intern_
 - **Rxvantage** - 1 role(s), latest 2026-10-09 - _Business Intelligence Analyst_
 
-### Raleigh-Durham (11)
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
+### Raleigh-Durham (12)
+- **Fidelity Investments** - 10 role(s), 10 intern, latest 2026-10-21 - _Software Engineer Co-op - Fidelity Center for Applied Technology_
 - **Barnes** - 7 role(s), latest 2026-10-12 - _Data Privacy and AI Associate_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
 - **Cigna Group** - 6 role(s), 6 intern, latest 2026-09-29 - _Artificial Intelligence Innovation Development Intern_
 - **Itron** - 6 role(s), 6 intern, latest 2026-09-29 - _Firmware Engineer Intern_
-- **Higharc** - 4 role(s), latest 2026-09-29 - _Sr. Software Engineer, Structural_
-- **Collier Aerospace** - 3 role(s), 3 intern, latest 2026-09-16 - _Software Engineer Intern - Web Applications - Summer 2027_
+- **Bandwidth** - 5 role(s), latest 2026-10-21 - _Applied AI Engineer_
+- **Odewithanthropic** - 3 role(s), latest 2026-10-09 - _Member of Technical Staff (SF)_
 - **State of North Carolina** - 3 role(s), 3 intern, latest 2026-10-05 - _Data Science Intern_
+- **Higharc** - 2 role(s), latest 2026-09-29 - _Software Engineer, Home Design Experience_
 - **IAT Insurance Group** - 2 role(s), 2 intern, latest 2026-09-28 - _Data Engineering & Visualization Intern_
 - **Juniper Networks** - 2 role(s), 2 intern, latest 2026-10-12 - _HPC/AI System Admin HW/SW Service Engineer Intern_
 - **MetLife** - 2 role(s), 2 intern, latest 2026-09-30 - _Data & Analytics Intern_
-- **Relay** - 2 role(s), 2 intern, latest 2026-09-16 - _Software Engineering Intern (Device Team) - Summer 2027_
 
-### Pittsburgh (8)
-- **Bosch Home Comfort** - 8 role(s), 8 intern, latest 2026-10-09 - _AI Security Research Intern_
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
+### Pittsburgh (7)
+- **Field Ai** - 19 role(s), 4 intern, latest 2026-10-19 - _Forward Deployed Engineer_
 - **McKesson** - 8 role(s), 8 intern, latest 2026-10-07 - _Software Engineer Intern_
-- **Blink Health** - 5 role(s), latest 2026-10-09 - _Senior Instructional Designer, AI & Simulation Enablement_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
 - **Arconic** - 4 role(s), 4 intern, latest 2026-09-24 - _ServiceNow Developer Intern_
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
+- **Bosch** - 3 role(s), 3 intern, latest 2026-10-19 - _Software Engineering Co-op_
 - **Covestro** - 2 role(s), 2 intern, latest 2026-10-14 - _Supply Chain Application Developer Co-op_
-- **Howmet Aerospace** - 1 role(s), 1 intern, latest 2026-09-17 - _Artificial Intelligence Intern - AI_
+- **Alstom** - 1 role(s), 1 intern, latest 2026-10-18 - _ATC Software Intern_
 
-### Salt Lake City (9)
+### Salt Lake City (6)
 - **GE Healthcare** - 5 role(s), 5 intern, latest 2026-09-25 - _Software Engineering Co-op - LSS_
 - **Neighbor** - 4 role(s), 3 intern, latest 2026-09-29 - _Data Science Internship (Current PhD) - Summer 2027_
-- **Upbound Group** - 3 role(s), 3 intern, latest 2026-09-21 - _Software Engineer Intern_
 - **Taxbit** - 2 role(s), latest 2026-09-24 - _Staff or Principal Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lak_
-- **Weave** - 2 role(s), 1 intern, latest 2026-10-08 - _Site Reliability Engineer, Cloud Infrastructure_
-- **Acima** - 1 role(s), 1 intern, latest 2026-09-21 - _Software Engineer Intern_
 - **MX Technologies, Inc.** - 1 role(s), latest 2026-10-13 - _Senior Software Engineer I_
 - **Ncino** - 1 role(s), 1 intern, latest 2026-09-30 - _Software Engineer Intern_
 - **Rxvantage** - 1 role(s), latest 2026-10-09 - _Business Intelligence Analyst_
 
-### Portland (4)
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
+### Portland (5)
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
 - **Nike** - 3 role(s), 3 intern, latest 2026-09-29 - _Machine Learning Engineering Undergraduate Intern - Artificial Intelligence - Data_
-- **Panthalassa ** - 2 role(s), latest 2026-10-08 - _Senior Power Infrastructure Engineer_
+- **CreativeX** - 1 role(s), latest 2026-10-23 - _Senior Platform Engineer_
+- **New Relic** - 1 role(s), latest 2026-09-29 - _Software Engineer II - Query Gateway_
 - **Rxvantage** - 1 role(s), latest 2026-10-09 - _Business Intelligence Analyst_
 
-### Phoenix (6)
+### Phoenix (5)
 - **State Farm** - 5 role(s), 5 intern, latest 2026-09-24 - _Data Science Intern - Magnet Program - Online MS Analytics_
 - **Acron Aviation** - 4 role(s), 4 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **Acronaviation** - 4 role(s), 1 intern, latest 2026-09-24 - _Firmware Engineer (Electrical) (Evergreen)_
+- **Acronaviation** - 3 role(s), 1 intern, latest 2026-09-24 - _Firmware Engineer (Electrical) (Evergreen)_
 - **AtkinsRéalis** - 3 role(s), 3 intern, latest 2026-10-12 - _Data Scientist Intern - Summer 2027_
-- **Upgrade** - 2 role(s), latest 2026-09-29 - _Data Analyst II (Ops Analytics Focus)_
 - **Treat Health** - 1 role(s), latest 2026-10-15 - _Treat Health_
 
-### Minneapolis (2)
+### Minneapolis (6)
+- **Eaton** - 6 role(s), 6 intern, latest 2026-10-18 - _Firmware Engineer Intern/Co-op - Research & Development Engineering_
+- **SPS Commerce** - 2 role(s), 2 intern, latest 2026-10-22 - _Software Engineer Intern_
+- **The Honest Company ** - 2 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
 - **Yardstik** - 2 role(s), latest 2026-10-01 - _Yardstik_
+- **Associated Bank** - 1 role(s), 1 intern, latest 2026-10-19 - _Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking_
 - **Dailypay** - 1 role(s), latest 2026-09-24 - _Senior Software Engineer, ML Platform_
 
-### Philadelphia (3)
-- **Reply** - 5 role(s), 1 intern, latest 2026-10-14 - _Data Engineer_
+### Philadelphia (2)
 - **ConnectDER** - 1 role(s), latest 2026-10-13 - _Lead Device Software Engineer, Embedded & Firmware_
 - **Lutron Electronics** - 1 role(s), 1 intern, latest 2026-09-25 - _Software Engineering Co-op_
 
-### Miami (10)
-- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
-- **Kaseya Careers** - 6 role(s), latest 2026-10-02 - _Endpoint Agent – Senior Staff Software Development Engineer in Test _
-- **Boston Consulting Group** - 4 role(s), 2 intern, latest 2026-10-13 - _Forward Deployed AI Engineer - Campus_
-- **Gemini** - 3 role(s), 2 intern, latest 2026-09-21 - _Software Engineering Intern (Winter 2027)_
+### Miami (9)
 - **Pelico** - 3 role(s), latest 2026-10-16 - _Lead Forward Deployed Engineer_
+- **Analytic Partners** - 2 role(s), 2 intern, latest 2026-10-21 - _Data Science Co-op_
 - **Brightstar Ai** - 2 role(s), 2 intern, latest 2026-09-24 - _Applied AI Engineer Intern - Advancing Agent Quality_
-- **Windstar Cruises** - 2 role(s), 2 intern, latest 2026-09-21 - _Revenue and Data Analytics Intern_
+- **Unframe** - 2 role(s), latest 2026-10-19 - _Full Stack Software Engineer (Remote)_
 - **ADT** - 1 role(s), 1 intern, latest 2026-10-13 - _Data, Analytics & AI Intern_
+- **Analyticpartners** - 1 role(s), 1 intern, latest 2026-10-21 - _Data Science Co-Op_
 - **DigitalBridge** - 1 role(s), latest 2026-10-01 - _Principal, Staff Site Reliability_
 - **Inter Miami CF** - 1 role(s), 1 intern, latest 2026-10-16 - _Business Intelligence Intern, Software Development_
+- **Nubank** - 1 role(s), 1 intern, latest 2026-10-19 - _AI Core PhD Research Intern_
 
 ### Detroit / Ann Arbor (5)
-- **Google** - 8 role(s), 8 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **Reply** - 5 role(s), 1 intern, latest 2026-10-14 - _Data Engineer_
+- **Google** - 7 role(s), 7 intern, latest 2026-10-12 - _Software Engineer Intern - Multiple Teams_
+- **Marianaminerals** - 6 role(s), latest 2026-10-21 - _Full Stack Software Engineer_
+- **Reply** - 3 role(s), 1 intern, latest 2026-10-14 - _Mid-Level Android Developer_
 - **Corewell Health** - 2 role(s), 2 intern, latest 2026-10-12 - _Digital Services Generative AI Internship_
-- **May Mobility** - 2 role(s), latest 2026-09-21 - _Lead Machine Learning Engineer_
 - **LG AI Research** - 1 role(s), 1 intern, latest 2026-09-28 - _AI Scientist/Engineer Intern_
 
-### Columbus (2)
-- **The Hartford** - 10 role(s), 10 intern, latest 2026-09-17 - _Software Engineer Intern - Tech & Data Program_
+### Columbus (4)
 - **McKesson** - 8 role(s), 8 intern, latest 2026-10-07 - _Software Engineer Intern_
+- **Horizon Industries** - 6 role(s), latest 2026-10-20 - _Application Programmer (EBS)_
+- **American Electric Power** - 3 role(s), 3 intern, latest 2026-10-20 - _Data Scientist Intern_
+- **Rogue Fitness** - 2 role(s), 2 intern, latest 2026-10-19 - _AI Engineer Intern_
 
-### Nashville (4)
+### Nashville (3)
 - **Barnes** - 7 role(s), latest 2026-10-12 - _Data Privacy and AI Associate_
 - **Qumulo** - 5 role(s), 3 intern, latest 2026-10-08 - _Software Development Engineer (Seattle) - Internship 2027_
-- **Alliance** - 2 role(s), 2 intern, latest 2026-10-12 - _EA & Cloud Intern - Summer 2027 - Franklin, TN_
-- **Udig** - 2 role(s), 2 intern, latest 2026-09-22 - _Software Engineer Intern_
+- **Unlock Health** - 1 role(s), latest 2026-10-23 - _Data Engineer_
 
-### Other US (390)
-- **The Walt Disney Company** - 19 role(s), 17 intern, latest 2026-10-02 - _Systems Software Engineer Intern_
-- **Hermeus** - 16 role(s), 9 intern, latest 2026-10-09 - _Autonomy Software Engineer_
-- **Qorvo** - 16 role(s), 16 intern, latest 2026-09-18 - _Software Engineer Intern_
+### Other US (393)
+- **American Family Insurance Group** - 20 role(s), 20 intern, latest 2026-10-23 - _Web Developer Intern_
+- **Field Ai** - 19 role(s), 4 intern, latest 2026-10-19 - _Forward Deployed Engineer_
+- **Aptiv** - 18 role(s), 18 intern, latest 2026-10-22 - _Compiler Intern - Compiler Team_
+- **Hermeus** - 15 role(s), 9 intern, latest 2026-10-09 - _Autonomy Software Engineer_
+- **VIA** - 15 role(s), latest 2026-10-19 - _Data Analytics Engineer_
 - **Peraton** - 13 role(s), 13 intern, latest 2026-10-14 - _Software Engineer Intern_
+- **Expedia Group** - 12 role(s), 12 intern, latest 2026-10-21 - _Software Development Engineer Intern_
 - **Pluralis Research** - 12 role(s), 2 intern, latest 2026-10-14 - _Research Engineer - Post-Training_
-- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
-- **i360technologies, Inc.** - 11 role(s), latest 2026-10-14 - _OIC Interface Developer_
+- **The Walt Disney Company** - 11 role(s), 9 intern, latest 2026-10-02 - _Software Engineer Intern_
+- **Electronic Arts** - 10 role(s), 10 intern, latest 2026-10-19 - _Software Engineer Intern_
 - **Honeywell** - 10 role(s), 10 intern, latest 2026-09-29 - _Artificial Intelligence/Machine Learning Intern_
-- **Illinois Tool Works** - 10 role(s), 10 intern, latest 2026-10-07 - _Software Engineer Intern_
-- **The Hartford** - 10 role(s), 10 intern, latest 2026-09-17 - _Software Engineer Intern - Tech & Data Program_
-- **Brunswick** - 9 role(s), 9 intern, latest 2026-09-23 - _Software Engineer Intern_
-- **Meridial** - 9 role(s), latest 2026-09-22 - _AI-Assisted Developer Workflows (Trace) AI Task Auditor - Freelance AI Trainer Project_
-- **Bosch Home Comfort** - 8 role(s), 8 intern, latest 2026-10-09 - _AI Security Research Intern_
-- **Cadence Design Systems** - 8 role(s), 8 intern, latest 2026-10-02 - _Software Engineering Intern_
-- **GuidePoint Security** - 8 role(s), 3 intern, latest 2026-10-08 - _AI Security Engineer - North Central region (Remote in the U.S.)_
+- **i360technologies, Inc.** - 10 role(s), latest 2026-10-14 - _OIC Interface Developer_
+- **Textron** - 10 role(s), 10 intern, latest 2026-10-20 - _Software Engineer Co-op - Uncrewed Land & Air_
+- **ACT1 Federal** - 9 role(s), latest 2026-10-19 - _Air Mobility Division Scenario Developer_
+- **Gallup** - 9 role(s), 7 intern, latest 2026-10-13 - _DevOps Engineer_
+- **Inter Carreiras** - 9 role(s), latest 2026-10-23 - _DATA ENGINEER III _
+- **Merck** - 9 role(s), 8 intern, latest 2026-10-23 - _Computational Toxicology Intern - AI/ML Computational Toxicology_
+- **The Toro Company** - 9 role(s), 9 intern, latest 2026-10-19 - _Hardware and Software Engineering Intern_
+- **Verizon Communications** - 9 role(s), 9 intern, latest 2026-10-20 - _AI/ML Engineering Intern - Consumer Group_
+- **Westinghouse Electric Company** - 9 role(s), 9 intern, latest 2026-10-22 - _Computer Engineering / Software Engineering Intern_
 - **Innovative Defense Technologies** - 8 role(s), 8 intern, latest 2026-10-06 - _Software Systems Engineer Intern_
-- **Mastercard** - 8 role(s), 8 intern, latest 2026-10-16 - _Software Engineer Intern_
 - **McKesson** - 8 role(s), 8 intern, latest 2026-10-07 - _Software Engineer Intern_
 - **Barnes** - 7 role(s), latest 2026-10-12 - _Data Privacy and AI Associate_
-- **Gallup** - 7 role(s), 7 intern, latest 2026-10-13 - _Data Science Intern - Summer 2027_
-- **Star Catcher** - 7 role(s), latest 2026-10-12 - _Electrical Engineer - FPGA Firmware_
-- **AbbVie** - 6 role(s), 6 intern, latest 2026-09-25 - _Business Technology Solutions Intern - Data & Software Engineering - Undergraduate_
-- **Anduril** - 6 role(s), 6 intern, latest 2026-10-15 - _Software Engineer Co-op_
+- **Clear Street** - 7 role(s), latest 2026-10-22 - _Senior Data Engineer_
+- **Flex** - 7 role(s), 1 intern, latest 2026-10-19 - _Senior Software Engineer, Backend _
+- **Rivian and Volkswagen Group Technologies** - 7 role(s), 7 intern, latest 2026-10-23 - _Software Engineering Intern - Applications - Infotainment & Mobile_
+- **Allstate** - 6 role(s), 6 intern, latest 2026-10-22 - _Software Engineer Intern_
+- **Amplify** - 6 role(s), 6 intern, latest 2026-10-19 - _AI Scientist Intern_
+- **Aspenview Technology Partners** - 6 role(s), latest 2026-10-21 - _Bilingual AI Software Development Engineer_
 - **Cigna Group** - 6 role(s), 6 intern, latest 2026-09-29 - _Artificial Intelligence Innovation Development Intern_
-- **Espace** - 6 role(s), latest 2026-10-13 - _Core Software Engineer_
+- **Eaton** - 6 role(s), 6 intern, latest 2026-10-18 - _Firmware Engineer Intern/Co-op - Research & Development Engineering_
+- **General Matter** - 6 role(s), 1 intern, latest 2026-10-05 - _Embedded Software Engineer, Motor Control & Real-Time Systems_
+- **Horizon Industries** - 6 role(s), latest 2026-10-20 - _Application Programmer (EBS)_
+- **Inversion Space** - 6 role(s), 6 intern, latest 2026-10-19 - _Avionics Embedded Software Engineer Intern_
 - **Itron** - 6 role(s), 6 intern, latest 2026-09-29 - _Firmware Engineer Intern_
-- **Kpler** - 6 role(s), latest 2026-10-02 - _Back-end Engineer_
 - **Mode Mobile** - 6 role(s), latest 2026-10-09 - _Sr. Backend Engineer - Lumos (Remote)_
-- **Netboxlabs** - 6 role(s), latest 2026-10-09 - _Staff Software Backend Engineer, Tech Lead - Foundations_
-- **Procter & Gamble** - 6 role(s), 6 intern, latest 2026-09-22 - _Data & AI Engineering Intern_
-- **Wikimedia Foundation** - 6 role(s), 2 intern, latest 2026-10-15 - _Senior Data Scientist, Safety & Security_
+- **Siftstack** - 6 role(s), latest 2026-10-09 - _Senior Software Engineer, Full Stack_
+- **AbbVie** - 5 role(s), 5 intern, latest 2026-09-25 - _Business Technology Solutions Intern - Data & Software Engineering - Undergraduate_
+- **Adaptyv** - 5 role(s), latest 2026-10-19 - _Software Engineer, Product_
+- **AGCO** - 5 role(s), 5 intern, latest 2026-10-16 - _AI & Data Science Intern_
+- **Alchemy** - 5 role(s), latest 2026-10-13 - _Product Lead, Developer Experience _
+- **Asana** - 5 role(s), latest 2026-10-19 - _Senior Staff Engineer, AI_
 - **Bluestaq US External** - 5 role(s), latest 2026-10-07 - _Principal Software Engineer_
-- **Excellus BCBS** - 5 role(s), 5 intern, latest 2026-09-23 - _College Intern - AI Engineering_
 - **First Solar (US)** - 5 role(s), 5 intern, latest 2026-10-05 - _Data Science Intern, Device Characterization_
 - **GE Healthcare** - 5 role(s), 5 intern, latest 2026-09-25 - _Software Engineering Co-op - LSS_
+- **Insperity** - 5 role(s), 5 intern, latest 2026-10-22 - _Rotational Data Analytics Intern_
 - **Lilt Corporate** - 5 role(s), latest 2026-10-06 - _Machine Learning Engineer (Real-Time Speech Translation)_
-- **Nelnet** - 5 role(s), 5 intern, latest 2026-10-02 - _Software Engineer Intern - New Ventures_
 - **NetSage** - 5 role(s), latest 2026-10-08 - _Full Stack Developer-Principal_
-- **Saildrone** - 5 role(s), latest 2026-09-21 - _Perception Machine Learning Engineer_
-- **Salmon Group** - 5 role(s), latest 2026-10-13 - _Frontend Engineer (React / Next.js)_
+- **Star Catcher** - 5 role(s), latest 2026-10-12 - _Electrical Engineer - FPGA Firmware_
+- **Starburst** - 5 role(s), latest 2026-10-23 - _AI Agent Engineer_
 - **State Farm** - 5 role(s), 5 intern, latest 2026-09-24 - _Data Science Intern - Magnet Program - Online MS Analytics_
+- **Susquehanna International Group** - 5 role(s), 5 intern, latest 2026-10-18 - _AI Co-op - Drexel University_
 - **The%20Job%20Sauce** - 5 role(s), latest 2026-10-09 - _Principal Data Engineer - IAA_
+- **Ursa Major** - 5 role(s), 4 intern, latest 2026-10-23 - _Director, Enterprise Systems & Software_
 - **Acron Aviation** - 4 role(s), 4 intern, latest 2026-10-12 - _Software Engineer Intern_
-- **Acronaviation** - 4 role(s), 1 intern, latest 2026-09-24 - _Firmware Engineer (Electrical) (Evergreen)_
 - **Arconic** - 4 role(s), 4 intern, latest 2026-09-24 - _ServiceNow Developer Intern_
 - **Astreya** - 4 role(s), 4 intern, latest 2026-10-14 - _AI Infrastructure DC Design Intern_
+- **Celestica** - 4 role(s), 4 intern, latest 2026-10-18 - _AI Engineer Intern_
 - **CentralReach** - 4 role(s), latest 2026-10-06 - _Principal Platform Engineer_
-- **Cole Engineering Services** - 4 role(s), 4 intern, latest 2026-09-21 - _AI Intern_
-- **EMC Insurance** - 4 role(s), 4 intern, latest 2026-09-22 - _Data Science Intern_
-- **Honeycomb.io** - 4 role(s), latest 2026-10-15 - _Senior Software Engineer I - Agent Observability_
-- **Interstates** - 4 role(s), 4 intern, latest 2026-09-21 - _Data Analyst Intern_
-- **Live Oak Bank** - 4 role(s), 4 intern, latest 2026-09-21 - _Artificial Intelligence Enablement & Forward-Deployed Engineering Intern_
-- **Loft Federal** - 4 role(s), latest 2026-10-07 - _Cloud Infrastructure Engineer_
-- **MegazoneCloud** - 4 role(s), 4 intern, latest 2026-09-18 - _Data Engineer Co-op_
-- **Meridianlink** - 4 role(s), latest 2026-10-14 - _Sr. Software Engineer_
-- **Ondo Finance** - 4 role(s), latest 2026-10-02 - _Infrastructure Engineer (DevOps)_
-- **OpenEye** - 4 role(s), latest 2026-10-13 - _DevOps Engineer II_
+- **Espace** - 4 role(s), latest 2026-10-13 - _Core Software Engineer_
+- **Hover** - 4 role(s), latest 2026-10-20 - _Director of Engineering, Mobile Capture_
+- **Impulse Space** - 4 role(s), 4 intern, latest 2026-10-16 - _Flight Software Engineer Intern - Summer 2027_
+- **Kpler** - 4 role(s), latest 2026-10-02 - _Full Stack Engineer_
 - **Pacific Life** - 4 role(s), 4 intern, latest 2026-09-25 - _Software Engineering Intern_
-- **Phizenix** - 4 role(s), latest 2026-10-14 - _Principal AI Engineer_
-- **Praxis Precision Medicines, Inc. ** - 4 role(s), latest 2026-10-15 - _Patient Ambassador Programming Lead (Associate Director level)_
-- **Preply** - 4 role(s), latest 2026-10-13 - _Senior Platform Software Engineer - R&D Automation_
 - **Quantum Signal AI** - 4 role(s), 4 intern, latest 2026-10-05 - _Embedded and Real-Time Software Intern_
 - **Resend** - 4 role(s), latest 2026-10-09 - _Backend Engineer_
 - **Roboflow** - 4 role(s), latest 2026-10-12 - _Member of Technical Staff_
-- **SirenOpt** - 4 role(s), latest 2026-10-16 - _Metrology Data Scientist_
-- **Abacus Insights** - 3 role(s), latest 2026-10-09 - _Forward Deployed Data Engineer_
+- **Sony** - 4 role(s), 4 intern, latest 2026-10-22 - _Audio Processing and Machine Learning Intern - Music Technology_
+- **Trading212** - 4 role(s), latest 2026-09-29 - _Mid Backend Engineer_
+- **Acronaviation** - 3 role(s), 1 intern, latest 2026-09-24 - _Firmware Engineer (Electrical) (Evergreen)_
 - **Alliance Laundry Systems** - 3 role(s), 3 intern, latest 2026-10-06 - _Data & Analytics Intern_
 - **Artemis** - 3 role(s), latest 2026-10-11 - _Senior Software Engineer  _
-- **Attain** - 3 role(s), latest 2026-10-15 - _Senior Machine Learning Engineer_
-- **BarkleyOKRP** - 3 role(s), latest 2026-10-16 - _Manager, Data Engineering_
+- **Bosch** - 3 role(s), 3 intern, latest 2026-10-19 - _Software Engineering Co-op_
+- **Carrier Global** - 3 role(s), 3 intern, latest 2026-10-23 - _Software Engineer Intern_
 - **Cboe** - 3 role(s), 3 intern, latest 2026-10-12 - _Software Engineer Intern - Web_
-- **Collier Aerospace** - 3 role(s), 3 intern, latest 2026-09-16 - _Software Engineer Intern - Web Applications - Summer 2027_
+- **CenturyLink** - 3 role(s), 3 intern, latest 2026-10-16 - _AI Product & Business Innovation Intern_
+- **CIQ** - 3 role(s), latest 2026-09-30 - _Linux Kernel Development Engineer - Live Patching _
+- **Cir** - 3 role(s), 2 intern, latest 2026-10-20 - _Software Engineering Intern_
 - **Core One** - 3 role(s), latest 2026-10-05 - _Data Engineer_
-- **Curri** - 3 role(s), latest 2026-09-24 - _Staff Software Engineer _
+- **Coretek Services** - 3 role(s), 3 intern, latest 2026-10-23 - _AI & Automation Development Intern_
 - **Cyberhaven** - 3 role(s), latest 2026-10-12 - _Senior/ Staff Software Engineer (Data Processing)_
 - **DataCamp** - 3 role(s), latest 2026-10-07 - _Learning Solution Architect - AI Knowledgeworker_
-- **Dominion Energy** - 3 role(s), 3 intern, latest 2026-09-22 - _Business Intelligence Analyst Intern - Grid Resiliency_
+- **eClinical Solutions** - 3 role(s), latest 2026-10-19 - _Principal Software Architect_
 - **Economicmodeling** - 3 role(s), latest 2026-10-07 - _Associate Applied ML Scientist - 1087_
 - **Election Systems & Software** - 3 role(s), 3 intern, latest 2026-10-02 - _DevOps Intern_
 - **Exponential** - 3 role(s), 1 intern, latest 2026-10-05 - _Research Intern - AI Security_
-- **FeverUp** - 3 role(s), latest 2026-09-22 - _AI Search Innovation Lead - Madrid based_
+- **Fundamental** - 3 role(s), latest 2026-10-22 - _AI Deployment Strategist - Houston _
 - **H&R Block** - 3 role(s), 3 intern, latest 2026-09-29 - _Machine Learning Intern_
-- **Jobber** - 3 role(s), latest 2026-09-29 - _Manager, Software Engineering _
+- **INFUSE** - 3 role(s), latest 2026-10-21 - _Senior DevOps Engineer (Remote, Contract)_
+- **Ivanti** - 3 role(s), latest 2026-10-23 - _Full-Stack Web Developer_
+- **Loft Federal** - 3 role(s), latest 2026-10-07 - _Cloud Infrastructure Engineer_
 - **Lumaai** - 3 role(s), latest 2026-10-08 - _Research Scientist / Engineer – Training Infrastructure_
+- **Mesh** - 3 role(s), latest 2026-10-23 - _Senior Backend Engineer_
 - **Numeral** - 3 role(s), latest 2026-10-06 - _Forward Deployed Engineer_
-- **ONE Finance** - 3 role(s), 3 intern, latest 2026-09-22 - _AI Research Intern_
+- **OpenSesame** - 3 role(s), 3 intern, latest 2026-10-22 - _AI Product Builder Intern_
 - **Osmo** - 3 role(s), latest 2026-09-30 - _Staff Backend Engineer, Data Platform_
-- **Ozow** - 3 role(s), latest 2026-10-07 - _Agentic AI Engineer _
 - **PerfectServe** - 3 role(s), latest 2026-09-24 - _Data Engineer - US Remote_
-- **Placer.ai** - 3 role(s), latest 2026-09-30 - _Senior AI Software Engineer_
 - **POET** - 3 role(s), 3 intern, latest 2026-09-28 - _Data Engineer Intern_
-- **Ragle Inc** - 3 role(s), 3 intern, latest 2026-09-16 - _Data Engineering Intern_
-- **RF-SMART** - 3 role(s), 3 intern, latest 2026-10-12 - _Software Support Engineer Intern - Netsuite_
-- **Sourcegraph** - 3 role(s), latest 2026-10-01 - _ML & Agentic Systems Engineer [IC4]_
+- **Praxis Precision Medicines, Inc. ** - 3 role(s), latest 2026-10-15 - _Patient Ambassador Programming Lead (Associate Director level)_
 - **State of North Carolina** - 3 role(s), 3 intern, latest 2026-10-05 - _Data Science Intern_
-- **Trading212** - 3 role(s), latest 2026-09-29 - _Mid Backend Engineer_
-- **Trust Wallet** - 3 role(s), latest 2026-10-02 - _Senior Data Engineer_
-- **Udacity** - 3 role(s), latest 2026-10-06 - _On-Call Maintenance Specialist, Data Science - Contract Role (India)_
+- **Sun Life** - 3 role(s), 3 intern, latest 2026-10-23 - _Data Science Intern_
+- **VaynerMedia LLC** - 3 role(s), latest 2026-10-12 - _Adobe_
 - **Walgreens** - 3 role(s), 3 intern, latest 2026-10-14 - _Data Science Intern_
-- **Wave Life Sciences USA** - 3 role(s), 3 intern, latest 2026-09-18 - _Microsoft Copilot AI Co-op_
-- **Acorns** - 2 role(s), latest 2026-10-16 - _Sr. Martech Engineer, Mobile_
-- **Afference** - 2 role(s), latest 2026-09-21 - _SDK/Platform Engineer_
-- **American Equity** - 2 role(s), 2 intern, latest 2026-09-17 - _Data Engineer Intern_
+- **Abacus Insights** - 2 role(s), latest 2026-09-28 - _Senior AI Systems Quality Engineer_
+- **Acuity** - 2 role(s), 2 intern, latest 2026-10-22 - _Data and AI Intern_
+- **Aechelon Technology** - 2 role(s), latest 2026-10-21 - _Senior AI Enablement Software Engineer_
+- **American Fidelity** - 2 role(s), 2 intern, latest 2026-10-19 - _Software Developer Intern_
+- **Americo Financial Life and Annuity** - 2 role(s), 2 intern, latest 2026-10-23 - _Artificial Intelligence Intern_
 - **Apollo.io** - 2 role(s), latest 2026-10-16 - _Partner Manager, AI Ecosystems_
 - **Arc** - 2 role(s), 2 intern, latest 2026-10-02 - _Software Engineer Intern_
 - **Arcfield** - 2 role(s), 2 intern, latest 2026-10-06 - _Software Engineer-On Call Intern_
-- **Arize AI** - 2 role(s), latest 2026-09-21 - _Applied AI Engineer_
 - **Arlo Solutions LLC** - 2 role(s), latest 2026-09-29 - _(760) Data Analyst_
 - **Artera** - 2 role(s), latest 2026-10-08 - _Machine Learning Scientist, Computational Pathology_
+- **ARX Robotics GmbH** - 2 role(s), latest 2026-10-08 - _Junior ⁠Software Service Engineer   _
 - **Ascension** - 2 role(s), 2 intern, latest 2026-10-12 - _Software Engineer Intern - Studio Engineering Product Delivery_
-- **Astronomer** - 2 role(s), latest 2026-10-06 - _Senior Software Engineer, Core Platform_
 - **At Tether ( https://tether.io/ ) we're hiring! We envision a** - 2 role(s), latest 2026-10-02 - _At Tether ( https://tether.io/ ) we're hiring! We envision a world where technology enable_
-- **AutoZone** - 2 role(s), 2 intern, latest 2026-09-21 - _Data Science Intern_
-- **Avis Budget Group** - 2 role(s), 2 intern, latest 2026-09-17 - _IT Data Analytics Intern_
 - **Badger Meter** - 2 role(s), 2 intern, latest 2026-10-08 - _Software Engineering Intern_
+- **BarkleyOKRP** - 2 role(s), latest 2026-10-16 - _Senior Infrastructure Engineer_
+- **Bauer Hockey/ Cascade Maverik Lacrosse** - 2 role(s), latest 2026-10-21 - _Bauer/ Cascade Maverik: Business Systems & Analytics Developer_
+- **Berkshire Hathaway Energy** - 2 role(s), 2 intern, latest 2026-10-20 - _Software Engineer Intern_
 - **Biogen** - 2 role(s), 2 intern, latest 2026-10-06 - _Data Science Co-op_
+- **BridgeBio Pharma** - 2 role(s), latest 2026-10-21 - _Associate Director/Director of Statistical Programming_
 - **Brilliant.org** - 2 role(s), latest 2026-10-01 - _Brilliant.org_
+- **Brookhaven Lab** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Engineering Student Assistant Intern_
 - **Businessolver** - 2 role(s), 2 intern, latest 2026-10-14 - _Business Intelligence Intern - Innovation & Data Science_
 - **Butterflymx** - 2 role(s), latest 2026-10-15 - _Firmware Engineer_
 - **Cadence Solutions** - 2 role(s), 2 intern, latest 2026-10-06 - _Software Engineer Intern_
 - **CapTech Consulting** - 2 role(s), 2 intern, latest 2026-10-12 - _Data Analysis/Data Engineering Intern_
-- **Carrot** - 2 role(s), latest 2026-09-17 - _Business Intelligence Analytics Engineer_
-- **Centific** - 2 role(s), 1 intern, latest 2026-10-08 - _Software Engineer_
+- **Cedar** - 2 role(s), latest 2026-10-20 - _Software Engineer 3 (Platforms)_
 - **Chronograph (chronograph.pe)** - 2 role(s), latest 2026-10-10 - _Chronograph (chronograph.pe)_
 - **Close** - 2 role(s), latest 2026-10-05 - _Full Stack Data Analyst - GTM (USA Only, 100% Remote)_
 - **Clēnera** - 2 role(s), 2 intern, latest 2026-10-06 - _Data Engineer Intern_
+- **Cognex** - 2 role(s), 2 intern, latest 2026-10-19 - _Software Engineer Intern_
+- **Coherent Solutions** - 2 role(s), latest 2026-10-06 - _ML Engineer_
 - **Colonist** - 2 role(s), latest 2026-09-29 - _DevOps Engineer_
-- **Commerce Bank** - 2 role(s), 2 intern, latest 2026-09-21 - _Data Science Intern_
+- **Convene Hospitality Group** - 2 role(s), latest 2026-10-23 - _Analytics Engineer_
 - **Corewell Health** - 2 role(s), 2 intern, latest 2026-10-12 - _Digital Services Generative AI Internship_
-- **Cotiviti** - 2 role(s), 2 intern, latest 2026-09-22 - _Generative AI Research Engineer Intern_
+- **Cryptic Vector** - 2 role(s), 2 intern, latest 2026-10-20 - _Full Stack Developer Intern_
+- **Curri** - 2 role(s), latest 2026-09-24 - _Senior Software Engineer, Mobile _
 - **Customer.io** - 2 role(s), latest 2026-09-24 - _Staff Software Engineer, Backend_
 - **Dayton Freight Lines** - 2 role(s), 2 intern, latest 2026-10-05 - _Software Developer Intern_
 - **DEFCON AI** - 2 role(s), latest 2026-10-01 - _ML Engineer, Retrieval & Grounded Generation _
-- **Definium Therapeutics** - 2 role(s), latest 2026-10-07 - _Associate Director, Statistical Programming_
 - **Doctolib** - 2 role(s), 2 intern, latest 2026-10-12 - _Software Engineering intern - Fullstack (x/f/m) - Nantes_
+- **Easygenerator** - 2 role(s), latest 2026-10-22 - _Full Stack Developer (Relocation to Alexandria)_
 - **Enterprise Holdings** - 2 role(s), 2 intern, latest 2026-09-24 - _Software Engineer Intern - Summer 2027_
 - **Enveritas (YC S18, non-profit)** - 2 role(s), latest 2026-10-01 - _Enveritas (YC S18, non-profit)_
-- **First Due** - 2 role(s), latest 2026-09-28 - _Mobile Application Lead Developer_
+- **Eve** - 2 role(s), latest 2026-10-21 - _Solutions Architect, AI Intake_
+- **Exadel Inc (Website)** - 2 role(s), latest 2026-10-21 - _Lead Software Engineer (Calypso)_
+- **FedEx Freight** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Scientist Intern_
 - **GAF** - 2 role(s), 2 intern, latest 2026-10-12 - _Data Science (AI) Intern_
-- **GE Appliances** - 2 role(s), 2 intern, latest 2026-09-29 - _Software Engineer Co-op_
+- **GiveDirectly** - 2 role(s), latest 2026-10-02 - _Senior Software Engineer (Fundraising) — Remote_
 - **Greenheck Group** - 2 role(s), 2 intern, latest 2026-09-25 - _Application Developer Co-op_
 - **Guardsquare** - 2 role(s), latest 2026-09-29 - _Java R&D Software Engineer - Leuven_
 - **Harness ** - 2 role(s), latest 2026-10-14 - _Forward Deployed Engineer - DevOps/SRE_
 - **Havocai** - 2 role(s), latest 2026-09-24 - _Engineering Manager, Perception and Machine Learning _
 - **Heven AeroTech** - 2 role(s), 1 intern, latest 2026-09-24 - _Sr. Machine Learning Engineer, Autonomy_
-- **HexArmor** - 2 role(s), latest 2026-09-23 - _Business Intelligence Analyst _
 - **Hiring for several roles at StudyTurtle, an edutainment bran** - 2 role(s), 1 intern, latest 2026-10-01 - _Hiring for several roles at StudyTurtle, an edutainment brand building learning videos for_
 - **Hometap** - 2 role(s), 1 intern, latest 2026-10-16 - _Digital Analytics Engineer_
 - **HopSkipDrive** - 2 role(s), latest 2026-10-12 - _Engineering Manager, Platform & DevOps_
+- **Hostinger** - 2 role(s), latest 2026-10-22 - _PHP Developer_
 - **InComm Payments** - 2 role(s), 2 intern, latest 2026-10-02 - _Data Analyst Intern_
 - **Indie** - 2 role(s), 2 intern, latest 2026-10-14 - _Applications Software Developer Intern_
+- **Jobber** - 2 role(s), latest 2026-09-29 - _Staff Data Engineer _
 - **Juniper Networks** - 2 role(s), 2 intern, latest 2026-10-12 - _HPC/AI System Admin HW/SW Service Engineer Intern_
+- **K1** - 2 role(s), 2 intern, latest 2026-10-20 - _AI Intern_
 - **Koch Industries** - 2 role(s), 2 intern, latest 2026-10-08 - _Software Engineer Co-op - Information Technology_
 - **Leap** - 2 role(s), latest 2026-10-16 - _Head of Data Science & Analytics_
-- **LLNL** - 2 role(s), 2 intern, latest 2026-09-18 - _Data Science Institute Undergraduate Intern_
 - **Loram** - 2 role(s), 2 intern, latest 2026-10-09 - _Machine Learning / Artificial Intelligence Intern_
+- **M&T Bank** - 2 role(s), 2 intern, latest 2026-10-22 - _Technology Intern - Software Engineering - Enterprise API Services Development Team_
 - **Macy's** - 2 role(s), 2 intern, latest 2026-10-14 - _Software Engineer Intern_
-- **Magnetforensics** - 2 role(s), latest 2026-10-09 - _AI & Automation Engineer (Enterprise)_
 - **Mapbox** - 2 role(s), latest 2026-10-06 - _Head of Developer Relations _
-- **May Mobility** - 2 role(s), latest 2026-09-21 - _Lead Machine Learning Engineer_
 - **Midland States Bank** - 2 role(s), 2 intern, latest 2026-10-05 - _AI Solutions Engineer Intern_
 - **Mindex** - 2 role(s), 2 intern, latest 2026-10-02 - _Software Engineer Co-op_
-- **Miris** - 2 role(s), latest 2026-09-16 - _Backend Engineer (Senior+)_
-- **Moment Energy** - 2 role(s), 2 intern, latest 2026-10-06 - _Data Scientist Co-op_
 - **Montecarlodata** - 2 role(s), latest 2026-09-30 - _Senior Backend Engineer_
+- **MSA Safety** - 2 role(s), 2 intern, latest 2026-10-23 - _AI Engineer Co-op_
+- **Mystenlabs** - 2 role(s), latest 2026-10-20 - _Software Engineer, Partner Solutions (Greece)_
 - **Nadia Care** - 2 role(s), latest 2026-09-25 - _Director of Data Analytics & Outcomes Research_
-- **Oasis Health Partners** - 2 role(s), latest 2026-10-07 - _Director of Data Science_
-- **OpenTeams** - 2 role(s), latest 2026-09-24 - _Platform Engineer, AI/ML Infrastructure_
-- **Pennylane** - 2 role(s), latest 2026-09-18 - _Senior Backend Software Engineer_
-- **phData** - 2 role(s), latest 2026-10-08 - _AI Services Lead - Client Services_
-- **Prenuvo** - 2 role(s), latest 2026-09-30 - _Senior Backend Engineer II - Data_
+- **Onhires** - 2 role(s), latest 2026-10-21 - _Senior Technical Trainer — Machine Learning Remote, worldwide_
+- **Ophelia** - 2 role(s), latest 2026-10-05 - _Data Scientist_
+- **Peoplecorporation** - 2 role(s), latest 2026-09-30 - _Data Analyst_
+- **PlanetScale** - 2 role(s), latest 2026-10-21 - _AI Developer Experience Engineer_
 - **Prophet Town LLC** - 2 role(s), latest 2026-10-03 - _Prophet Town LLC_
-- **Pushpay** - 2 role(s), latest 2026-10-05 - _Senior Software Engineer_
-- **Quanata** - 2 role(s), latest 2026-10-09 - _Senior SDET, Back End [Remote-US]_
+- **QTS** - 2 role(s), 2 intern, latest 2026-10-19 - _Tableau Analytics and Business Intelligence Intern_
 - **Red Ventures** - 2 role(s), 2 intern, latest 2026-09-25 - _Data Science Intern - Launch Program_
+- **Rendezvous Robotics** - 2 role(s), 1 intern, latest 2026-10-22 - _Flight Software Engineer (Early Career)_
+- **Rho** - 2 role(s), latest 2026-10-22 - _Senior Data Engineer_
 - **Risepoint** - 2 role(s), 2 intern, latest 2026-09-29 - _Analytics Engineering Co-op_
+- **Rochester Regional Health** - 2 role(s), 2 intern, latest 2026-10-21 - _Data & Analytics Services Co-op_
 - **Runway** - 2 role(s), latest 2026-10-02 - _Runway_
-- **Sash** - 2 role(s), latest 2026-09-22 - _Research Engineer / Research Scientist, Zero-Knowledge Verification_
+- **Safran** - 2 role(s), 2 intern, latest 2026-10-21 - _Software Engineering Intern_
+- **Salmon Group** - 2 role(s), latest 2026-09-29 - _Senior Analytics Engineer_
 - **Seeq** - 2 role(s), latest 2026-10-02 - _Seeq_
-- **SixGen, Inc.** - 2 role(s), latest 2026-10-08 - _AI/ML Engineer-TS/SCI  & CI POLY_
 - **Software Engineer — Remote — US Only** - 2 role(s), latest 2026-10-02 - _Software Engineer — Remote — US Only_
 - **SoloPulse** - 2 role(s), 2 intern, latest 2026-10-08 - _Software Engineer Intern Co-op_
 - **Solopulseco** - 2 role(s), 1 intern, latest 2026-10-08 - _Senior Frontend Engineer - Product_
-- **Teamworks** - 2 role(s), latest 2026-09-22 - _Data Scientist II (Soccer)_
+- **Stand Together** - 2 role(s), 2 intern, latest 2026-10-22 - _Data Analyst Intern - Open the Books_
+- **Stifel** - 2 role(s), 2 intern, latest 2026-10-21 - _Technology Product Development Developer Intern_
 - **Tenet3** - 2 role(s), 2 intern, latest 2026-10-09 - _Software Developer Intern - Full Stack_
-- **Thrivent** - 2 role(s), 2 intern, latest 2026-09-18 - _Associate Software Engineer Intern_
 - **Tomorrow.io** - 2 role(s), latest 2026-10-16 - _Meteorological Data Scientist_
-- **TraceLink, Inc** - 2 role(s), latest 2026-10-06 - _Director, Applied Artificial Intelligence_
+- **TPG** - 2 role(s), 2 intern, latest 2026-10-21 - _Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research _
 - **Trustworthy Technology** - 2 role(s), latest 2026-10-01 - _Trustworthy Technology_
+- **Udacity** - 2 role(s), latest 2026-10-06 - _On-Call Maintenance Specialist, School of Cloud - Contract Role (India)_
+- **Uline** - 2 role(s), 2 intern, latest 2026-10-22 - _Software Developer Intern_
 - **Vay** - 2 role(s), latest 2026-10-12 - _Senior Analytics Engineer_
 - **VLM Run ( https://vlm.run )** - 2 role(s), latest 2026-10-01 - _VLM Run ( https://vlm.run )_
 - **Voloridge Investment Management** - 2 role(s), latest 2026-09-24 - _Quantitative Developer - New University Graduate_
 - **Western National Insurance** - 2 role(s), 2 intern, latest 2026-09-25 - _Data Engineering Intern - Data & Integrations_
-- **Windstar Cruises** - 2 role(s), 2 intern, latest 2026-09-21 - _Revenue and Data Analytics Intern_
 - **Xbowcareers** - 2 role(s), latest 2026-10-08 - _Software Engineer - AI Systems_
 - **Xnrgy Climate Systems** - 2 role(s), latest 2026-10-09 - _Manager, CPQ Tools & Selection Software_
+- **Zeely** - 2 role(s), latest 2026-10-22 - _Senior DevOps Engineer (Infrastructure)_
 - **3Gimbals** - 1 role(s), latest 2026-10-14 - _3Gimbals_
+- **66Degrees** - 1 role(s), latest 2026-10-22 - _Senior Software Engineer_
 - **84 Lumber** - 1 role(s), 1 intern, latest 2026-10-16 - _Business Intelligence Intern - Business Intelligence_
-- **A-TEK Inc.** - 1 role(s), latest 2026-10-12 - _Oracle Cloud Database Administrator_
+- **A-TEK Inc.** - 1 role(s), latest 2026-10-12 - _Cloud Database Administrator (Senior)/Oracle DBA_
 - **Abbott** - 1 role(s), 1 intern, latest 2026-09-30 - _Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML_
 - **Accela** - 1 role(s), latest 2026-09-30 - _Manager, Software Engineering_
+- **Acceldata** - 1 role(s), latest 2026-10-12 - _Software Engineer - Observability (Pulse)_
+- **Acorns** - 1 role(s), latest 2026-10-16 - _Sr. Martech Engineer, Mobile_
 - **Advanced Energy** - 1 role(s), 1 intern, latest 2026-09-23 - _Firmware Engineer Intern - Undergraduate_
 - **Airbus** - 1 role(s), 1 intern, latest 2026-09-28 - _Operational Excellence Analyst Intern - Data Analytics - Operational Excellence_
+- **AJ Boggs/ProPower** - 1 role(s), latest 2026-10-17 - _DevOps Engineer_
 - **Alephalpha** - 1 role(s), latest 2026-10-15 - _Senior AI R&D Engineer - Performance - Pre-training (f/m/d)_
-- **Allen Lund Company** - 1 role(s), 1 intern, latest 2026-09-17 - _Technology and AI Intern - Technology and AI_
 - **American Century Investments** - 1 role(s), 1 intern, latest 2026-09-25 - _Software Developer Intern_
+- **Answersnow** - 1 role(s), latest 2026-10-21 - _Staff Cloud Security Engineer_
 - **Apex Companies** - 1 role(s), latest 2026-09-24 - _GIS/Data Analyst 2_
-- **AQR Capital Management** - 1 role(s), 1 intern, latest 2026-09-23 - _Machine Learning Research Associate Intern_
 - **Arc Boat Company** - 1 role(s), 1 intern, latest 2026-10-02 - _Software Engineering Intern_
+- **Arkestro** - 1 role(s), latest 2026-10-16 - _Lead AI/ML Engineer_
 - **AssetWatch, Inc.** - 1 role(s), latest 2026-10-01 - _Machine Learning Engineer, Predictive Maintenance_
+- **Astra** - 1 role(s), latest 2026-10-20 - _Backend Engineer_
 - **Atari ** - 1 role(s), latest 2026-10-07 - _Senior Mobile Producer_
-- **Athene** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Developer Intern_
+- **Automox** - 1 role(s), latest 2026-10-21 - _Software Engineer - Agent Team_
 - **AVARINT** - 1 role(s), 1 intern, latest 2026-09-28 - _Software Engineer Intern, DIADS_
-- **AvidXchange, Inc.** - 1 role(s), latest 2026-10-01 - _Principal Software Engineer_
-- **Axcelis Technologies** - 1 role(s), 1 intern, latest 2026-09-17 - _Manufacturing Software Development Co-op_
 - **B12** - 1 role(s), latest 2026-10-02 - _Staff Software Engineer_
+- **BaubleBar** - 1 role(s), latest 2026-10-20 - _Analytics Engineer - Remote_
+- **Beauhurst** - 1 role(s), latest 2026-10-23 - _Junior Web Developer_
 - **Beyond Finance** - 1 role(s), latest 2026-10-05 - _Software Engineering Manager_
-- **bioMérieux** - 1 role(s), 1 intern, latest 2026-10-05 - _Data Science Co-op_
 - **Bioscope%20Ai** - 1 role(s), latest 2026-10-08 - _Platform Engineer_
 - **Block Labs** - 1 role(s), latest 2026-10-14 - _Staff Software Engineer, Frontend_
-- **Blue Cross and Blue Shield of Kansas** - 1 role(s), 1 intern, latest 2026-09-21 - _Application Developer Intern_
 - **Bluestaq** - 1 role(s), latest 2026-09-25 - _Software Engineering Resident - Multiple Teams_
-- **CAE** - 1 role(s), 1 intern, latest 2026-09-23 - _Weapons Simulation Software Co-op_
 - **Calendly** - 1 role(s), latest 2026-09-28 - _Senior Full Stack Engineer, Website Development_
+- **Calyxo** - 1 role(s), latest 2026-10-19 - _Data Scientist (Biostatistics) - Remote, USA_
+- **Campbell Soup Company** - 1 role(s), 1 intern, latest 2026-10-18 - _Data Science Intern_
 - **Cardog** - 1 role(s), latest 2026-10-01 - _Cardog_
-- **Cgb** - 1 role(s), latest 2026-10-13 - _Senior .Net Developer_
+- **Careerstrengo** - 1 role(s), latest 2026-10-23 - _Senior Cloud Engineer (Kubernetes)_
+- **Caylent** - 1 role(s), latest 2026-10-22 - _Senior Forward Deployed Engineer _
 - **Chenega** - 1 role(s), 1 intern, latest 2026-10-06 - _Software Developer Intern_
-- **Church & Dwight** - 1 role(s), 1 intern, latest 2026-09-17 - _AI Developer Co-op - Graduate Program_
 - **City Detect** - 1 role(s), latest 2026-10-01 - _City Detect_
 - **Climate First Bank** - 1 role(s), latest 2026-10-01 - _Data Engineer_
-- **CoBank** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineer Intern_
-- **CodeRoad** - 1 role(s), latest 2026-10-07 - _Lead Agentic AI Engineer _
+- **CodePath** - 1 role(s), latest 2026-10-22 - _Adjunct Instructor, Applied AI Engineering - New Mexico State University - Spring 2027 (In_
 - **Commvault** - 1 role(s), latest 2026-10-01 - _Emerging Cloud Native Representative_
 - **Comograph** - 1 role(s), latest 2026-10-06 - _Comograph_
-- **CPI Security** - 1 role(s), latest 2026-09-24 - _Genesys Cloud Engineer_
 - **Curaleaf ** - 1 role(s), latest 2026-10-12 - _Sr. Applications Developer_
 - **Current Advisors** - 1 role(s), latest 2026-10-06 - _Senior Data Engineer_
-- **D3 Embedded** - 1 role(s), 1 intern, latest 2026-09-16 - _Computer Vision / AI Co-op_
 - **Dallas Fort Worth International Airport** - 1 role(s), 1 intern, latest 2026-09-30 - _Undergraduate Intern - Enterprise Data & Analytics_
-- **Dandelionhealth** - 1 role(s), latest 2026-09-21 - _NLP / LLM Data Scientist_
 - **Datafold** - 1 role(s), latest 2026-10-02 - _Data Scientist - Migration Intelligence _
 - **Datamint** - 1 role(s), latest 2026-10-02 - _Datamint_
-- **DecisionPoint** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Engineer Intern_
 - **Delfina** - 1 role(s), latest 2026-10-09 - _ENG: Software Engineer - MENA_
+- **Delta Dental Of Missouri** - 1 role(s), 1 intern, latest 2026-10-23 - _Data Science Intern_
 - **Demandbase** - 1 role(s), latest 2026-10-01 - _Staff DevOps Engineer, Developer Experience (DevEx)_
 - **Descartes - Finale Inventory** - 1 role(s), latest 2026-10-01 - _Descartes - Finale Inventory_
 - **DISA Technologies** - 1 role(s), 1 intern, latest 2026-10-02 - _Data Engineering & ML Intern_
+- **Docebo** - 1 role(s), latest 2026-10-23 - _Senior Cloud Engineer I_
 - **DotDash Meredith** - 1 role(s), 1 intern, latest 2026-09-29 - _Cloud Platform Engineering Intern_
 - **Dow Chemical Company** - 1 role(s), 1 intern, latest 2026-09-30 - _Data Engineer / Data Platform Engineer Intern_
 - **Duck Duck Go** - 1 role(s), latest 2026-10-08 - _Senior Data Scientist_
 - **Duetto Research** - 1 role(s), latest 2026-10-02 - _Staff DevOps Engineer_
-- **Edited** - 1 role(s), latest 2026-09-17 - _AI Data Engineer_
 - **Empirical Security** - 1 role(s), latest 2026-10-12 - _Software Engineer_
 - **Empower Pharmacy is hiring engineers to work on event-driven** - 1 role(s), latest 2026-10-06 - _Empower Pharmacy is hiring engineers to work on event-driven, distributed systems that act_
+- **Equal1** - 1 role(s), latest 2026-10-22 - _DevOps / Platform Engineer_
 - **Ergotron** - 1 role(s), 1 intern, latest 2026-10-06 - _Software Engineer Intern_
+- **ETC** - 1 role(s), 1 intern, latest 2026-10-23 - _Software Engineer Intern_
 - **exLabora AI (General Purpose Robot Workforce)** - 1 role(s), latest 2026-10-14 - _exLabora AI (General Purpose Robot Workforce)_
 - **Financial Times** - 1 role(s), latest 2026-10-14 - _Analytics Engineer_
-- **First Bank & Trust** - 1 role(s), 1 intern, latest 2026-10-01 - _Software Development Intern_
 - **Flexibits** - 1 role(s), latest 2026-10-01 - _Flexibits_
 - **Founding Engineer (Security / AI / Distributed Systems) — St** - 1 role(s), latest 2026-10-02 - _Founding Engineer (Security / AI / Distributed Systems) — Stealth Project Next-Gen Secure _
+- **GE Appliances** - 1 role(s), 1 intern, latest 2026-09-29 - _Software Engineering Co-op_
 - **Geospatial Consulting Group International** - 1 role(s), 1 intern, latest 2026-09-24 - _Application Developer Intern_
 - **Gorgias** - 1 role(s), latest 2026-10-05 - _Senior FullStack Engineer_
-- **Greenwood Village South** - 1 role(s), 1 intern, latest 2026-09-16 - _Data Science Intern_
-- **Grow Financial Federal Credit Union** - 1 role(s), 1 intern, latest 2026-09-18 - _Collections Data Analyst Intern_
+- **Gradient AI** - 1 role(s), latest 2026-10-20 - _Senior QA Data Engineer_
 - **GROWTH HACKER - GLOBAL - $50/HR** - 1 role(s), latest 2026-10-02 - _GROWTH HACKER - GLOBAL - $50/HR_
-- **Healthesystems** - 1 role(s), 1 intern, latest 2026-09-18 - _Artificial Intelligence Engineer Intern_
 - **Helion** - 1 role(s), latest 2026-09-30 - _Senior Software Engineer, Plant Control_
 - **HiO (hio.ai)** - 1 role(s), latest 2026-10-12 - _HiO (hio.ai)_
-- **Horace Mann ** - 1 role(s), latest 2026-10-14 - _Data Engineer II_
 - **Hospitable** - 1 role(s), latest 2026-10-02 - _Hospitable_
 - **I am iOS developer with 13 years of experience with iOS work** - 1 role(s), latest 2026-10-13 - _I am iOS developer with 13 years of experience with iOS working on mostly streaming and e-_
 - **I'm applying for the Growth Lead / Expansion & Lifecycle rol** - 1 role(s), latest 2026-10-07 - _I'm applying for the Growth Lead / Expansion & Lifecycle role, specifically the expansion _
 - **IFT ** - 1 role(s), latest 2026-10-16 - _DevOps Engineer (DST)_
+- **Imagine Worldwide** - 1 role(s), latest 2026-10-23 - _Senior Analytics Engineer_
 - **IMVT Corporation** - 1 role(s), latest 2026-10-15 - _Senior Manager, Statistical Programming_
-- **Infinity Constellation** - 1 role(s), latest 2026-09-17 - _Senior Data Engineer - Paradox Machines_
-- **InfoSum** - 1 role(s), latest 2026-10-15 - _Golang Software Engineer_
 - **Innolitics** - 1 role(s), latest 2026-10-01 - _Innolitics_
+- **Interclypse** - 1 role(s), 1 intern, latest 2026-10-19 - _Junior Full Stack Software Engineer Intern_
 - **Irash Tech** - 1 role(s), latest 2026-10-13 - _Irash Tech_
 - **Jobstash.xyz is a job aggregator with 17000+ open vacancies** - 1 role(s), latest 2026-10-02 - _Jobstash.xyz is a job aggregator with 17000+ open vacancies across AI, Robotics, Fintech a_
-- **Joinbetter** - 1 role(s), latest 2026-09-17 - _AI Revenue Engine Lead_
 - **Jones Lang LaSalle** - 1 role(s), 1 intern, latest 2026-10-08 - _AI Intern_
-- **Junipersquare** - 1 role(s), latest 2026-10-09 - _Senior Site Reliability Engineer II _
 - **JUPUS** - 1 role(s), latest 2026-10-02 - _JUPUS_
-- **Kin** - 1 role(s), latest 2026-10-15 - _Software Engineer, Back-End Focus_
-- **Kissusa** - 1 role(s), latest 2026-10-15 - _Application Developer_
+- **Juvare** - 1 role(s), latest 2026-10-20 - _Technical Implementation Analyst (Front End Web Developer)_
 - **Lake Michigan Credit Union** - 1 role(s), 1 intern, latest 2026-10-13 - _Business Intelligence Intern_
-- **Lean TECHniques** - 1 role(s), 1 intern, latest 2026-09-22 - _Software Engineer Intern_
-- **Level Access** - 1 role(s), latest 2026-10-01 - _Senior Analytics Engineer _
-- **Lightspeedhq** - 1 role(s), latest 2026-09-21 - _Staff Site Reliability Engineer_
+- **Legend Biotech US** - 1 role(s), latest 2026-10-23 - _Principal Scientist, Bioinformatics_
+- **Legion** - 1 role(s), latest 2026-09-29 - _Principal Software Engineer, DevOps_
+- **Level Access** - 1 role(s), latest 2026-10-01 - _Senior Analytics Engineer_
 - **Logos** - 1 role(s), latest 2026-10-16 - _DevOps Engineer (DST)_
 - **Lucidlink** - 1 role(s), latest 2026-10-07 - _Software Engineer, Distributed Systems_
 - **Lyric** - 1 role(s), latest 2026-10-08 - _Principal Software Engineer - Data_
@@ -4778,56 +4842,51 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **MarketStar** - 1 role(s), 1 intern, latest 2026-10-13 - _Data Engineering and Analytics Intern_
 - **MasterControl** - 1 role(s), 1 intern, latest 2026-10-02 - _AI/ML Engineer Intern_
 - **meetyogi.com** - 1 role(s), latest 2026-10-02 - _meetyogi.com_
-- **Molg** - 1 role(s), latest 2026-10-16 - _DevOps Engineer_
+- **Morningconsult** - 1 role(s), latest 2026-10-23 - _Software Engineer II, DevOps_
+- **Nabancard** - 1 role(s), latest 2026-10-15 - _Director of Applied AI Engineering_
 - **Nanit** - 1 role(s), latest 2026-10-06 - _Backend Platform Team Leader _
 - **NCR Voyix** - 1 role(s), latest 2026-09-24 - _Software Engineer Fellow_
-- **Nebraska Medicine** - 1 role(s), 1 intern, latest 2026-09-21 - _Forward Deployed AI Engineer Intern_
 - **NeuralFrame** - 1 role(s), latest 2026-10-14 - _NeuralFrame_
 - **NeverBlink** - 1 role(s), latest 2026-10-01 - _NeverBlink_
+- **Nextech** - 1 role(s), latest 2026-10-22 - _Staff Cloud Platform Engineer (Remote - US)_
 - **Nimble Gravity** - 1 role(s), latest 2026-09-28 - _Senior Data Engineer (US only)_
 - **NMI** - 1 role(s), latest 2026-10-14 - _Senior Software Engineer_
-- **Noctua Technology** - 1 role(s), latest 2026-10-03 - _Software Engineer- Machine Learning_
 - **Novanta** - 1 role(s), 1 intern, latest 2026-09-25 - _Computer Software Engineering Co-op_
-- **Nozomi Networks** - 1 role(s), latest 2026-09-21 - _Senior Site Reliability Engineer (FedRAMP)_
 - **Obsidian Therapeutics** - 1 role(s), latest 2026-10-07 - _Associate Director, Process Data Analytics_
 - **Ocrolus Inc.** - 1 role(s), latest 2026-10-16 - _Mortgage Forward Deployed Engineer_
-- **Octoenergy** - 1 role(s), latest 2026-09-23 - _Senior Full Stack Engineer_
 - **OnBoard** - 1 role(s), latest 2026-10-12 - _Principal Software Engineer - AI_
 - **OneChronos** - 1 role(s), latest 2026-10-08 - _OneChronos_
-- **Ophelia** - 1 role(s), latest 2026-10-05 - _Senior Site Reliability Engineer (Systems Engineer III)_
 - **Oportun** - 1 role(s), latest 2026-09-30 - _Sr. Data Analytics Engineer (R14153)_
 - **Oregon State University** - 1 role(s), 1 intern, latest 2026-10-05 - _Student Developer Intern - CASS Software Development Group_
 - **Outrider** - 1 role(s), latest 2026-10-06 - _Hardware Platform Engineer II, Test and Reliability _
 - **Overjoyed to partner with Menlo Research's brilliant founder** - 1 role(s), latest 2026-10-03 - _Overjoyed to partner with Menlo Research's brilliant founders to recruit founding engineer_
+- **Ozow** - 1 role(s), latest 2026-10-07 - _Senior Software Engineer (AI-Enabled)_
 - **PADO** - 1 role(s), latest 2026-10-16 - _GPU & AI Infrastructure - Reserved Deal Desk Broker_
-- **Partsbase** - 1 role(s), latest 2026-10-16 - _Forward Deployed Engineer_
 - **Patch My PC** - 1 role(s), 1 intern, latest 2026-09-30 - _Software Engineer Intern_
 - **Perion Network Ltd** - 1 role(s), latest 2026-09-24 - _Machine Learning Engineer, Outmax_
-- **Phase 2** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineer Intern_
+- **phData** - 1 role(s), latest 2026-10-08 - _AI Services Lead - Client Services_
 - **Pie Insurance** - 1 role(s), latest 2026-10-15 - _Senior Software Engineer - Infrastructure_
 - **Plancraft** - 1 role(s), 1 intern, latest 2026-10-13 - _Working Student / Intern GTM AI Growth Engineering (f/m/d)_
 - **Postscript** - 1 role(s), latest 2026-10-05 - _Senior Fullstack Engineer, Customer Context_
 - **PrairieLearn (Remote US) — Full-Stack Software Engineer — Ty** - 1 role(s), latest 2026-10-01 - _PrairieLearn (Remote US) — Full-Stack Software Engineer — TypeScript / Postgres / React / _
 - **Prefect** - 1 role(s), latest 2026-09-30 - _Developer Success Engineer_
+- **Prenuvo** - 1 role(s), latest 2026-10-22 - _Senior Full Stack Engineer II_
 - **Propel Labs** - 1 role(s), latest 2026-10-09 - _Propel Labs_
-- **Propio** - 1 role(s), 1 intern, latest 2026-09-22 - _Software Engineering Intern_
-- **Quantum Minds** - 1 role(s), latest 2026-10-06 - _Quantum Minds_
-- **Quest Analytics** - 1 role(s), 1 intern, latest 2026-10-15 - _Software Engineer Intern, C#, ASP.NET_
-- **Quicknode** - 1 role(s), latest 2026-09-21 - _Senior Software Engineer - Go & Rust, Blockchain Infrastructure_
-- **RapidSOS** - 1 role(s), latest 2026-09-17 - _Software Engineer II, AI_
-- **Reltio** - 1 role(s), latest 2026-09-23 - _Staff Cloud Security Engineer_
+- **Pushpay** - 1 role(s), latest 2026-10-05 - _Senior Software Engineer_
+- **Quadreal** - 1 role(s), latest 2026-10-01 - _Manager, AI Delivery_
 - **Rentman** - 1 role(s), latest 2026-10-05 - _Rentman_
 - **Rescale** - 1 role(s), latest 2026-10-05 - _Software Engineer, Agentic AI Systems_
 - **Research Innovations** - 1 role(s), 1 intern, latest 2026-10-15 - _DoW Forward Deployed Engineer Intern_
-- **REV Robotics** - 1 role(s), 1 intern, latest 2026-09-17 - _Software Engineer Intern_
 - **Revvity** - 1 role(s), 1 intern, latest 2026-10-03 - _Software Integration Co-op_
 - **Rhombus** - 1 role(s), 1 intern, latest 2026-10-13 - _Software Engineer Intern_
 - **Riseguide** - 1 role(s), latest 2026-10-12 - _Senior Software Engineer (Golang) _
 - **Root Insurance** - 1 role(s), 1 intern, latest 2026-10-05 - _Software Engineer Intern: Agent Commerce_
 - **Sandia Laboratory Federal Credit Union** - 1 role(s), 1 intern, latest 2026-10-01 - _Artificial Intelligence Intern_
 - **Schneider Electric** - 1 role(s), 1 intern, latest 2026-10-16 - _AI Quality & Continuous Improvement Intern_
+- **Sedgwick Claims Management Services** - 1 role(s), 1 intern, latest 2026-10-23 - _Data Analyst Intern_
 - **Sentinel Technologies** - 1 role(s), 1 intern, latest 2026-10-06 - _AI Intern_
-- **Shift5** - 1 role(s), latest 2026-10-06 - _Principal Platform Engineer_
+- **Shift4Payments** - 1 role(s), latest 2026-10-21 - _Senior Web Developer_
+- **Shiftkey** - 1 role(s), latest 2026-10-20 - _Staff Site Reliability Engineer _
 - **Sierra Studio** - 1 role(s), latest 2026-10-01 - _Senior Engineer (AI / Robotics / R&D), In-Home Care AI_
 - **SJI** - 1 role(s), 1 intern, latest 2026-09-28 - _Data Analytics Intern_
 - **Solace Health** - 1 role(s), latest 2026-10-01 - _Solace Health_
@@ -4835,97 +4894,97 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Springboard** - 1 role(s), latest 2026-10-08 - _Data Analytics Subject Matter Expert_
 - **StartupHakk** - 1 role(s), 1 intern, latest 2026-10-12 - _StartupHakk_
 - **Staycation** - 1 role(s), latest 2026-10-12 - _📱 Fullstack Developer (Paris or remote)_
+- **Sunnydata** - 1 role(s), latest 2026-10-23 - _Sr. Data Engineer_
 - **SupplyHouse.com** - 1 role(s), latest 2026-10-02 - _Analytics Engineer_
 - **Tangram Vision** - 1 role(s), latest 2026-10-01 - _Tangram Vision_
 - **Tavus** - 1 role(s), latest 2026-09-28 - _Multimodal AI Model Optimization Research Engineer_
 - **Tempus AI** - 1 role(s), latest 2026-10-02 - _Tempus AI_
-- **The Fork** - 1 role(s), latest 2026-10-12 - _Android Engineer_
 - **The Michael J. Fox Foundation for Parkinson's Research** - 1 role(s), latest 2026-09-30 - _Senior AI Solutions Engineer_
 - **The%20Browser%20Company** - 1 role(s), latest 2026-09-25 - _Offensive AI Security Engineer_
 - **Tivly** - 1 role(s), latest 2026-10-02 - _Tivly_
-- **TOPPAN Packaging Americas** - 1 role(s), latest 2026-09-17 - _Student Associate - AI & Business Analytics_
+- **TraceLink, Inc** - 1 role(s), latest 2026-10-06 - _Director, Applied Artificial Intelligence_
 - **Trackerbot** - 1 role(s), latest 2026-10-01 - _Trackerbot_
 - **Trilitech** - 1 role(s), latest 2026-10-07 - _Senior Mobile Engineer - Wallets _
+- **Trust Wallet** - 1 role(s), latest 2026-10-02 - _Senior AI Engineer (Internal Tools & Agents)_
 - **Trustpilot ** - 1 role(s), latest 2026-10-16 - _Senior Salesforce Developer_
-- **UASI** - 1 role(s), latest 2026-09-24 - _Inpatient Coding Specialist_
-- **Unite Us** - 1 role(s), latest 2026-09-23 - _Senior Data Engineer _
-- **University of Nevada, Reno** - 1 role(s), latest 2026-09-17 - _Computer Science Engineer Student Worker_
-- **Unybrands** - 1 role(s), latest 2026-09-17 - _Sr Designer & Product Developer_
+- **Vertical Aerospace** - 1 role(s), latest 2026-10-22 - _Platform Engineer _
 - **Veterans United** - 1 role(s), 1 intern, latest 2026-09-28 - _Software Engineer Intern_
 - **Veterans United Home Loans** - 1 role(s), 1 intern, latest 2026-10-06 - _Software Engineer Intern_
 - **Vibrant%20Planet** - 1 role(s), latest 2026-09-29 - _Application Software Engineer_
+- **VSC Fire & Security** - 1 role(s), latest 2026-10-21 - _Senior Fire Alarm Programming Technician_
 - **vvd** - 1 role(s), latest 2026-10-08 - _vvd_
 - **Vytalize%20Health** - 1 role(s), latest 2026-09-30 - _DevOps Engineer (Contract) _
 - **Wagmo** - 1 role(s), latest 2026-10-09 - _AI Specialist_
 - **Wake Up Call Service** - 1 role(s), latest 2026-10-02 - _Wake Up Call Service_
 - **Wash U** - 1 role(s), 1 intern, latest 2026-10-14 - _Data Analyst Emergency Management Intern - Enterprise Physical Operations_
-- **Wave** - 1 role(s), latest 2026-10-13 - _Data Scientist_
 - **We're hiring software engineers, product designers, and desi** - 1 role(s), latest 2026-10-02 - _We're hiring software engineers, product designers, and design engineers at the IRS!_
 - **Wearebeyondsports** - 1 role(s), latest 2026-10-09 - _Graduate Software Engineers & Product Designers - Beyond Sports Alkmaar_
+- **Welltheory** - 1 role(s), latest 2026-10-12 - _Full Stack Engineer, Support_
 - **Whitecircle** - 1 role(s), latest 2026-09-30 - _DevRel Lead (Developer Relations)_
 - **whitecircle.com/careers, we're building the most advanced AI** - 1 role(s), latest 2026-10-01 - _whitecircle.com/careers, we're building the most advanced AI safety infra, raised roughly _
 - **Wipro.com** - 1 role(s), latest 2026-10-02 - _Wipro.com_
-- **Worldly** - 1 role(s), latest 2026-09-17 - _Senior Data Engineer_
+- **Wiz, Inc.** - 1 role(s), latest 2026-10-19 - _Manager of Applied AI, Solutions Support Engineering_
 - **Wrike** - 1 role(s), latest 2026-09-25 - _Software Engineering Manager_
-- **Xephyr** - 1 role(s), latest 2026-09-22 - _Analytics Engineer_
 - **Ygo** - 1 role(s), latest 2026-10-01 - _Cloud Security Engineer _
 
-## 61-90 days ago (594 companies)
+## 61-90 days ago (609 companies)
 
-### SF Bay Area (108)
+### SF Bay Area (116)
+- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
 - **Build Ai** - 8 role(s), latest 2026-08-30 - _Data Scientist, Marketplace Incentives_
-- **Heliux** - 6 role(s), latest 2026-08-20 - _Software Engineer, Core Platform (All Levels)_
 - **Sf Tensor** - 6 role(s), latest 2026-08-29 - _Member of Technical Staff, Product Engineering_
-- **Xaira Therapeutics** - 5 role(s), 1 intern, latest 2026-09-03 - _AI in Residence, Computational Protein Design_
-- **Abundant** - 4 role(s), 2 intern, latest 2026-09-16 - _Member of Technical Staff, Platform Engineering_
-- **Creditgenie** - 4 role(s), latest 2026-08-25 - _Senior Software Engineer, Trust Platform_
-- **Krea** - 4 role(s), latest 2026-09-01 - _Fullstack Engineer_
+- **SingleStore** - 5 role(s), 5 intern, latest 2026-09-22 - _Software Engineer Intern_
 - **Maxima** - 4 role(s), latest 2026-09-10 - _Senior/Staff Software Engineer_
-- **Monk** - 4 role(s), latest 2026-09-10 - _Member of Technical Staff: Data_
+- **Rippling** - 4 role(s), 4 intern, latest 2026-09-22 - _Software Engineer Intern - Backend Focused_
+- **Abundant** - 3 role(s), 1 intern, latest 2026-09-16 - _Member of Technical Staff, Platform Engineering_
 - **Capital One** - 3 role(s), 3 intern, latest 2026-09-11 - _AI Engineering Intern_
-- **Foundry Robotics** - 3 role(s), latest 2026-09-15 - _Physical AI Deployment Strategist_
-- **Geico** - 3 role(s), 3 intern, latest 2026-09-01 - _Technology Development Program Intern - AI Engineer Development Track_
+- **Collinear Ai** - 3 role(s), 2 intern, latest 2026-09-21 - _MTS - Research Scientist Internship _
+- **Krea** - 3 role(s), latest 2026-09-01 - _ML Researcher - Image / Video Diffusion_
 - **Matter Intelligence** - 3 role(s), latest 2026-09-15 - _Flight Firmware Engineer_
 - **Pave** - 3 role(s), latest 2026-09-03 - _Senior Software Engineer, Agent_
+- **Viam** - 3 role(s), 2 intern, latest 2026-09-18 - _Senior Developer Advocate (San Francisco, CA)_
+- **Xaira Therapeutics** - 3 role(s), 1 intern, latest 2026-09-03 - _AI Scientist Intern, Computational Protein Design_
 - **Accordion ** - 2 role(s), latest 2026-09-10 - _Senior Software Engineer_
+- **Afresh** - 2 role(s), latest 2026-09-11 - _Sr. Backend Engineer, Ordering_
+- **Arize AI** - 2 role(s), latest 2026-09-21 - _Applied AI Engineer_
 - **Baidu USA** - 2 role(s), 2 intern, latest 2026-09-11 - _Forward Deployed Engineer Intern_
 - **Bland AI** - 2 role(s), 2 intern, latest 2026-08-29 - _Machine Learning Research Intern - Audio_
-- **Blockstream** - 2 role(s), latest 2026-08-21 - _Forward Deployed Engineer_
 - **BuildOps** - 2 role(s), latest 2026-09-02 - _Senior Software Engineer_
 - **Charta Health** - 2 role(s), 2 intern, latest 2026-09-14 - _Forward Deployed AI Engineer Intern_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
-- **Eventualcomputing** - 2 role(s), latest 2026-09-03 - _Software Engineer, Data Systems_
+- **Eventualcomputing** - 2 role(s), latest 2026-09-03 - _Software Engineer, AI Infra_
 - **Extropic** - 2 role(s), latest 2026-09-08 - _Thermo ML Resident_
+- **Foundry Robotics** - 2 role(s), latest 2026-09-15 - _Staff Full-Stack Software Engineer_
 - **General Legal ** - 2 role(s), latest 2026-08-28 - _Senior Full Stack Engineer_
 - **Intrinsic** - 2 role(s), latest 2026-09-16 - _Full Stack Software Engineer - Rust_
 - **KBR** - 2 role(s), 2 intern, latest 2026-09-16 - _Data Science Intern_
-- **Kodiak Robotics** - 2 role(s), 2 intern, latest 2026-09-04 - _AI/ML Intern - Artificial Intelligence/Machine Learning_
-- **LeoLabs, Inc.** - 2 role(s), latest 2026-09-02 - _Senior Software Engineer_
 - **Negotiate Ai** - 2 role(s), latest 2026-09-09 - _Forward Deployed Engineer_
-- **Nexus Intelligence** - 2 role(s), latest 2026-08-21 - _Platform Engineer_
+- **Notability** - 2 role(s), latest 2026-09-21 - _Engineer, Backend_
 - **Sable** - 2 role(s), latest 2026-09-15 - _Applied AI Engineer, Evals_
+- **Stellar** - 2 role(s), latest 2026-09-18 - _Staff Software Engineer, C++/Rust_
 - **Swayable** - 2 role(s), latest 2026-09-03 - _Senior Software Engineer: AI_
 - **Upbound - Job Posting** - 2 role(s), latest 2026-09-10 - _Senior Software Engineer _
 - **Acadia Pharmaceuticals Inc.** - 1 role(s), latest 2026-09-01 - _Director, AI Engineering_
 - **Accord** - 1 role(s), latest 2026-08-26 - _Staff Software Engineer_
 - **Aeolus** - 1 role(s), latest 2026-09-01 - _Aeolus_
 - **Aerdos** - 1 role(s), latest 2026-09-01 - _Aerdos_
-- **Allocate** - 1 role(s), latest 2026-08-18 - _Sr. Software Engineer II - Full Stack_
-- **Altos Labs** - 1 role(s), latest 2026-08-20 - _Director /  Senior Director, Machine Learning for Biology_
+- **Ambiencehealthcare** - 1 role(s), latest 2026-09-23 - _Senior Software Engineer, Product_
 - **Ambral** - 1 role(s), latest 2026-09-01 - _Member of Technical Staff (Evals & Post-Training)_
 - **Amplify Renewables** - 1 role(s), latest 2026-09-01 - _Amplify Renewables_
 - **Arini** - 1 role(s), latest 2026-08-29 - _Software Engineer_
 - **Artificial Intelligence Underwriting Company (aiuc.com)** - 1 role(s), latest 2026-09-01 - _Artificial Intelligence Underwriting Company (aiuc.com)_
 - **Artisan** - 1 role(s), latest 2026-09-13 - _Staff AI Engineer - Agent Architecture & Behavior_
 - **Balerion AI** - 1 role(s), latest 2026-09-01 - _Balerion AI_
-- **Blue Shield of California** - 1 role(s), 1 intern, latest 2026-08-20 - _Data Full Stack Engineer Intern_
+- **BrightAI Corporation** - 1 role(s), latest 2026-09-18 - _Senior/Staff Firmware Engineer_
 - **Cala Health** - 1 role(s), latest 2026-08-31 - _Senior Firmware Engineer, Research_
 - **Cambio** - 1 role(s), latest 2026-09-02 - _Backend Engineer_
 - **Cascade Space** - 1 role(s), latest 2026-09-02 - _Cascade Space_
+- **Ceribell, Inc** - 1 role(s), latest 2026-09-16 - _Principal Clinical Research Scientist (Hybrid)_
 - **Chartahealth** - 1 role(s), 1 intern, latest 2026-08-27 - _Software Engineer (FDE / Platform) - Intern_
 - **Ciridae** - 1 role(s), latest 2026-09-01 - _Staff Platform Engineer_
-- **Condor Software** - 1 role(s), latest 2026-08-24 - _Forward Deployed Engineer (BioPharma/Lifescience)_
+- **Clockwork Systems** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Engineer Intern_
+- **Cocodelivery** - 1 role(s), latest 2026-09-23 - _Software Engineer_
 - **Conductor** - 1 role(s), latest 2026-09-01 - _Conductor_
+- **Constellation** - 1 role(s), latest 2026-09-18 - _Research Engineer_
 - **Copper ** - 1 role(s), latest 2026-09-15 - _Staff Firmware Engineer_
 - **Currentsurgical** - 1 role(s), latest 2026-08-26 - _Lead/Principal Software Engineer_
 - **DrSwarm** - 1 role(s), latest 2026-09-02 - _DrSwarm_
@@ -4935,44 +4994,49 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Eudia** - 1 role(s), 1 intern, latest 2026-09-08 - _AI Engineer Intern_
 - **exe.dev** - 1 role(s), latest 2026-09-01 - _exe.dev_
 - **F2 Ai** - 1 role(s), latest 2026-09-10 - _Senior Software Engineer_
+- **Fable** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineer Intern_
 - **Fabrion** - 1 role(s), latest 2026-09-06 - _Founding AI Research Lead - Agentic AI Lab_
 - **Forerunner** - 1 role(s), latest 2026-08-27 - _Senior Security & Infrastructure Engineer_
+- **Geico** - 1 role(s), 1 intern, latest 2026-09-01 - _Artificial Intelligence Applied Research & Machine Learning Intern - PhD_
+- **HackerRank Careers** - 1 role(s), latest 2026-09-22 - _Forward Deployed Engineer_
+- **HomeLight** - 1 role(s), latest 2026-09-17 - _Full Stack Engineer (D2C), San Francisco, CA_
+- **Hubble Network** - 1 role(s), latest 2026-09-22 - _Data Platform Engineer_
 - **Inferra** - 1 role(s), 1 intern, latest 2026-09-01 - _Inferra_
 - **Intrinsic Safety** - 1 role(s), latest 2026-08-25 - _Software Engineer, Agent_
 - **Ketch** - 1 role(s), latest 2026-09-01 - _Backend Engineer_
-- **Koahlabs** - 1 role(s), latest 2026-08-20 - _Developer Relations_
+- **Kodiak Robotics** - 1 role(s), 1 intern, latest 2026-09-04 - _Data Engineering Intern_
 - **Kognitos** - 1 role(s), 1 intern, latest 2026-08-26 - _Software Engineer Intern (AI-Native) — Fall 2026_
 - **Litmus** - 1 role(s), latest 2026-08-31 - _Senior Software Engineer - Industrial (Golang)_
+- **Localstack** - 1 role(s), latest 2026-09-21 - _Senior Developer Relations Engineer_
 - **Loft Orbital** - 1 role(s), latest 2026-09-01 - _Loft Orbital_
-- **Lumilens** - 1 role(s), latest 2026-09-01 - _Senior/Staff Software Engineer, Data  _
-- **Lynx Analytics** - 1 role(s), latest 2026-08-20 - _Solution Architect - GenAI, Data & Applications (US)_
+- **Lucidcomputing** - 1 role(s), latest 2026-09-17 - _Member of Technical Staff — Network Engineer (Software)_
 - **Matterhaul** - 1 role(s), latest 2026-09-08 - _Matterhaul_
 - **Maven Clinic** - 1 role(s), latest 2026-08-28 - _Staff Software Engineer, Infrastructure _
+- **Meter** - 1 role(s), latest 2026-09-21 - _Firmware Engineer, Data Centers_
 - **MintMCP** - 1 role(s), latest 2026-09-01 - _MintMCP_
 - **MIRA** - 1 role(s), latest 2026-09-03 - _MIRA_
 - **Mondrio** - 1 role(s), latest 2026-09-02 - _Mondrio_
-- **Monolithic Power Systems** - 1 role(s), 1 intern, latest 2026-08-24 - _AI Developer Intern_
+- **Monk** - 1 role(s), latest 2026-09-10 - _Forward Deployed Engineer_
 - **Nash** - 1 role(s), latest 2026-09-09 - _Forward Deployed Engineer_
 - **Ollama** - 1 role(s), latest 2026-08-27 - _Developer Relations_
 - **ORIGAMICS** - 1 role(s), latest 2026-09-01 - _ORIGAMICS_
 - **Parabola Io** - 1 role(s), latest 2026-09-09 - _Senior Software Engineer, Site Reliability_
-- **Phylo** - 1 role(s), latest 2026-09-01 - _Member of Technical Staff – Product Engineering_
+- **Pilgrim** - 1 role(s), latest 2026-09-23 - _Bioinformatics Engineer_
 - **Point Digital Finance, Inc.** - 1 role(s), latest 2026-09-11 - _Sr. Manager, DevOps and AI Enablement_
-- **Point One Navigation** - 1 role(s), latest 2026-08-18 - _Staff Platform Software Engineer _
 - **Primer** - 1 role(s), 1 intern, latest 2026-09-04 - _Software Engineer Intern - Full Stack_
 - **Prophet Security** - 1 role(s), 1 intern, latest 2026-08-25 - _Software Engineer, Backend Intern_
 - **Qualified Health** - 1 role(s), 1 intern, latest 2026-08-29 - _Clinical AI Evaluation Intern_
 - **Roadrunner** - 1 role(s), latest 2026-09-08 - _Forward Deployed Engineer_
+- **Rubrik** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineering Intern_
 - **SK Hynix Memory Solution** - 1 role(s), 1 intern, latest 2026-08-31 - _SSD Firmware Development Engineer Intern_
 - **Soulside%20Ai** - 1 role(s), latest 2026-08-31 - _Backend Engineer (SF/On-site)_
 - **Sprig** - 1 role(s), latest 2026-09-04 - _Senior Software Engineer, Developer Productivity_
 - **Springcraft** - 1 role(s), latest 2026-09-03 - _Springcraft_
 - **Stand** - 1 role(s), latest 2026-09-01 - _Stand_
-- **Strala Ai** - 1 role(s), latest 2026-08-18 - _Software Engineer_
-- **Strix** - 1 role(s), latest 2026-08-24 - _Developer Relations Engineer_
+- **Sunday** - 1 role(s), latest 2026-09-23 - _Robotics Systems Software Integration Engineer_
 - **Superhuman** - 1 role(s), 1 intern, latest 2026-09-15 - _Software Engineer Intern - Summer 2027_
 - **Supero** - 1 role(s), 1 intern, latest 2026-09-05 - _Supero_
-- **Tekion** - 1 role(s), latest 2026-08-20 - _Director, AI Distribution_
+- **Sydecar** - 1 role(s), latest 2026-09-17 - _Senior Platform Engineer_
 - **Tesslcareers** - 1 role(s), latest 2026-09-07 - _Member of DevRel Staff - Developer Advocate_
 - **The Voleon Group** - 1 role(s), 1 intern, latest 2026-08-25 - _Software Engineer Intern_
 - **Unlearn** - 1 role(s), latest 2026-09-02 - _AI Engineer_
@@ -4980,78 +5044,69 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Vitalize** - 1 role(s), latest 2026-08-31 - _Senior Full Stack Engineer _
 - **VSCO** - 1 role(s), latest 2026-09-09 - _ Senior Software Engineer, Infrastructure_
 - **WhatNot** - 1 role(s), 1 intern, latest 2026-09-01 - _Software Engineer Intern_
+- **XPENG Motors** - 1 role(s), 1 intern, latest 2026-09-18 - _AI Research Intern - Predictive World Model_
 - **You.com** - 1 role(s), latest 2026-09-11 - _Developer Evangelist_
 
-### Seattle (16)
-- **Meridian Partners** - 13 role(s), 13 intern, latest 2026-08-25 - _Flight Software Engineer Co-op_
-- **MORSE Corp Co-op Opportunities ** - 13 role(s), 13 intern, latest 2026-08-25 - _Cloud Software Engineer Co-op_
+### Seattle (14)
 - **Clearwater Analytics** - 11 role(s), 11 intern, latest 2026-09-01 - _Salesforce Developer Intern_
-- **Veeda Ai** - 6 role(s), latest 2026-09-08 - _Member of Technical Staff - ML Operations_
-- **Xaira Therapeutics** - 5 role(s), 1 intern, latest 2026-09-03 - _AI in Residence, Computational Protein Design_
 - **Blue Origin** - 4 role(s), 4 intern, latest 2026-09-01 - _Software Developer Intern - Avionics Software_
+- **Rippling** - 4 role(s), 4 intern, latest 2026-09-22 - _Software Engineer Intern - Backend Focused_
+- **Veeda Ai** - 4 role(s), latest 2026-09-08 - _Member of Technical Staff - ML Operations_
+- **Xaira Therapeutics** - 3 role(s), 1 intern, latest 2026-09-03 - _AI Scientist Intern, Computational Protein Design_
 - **Upbound - Job Posting** - 2 role(s), latest 2026-09-10 - _Senior Software Engineer _
 - **Amplify Renewables** - 1 role(s), latest 2026-09-01 - _Amplify Renewables_
 - **Cognitiv** - 1 role(s), latest 2026-09-08 - _Senior Software Engineer, Backend_
 - **DAT** - 1 role(s), latest 2026-09-01 - _DAT_
 - **Maven Clinic** - 1 role(s), latest 2026-08-28 - _Staff Software Engineer, Infrastructure _
 - **Neuralwatt** - 1 role(s), latest 2026-09-01 - _Neuralwatt_
-- **Sageox** - 1 role(s), latest 2026-08-18 - _Forward Deployed Engineer_
 - **Superhuman** - 1 role(s), 1 intern, latest 2026-09-15 - _Software Engineer Intern - Summer 2027_
 - **WhatNot** - 1 role(s), 1 intern, latest 2026-09-01 - _Software Engineer Intern_
 - **ZS** - 1 role(s), 1 intern, latest 2026-09-01 - _Advanced Data Science Associate Intern - University Students_
 
-### New York City (120)
+### New York City (112)
 - **Clearwater Analytics** - 11 role(s), 11 intern, latest 2026-09-01 - _Salesforce Developer Intern_
-- **BNY** - 8 role(s), 8 intern, latest 2026-08-24 - _Engineering Developer Intern - Engineering_
 - **Tradeweb** - 8 role(s), 8 intern, latest 2026-09-10 - _Software Developer Intern - STP_
 - **TD Bank** - 7 role(s), 7 intern, latest 2026-09-13 - _Software Engineer Intern - Software Engineering Rotational Program_
-- **Audax Group** - 4 role(s), 4 intern, latest 2026-08-24 - _Data Analyst Co-op - Business Solutions_
-- **Creditgenie** - 4 role(s), latest 2026-08-25 - _Senior Software Engineer, Trust Platform_
-- **Monk** - 4 role(s), latest 2026-09-10 - _Member of Technical Staff: Data_
+- **Assured Guaranty** - 4 role(s), 2 intern, latest 2026-09-21 - _Product Software Developer - Front-End_
+- **Rippling** - 4 role(s), 4 intern, latest 2026-09-22 - _Software Engineer Intern - Backend Focused_
 - **Ankura Consulting Group** - 3 role(s), 3 intern, latest 2026-09-09 - _Forensic Data & Analytics Intern_
-- **Blackstone** - 3 role(s), latest 2026-08-21 - _Data Science Summer Analyst_
 - **Capital One** - 3 role(s), 3 intern, latest 2026-09-11 - _AI Engineering Intern_
-- **Forus** - 3 role(s), latest 2026-09-09 - _AI Operations_
-- **Geico** - 3 role(s), 3 intern, latest 2026-09-01 - _Technology Development Program Intern - AI Engineer Development Track_
-- **InfiniteQuant** - 3 role(s), 3 intern, latest 2026-09-03 - _Quantitative Developer Internship - Summer 2027_
+- **Fomo Labs** - 3 role(s), latest 2026-09-16 - _Staff Frontend Engineer_
+- **Gemini** - 3 role(s), 2 intern, latest 2026-09-21 - _Software Engineering Intern (Winter 2027)_
 - **Interplay** - 3 role(s), 2 intern, latest 2026-09-10 - _AI Labs Intern_
-- **Millennium** - 3 role(s), 3 intern, latest 2026-08-21 - _Applied AI Engineer Intern_
 - **Odyssey** - 3 role(s), latest 2026-09-11 - _Full Stack Engineer_
 - **Pace** - 3 role(s), 3 intern, latest 2026-09-14 - _Member of Technical Staff Intern_
 - **The Weather Company** - 3 role(s), latest 2026-08-27 - _Senior Manager, AI Software Engineering _
 - **Venn** - 3 role(s), latest 2026-09-14 - _Forward Deployed Engineer_
+- **Viam** - 3 role(s), 2 intern, latest 2026-09-18 - _Senior Developer Advocate (San Francisco, CA)_
 - **Accordion ** - 2 role(s), latest 2026-09-10 - _Senior Software Engineer_
+- **Agentio** - 2 role(s), latest 2026-09-21 - _Founding Research Engineer, Applied AI_
 - **Appnovation Technologies** - 2 role(s), latest 2026-09-04 - _Full-Stack AI Engineer_
-- **Blockstream** - 2 role(s), latest 2026-08-21 - _Forward Deployed Engineer_
+- **Bonfireanalytics** - 2 role(s), latest 2026-09-23 - _Staff Data Scientist_
 - **Charta Health** - 2 role(s), 2 intern, latest 2026-09-14 - _Forward Deployed AI Engineer Intern_
-- **Counsel** - 2 role(s), latest 2026-08-28 - _Research Scientist_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
+- **CTC Lateral - Website & LinkedIn** - 2 role(s), latest 2026-09-17 - _AI Engineer_
 - **Domino Data Lab** - 2 role(s), 2 intern, latest 2026-09-09 - _Software Engineer Intern_
 - **Dottxt** - 2 role(s), latest 2026-09-02 - _Staff Parser/Compiler Research Engineer_
+- **Forus** - 2 role(s), latest 2026-09-09 - _Software Engineer, Provider Growth_
 - **General Legal ** - 2 role(s), latest 2026-08-28 - _Senior Full Stack Engineer_
-- **Hyphenate** - 2 role(s), 2 intern, latest 2026-08-25 - _Software Engineer Intern_
+- **Impiricus** - 2 role(s), latest 2026-09-23 - _AI Engineer_
 - **Kensho** - 2 role(s), 2 intern, latest 2026-09-09 - _Software Engineer Intern - Summer 2027_
-- **LinkedIn Job Wrapping** - 2 role(s), latest 2026-09-04 - _Director, AI & Agentic Engineering_
-- **N1** - 2 role(s), 1 intern, latest 2026-08-27 - _Software Engineer (Full Stack)_
 - **Negotiate Ai** - 2 role(s), latest 2026-09-09 - _Forward Deployed Engineer_
 - **Rilla** - 2 role(s), 2 intern, latest 2026-09-15 - _Software Engineering Intern, 2028 Grads _
-- **S&P Global** - 2 role(s), 2 intern, latest 2026-09-09 - _Software Engineer Intern - Summer 2027_
-- **Sage** - 2 role(s), 2 intern, latest 2026-08-24 - _Software Engineer Intern - Full Stack_
+- **Stellar** - 2 role(s), latest 2026-09-18 - _Staff Software Engineer, C++/Rust_
 - **Swayable** - 2 role(s), latest 2026-09-03 - _Senior Software Engineer: AI_
-- **Syska Hennessy Group** - 2 role(s), 2 intern, latest 2026-09-08 - _Software Developer (Innovation) Summer Intern_
-- **VaynerMedia LLC** - 2 role(s), latest 2026-09-10 - _Resident - Data Analytics_
 - **3Imembers** - 1 role(s), latest 2026-08-28 - _Director of Experiential & Programming_
 - **ACLU - National Office** - 1 role(s), latest 2026-09-11 - _Deputy Director, Development Systems Support, Business Intelligence and Analysis._
+- **Alloy** - 1 role(s), latest 2026-09-23 - _Senior Cloud Security Engineer_
 - **Altman Solon** - 1 role(s), 1 intern, latest 2026-09-15 - _Data Analyst Intern_
 - **Ambral** - 1 role(s), latest 2026-09-01 - _Member of Technical Staff (Evals & Post-Training)_
 - **AMI** - 1 role(s), 1 intern, latest 2026-08-27 - _Computer Vision Scientist Intern - Geometry and 3D Vision_
 - **Anterior** - 1 role(s), latest 2026-09-01 - _Anterior_
 - **Anterior (Sequoia-backed, Series B)** - 1 role(s), latest 2026-09-10 - _Anterior (Sequoia-backed, Series B)_
 - **Arlo** - 1 role(s), latest 2026-08-27 - _Senior Data Scientist_
-- **August** - 1 role(s), latest 2026-08-20 - _Forward Deployed Engineer_
-- **Baba** - 1 role(s), latest 2026-08-18 - _Fullstack Engineer_
 - **Betterment** - 1 role(s), 1 intern, latest 2026-09-03 - _Software Engineer Intern_
 - **Breeze** - 1 role(s), latest 2026-09-01 - _Full Stack Engineer - Junior _
+- **Brellium** - 1 role(s), latest 2026-09-23 - _Senior Platform Engineer_
 - **Brevan Howard** - 1 role(s), 1 intern, latest 2026-09-10 - _Summer Internship Program - Systematic Trading Technology Software Engineer_
 - **Camber** - 1 role(s), latest 2026-09-03 - _Senior Platform Software Engineer_
 - **Cambio** - 1 role(s), latest 2026-09-02 - _Backend Engineer_
@@ -5060,79 +5115,81 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Capstone Investment Advisors** - 1 role(s), latest 2026-09-09 - _Enterprise Software Engineer_
 - **Chartahealth** - 1 role(s), 1 intern, latest 2026-08-27 - _Software Engineer (FDE / Platform) - Intern_
 - **Child Mind Institute** - 1 role(s), latest 2026-09-01 - _Child Mind Institute_
+- **Cinder** - 1 role(s), latest 2026-08-27 - _AI/ML Engineer_
 - **Ciridae** - 1 role(s), latest 2026-09-01 - _Staff Platform Engineer_
-- **Claimsorted** - 1 role(s), latest 2026-08-19 - _Forward Deployed Engineer_
 - **Concourse** - 1 role(s), latest 2026-09-05 - _AI Deployment Strategist_
 - **DeepL** - 1 role(s), latest 2026-09-01 - _DeepL_
 - **Deya** - 1 role(s), latest 2026-09-01 - _Deya_
 - **DiligenceVault** - 1 role(s), 1 intern, latest 2026-09-11 - _AI Engineer Intern_
 - **DTCC** - 1 role(s), 1 intern, latest 2026-08-25 - _Application Developer Intern_
-- **DV Group** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern, Commodities_
 - **Energy Solutions - USA** - 1 role(s), latest 2026-09-11 - _Senior Software Engineer (Hybrid - US)_
+- **Enigma** - 1 role(s), latest 2026-09-18 - _Staff/Senior Data Scientist, Entity Resolution Team_
 - **Ernst & Young** - 1 role(s), 1 intern, latest 2026-09-14 - _Data Engineer Intern - Multiple Teams_
 - **Fairlife** - 1 role(s), latest 2026-09-16 - _Operations Data Analyst _
 - **Farther** - 1 role(s), latest 2026-09-08 - _Senior Frontend Engineer, Conversational & Gen UI_
 - **Findigs** - 1 role(s), latest 2026-09-01 - _Findigs_
-- **Five Rings Capital** - 1 role(s), latest 2026-08-18 - _Software Development Intensive Program - LINK_
-- **Five Rings LLC - Careers** - 1 role(s), latest 2026-08-18 - _LINK 2027: Software Development Intensive Program_
-- **Flaglerhealth** - 1 role(s), latest 2026-08-25 - _Senior Fullstack Engineer_
+- **Flipturn** - 1 role(s), latest 2026-09-16 - _Senior Software Engineer, Embedded_
 - **Forerunner** - 1 role(s), latest 2026-08-27 - _Senior Security & Infrastructure Engineer_
 - **Found** - 1 role(s), latest 2026-08-27 - _Staff Software Engineer, Platform _
-- **Inductive Bio** - 1 role(s), latest 2026-09-11 - _Member of Technical Staff - Machine Learning_
-- **Industrious** - 1 role(s), latest 2026-09-11 - _Senior Backend Engineer_
-- **Koahlabs** - 1 role(s), latest 2026-08-20 - _Developer Relations_
-- **Lynx Analytics** - 1 role(s), latest 2026-08-20 - _Solution Architect - GenAI, Data & Applications (US)_
+- **Geico** - 1 role(s), 1 intern, latest 2026-09-01 - _Artificial Intelligence Applied Research & Machine Learning Intern - PhD_
+- **Hauler Hero** - 1 role(s), latest 2026-09-18 - _Senior Backend Engineer, Payments_
+- **Headlands Tech Holdings** - 1 role(s), 1 intern, latest 2026-09-21 - _Deep Learning Research Intern_
+- **InfiniteQuant** - 1 role(s), 1 intern, latest 2026-09-03 - _Quantitative Developer Intern_
+- **Iterative Health** - 1 role(s), latest 2026-09-18 - _Applied AI Engineer _
 - **Marshall Wace - Graduate & Associate roles** - 1 role(s), latest 2026-08-26 - _Quant Developer - Quant Associate Programme - 2027_
 - **Maven Clinic** - 1 role(s), latest 2026-08-28 - _Staff Software Engineer, Infrastructure _
 - **Maximor AI** - 1 role(s), 1 intern, latest 2026-08-26 - _Software Engineer Intern_
-- **Metropolitan Commercial Bank** - 1 role(s), latest 2026-08-25 - _Applied AI Analyst_
+- **Meow** - 1 role(s), latest 2026-09-17 - _Software Engineer - December 2026 Graduates_
+- **Monk** - 1 role(s), latest 2026-09-10 - _Forward Deployed Engineer_
+- **N1** - 1 role(s), latest 2026-08-27 - _Software Engineer (Full Stack)_
 - **N8N** - 1 role(s), latest 2026-09-15 - _Forward Deployed Engineer - US East Coast_
 - **Nelo** - 1 role(s), latest 2026-09-08 - _Senior Data Engineer _
 - **Neon Commerce** - 1 role(s), latest 2026-09-02 - _Neon Commerce_
-- **Nevis** - 1 role(s), latest 2026-08-26 - _Forward Deployed Engineer_
 - **NYC** - 1 role(s), latest 2026-09-02 - _NYC_
 - **Oplabs** - 1 role(s), latest 2026-09-10 - _Data Scientist_
 - **Pactfi** - 1 role(s), latest 2026-08-31 - _Lead Software Engineer_
 - **Parabola Io** - 1 role(s), latest 2026-09-09 - _Senior Software Engineer, Site Reliability_
-- **Partiful** - 1 role(s), latest 2026-08-21 - _Platform Engineer, Trust and Safety_
 - **Pascal** - 1 role(s), latest 2026-09-01 - _Pascal_
 - **Pathos AI** - 1 role(s), latest 2026-09-01 - _Pathos AI_
 - **Patlytics** - 1 role(s), latest 2026-08-28 - _Data Engineering Lead_
+- **Peec** - 1 role(s), latest 2026-09-22 - _AI Search Manager_
 - **PerkinElmer** - 1 role(s), 1 intern, latest 2026-09-15 - _Data Science Intern - Asset Intelligence_
 - **PermitFlow (YC W22)** - 1 role(s), latest 2026-09-05 - _PermitFlow (YC W22)_
-- **Phoebe** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern_
-- **Phoebe Work** - 1 role(s), 1 intern, latest 2026-08-20 - _Software Engineering Intern_
 - **Pinwheel** - 1 role(s), latest 2026-09-10 - _Sr. Backend Engineer, AI Projects_
 - **PricewaterhouseCoopers (PwC)** - 1 role(s), 1 intern, latest 2026-08-31 - _Market Information and Data Analytics Intern - Multiple Teams_
 - **Reindeer Ai** - 1 role(s), latest 2026-09-08 - _AI Solutions Engineer_
+- **ResortPass** - 1 role(s), latest 2026-09-23 - _Staff Software Engineer, Backend Booking Platform & APIs_
 - **Sequence Holdings** - 1 role(s), 1 intern, latest 2026-09-09 - _Software Engineer Intern_
 - **Shared Context Lab** - 1 role(s), latest 2026-09-01 - _Shared Context Lab_
-- **Strix** - 1 role(s), latest 2026-08-24 - _Developer Relations Engineer_
 - **Sunset** - 1 role(s), latest 2026-09-04 - _Backend Engineer — Data Pipeline_
 - **Sunspell** - 1 role(s), latest 2026-09-01 - _Sunspell_
 - **Superhuman** - 1 role(s), 1 intern, latest 2026-09-15 - _Software Engineer Intern - Summer 2027_
-- **Sylvan Labs** - 1 role(s), latest 2026-09-11 - _Founding Forward Deployed Engineer_
+- **Syska Hennessy Group** - 1 role(s), 1 intern, latest 2026-09-08 - _Software Developer (Innovation) Summer Intern_
 - **Taboola** - 1 role(s), latest 2026-09-02 - _Salesforce and GenAI System Analyst_
 - **The Voleon Group** - 1 role(s), 1 intern, latest 2026-08-25 - _Software Engineer Intern_
 - **Thesis** - 1 role(s), latest 2026-09-03 - _Analytics Engineer_
-- **Upside** - 1 role(s), latest 2026-09-03 - _Analytics Engineer, Data Platform_
+- **Tower Research Capital** - 1 role(s), 1 intern, latest 2026-09-17 - _Software Engineer Intern - Summer 2027_
 - **VantageScore** - 1 role(s), latest 2026-09-15 - _Senior Data Scientist_
 - **Vendelux** - 1 role(s), latest 2026-09-09 - _Staff AI Engineer (NYC)_
-- **Warp** - 1 role(s), latest 2026-08-28 - _Software Engineer, Product_
+- **Viking Global** - 1 role(s), 1 intern, latest 2026-09-21 - _Data Science Intern_
 - **WhatNot** - 1 role(s), 1 intern, latest 2026-09-01 - _Software Engineer Intern_
+- **Wilson Elser - Attorneys** - 1 role(s), latest 2026-09-18 - _Data Privacy and AI Governance Attorney_
 - **Wilson Elser - Business & Legal Professionals** - 1 role(s), latest 2026-08-26 - _Data Analyst_
+- **Zaimler** - 1 role(s), latest 2026-09-18 - _Forward Deployed Engineer_
 
-### Chicago (23)
+### Chicago (24)
 - **Clearwater Analytics** - 11 role(s), 11 intern, latest 2026-09-01 - _Salesforce Developer Intern_
-- **Publicis Groupe** - 5 role(s), 5 intern, latest 2026-09-09 - _Software Engineer Intern_
 - **CIBC** - 4 role(s), 4 intern, latest 2026-09-04 - _Software Engineer Co-op_
+- **Geneva Trading** - 4 role(s), 4 intern, latest 2026-09-22 - _C++ Developer (Intern) _
 - **Grant Thornton** - 4 role(s), 4 intern, latest 2026-08-31 - _AI, Data & Technology Intern - Summer 2027_
+- **The Hartford** - 4 role(s), 4 intern, latest 2026-09-17 - _Data Engineer Intern - Technology, Data, AI, and Operations_
 - **Ankura Consulting Group** - 3 role(s), 3 intern, latest 2026-09-09 - _Forensic Data & Analytics Intern_
 - **Venn** - 3 role(s), latest 2026-09-14 - _Forward Deployed Engineer_
 - **Accordion ** - 2 role(s), latest 2026-09-10 - _Senior Software Engineer_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
+- **CTC Lateral - Website & LinkedIn** - 2 role(s), latest 2026-09-17 - _AI Engineer_
 - **KBR** - 2 role(s), 2 intern, latest 2026-09-16 - _Data Science Intern_
 - **Northern Trust** - 2 role(s), 2 intern, latest 2026-09-01 - _Technology Intern - Software Engineering_
+- **OCC** - 2 role(s), 2 intern, latest 2026-09-17 - _AI Research & Engineering Intern_
 - **United Airlines** - 2 role(s), 2 intern, latest 2026-09-01 - _Tech Ops Analytics & Business Intelligence Intern - Summer 2027_
 - **ARCO/Murray National Construction** - 1 role(s), latest 2026-09-02 - _Project Developer, Sports & Entertainment_
 - **Atomic Object** - 1 role(s), latest 2026-09-01 - _Software Developer Accelerator_
@@ -5141,138 +5198,127 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Energy Solutions - USA** - 1 role(s), latest 2026-09-11 - _Senior Software Engineer (Hybrid - US)_
 - **Ernst & Young** - 1 role(s), 1 intern, latest 2026-09-14 - _Data Engineer Intern - Multiple Teams_
 - **Exelon** - 1 role(s), 1 intern, latest 2026-08-31 - _Data Science Intern - Data Science/Analytics_
+- **Headlands Tech Holdings** - 1 role(s), 1 intern, latest 2026-09-21 - _Deep Learning Research Intern_
 - **Huntington Bancshares** - 1 role(s), 1 intern, latest 2026-09-15 - _Business Innovation & AI Products Intern_
-- **TransMarket Group** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern_
-- **Upside** - 1 role(s), latest 2026-09-03 - _Analytics Engineer, Data Platform_
-- **W.W. Grainger** - 1 role(s), 1 intern, latest 2026-08-21 - _Data Science Intern_
+- **Optiver** - 1 role(s), 1 intern, latest 2026-09-22 - _Software Engineer Co-op_
 - **ZS** - 1 role(s), 1 intern, latest 2026-09-01 - _Advanced Data Science Associate Intern - University Students_
 
-### Texas (35)
-- **Integra FEC** - 8 role(s), 8 intern, latest 2026-08-31 - _(SPRING) Data Analyst Intern _
+### Texas (40)
+- **Qorvo** - 16 role(s), 16 intern, latest 2026-09-18 - _Software Engineer Intern_
 - **Citizens Financial Group** - 6 role(s), 6 intern, latest 2026-09-11 - _Software Engineer Intern_
 - **AnaVation** - 5 role(s), 5 intern, latest 2026-09-12 - _Computer Science Intern_
-- **Publicis Groupe** - 5 role(s), 5 intern, latest 2026-09-09 - _Software Engineer Intern_
 - **Fervo Energy** - 4 role(s), 4 intern, latest 2026-09-08 - _AI Applications Engineering Intern_
 - **Grant Thornton** - 4 role(s), 4 intern, latest 2026-08-31 - _AI, Data & Technology Intern - Summer 2027_
 - **Integra FEC - Internships** - 4 role(s), 4 intern, latest 2026-08-31 - _(SPRING) Data Analyst Intern _
+- **Lennox International** - 4 role(s), 4 intern, latest 2026-09-17 - _Mobile Applications Intern_
+- **Valstad** - 4 role(s), 2 intern, latest 2026-09-22 - _Senior Robotics Software Engineer, Motion Planning & Manipulation_
 - **Entergy** - 3 role(s), 3 intern, latest 2026-09-15 - _Artificial Intelligence Intern_
+- **Upbound Group** - 3 role(s), 3 intern, latest 2026-09-21 - _Software Engineer Intern_
+- **USAA** - 3 role(s), 2 intern, latest 2026-09-22 - _AI/ML Engineer Intern_
 - **Accordion ** - 2 role(s), latest 2026-09-10 - _Senior Software Engineer_
 - **American Housing** - 2 role(s), latest 2026-09-14 - _Senior Software Engineer_
 - **Aramco Americas** - 2 role(s), 2 intern, latest 2026-09-08 - _AI/ML Engineering Intern - Summer Student Program_
 - **Charles Schwab** - 2 role(s), 2 intern, latest 2026-08-29 - _Software Engineering Intern - Technology_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
-- **Pressw** - 2 role(s), 1 intern, latest 2026-09-14 - _Senior AI Strategist – MSP Division_
+- **GuideStone** - 2 role(s), 2 intern, latest 2026-09-22 - _Software Developer Intern - Software Development_
 - **Skyways** - 2 role(s), latest 2026-09-14 - _Senior Full Stack Engineer_
-- **Sysco** - 2 role(s), 2 intern, latest 2026-08-20 - _Software Engineer Intern_
+- **WhiteWater Midstream** - 2 role(s), 1 intern, latest 2026-09-21 - _Data Science Intern - Summer 2027_
 - **Workshop Hiring** - 2 role(s), latest 2026-09-12 - _Senior Firmware Engineer_
 - **8Vc** - 1 role(s), latest 2026-08-27 - _Software Engineer - MeritFirst_
 - **Ambrosia Energy** - 1 role(s), latest 2026-09-15 - _Embedded Firmware Engineer_
+- **American Heart Association** - 1 role(s), 1 intern, latest 2026-09-21 - _Data Science Intern - Machine Learning & AI_
 - **Axo** - 1 role(s), latest 2026-09-01 - _Axo_
+- **Brunswick Group** - 1 role(s), latest 2026-09-21 - _AI Engineer_
+- **Conifer Health Solutions** - 1 role(s), 1 intern, latest 2026-09-21 - _BI Developer Intern_
 - **CSC Generation** - 1 role(s), 1 intern, latest 2026-09-14 - _Software Engineer Intern/Part Time - Legacy Applications & Modernization_
-- **Devon Energy** - 1 role(s), 1 intern, latest 2026-08-20 - _Technology Intern - Data Engineering_
 - **DTCC** - 1 role(s), 1 intern, latest 2026-08-25 - _Application Developer Intern_
 - **Ercot** - 1 role(s), 1 intern, latest 2026-09-08 - _IT Intern - Enterprise Data & AI Administration_
-- **Frost** - 1 role(s), 1 intern, latest 2026-08-21 - _Computer Science Intern - Digital Services_
+- **Flipturn** - 1 role(s), latest 2026-09-16 - _Senior Software Engineer, Embedded_
 - **HF Sinclair** - 1 role(s), 1 intern, latest 2026-09-15 - _IT Data Analytics Intern_
 - **Huntington Bancshares** - 1 role(s), 1 intern, latest 2026-09-15 - _Business Innovation & AI Products Intern_
 - **ISN Software** - 1 role(s), 1 intern, latest 2026-09-01 - _Software Developer Intern - Fall 2026_
-- **NOV** - 1 role(s), 1 intern, latest 2026-09-15 - _Software Engineer Intern - Rig Technologies_
+- **Mia Labs** - 1 role(s), latest 2026-09-22 - _Senior Software Engineer (Data Platform)_
 - **Planview** - 1 role(s), 1 intern, latest 2026-09-10 - _Software Engineer Intern_
+- **PressW** - 1 role(s), 1 intern, latest 2026-09-14 - _Applied AI Engineer Intern_
+- **Sentient** - 1 role(s), latest 2026-09-23 - _Applied ML Engineer_
 - **Setpoint** - 1 role(s), latest 2026-09-08 - _Senior Full Stack Engineer_
-- **Specialisterne** - 1 role(s), 1 intern, latest 2026-08-19 - _Software Engineer Intern - Neurodiversity Hiring Initiative_
 - **The Friedkin Group** - 1 role(s), 1 intern, latest 2026-09-11 - _IT Data Analytics Intern - Business Systems & AI_
-- **Upside** - 1 role(s), latest 2026-09-03 - _Analytics Engineer, Data Platform_
 - **Valstad Shipworks** - 1 role(s), latest 2026-09-01 - _Valstad Shipworks_
+- **Zekelman Industries** - 1 role(s), 1 intern, latest 2026-09-23 - _Business Intelligence Intern - Program Development_
 
-### Boston (31)
-- **Meridian Partners** - 13 role(s), 13 intern, latest 2026-08-25 - _Flight Software Engineer Co-op_
-- **MORSE Corp Co-op Opportunities ** - 13 role(s), 13 intern, latest 2026-08-25 - _Cloud Software Engineer Co-op_
+### Boston (27)
 - **Citizens Financial Group** - 6 role(s), 6 intern, latest 2026-09-11 - _Software Engineer Intern_
-- **Publicis Groupe** - 5 role(s), 5 intern, latest 2026-09-09 - _Software Engineer Intern_
-- **Audax Group** - 4 role(s), 4 intern, latest 2026-08-24 - _Data Analyst Co-op - Business Solutions_
 - **Capital One** - 3 role(s), 3 intern, latest 2026-09-11 - _AI Engineering Intern_
+- **Wave Life Sciences USA** - 3 role(s), 3 intern, latest 2026-09-18 - _Microsoft Copilot AI Co-op_
 - **Accordion ** - 2 role(s), latest 2026-09-10 - _Senior Software Engineer_
-- **Counsel** - 2 role(s), latest 2026-08-28 - _Research Scientist_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
 - **Cyvl** - 2 role(s), 2 intern, latest 2026-09-14 - _Software Engineering Intern - SWE/ML (Summer 2027)_
 - **Extropic** - 2 role(s), latest 2026-09-08 - _Thermo ML Resident_
 - **Kensho** - 2 role(s), 2 intern, latest 2026-09-09 - _Software Engineer Intern - Summer 2027_
+- **Options It** - 2 role(s), latest 2026-09-22 - _C++ Software Developer_
+- **Perk** - 2 role(s), latest 2026-09-16 - _Senior Software Engineer - Boston _
 - **Red Hat** - 2 role(s), 2 intern, latest 2026-09-08 - _Software Engineer Co-op_
-- **S&P Global** - 2 role(s), 2 intern, latest 2026-09-09 - _Software Engineer Intern - Summer 2027_
+- **Wellington Management** - 2 role(s), 2 intern, latest 2026-09-17 - _Business Intelligence Co-op_
 - **Workshop Hiring** - 2 role(s), latest 2026-09-12 - _Senior Firmware Engineer_
 - **Altman Solon** - 1 role(s), 1 intern, latest 2026-09-15 - _Data Analyst Intern_
-- **Ampersand** - 1 role(s), 1 intern, latest 2026-08-20 - _Data Engineering Co-op - Open to Northeastern students only_
 - **Energy Solutions - USA** - 1 role(s), latest 2026-09-11 - _Senior Software Engineer (Hybrid - US)_
 - **Foray Bioscience** - 1 role(s), latest 2026-09-02 - _Foray Bioscience_
-- **GSK** - 1 role(s), 1 intern, latest 2026-09-14 - _Web App Developer Co-op_
-- **Klaviyo Campus** - 1 role(s), 1 intern, latest 2026-09-12 - _Software Engineer Co-op (Spring 2027)_
+- **InterSystems** - 1 role(s), 1 intern, latest 2026-09-16 - _Web Development Micro-Intern - Iap_
+- **Iterative Health** - 1 role(s), latest 2026-09-18 - _Applied AI Engineer _
 - **Modulate** - 1 role(s), latest 2026-08-27 - _Senior Machine Learning Engineer_
 - **N8N** - 1 role(s), latest 2026-09-15 - _Forward Deployed Engineer - US East Coast_
+- **Nanopath** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Development Co-op_
 - **Netrias** - 1 role(s), latest 2026-09-09 - _Netrias_
 - **PricewaterhouseCoopers (PwC)** - 1 role(s), 1 intern, latest 2026-08-31 - _Market Information and Data Analytics Intern - Multiple Teams_
 - **Prime Medicine** - 1 role(s), latest 2026-09-07 - _Senior Software Quality Specialist_
-- **Productgenius** - 1 role(s), latest 2026-08-27 - _Backend Engineer_
+- **RA Capital Management, LLC** - 1 role(s), latest 2026-09-17 - _Applied AI Scientist_
 - **Reframe Systems** - 1 role(s), latest 2026-09-02 - _Reframe Systems_
-- **Teamapellis** - 1 role(s), latest 2026-09-09 - _Associate Director, Business Intelligence, SYFOVRE_
 - **Tive** - 1 role(s), 1 intern, latest 2026-09-14 - _Software Engineer Co-op_
 - **Veracode** - 1 role(s), latest 2026-09-08 - _Senior Software Engineer_
 
-### Los Angeles (15)
+### Los Angeles (17)
+- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
 - **Edison International** - 6 role(s), 6 intern, latest 2026-09-01 - _Data Analytics Intern - Data Science - Applied Math_
 - **Hadrian** - 5 role(s), 5 intern, latest 2026-09-03 - _Robotics Software Engineer Intern_
-- **Freeform** - 4 role(s), 1 intern, latest 2026-09-15 - _CMM Programmer_
-- **Graymatter Robotics** - 3 role(s), 2 intern, latest 2026-08-26 - _AI Research Intern: Foundation Models - IMMEDIATE START_
+- **Freeform** - 3 role(s), latest 2026-09-15 - _CMM Programmer_
 - **Matter Intelligence** - 3 role(s), latest 2026-09-15 - _Flight Firmware Engineer_
-- **Observable Space** - 3 role(s), latest 2026-09-10 - _Staff Flight Software Engineer_
 - **BuildOps** - 2 role(s), latest 2026-09-02 - _Senior Software Engineer_
 - **Lodestar** - 2 role(s), latest 2026-09-07 - _Software Engineer - Simulations (III)_
-- **VaynerMedia LLC** - 2 role(s), latest 2026-09-10 - _Resident - Data Analytics_
-- **Activision Blizzard** - 1 role(s), 1 intern, latest 2026-09-09 - _Software Engineering Intern_
+- **Observable Space** - 2 role(s), latest 2026-09-10 - _Computer Vision Engineer_
+- **Thatgamecompany** - 2 role(s), latest 2026-09-23 - _Senior Engine Programmer_
 - **Apex Space** - 1 role(s), latest 2026-09-01 - _Apex Space_
 - **Atticus** - 1 role(s), latest 2026-08-27 - _Staff Data Engineer_
+- **Enigma** - 1 role(s), latest 2026-09-18 - _Staff/Senior Data Scientist, Entity Resolution Team_
 - **Everlane** - 1 role(s), latest 2026-08-26 - _Director of Data Science & Analytics _
+- **Lightspark** - 1 role(s), latest 2026-09-18 - _Senior Software Engineer, Data & AI_
 - **Oceanus Marine Technologies** - 1 role(s), 1 intern, latest 2026-09-03 - _Software Engineer Intern_
+- **Pilgrim** - 1 role(s), latest 2026-09-23 - _Bioinformatics Engineer_
 - **Steg.AI** - 1 role(s), latest 2026-09-01 - _Steg.AI_
 
-### San Diego (4)
+### San Diego (3)
 - **Clinicallyai** - 2 role(s), latest 2026-09-14 - _Full-Stack Engineer_
 - **Acadia Pharmaceuticals Inc.** - 1 role(s), latest 2026-09-01 - _Director, AI Engineering_
-- **Altos Labs** - 1 role(s), latest 2026-08-20 - _Director /  Senior Director, Machine Learning for Biology_
 - **Element Biosciences** - 1 role(s), latest 2026-09-04 - _Director, Software Engineering_
 
-### Washington DC (26)
-- **Meridian Partners** - 13 role(s), 13 intern, latest 2026-08-25 - _Flight Software Engineer Co-op_
-- **MORSE Corp Co-op Opportunities ** - 13 role(s), 13 intern, latest 2026-08-25 - _Cloud Software Engineer Co-op_
+### Washington DC (16)
 - **AnaVation** - 5 role(s), 5 intern, latest 2026-09-12 - _Computer Science Intern_
 - **Dev Technology Group** - 4 role(s), 4 intern, latest 2026-09-01 - _React/Node Developer Intern - Summer 2027_
 - **Ankura Consulting Group** - 3 role(s), 3 intern, latest 2026-09-09 - _Forensic Data & Analytics Intern_
 - **Capital One** - 3 role(s), 3 intern, latest 2026-09-11 - _AI Engineering Intern_
-- **Deloitte** - 3 role(s), 3 intern, latest 2026-08-27 - _Software Engineering Summer Scholar Intern_
-- **Geico** - 3 role(s), 3 intern, latest 2026-09-01 - _Technology Development Program Intern - AI Engineer Development Track_
 - **Venn** - 3 role(s), latest 2026-09-14 - _Forward Deployed Engineer_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
 - **Cvent** - 2 role(s), 2 intern, latest 2026-08-31 - _Software Engineer Intern - Summer 2027_
-- **LeoLabs, Inc.** - 2 role(s), latest 2026-09-02 - _Senior Software Engineer_
-- **2Ndwave** - 1 role(s), latest 2026-08-25 - _Data Analyst I_
+- **Deloitte** - 2 role(s), 2 intern, latest 2026-08-27 - _Software Engineering Summer Scholar Intern_
 - **American Institutes for Research** - 1 role(s), 1 intern, latest 2026-08-26 - _Data Science Intern_
 - **American University** - 1 role(s), latest 2026-09-11 - _Quantitative Support Programmer - Student_
-- **BTI360** - 1 role(s), 1 intern, latest 2026-08-24 - _Software Engineer Intern_
 - **CaseGuard** - 1 role(s), latest 2026-09-10 - _Software Engineer - WPF_
 - **Exelon** - 1 role(s), 1 intern, latest 2026-08-31 - _Data Science Intern - Data Science/Analytics_
-- **Fannie Mae** - 1 role(s), 1 intern, latest 2026-08-20 - _Data Science Intern - Analytics & Modeling Program_
 - **National Association of Realtors** - 1 role(s), latest 2026-09-02 - _National Association of Realtors_
 - **Netrias** - 1 role(s), latest 2026-09-09 - _Netrias_
 - **Standtogether** - 1 role(s), latest 2026-09-03 - _Lead Software Engineer, Digital Platforms_
-- **The Nuclear Company** - 1 role(s), 1 intern, latest 2026-08-21 - _AI Applied Research Intern_
 - **Trustible** - 1 role(s), latest 2026-09-01 - _Trustible_
-- **Upside** - 1 role(s), latest 2026-09-03 - _Analytics Engineer, Data Platform_
 - **VantageScore** - 1 role(s), latest 2026-09-15 - _Senior Data Scientist_
 
-### Denver / Boulder (11)
+### Denver / Boulder (9)
 - **Xcel Energy** - 7 role(s), 7 intern, latest 2026-09-14 - _Data Science Intern_
 - **Blue Origin** - 4 role(s), 4 intern, latest 2026-09-01 - _Software Developer Intern - Avionics Software_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
-- **LeoLabs, Inc.** - 2 role(s), latest 2026-09-02 - _Senior Software Engineer_
 - **Xcimer Energy** - 2 role(s), 2 intern, latest 2026-09-11 - _Computational and Software Engineering Intern_
 - **Boom Supersonic** - 1 role(s), latest 2026-09-01 - _Boom Supersonic_
 - **DAT** - 1 role(s), latest 2026-09-01 - _DAT_
@@ -5281,262 +5327,272 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Neuralwatt** - 1 role(s), latest 2026-09-01 - _Neuralwatt_
 - **Simplesense** - 1 role(s), latest 2026-08-26 - _Senior Cloud Network Engineer_
 
-### Atlanta (11)
-- **Deloitte** - 3 role(s), 3 intern, latest 2026-08-27 - _Software Engineering Summer Scholar Intern_
+### Atlanta (12)
 - **The Home Depot** - 3 role(s), 3 intern, latest 2026-08-31 - _Data Science Intern_
 - **The Weather Company** - 3 role(s), latest 2026-08-27 - _Senior Manager, AI Software Engineering _
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
+- **Deloitte** - 2 role(s), 2 intern, latest 2026-08-27 - _Software Engineering Summer Scholar Intern_
 - **Equifax** - 2 role(s), 2 intern, latest 2026-09-08 - _Technology Intern - Software Development - Site Reliability Engineering_
+- **Fidelity National Information Services** - 2 role(s), 2 intern, latest 2026-09-17 - _Software Engineer Intern - FIS University Program_
 - **Geotab** - 2 role(s), 2 intern, latest 2026-09-03 - _DataOps Developer Intern - Months_
+- **Impiricus** - 2 role(s), latest 2026-09-23 - _AI Engineer_
+- **Alembic** - 1 role(s), latest 2026-09-16 - _Senior Site Reliability Engineer_
 - **Autostore** - 1 role(s), 1 intern, latest 2026-09-13 - _Software Engineering Co-op_
 - **Finastra** - 1 role(s), 1 intern, latest 2026-08-27 - _AI Engineer Intern - Summer 2027_
 - **HD Supply** - 1 role(s), 1 intern, latest 2026-09-02 - _Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science_
 - **Nasdaq** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Developer/Engineer Intern_
-- **Nomagic** - 1 role(s), 1 intern, latest 2026-08-24 - _Engineering Intern - Software or Hardware_
 
-### Raleigh-Durham (7)
+### Raleigh-Durham (8)
+- **Collier Aerospace** - 3 role(s), 3 intern, latest 2026-09-16 - _Software Engineer Intern - Web Applications - Summer 2027_
 - **Genworth Financial** - 3 role(s), 3 intern, latest 2026-09-14 - _Data Analytics Intern - Summer 2027_
 - **Enact Mortgage Insurance** - 2 role(s), 2 intern, latest 2026-09-14 - _Software Engineer Intern_
 - **LexisNexis Legal & Professional** - 2 role(s), 2 intern, latest 2026-09-15 - _Software Engineer Intern_
 - **OnLogic** - 2 role(s), 2 intern, latest 2026-09-01 - _Firmware Engineer Co-op_
 - **Red Hat** - 2 role(s), 2 intern, latest 2026-09-08 - _Software Engineer Co-op_
+- **Relay** - 2 role(s), 2 intern, latest 2026-09-16 - _Software Engineering Intern (Device Team) - Summer 2027_
 - **Atomic Object** - 1 role(s), latest 2026-09-01 - _Software Developer Accelerator_
-- **Toshiba Global Commerce** - 1 role(s), 1 intern, latest 2026-08-20 - _AI Software Engineer Intern_
 
-### Pittsburgh (6)
-- **BNY** - 8 role(s), 8 intern, latest 2026-08-24 - _Engineering Developer Intern - Engineering_
+### Pittsburgh (5)
 - **First National Bank** - 6 role(s), 6 intern, latest 2026-09-01 - _Data Science Intern_
-- **Creditgenie** - 4 role(s), latest 2026-08-25 - _Senior Software Engineer, Trust Platform_
 - **Dick's Sporting Goods** - 2 role(s), 2 intern, latest 2026-09-08 - _Software Engineer Intern - Corporate Internship_
 - **Aerotech** - 1 role(s), 1 intern, latest 2026-08-31 - _Software Engineering Intern Co-op - Enterprise Development Team - Application Development _
+- **Howmet Aerospace** - 1 role(s), 1 intern, latest 2026-09-17 - _Artificial Intelligence Intern - AI_
 - **RJ Lee Group** - 1 role(s), 1 intern, latest 2026-08-27 - _Artificial Intelligence Software Modernization Intern_
 
-### Salt Lake City (1)
+### Salt Lake City (4)
+- **Upbound Group** - 3 role(s), 3 intern, latest 2026-09-21 - _Software Engineer Intern_
 - **Cone Health** - 2 role(s), 2 intern, latest 2026-09-11 - _Healthcare Innovation Intern - AI_
+- **Acima** - 1 role(s), 1 intern, latest 2026-09-21 - _Software Engineer Intern_
+- **NetDocuments** - 1 role(s), latest 2026-09-09 - _Principal Software Engineer_
 
-### Portland (3)
-- **Activision Blizzard** - 1 role(s), 1 intern, latest 2026-09-09 - _Software Engineering Intern_
+### Portland (2)
 - **DAT** - 1 role(s), latest 2026-09-01 - _DAT_
 - **Energy Solutions - USA** - 1 role(s), latest 2026-09-11 - _Senior Software Engineer (Hybrid - US)_
 
-### Phoenix (4)
+### Phoenix (3)
 - **Citizens Financial Group** - 6 role(s), 6 intern, latest 2026-09-11 - _Software Engineer Intern_
 - **Charles Schwab** - 2 role(s), 2 intern, latest 2026-08-29 - _Software Engineering Intern - Technology_
 - **Asure** - 1 role(s), 1 intern, latest 2026-09-09 - _Software Engineer Intern_
-- **Fullbay** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern_
 
-### Minneapolis (8)
+### Minneapolis (7)
 - **Xcel Energy** - 7 role(s), 7 intern, latest 2026-09-14 - _Data Science Intern_
 - **Grant Thornton** - 4 role(s), 4 intern, latest 2026-08-31 - _AI, Data & Technology Intern - Summer 2027_
 - **Ameriprise Financial** - 1 role(s), 1 intern, latest 2026-09-10 - _Data Analytics & AI Intern_
-- **Augsburg University** - 1 role(s), latest 2026-08-18 - _Career Peer Advisor - Data & Analytics_
 - **Barr** - 1 role(s), 1 intern, latest 2026-09-16 - _Data Science Intern_
 - **Deluxe** - 1 role(s), 1 intern, latest 2026-09-08 - _Software Engineer Intern_
 - **Elire** - 1 role(s), 1 intern, latest 2026-09-15 - _AI Software Developer Intern - Multiple Teams_
 - **Northmarq** - 1 role(s), 1 intern, latest 2026-09-02 - _Software Engineering Intern_
 
-### Philadelphia (6)
-- **Creditgenie** - 4 role(s), latest 2026-08-25 - _Senior Software Engineer, Trust Platform_
+### Philadelphia (3)
 - **Perpay** - 3 role(s), 3 intern, latest 2026-09-11 - _Data Science Intern_
 - **URBN** - 2 role(s), 2 intern, latest 2026-09-14 - _Software Engineer Intern_
 - **Exelon** - 1 role(s), 1 intern, latest 2026-08-31 - _Data Science Intern - Data Science/Analytics_
-- **HealthVerity** - 1 role(s), latest 2026-08-19 - _Senior DevOps Engineer_
-- **Lynx Analytics** - 1 role(s), latest 2026-08-20 - _Solution Architect - GenAI, Data & Applications (US)_
 
 ### Miami (3)
-- **Blackstone** - 3 role(s), latest 2026-08-21 - _Data Science Summer Analyst_
-- **Millennium** - 3 role(s), 3 intern, latest 2026-08-21 - _Applied AI Engineer Intern_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
+- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
+- **Gemini** - 3 role(s), 2 intern, latest 2026-09-21 - _Software Engineering Intern (Winter 2027)_
+- **Windstar Cruises** - 2 role(s), 2 intern, latest 2026-09-21 - _Revenue and Data Analytics Intern_
 
-### Detroit / Ann Arbor (4)
+### Detroit / Ann Arbor (5)
 - **Amentum** - 3 role(s), 3 intern, latest 2026-09-09 - _Software Engineer Intern - Space Force Range Contract_
 - **Magna** - 3 role(s), 3 intern, latest 2026-09-10 - _Software Engineering Co-op_
 - **Charles Schwab** - 2 role(s), 2 intern, latest 2026-08-29 - _Software Engineering Intern - Technology_
 - **Atomic Object** - 1 role(s), latest 2026-09-01 - _Software Developer Accelerator_
+- **May Mobility** - 1 role(s), latest 2026-09-21 - _Senior Software Performance Engineer_
 
-### Columbus (5)
+### Columbus (4)
 - **Citizens Financial Group** - 6 role(s), 6 intern, latest 2026-09-11 - _Software Engineer Intern_
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
 - **Huntington Bancshares** - 1 role(s), 1 intern, latest 2026-09-15 - _Business Innovation & AI Products Intern_
 - **Nationwide** - 1 role(s), 1 intern, latest 2026-09-04 - _Generative AI Intern_
 - **NiSource** - 1 role(s), 1 intern, latest 2026-08-31 - _Software Engineer Intern_
 
 ### Nashville (1)
-- **Crowe** - 2 role(s), 2 intern, latest 2026-08-21 - _AI Functional Intern_
+- **Udig** - 2 role(s), 2 intern, latest 2026-09-22 - _Software Engineer Intern_
 
-### Other US (279)
-- **NISC** - 13 role(s), 5 intern, latest 2026-09-11 - _Database Conversion (ETL) Programmer_
+### Other US (288)
+- **Qorvo** - 16 role(s), 16 intern, latest 2026-09-18 - _Software Engineer Intern_
+- **Stryker** - 12 role(s), 12 intern, latest 2026-09-22 - _Data Analytics Intern - Multiple Teams_
 - **Clearwater Analytics** - 11 role(s), 11 intern, latest 2026-09-01 - _Salesforce Developer Intern_
 - **Allen Integrated Solutions** - 10 role(s), latest 2026-09-01 - _Agile Engineer (Cloud) - Expert - #904_
-- **BNY** - 8 role(s), 8 intern, latest 2026-08-24 - _Engineering Developer Intern - Engineering_
+- **Meridial** - 9 role(s), latest 2026-09-22 - _AI-Assisted Developer Workflows (Trace) AI Task Auditor - Freelance AI Trainer Project_
 - **TD Bank** - 7 role(s), 7 intern, latest 2026-09-13 - _Software Engineer Intern - Software Engineering Rotational Program_
-- **Vermeer** - 7 role(s), 6 intern, latest 2026-09-16 - _IT Software Engineer Internship Summer 2027_
 - **Xcel Energy** - 7 role(s), 7 intern, latest 2026-09-14 - _Data Science Intern_
 - **Edison International** - 6 role(s), 6 intern, latest 2026-09-01 - _Data Analytics Intern - Data Science - Applied Math_
 - **Genuine Parts Company** - 6 role(s), 6 intern, latest 2026-09-02 - _Customer Software Development Intern_
-- **Veeda Ai** - 6 role(s), latest 2026-09-08 - _Member of Technical Staff - ML Operations_
+- **NISC** - 6 role(s), 5 intern, latest 2026-09-11 - _Database Conversion (ETL) Programmer_
 - **AnaVation** - 5 role(s), 5 intern, latest 2026-09-12 - _Computer Science Intern_
 - **Hadrian** - 5 role(s), 5 intern, latest 2026-09-03 - _Robotics Software Engineer Intern_
-- **Hoffman Construction** - 5 role(s), 5 intern, latest 2026-09-08 - _Data Analyst Intern_
+- **Saildrone** - 5 role(s), latest 2026-09-21 - _Autonomy Software Engineer - Planning_
+- **SingleStore** - 5 role(s), 5 intern, latest 2026-09-22 - _Software Engineer Intern_
 - **US Foods** - 5 role(s), 5 intern, latest 2026-09-01 - _AI Automation Intern_
-- **Barbaricum** - 4 role(s), latest 2026-09-01 - _DEEPCORE- Software Engineer- Springfield, VA_
+- **Vermeer** - 5 role(s), 5 intern, latest 2026-09-16 - _Embedded Software Engineer Intern_
+- **Brunswick** - 4 role(s), 4 intern, latest 2026-09-23 - _Software Engineer Intern_
 - **Dynamic Catholic** - 4 role(s), 4 intern, latest 2026-09-03 - _Front-End UX Intern_
+- **EMC Insurance** - 4 role(s), 4 intern, latest 2026-09-22 - _Data Science Intern_
 - **Grant Thornton** - 4 role(s), 4 intern, latest 2026-08-31 - _AI, Data & Technology Intern - Summer 2027_
-- **Gulfstream** - 4 role(s), 4 intern, latest 2026-09-15 - _Software Engineer Intern - Innovation, Engineering and Flight_
+- **Interstates** - 4 role(s), 4 intern, latest 2026-09-21 - _Data Analyst Intern_
+- **Live Oak Bank** - 4 role(s), 4 intern, latest 2026-09-21 - _Artificial Intelligence Enablement & Forward-Deployed Engineering Intern_
 - **Medline** - 4 role(s), 4 intern, latest 2026-09-01 - _Business Intelligence Development/Analytics Intern_
+- **MegazoneCloud** - 4 role(s), 4 intern, latest 2026-09-18 - _Data Engineer Co-op_
+- **The Hartford** - 4 role(s), 4 intern, latest 2026-09-17 - _Data Engineer Intern - Technology, Data, AI, and Operations_
 - **Aleph** - 3 role(s), latest 2026-09-05 - _Staff+ Software Engineer, Product_
 - **Allied Solutions** - 3 role(s), 3 intern, latest 2026-09-02 - _Data Science Intern - Data Intelligence_
 - **Ambarella** - 3 role(s), 3 intern, latest 2026-08-27 - _Software Engineer Intern_
 - **Amentum** - 3 role(s), 3 intern, latest 2026-09-09 - _Software Engineer Intern - Space Force Range Contract_
+- **Ancestry** - 3 role(s), 3 intern, latest 2026-09-16 - _Software Engineer Co-op - Observability_
 - **Apex** - 3 role(s), 3 intern, latest 2026-09-04 - _Software Engineer Intern - Embedded Systems_
 - **Awardco** - 3 role(s), 3 intern, latest 2026-09-14 - _Back-End Software Engineer Intern_
 - **Code for America** - 3 role(s), latest 2026-09-11 - _Principal Software Engineer_
-- **Eightsleep** - 3 role(s), latest 2026-09-04 - _Senior Backend Engineer (Milan)_
+- **Collier Aerospace** - 3 role(s), 3 intern, latest 2026-09-16 - _Software Engineer Intern - Web Applications - Summer 2027_
+- **Dominion Energy** - 3 role(s), 3 intern, latest 2026-09-22 - _Business Intelligence Analyst Intern - Grid Resiliency_
 - **Entergy** - 3 role(s), 3 intern, latest 2026-09-15 - _Artificial Intelligence Intern_
+- **Excellus BCBS** - 3 role(s), 3 intern, latest 2026-09-23 - _Software Engineering Intern_
 - **F&G** - 3 role(s), 3 intern, latest 2026-09-15 - _Business Intelligence Intern_
 - **Genworth Financial** - 3 role(s), 3 intern, latest 2026-09-14 - _Data Analytics Intern - Summer 2027_
-- **Graymatter Robotics** - 3 role(s), 2 intern, latest 2026-08-26 - _AI Research Intern: Foundation Models - IMMEDIATE START_
-- **Harbinger Motors Inc.** - 3 role(s), latest 2026-09-15 - _Infrastructure Engineer, Manufacturing & Datacenter_
+- **Hoffman Construction** - 3 role(s), 3 intern, latest 2026-09-08 - _Data Analyst Intern_
 - **Lunar Outpost** - 3 role(s), 3 intern, latest 2026-09-15 - _Ground Software Engineer Intern - Summer 2027_
 - **Magna** - 3 role(s), 3 intern, latest 2026-09-10 - _Software Engineering Co-op_
 - **Northwood Space** - 3 role(s), 3 intern, latest 2026-08-29 - _Supply Chain Data & Analytics Intern_
 - **Odyssey** - 3 role(s), latest 2026-09-11 - _Full Stack Engineer_
+- **ONE Finance** - 3 role(s), 3 intern, latest 2026-09-22 - _AI Research Intern_
 - **Post Holdings** - 3 role(s), 3 intern, latest 2026-09-01 - _Data Engineer Intern_
 - **Principal Financial Group** - 3 role(s), 3 intern, latest 2026-09-14 - _Software Engineer Intern - Summer 2027_
-- **Saab** - 3 role(s), 3 intern, latest 2026-09-14 - _Software Engineer Co-op_
+- **Procter & Gamble** - 3 role(s), 3 intern, latest 2026-09-22 - _Data Science and Machine Learning PhD Intern_
+- **Ragle Inc** - 3 role(s), 3 intern, latest 2026-09-16 - _Data Engineering Intern_
 - **Solidigm** - 3 role(s), 3 intern, latest 2026-09-05 - _Software Engineering Intern - Firmware & AI Engineering_
 - **Steel Dynamics** - 3 role(s), 3 intern, latest 2026-09-08 - _Software Development Intern_
-- **Tiny Health** - 3 role(s), latest 2026-08-21 - _Microbiome Data Scientist_
-- **Vanguard** - 3 role(s), 3 intern, latest 2026-08-20 - _Data Science Intern - College to Corporate IT_
+- **Wave Life Sciences USA** - 3 role(s), 3 intern, latest 2026-09-18 - _Microsoft Copilot AI Co-op_
 - **Winsupply** - 3 role(s), 3 intern, latest 2026-09-03 - _Software Developer Intern_
 - **Wynd Labs** - 3 role(s), latest 2026-09-05 - _Machine Learning Engineer_
 - **Acxiom** - 2 role(s), 2 intern, latest 2026-09-15 - _Data Scientist Intern_
-- **Antora Energy** - 2 role(s), latest 2026-08-19 - _Senior / Staff Software Engineer, Cloud & Real Time Infrastructure_
-- **Artefact** - 2 role(s), latest 2026-09-04 - _Data Analyst_
+- **Afresh** - 2 role(s), latest 2026-09-11 - _Sr. Backend Engineer, Ordering_
+- **American Equity** - 2 role(s), 2 intern, latest 2026-09-17 - _Data Engineer Intern_
+- **Arize AI** - 2 role(s), latest 2026-09-21 - _Applied AI Engineer_
 - **Audiohook** - 2 role(s), latest 2026-09-15 - _Data Scientist_
-- **Barclays** - 2 role(s), 2 intern, latest 2026-09-04 - _Technology Developer Intern - Technology_
+- **AutoZone** - 2 role(s), 2 intern, latest 2026-09-21 - _Data Science Intern_
+- **Avis Budget Group** - 2 role(s), 2 intern, latest 2026-09-17 - _IT Data Analytics Intern_
 - **Berkshire Grey** - 2 role(s), 2 intern, latest 2026-09-01 - _Software Co-op_
-- **Buildertrend** - 2 role(s), 2 intern, latest 2026-09-15 - _Software Engineer Intern_
-- **By Light Professional IT Services** - 2 role(s), 2 intern, latest 2026-08-18 - _Software Design Engineer Intern_
 - **Chainalysis Careers** - 2 role(s), latest 2026-08-27 - _Staff Software Engineer, Graphs_
+- **Cole Engineering Services** - 2 role(s), 2 intern, latest 2026-09-21 - _AI Intern_
+- **Commerce Bank** - 2 role(s), 2 intern, latest 2026-09-21 - _Data Science Intern_
 - **Cone Health** - 2 role(s), 2 intern, latest 2026-09-11 - _Healthcare Innovation Intern - AI_
-- **DuCharme, McMillen & Associates** - 2 role(s), 2 intern, latest 2026-08-24 - _Software Developer Intern_
+- **Cotiviti** - 2 role(s), 2 intern, latest 2026-09-22 - _Generative AI Research Engineer Intern_
 - **Dynamiccatholic** - 2 role(s), 2 intern, latest 2026-09-02 - _Internship - Front-End UX Intern_
-- **Honeywell Aerospace** - 2 role(s), 2 intern, latest 2026-08-28 - _Software Engineering Intern_
+- **Eightsleep** - 2 role(s), latest 2026-09-04 - _Senior Backend Engineer (Milan)_
+- **Gulfstream** - 2 role(s), 2 intern, latest 2026-09-15 - _Azure AI Collegiate Associate Intern_
+- **Harbinger Motors Inc.** - 2 role(s), latest 2026-09-15 - _Infrastructure Engineer, Manufacturing & Datacenter_
 - **Hudl** - 2 role(s), 1 intern, latest 2026-09-10 - _Senior Software Engineer_
 - **Hy-Vee** - 2 role(s), 2 intern, latest 2026-09-04 - _Data Analytics Intern_
 - **Inca Digital, Inc.** - 2 role(s), latest 2026-09-15 - _Data Analyst / Chief of Staff _
 - **KBR** - 2 role(s), 2 intern, latest 2026-09-16 - _Data Science Intern_
 - **Kulicke & Soffa** - 2 role(s), 2 intern, latest 2026-09-12 - _Software Engineer Intern_
 - **Lexington Medical, Inc.** - 2 role(s), 1 intern, latest 2026-09-09 - _Embedded Software Engineer_
-- **LinkedIn Job Wrapping** - 2 role(s), latest 2026-09-04 - _Director, AI & Agentic Engineering_
 - **Lowe's** - 2 role(s), 2 intern, latest 2026-09-14 - _Software Engineer Intern_
 - **M3USA** - 2 role(s), 2 intern, latest 2026-09-08 - _AI Engineering Intern_
 - **Mattermost** - 2 role(s), latest 2026-09-11 - _Senior Mobile Engineer _
+- **Miris** - 2 role(s), latest 2026-09-16 - _Backend Engineer (Senior+)_
+- **Ondo Finance** - 2 role(s), latest 2026-09-22 - _Infrastructure Engineer (DevOps)_
 - **OneMain Financial** - 2 role(s), 2 intern, latest 2026-09-09 - _Software Developer Intern - Document Shared Services_
-- **Oscilar** - 2 role(s), latest 2026-09-11 - _Staff Data Scientist_
 - **Panasonic Holdings** - 2 role(s), 2 intern, latest 2026-09-02 - _Back-End Cloud Developer Intern_
 - **Pella** - 2 role(s), 2 intern, latest 2026-09-01 - _Software Intern_
+- **Pennylane** - 2 role(s), latest 2026-09-18 - _Senior Backend Software Engineer_
 - **Premier** - 2 role(s), 2 intern, latest 2026-09-03 - _Software Engineer Intern_
 - **Realm** - 2 role(s), 2 intern, latest 2026-08-26 - _Software Engineer Intern_
-- **Redwoodcu** - 2 role(s), latest 2026-09-10 - _Programmer II_
-- **Roadie** - 2 role(s), latest 2026-09-10 - _Full Stack Engineer_
 - **Rocket Lab USA** - 2 role(s), 2 intern, latest 2026-09-10 - _Flight Software Intern_
 - **Sep** - 2 role(s), 1 intern, latest 2026-09-14 - _Software Engineer (2027 start dates, in person)_
 - **Spirit AeroSystems** - 2 role(s), 2 intern, latest 2026-09-08 - _Programmer Analyst / Developer Intern - IDT&S_
 - **Swarm Aero** - 2 role(s), 2 intern, latest 2026-09-10 - _Embedded Software Intern_
+- **Teamworks** - 2 role(s), latest 2026-09-22 - _Data Scientist II (Soccer)_
 - **Techstars** - 2 role(s), latest 2026-09-11 - _Backend Engineer_
+- **Thrivent** - 2 role(s), 2 intern, latest 2026-09-18 - _Associate Software Engineer Intern_
 - **Transcard Payments** - 2 role(s), 2 intern, latest 2026-09-03 - _Artificial Intelligence Intern_
 - **Universal Health Services** - 2 role(s), 2 intern, latest 2026-09-02 - _Software Engineer Intern - Data Analytics_
 - **Verdantas** - 2 role(s), 2 intern, latest 2026-08-31 - _Data Analytics Intern_
+- **Windstar Cruises** - 2 role(s), 2 intern, latest 2026-09-21 - _Revenue and Data Analytics Intern_
 - **Zions Bank** - 2 role(s), 2 intern, latest 2026-09-15 - _Process Automation Developer Intern_
 - **3C Digital Solutions** - 1 role(s), latest 2026-09-02 - _3C Digital Solutions_
-- **AccuWeather Careers** - 1 role(s), latest 2026-08-24 - _Sr. Manager, DevOps_
-- **Afresh** - 1 role(s), latest 2026-09-11 - _Sr. Backend Engineer, Ordering_
 - **Akkio** - 1 role(s), latest 2026-09-03 - _Akkio_
-- **Alpha Financial Markets Consulting** - 1 role(s), latest 2026-09-15 - _Lead Azure Infrastructure Architect (DevOps)_
+- **Allen Lund Company** - 1 role(s), 1 intern, latest 2026-09-17 - _Technology and AI Intern - Technology and AI_
 - **Altar'd State** - 1 role(s), 1 intern, latest 2026-09-15 - _Store Operations Data Analyst Intern_
+- **ALU** - 1 role(s), latest 2026-09-08 - _Adjunct Entrepreneurship, AI and Future of Work Expert_
 - **Amcor** - 1 role(s), 1 intern, latest 2026-09-11 - _Business Intelligence Intern_
 - **Antares Nuclear** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Engineer Intern_
-- **ApartmentIQ** - 1 role(s), latest 2026-08-21 - _Head of Product, AI Workflows_
-- **Appen 2** - 1 role(s), latest 2026-09-14 - _Data Collection Supervisor - AI Projects (On-Site)_
-- **Assured** - 1 role(s), latest 2026-08-21 - _Software Engineering Manager_
+- **AQR Capital Management** - 1 role(s), 1 intern, latest 2026-09-23 - _Machine Learning Research Associate Intern_
 - **Astoria AI** - 1 role(s), latest 2026-09-01 - _Astoria AI_
 - **Astrion** - 1 role(s), 1 intern, latest 2026-08-31 - _Data Analyst Intern_
+- **Astronomer** - 1 role(s), latest 2026-09-01 - _Astronomer_
+- **Athene** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Developer Intern_
 - **Atlas HXM** - 1 role(s), latest 2026-09-10 - _Staff Software Engineer_
-- **Availity** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern - Multiple Teams_
+- **Augmodo** - 1 role(s), latest 2026-09-18 - _Software Engineer, Data Intelligence_
 - **Awetomaton** - 1 role(s), 1 intern, latest 2026-09-02 - _Platform Engineering Intern_
+- **Axcelis Technologies** - 1 role(s), 1 intern, latest 2026-09-17 - _Manufacturing Software Development Co-op_
 - **Bass Pro Shops** - 1 role(s), 1 intern, latest 2026-09-16 - _IT Developer Intern_
 - **Baxter International** - 1 role(s), 1 intern, latest 2026-09-15 - _Associate Data Scientist Co-op_
 - **Beacon AI builds intelligent systems that make aviation safe** - 1 role(s), latest 2026-09-01 - _Beacon AI builds intelligent systems that make aviation safer and more autonomous. We’ve c_
-- **Bitwarden** - 1 role(s), latest 2026-08-25 - _Senior Site Reliability Engineer - FedRAMP_
 - **Blend** - 1 role(s), latest 2026-09-11 - _Software Engineer - Platform Foundation_
+- **Blue Cross and Blue Shield of Kansas** - 1 role(s), 1 intern, latest 2026-09-21 - _Application Developer Intern_
 - **BlueCross BlueShield of Nebraska** - 1 role(s), 1 intern, latest 2026-08-31 - _Data Intern - Data Science - Data Analytics_
 - **BOSS-IQ** - 1 role(s), latest 2026-09-07 - _BOSS-IQ_
 - **Brevium** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Engineer Intern_
+- **CAE** - 1 role(s), 1 intern, latest 2026-09-23 - _Weapons Simulation Software Co-op_
 - **Cambium Learning Group** - 1 role(s), 1 intern, latest 2026-09-08 - _Software Engineer Intern - AI Applications_
-- **Canopy Works** - 1 role(s), latest 2026-08-19 - _Senior Mobile Software Engineer_
+- **Carrot** - 1 role(s), latest 2026-09-17 - _Sr. Data Engineer_
 - **Catalyst·Wayfare AI** - 1 role(s), latest 2026-09-10 - _Catalyst·Wayfare AI_
 - **Category Labs** - 1 role(s), latest 2026-09-01 - _Category Labs_
 - **Central Hudson** - 1 role(s), 1 intern, latest 2026-09-11 - _Data Analytics Intern_
 - **Cerity Partners ( https://ceritypartners.com )** - 1 role(s), latest 2026-09-01 - _Cerity Partners ( https://ceritypartners.com )_
 - **Chariot Claims** - 1 role(s), latest 2026-09-01 - _Chariot Claims_
 - **Chemours** - 1 role(s), 1 intern, latest 2026-08-26 - _Generative AI and Data Science Intern - AI & Data Science_
+- **Church & Dwight** - 1 role(s), 1 intern, latest 2026-09-17 - _AI Developer Co-op - Graduate Program_
 - **CIM Group** - 1 role(s), 1 intern, latest 2026-09-10 - _Data Science Intern_
-- **CIQ** - 1 role(s), latest 2026-09-03 - _Sr. Linux Solutions Architect _
 - **Clerkie** - 1 role(s), 1 intern, latest 2026-08-29 - _Software Engineer Intern_
 - **Cleveland-Cliffs** - 1 role(s), 1 intern, latest 2026-09-14 - _Computer Science Engineer Intern_
 - **ClinChoice** - 1 role(s), latest 2026-09-10 - _Senior Statistical Programmer (Permanent role)_
 - **cloro** - 1 role(s), latest 2026-09-02 - _cloro_
 - **Clyde Companies** - 1 role(s), 1 intern, latest 2026-08-27 - _Business Intelligence Intern_
+- **CoBank** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineer Intern_
 - **Comity Inc.** - 1 role(s), latest 2026-09-01 - _Comity Inc._
 - **Conduent** - 1 role(s), 1 intern, latest 2026-08-26 - _Applied AI Engineer Intern - Government Healthcare Solutions_
 - **Confido Legal** - 1 role(s), latest 2026-09-03 - _Confido Legal_
 - **Cora AI** - 1 role(s), latest 2026-09-01 - _Cora AI_
 - **COUNTRY Financial** - 1 role(s), 1 intern, latest 2026-09-08 - _Automation Developer Intern_
+- **Credible** - 1 role(s), latest 2026-09-17 - _Data Scientist_
 - **Crest Industries** - 1 role(s), 1 intern, latest 2026-09-09 - _Developer Intern_
-- **Crestoperations** - 1 role(s), 1 intern, latest 2026-09-09 - _Developer Intern_
 - **Crossref** - 1 role(s), latest 2026-09-04 - _Crossref_
-- **CSL** - 1 role(s), 1 intern, latest 2026-08-25 - _Data Engineering Co-op_
 - **CyberAtlas** - 1 role(s), latest 2026-09-01 - _CyberAtlas_
-- **Daktronics** - 1 role(s), 1 intern, latest 2026-08-24 - _Hardware Design Co-op Intern - Firmware_
-- **Daymark Health** - 1 role(s), latest 2026-09-03 - _Software Engineer_
+- **D3 Embedded** - 1 role(s), 1 intern, latest 2026-09-16 - _Computer Vision / AI Co-op_
+- **DecisionPoint** - 1 role(s), 1 intern, latest 2026-09-16 - _Software Engineer Intern_
 - **Deeter Analytics** - 1 role(s), latest 2026-09-04 - _Deeter Analytics_
 - **DEKA Research & Development Corp.** - 1 role(s), 1 intern, latest 2026-09-14 - _Software Engineer Co-op_
 - **Delta Dental of Iowa** - 1 role(s), 1 intern, latest 2026-09-09 - _Data Analyst Intern_
 - **Delta Dental of New Jersey, Inc.** - 1 role(s), latest 2026-08-31 - _Senior DevOps Engineer_
 - **DuckDuckGo - all roles fully remote, but some US-only as not** - 1 role(s), latest 2026-09-01 - _DuckDuckGo - all roles fully remote, but some US-only as noted._
 - **Duets Network** - 1 role(s), latest 2026-09-03 - _Duets Network_
-- **E-Space** - 1 role(s), 1 intern, latest 2026-08-20 - _Embedded Software Engineer Intern_
+- **Edited** - 1 role(s), latest 2026-09-17 - _AI Data Engineer_
 - **Empirical Foods** - 1 role(s), 1 intern, latest 2026-08-25 - _Software Engineer Intern - Summer 2027_
 - **Endless Access** - 1 role(s), latest 2026-09-04 - _Endless Access_
 - **Enrollment123** - 1 role(s), latest 2026-09-01 - _Enrollment123_
-- **Everfield** - 1 role(s), latest 2026-09-09 - _AI Builder _
-- **Ewe** - 1 role(s), latest 2026-09-02 - _Software Engineer (w/d/m) Microsoft Dynamics 365_
+- **Exegy** - 1 role(s), 1 intern, latest 2026-09-10 - _Software Engineer Intern_
 - **FitMate** - 1 role(s), latest 2026-09-02 - _FitMate_
-- **Foundation Finance** - 1 role(s), 1 intern, latest 2026-08-18 - _Full Stack Developer Intern_
-- **Fuse** - 1 role(s), latest 2026-08-19 - _Data Scientist_
 - **G-P** - 1 role(s), latest 2026-08-27 - _Front End AI Engineer _
 - **General Dynamics** - 1 role(s), 1 intern, latest 2026-09-16 - _Information Technology Intern - Software Engineering - Computer Science_
+- **Greenwood Village South** - 1 role(s), 1 intern, latest 2026-09-16 - _Data Science Intern_
 - **Greywatch** - 1 role(s), latest 2026-09-01 - _Greywatch_
+- **Grow Financial Federal Credit Union** - 1 role(s), 1 intern, latest 2026-09-18 - _Collections Data Analyst Intern_
 - **Hawk** - 1 role(s), latest 2026-09-01 - _Customer Data Scientist _
+- **Healthesystems** - 1 role(s), 1 intern, latest 2026-09-18 - _Artificial Intelligence Engineer Intern_
 - **Herzog Railroad Services** - 1 role(s), 1 intern, latest 2026-09-08 - _Software Intern_
-- **Humana** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern, CenterWell and Humana Military_
+- **Infinity Constellation** - 1 role(s), latest 2026-09-17 - _Senior Data Engineer - Paradox Machines_
 - **Interview Resources** - 1 role(s), latest 2026-09-02 - _Interview Resources_
-- **Interwell Health** - 1 role(s), latest 2026-08-24 - _Senior Associate, Coding Documentation Support_
+- **Joinbetter** - 1 role(s), latest 2026-09-17 - _AI Revenue Engine Lead_
 - **klarasystems.com** - 1 role(s), latest 2026-09-01 - _klarasystems.com_
 - **Klassif.ai** - 1 role(s), latest 2026-09-02 - _Klassif.ai_
-- **Kyowa Kirin North America** - 1 role(s), latest 2026-08-25 - _Data Scientist _
 - **Latitude Global** - 1 role(s), latest 2026-09-10 - _Senior Software Engineer_
 - **Lawrence Livermore National Laboratory (LLNL)** - 1 role(s), 1 intern, latest 2026-09-16 - _Data Science Undergraduate Student Intern - Summer 2027_
-- **LearnLux** - 1 role(s), latest 2026-08-24 - _Senior Back End Engineer, Data and Cloud_
 - **Lightcast** - 1 role(s), 1 intern, latest 2026-08-26 - _Software Engineer Intern - API Development_
 - **Livefront** - 1 role(s), latest 2026-09-04 - _Senior Data Engineer (Databricks)_
-- **Loenbro** - 1 role(s), latest 2026-09-09 - _AI Engineer_
 - **Louisiana Blue** - 1 role(s), 1 intern, latest 2026-09-16 - _Healthcare Data Science Intern - Spring 2027_
 - **Lucia** - 1 role(s), latest 2026-09-07 - _Lucia_
-- **Material Bank** - 1 role(s), latest 2026-08-24 - _Lead Front End Engineer_
-- **McWane** - 1 role(s), 1 intern, latest 2026-08-20 - _Programmer Apprentice_
+- **Magnetforensics** - 1 role(s), latest 2026-09-15 - _AI & Automation Engineer (Enterprise)_
 - **Meijer** - 1 role(s), 1 intern, latest 2026-09-08 - _Data Science Intern_
 - **Michelin** - 1 role(s), 1 intern, latest 2026-09-01 - _Data Engineering Intern_
 - **Miltenyi Biotec** - 1 role(s), latest 2026-09-02 - _Miltenyi Biotec_
@@ -5546,6 +5602,7 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Multiply** - 1 role(s), latest 2026-09-02 - _Multiply_
 - **MWI Animal Health** - 1 role(s), latest 2026-09-02 - _MWI Animal Health_
 - **NASCO** - 1 role(s), 1 intern, latest 2026-09-04 - _Software Engineer Intern_
+- **Nebraska Medicine** - 1 role(s), 1 intern, latest 2026-09-21 - _Forward Deployed AI Engineer Intern_
 - **Newtwen** - 1 role(s), latest 2026-09-01 - _Newtwen_
 - **Noricum** - 1 role(s), latest 2026-09-01 - _Noricum_
 - **Obi9** - 1 role(s), latest 2026-09-11 - _Obi9_
@@ -5558,34 +5615,34 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **Pagelove** - 1 role(s), latest 2026-09-01 - _Pagelove_
 - **Pantheon Systems, Inc** - 1 role(s), latest 2026-09-11 - _Principal Software Engineer, Collaborative Web Platform_
 - **Pavebank** - 1 role(s), latest 2026-08-26 - _Data Analyst_
+- **Phase 2** - 1 role(s), 1 intern, latest 2026-09-18 - _Software Engineer Intern_
 - **Phoenix Contact** - 1 role(s), 1 intern, latest 2026-08-27 - _Data Science & Analytics Intern_
-- **Picsart** - 1 role(s), latest 2026-08-26 - _Cinematic AI Creator (Contractor)_
 - **Pilot Company** - 1 role(s), 1 intern, latest 2026-09-09 - _Program Intern, Cloud Operations_
 - **Plastipak** - 1 role(s), 1 intern, latest 2026-09-15 - _Software Engineer Intern_
-- **Polaris** - 1 role(s), 1 intern, latest 2026-08-24 - _Predictive Data Science Intern - Digital & IT_
 - **Pomelo Care** - 1 role(s), latest 2026-09-01 - _Pomelo Care| Remote (US) First with offices in NYC and SF. We’re building a healthier futu_
-- **Power Digital** - 1 role(s), latest 2026-08-23 - _Data Engineer, AI & Analytics_
-- **Primetals Technologies** - 1 role(s), 1 intern, latest 2026-08-25 - _IT Data & Analytics Intern - Asset Demand & Procurement_
+- **Precisely US Jobs** - 1 role(s), latest 2026-09-16 - _Senior Site Reliability Engineer_
 - **Product Genius** - 1 role(s), latest 2026-09-01 - _Product Genius_
 - **Prompt** - 1 role(s), latest 2026-09-04 - _Staff Software Engineer _
-- **Provable** - 1 role(s), latest 2026-08-21 - _Senior Software Engineer, CUDA_
+- **Propio** - 1 role(s), 1 intern, latest 2026-09-22 - _Software Engineering Intern_
 - **Proxybase** - 1 role(s), latest 2026-09-01 - _Proxybase_
 - **Pulumi ** - 1 role(s), latest 2026-09-02 - _Senior Software Engineer, Agentic AI_
 - **Puma.tech** - 1 role(s), 1 intern, latest 2026-09-01 - _Puma.tech_
-- **Qualytics** - 1 role(s), latest 2026-08-24 - _Senior Forward Deployed Engineer_
 - **Quantco ** - 1 role(s), latest 2026-08-29 - _Applied Scientist, AI/ML_
+- **Quicknode** - 1 role(s), latest 2026-09-21 - _Senior Software Engineer - Go & Rust, Blockchain Infrastructure_
 - **Quill** - 1 role(s), latest 2026-09-01 - _Quill_
 - **R.E. Mason** - 1 role(s), latest 2026-09-10 - _Software Developer II_
-- **Raytheon** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Development Intern_
 - **Realmalliance** - 1 role(s), 1 intern, latest 2026-08-26 - _Software Engineer - Intern_
-- **Regions Bank** - 1 role(s), 1 intern, latest 2026-08-19 - _Technology, Operations, Digital, and Data Analytics Intern_
 - **Relevant Healthcare** - 1 role(s), latest 2026-09-01 - _Relevant Healthcare_
+- **Reltio** - 1 role(s), latest 2026-09-23 - _Staff Cloud Security Engineer_
 - **Remote (US) Close ( https://close.com )** - 1 role(s), latest 2026-09-08 - _Remote (US) Close ( https://close.com )_
+- **Renaissance Learning North America** - 1 role(s), latest 2026-09-03 - _Software Engineer III_
 - **Renaissance Philanthropy** - 1 role(s), latest 2026-09-01 - _Renaissance Philanthropy_
 - **Replicant** - 1 role(s), latest 2026-09-04 - _Senior Site Reliability Engineer_
 - **Republic Services** - 1 role(s), latest 2026-09-02 - _Republic Services_
 - **Rerun** - 1 role(s), latest 2026-09-02 - _Rerun_
 - **Resonetics** - 1 role(s), 1 intern, latest 2026-08-31 - _AI Automation Engineer Intern Co-op_
+- **REV Robotics** - 1 role(s), 1 intern, latest 2026-09-17 - _Software Engineer Intern_
+- **Roadie** - 1 role(s), latest 2026-09-10 - _Senior Software Engineer - Backend_
 - **SaaS Startup** - 1 role(s), latest 2026-09-07 - _SaaS Startup_
 - **Sabre Systems** - 1 role(s), 1 intern, latest 2026-08-26 - _AI Intern_
 - **Samsung Next** - 1 role(s), latest 2026-09-15 - _Technical Fellow - AI and Robotics (Part Time) _
@@ -5595,9 +5652,7 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **SecurityScorecard** - 1 role(s), latest 2026-09-10 - _Principal AI Architect_
 - **Selective Insurance** - 1 role(s), 1 intern, latest 2026-09-08 - _Business Intelligence & Insights Intern_
 - **Senzing (entity resolution SDK)** - 1 role(s), latest 2026-09-02 - _Senzing (entity resolution SDK)_
-- **ShipBob, Inc.** - 1 role(s), latest 2026-09-09 - _Senior AI Product Builder, Inventory Experience_
 - **Shovels** - 1 role(s), latest 2026-09-02 - _Shovels_
-- **SimIS** - 1 role(s), 1 intern, latest 2026-08-21 - _Artificial Intelligence Developer Intern - Aerospace/Aviation_
 - **skillz** - 1 role(s), 1 intern, latest 2026-09-03 - _Software Engineer Co-op_
 - **Skyward** - 1 role(s), 1 intern, latest 2026-09-03 - _Software Engineer Intern_
 - **SmithRx** - 1 role(s), latest 2026-09-09 - _Senior Staff Data Engineer_
@@ -5605,22 +5660,18 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **St. Jude Children's Research Hospital** - 1 role(s), latest 2026-09-02 - _St. Jude Children's Research Hospital_
 - **Starlight** - 1 role(s), latest 2026-09-02 - _Starlight_
 - **Statecraft** - 1 role(s), latest 2026-09-02 - _Statecraft_
-- **Stellar Health** - 1 role(s), latest 2026-09-09 - _Senior Staff, AI Data Engineer_
 - **Steven's Capital Management** - 1 role(s), latest 2026-08-26 - _Software Engineer_
 - **Strobe Power** - 1 role(s), latest 2026-09-02 - _Strobe Power_
-- **StudyFetch** - 1 role(s), latest 2026-08-20 - _AI Research Assistant - Machine Learning & AI_
-- **Swarmer** - 1 role(s), latest 2026-09-02 - _Senior Data Scientist_
 - **SwingVision is the AI tennis, pickleball, and padel app that** - 1 role(s), 1 intern, latest 2026-09-04 - _SwingVision is the AI tennis, pickleball, and padel app that provides automated stats, hig_
 - **Target** - 1 role(s), 1 intern, latest 2026-09-10 - _Software Engineer Intern_
 - **Tecuity** - 1 role(s), latest 2026-09-02 - _Tecuity_
 - **Teledyne** - 1 role(s), 1 intern, latest 2026-09-01 - _Software Engineer Intern_
-- **Teledyne Technologies Incorporated** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern_
 - **Tern** - 1 role(s), latest 2026-09-03 - _Senior Software Engineer_
 - **The Browser Company** - 1 role(s), latest 2026-08-26 - _AI Prototyper Resident_
 - **Thermo Fisher Scientific** - 1 role(s), 1 intern, latest 2026-09-08 - _Senior Operations Data Analytics Intern_
 - **This Dot Labs** - 1 role(s), latest 2026-09-02 - _This Dot Labs_
 - **Thomson Reuters** - 1 role(s), 1 intern, latest 2026-09-10 - _Software Engineer Co-op_
-- **Tines** - 1 role(s), latest 2026-09-02 - _Senior Forward Deployed Engineer - West_
+- **TOPPAN Packaging Americas** - 1 role(s), latest 2026-09-17 - _Student Associate - AI & Business Analytics_
 - **Turquoise** - 1 role(s), latest 2026-09-08 - _Turquoise|Senior Performance Engineer|FT| Remote USA_
 - **U.S. Venture** - 1 role(s), 1 intern, latest 2026-08-27 - _Data Science Intern - Breakthrough_
 - **Ulta Beauty** - 1 role(s), 1 intern, latest 2026-09-14 - _Supply Chain Data & Analytics Intern_
@@ -5628,19 +5679,21 @@ Generated 2026-11-16 21:27. Each company appears once, in the window of its most
 - **United Launch Alliance** - 1 role(s), 1 intern, latest 2026-09-08 - _Software Engineer Intern_
 - **University of Arkansas** - 1 role(s), latest 2026-09-11 - _Student Cloud Data Integration and Infrastructure Analytics_
 - **University of Maryland - College Park** - 1 role(s), 1 intern, latest 2026-08-27 - _AI Research Assistant Intern_
+- **University of Nevada, Reno** - 1 role(s), latest 2026-09-17 - _Computer Science Engineer Student Worker_
+- **Unybrands** - 1 role(s), latest 2026-09-17 - _Sr Designer & Product Developer_
 - **Utah State University** - 1 role(s), 1 intern, latest 2026-09-08 - _Engineering/Computer Science Intern - ASPIRE Cache CAPS_
 - **Valkyrie Aero** - 1 role(s), latest 2026-09-05 - _Valkyrie Aero_
 - **Varian** - 1 role(s), 1 intern, latest 2026-09-09 - _Embedded Software Engineering Co-op_
-- **Verition Fund Management LLC** - 1 role(s), 1 intern, latest 2026-08-21 - _Software Engineer Intern_
 - **VersaDesk** - 1 role(s), 1 intern, latest 2026-09-15 - _Data Analyst Intern_
 - **VersaFeed.com** - 1 role(s), latest 2026-09-01 - _VersaFeed.com_
-- **Veterinary Emergency Group (VEG)** - 1 role(s), latest 2026-08-21 - _AI Security Engineer_
 - **Virtasant (1099 contractor for a client of ours)** - 1 role(s), latest 2026-09-01 - _Virtasant (1099 contractor for a client of ours)_
 - **Visionist** - 1 role(s), 1 intern, latest 2026-09-03 - _Software Engineer Intern_
 - **Vistulo** - 1 role(s), latest 2026-09-01 - _Vistulo_
 - **We're building a unified platform for credit and financial d** - 1 role(s), latest 2026-09-01 - _We're building a unified platform for credit and financial data to power financial inclusi_
-- **WellSaid** - 1 role(s), latest 2026-08-26 - _Senior Software Engineer, Site Reliability & Security _
 - **We’re hiring at Langfuse — now part of ClickHouse.** - 1 role(s), latest 2026-09-08 - _We’re hiring at Langfuse — now part of ClickHouse._
 - **WorkHero https://workhero.pro** - 1 role(s), latest 2026-09-01 - _WorkHero https://workhero.pro_
+- **Worldly** - 1 role(s), latest 2026-09-17 - _Senior Data Engineer_
+- **Xephyr** - 1 role(s), latest 2026-09-22 - _Analytics Engineer_
 - **Yadda** - 1 role(s), latest 2026-08-31 - _Flutter Developer_
+- **YLD** - 1 role(s), latest 2026-09-08 - _Contract Golang Software Engineer (Remote Europe)_
 - **Zepto** - 1 role(s), latest 2026-09-01 - _Zepto_
